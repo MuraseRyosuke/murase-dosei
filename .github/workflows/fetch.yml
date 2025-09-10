@@ -25,8 +25,9 @@ jobs:
           echo "ファイル一覧:"
           ls -la
 
+      # npm installから直接インストールコマンドに変更
       - name: Install dependencies
-        run: npm install
+        run: npm install @octokit/core
 
       - name: Run fetch script
         run: node scripts/fetch_activities.js
