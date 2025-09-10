@@ -1,0 +1,32 @@
+name: Fetch Social Activities
+
+on:
+  # 30分ごとに自動実行
+  schedule:
+    - cron: '*/30 * * * *'
+  # Actionsタブから手動で実行できるようにする
+  workflow_dispatch:
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run fetch script
+        run: node scripts/fetch_activities.js
+        env:
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GITHUB_TOKEN_FOR_API: ${{ secrets.GITHUB_TOKEN_FOR_API }}
+
