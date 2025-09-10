@@ -3,34 +3,40 @@ const axios = require('axios');
 // --- 設定 ---
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w'; // 村瀨さんのYouTubeチャンネルID
 const GITHUB_USERNAME = 'MuraseRyosuke'; // 村瀨さんのGitHubユーザー名
+const MASTODON_USERNAME = 'vl_lvoO'; // 村瀨さんのMastodonユーザー名
 
 // --- メイン処理 ---
 async function main() {
     console.log('活動の取得を開始します...');
     try {
-        const { GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GH_API_TOKEN } = process.env;
-        
-        // --- ▼▼▼ 新しいデバッグコード ▼▼▼ ---
-        console.log('--- 受け取った環境変数の確認 ---');
-        console.log(`GIST_ID: ${GIST_ID ? '設定あり' : '未設定'}`);
-        console.log(`GIST_TOKEN: ${GIST_TOKEN ? '設定あり' : '未設定'}`);
-        console.log(`YOUTUBE_API_KEY: ${YOUTUBE_API_KEY ? '設定あり' : '未設定'}`);
-        console.log(`GH_API_TOKEN: ${GH_API_TOKEN ? '設定あり' : '未設定'}`);
-        console.log('------------------------------------');
-        // --- ▲▲▲ 新しいデバッグコード ▲▲▲ ---
+        const { GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GH_API_TOKEN, MASTODON_ACCESS_TOKEN, MASTODON_INSTANCE_URL } = process.env;
 
-        // 環境変数のチェック
-        if (!GIST_ID || !GIST_TOKEN || !YOUTUBE_API_KEY || !GH_API_TOKEN) {
-            throw new Error('必要な環境変数（Secret）が設定されていません。');
+        // 必須の環境変数をチェック
+        if (!GIST_ID || !GIST_TOKEN) {
+            throw new Error('GIST_ID and GIST_TOKEN are required secrets.');
         }
+        
+        let allActivities = [];
 
-        // 各プラットフォームからアクティビティを取得
-        const youtubeActivities = await fetchYouTubeActivities(YOUTUBE_API_KEY);
-        const githubActivities = await fetchGitHubActivities(GH_API_TOKEN);
+        // 各プラットフォームからアクティビティを取得 (Secretが設定されている場合のみ)
+        if (YOUTUBE_API_KEY) {
+            console.log('YouTubeの活動を取得中...');
+            const youtubeActivities = await fetchYouTubeActivities(YOUTUBE_API_KEY);
+            allActivities.push(...youtubeActivities);
+        }
+        if (GH_API_TOKEN) {
+            console.log('GitHubの活動を取得中...');
+            const githubActivities = await fetchGitHubActivities(GH_API_TOKEN);
+            allActivities.push(...githubActivities);
+        }
+        if (MASTODON_ACCESS_TOKEN && MASTODON_INSTANCE_URL) {
+            console.log('Mastodonの活動を取得中...');
+            const mastodonActivities = await fetchMastodonActivities(MASTODON_INSTANCE_URL, MASTODON_ACCESS_TOKEN);
+            allActivities.push(...mastodonActivities);
+        }
         
         // 全てのアクティビティをマージして、タイムスタンプで降順にソート
-        const allActivities = [...youtubeActivities, ...githubActivities]
-            .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        allActivities.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
             
         // 過去7日分のアクティビティに絞り込む
         const sevenDaysAgo = new Date();
@@ -54,10 +60,8 @@ async function main() {
 // --- YouTubeの活動を取得する関数 ---
 async function fetchYouTubeActivities(apiKey) {
     try {
-        // 最近のアップロード動画を取得
         const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${YOUTUBE_CHANNEL_ID}&maxResults=10&order=date&type=video&key=${apiKey}`;
         const response = await axios.get(url);
-        
         return response.data.items.map(item => ({
             platform: 'YouTube',
             content: `動画を公開しました: 「${item.snippet.title}」`,
@@ -65,8 +69,8 @@ async function fetchYouTubeActivities(apiKey) {
             timestamp: item.snippet.publishedAt
         }));
     } catch (error) {
-        console.error('YouTubeアクティビティの取得に失敗しました:', error.response ? error.response.data : error.message);
-        return []; // エラーが発生しても他の処理は続ける
+        console.error('YouTubeアクティビティの取得に失敗しました:', error.response ? error.response.data.error.message : error.message);
+        return [];
     }
 }
 
@@ -75,14 +79,10 @@ async function fetchGitHubActivities(token) {
     try {
         const url = `https://api.github.com/users/${GITHUB_USERNAME}/events?per_page=20`;
         const response = await axios.get(url, {
-            headers: {
-                'Authorization': `token ${token}`,
-                'Accept': 'application/vnd.github.v3+json'
-            }
+            headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' }
         });
-
         return response.data.map(event => {
-            let content = 'GitHubで活動しました。';
+            let content = null;
             if (event.type === 'PushEvent') {
                 content = `${event.repo.name} にコミットしました。`;
             } else if (event.type === 'CreateEvent' && event.payload.ref_type === 'repository') {
@@ -90,35 +90,59 @@ async function fetchGitHubActivities(token) {
             } else if (event.type === 'IssuesEvent' && event.payload.action === 'opened') {
                 content = `${event.repo.name} でIssueを作成しました。`;
             }
+            if (!content) return null;
             return {
                 platform: 'GitHub',
                 content: content,
                 url: `https://github.com/${event.repo.name}`,
                 timestamp: event.created_at
             };
-        }).filter(Boolean); // nullの要素を除外
+        }).filter(Boolean);
     } catch (error) {
-        console.error('GitHubアクティビティの取得に失敗しました:', error.response ? error.response.data : error.message);
+        console.error('GitHubアクティビティの取得に失敗しました:', error.response ? error.response.data.message : error.message);
         return [];
     }
 }
 
+// --- Mastodonの活動を取得する関数 ---
+async function fetchMastodonActivities(instanceUrl, accessToken) {
+    try {
+        // ユーザー名からアカウントIDを取得
+        const accountLookupUrl = `${instanceUrl}/api/v1/accounts/lookup?acct=${MASTODON_USERNAME}`;
+        const lookupResponse = await axios.get(accountLookupUrl, {
+            headers: { 'Authorization': `Bearer ${accessToken}` }
+        });
+        const accountId = lookupResponse.data.id;
+
+        // アカウントIDを使って投稿（Toot）を取得
+        const statusesUrl = `${instanceUrl}/api/v1/accounts/${accountId}/statuses?limit=15&exclude_replies=true&exclude_reblogs=true`;
+        const response = await axios.get(statusesUrl, {
+            headers: { 'Authorization': `Bearer ${accessToken}` }
+        });
+
+        // HTMLタグを除去するための簡単なヘルパー関数
+        const stripHtml = (html) => html.replace(/<[^>]*>?/gm, '');
+
+        return response.data.map(status => ({
+            platform: 'Mastodon',
+            content: `トゥートしました: 「${stripHtml(status.content).substring(0, 80)}...」`,
+            url: status.url,
+            timestamp: status.created_at
+        }));
+    } catch (error) {
+        console.error('Mastodonアクティビティの取得に失敗しました:', error.response ? error.response.data.error : error.message);
+        return [];
+    }
+}
+
+
 // --- Gistを更新する関数 ---
 async function updateGist(gistId, token, data) {
     const url = `https://api.github.com/gists/${gistId}`;
-    const content = JSON.stringify(data, null, 2);
-
     await axios.patch(url, {
-        files: {
-            'timeline.json': {
-                content: content
-            }
-        }
+        files: { 'timeline.json': { content: JSON.stringify(data, null, 2) } }
     }, {
-        headers: {
-            'Authorization': `token ${token}`,
-            'Accept': 'application/vnd.github.v3+json'
-        }
+        headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' }
     });
 }
 
