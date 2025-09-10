@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>村瀨動静</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap');
+        body {
+            font-family: 'Noto Sans JP', 'Inter', sans-serif;
+        }
+        #loading {
+            transition: opacity 0.5s ease-out;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <header class="text-center mb-8 md:mb-12">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">村瀨動静</h1>
+            <p id="current-date" class="text-gray-500 mt-2"></p>
+        </header>
+
+        <div id="loading" class="text-center py-10">
+            <p class="text-gray-500">タイムラインを読み込んでいます...</p>
+        </div>
+
+        <div id="timeline-container">
+            <!-- タイムラインはここに動的に生成されます -->
+        </div>
+    </div>
+
+    <script>
+        // --- 設定 ---
+        // ステップ2で取得したGistのIDをここに貼り付けてください
+        const GIST_ID = '1a5307310da7344365fccaa66fccd478';
+
+        // --- アイコンデータ ---
+        const icons = {
+             X: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>`,
+            Facebook: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>`,
+            Instagram: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>`,
+            BlueSky: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2Z"/><path d="M16 16c-1.5-1.5-3-2-5-2-2.5 0-4.5 1-6 3"/><path d="m16.5 10.5-2.5-2.5"/><path d="m14 13-2-2"/></svg>`,
+            Spotify: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2Z"/><path d="M8 11.5c1.5 0 3-1 3-1s1.5 1 3 1"/><path d="M9 15c1 0 2 1 2 1s1-1 2-1"/></svg>`,
+            Twitch: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"/></svg>`,
+            YouTube: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M2.5 17a24.12 24.12 0 0 1 0-10C2.5 6 7.5 4 12 4s9.5 2 9.5 3 0 10 0 10C21.5 18 16.5 20 12 20s-9.5-2-9.5-3Z"/><path d="m10 15 5-3-5-3z"/></svg>`,
+            Mastodon: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M21.19 13.43c-1.32 2.38-4.53 4.57-8.19 4.57-2.9 0-5.46-1.55-6.79-3.71-1.32-2.16-.9-5.18.9-6.32 1.81-1.14 4.31-.8 6.13.34 1.81 1.13 2.58 3.19 2.58 5.25 0 .25.03.5.08.74.06.27.13.54.21.81.21.78.49 1.51.85 2.17.65 1.18 1.51 2.1 2.53 2.76.22.14.46.26.7.37.15.07.3.13.46.19.14.05.28.1.42.14.42.12.85.22 1.3.28 1.4.18 2.85-.24 3.86-1.29.02-.02.04-.03.06-.05.1-.1.19-.2.27-.3.1-.12.18-.24.26-.37.21-.34.36-.72.46-1.12.18-.68.21-1.39.11-2.09-.11-1.08-.4-2.12-.82-3.08-.43-.96-.98-1.85-1.63-2.63-.49-.6-.9-1.07-1.22-1.42l-.18-.21c-.28-.33-.53-.63-.75-.89-.32-.38-.6-.72-.82-1.02-.27-.37-.5-.72-.66-1.03-.3-.59-.52-1.15-.63-1.65-.13-.58-.15-1.11-.07-1.59.13-.82.49-1.58 1.05-2.22s1.28-1.13 2.05-1.46c.42-.18.86-.3 1.3-.37.17-.03.35-.05.52-.06.28-.02.57-.02.85-.02.49 0 .98.05 1.46.14.48.09.93.24 1.36.42.71.3 1.36.71 1.9 1.2.53.48.95 1.02 1.25 1.58.29.56.46 1.15.51 1.74.04.59-.03 1.19-.2 1.76-.18.57-.45 1.12-.82 1.62-.36.5-.81.94-1.32 1.31-.22.16-.45.31-.69.45l-.46.26c-.25.13-.5.25-.75.36-.25.11-.5.21-.74.29-.8.3-1.6.49-2.4.55-1.02.08-2.04-.01-3.03-.23-1-.22-1.95-.55-2.83-.98-.6-.3-.92-.55-.94-.57-.02-.02-.03-.03-.05-.05-.12-.08-.23-.17-.34-.26-.11-.09-.22-.18-.32-.28-.3-.29-.58-.6-.82-.93-.24-.33-.46-.68-.63-1.04-.18-.36-.31-.74-.4-1.13-.09-.39-.13-.78-.13-1.18 0-.39.04-.77.12-1.14.08-.37.2-.73.35-1.08.15-.35.33-.68.53-1 .2-.32.43-.63.68-.92.25-.29.52-.57.81-.82.29-.25.6-.48.92-.69.64-.42 1.33-.76 2.05-1.01.72-.25 1.46-.41 2.22-.46.75-.05 1.5-.02 2.23.09.73.11 1.45.31 2.14.57.69.26 1.35.6 1.96 1 .61.4 1.18.87 1.68 1.39.5.52.92 1.1 1.26 1.72.33.62.58 1.28.73 1.95.15.67.2 1.35.15 2.03-.05.67-.2 1.34-.43 1.98-.23.64-.56 1.25-.96 1.82-.4.57-.87 1.08-1.4 1.53-.53.45-1.1 .83-1.7 1.15-.6.32-1.24.56-1.88.73-.65.17-1.3.26-1.96.26-.3 0-.6 0-.9-.02z"/></svg>`,
+            Threads: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M12 2C6.5 2 2 6.5 2 12a9.2 9.2 0 0 0 3.8 7.5 10.7 10.7 0 0 1-1.3-5.2A3.8 3.8 0 0 1 8 9.8a4 4 0 0 1 8 .1 4 4 0 0 1 3.5 4.5 10.8 10.8 0 0 1-1.3 5.2A9.2 9.2 0 0 0 22 12c0-5.5-4.5-10-10-10Z"/></svg>`,
+            GitHub: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/></svg>`,
+            'default': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>`
+        };
+
+        const timelineContainer = document.getElementById('timeline-container');
+        const loadingIndicator = document.getElementById('loading');
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+
+        async function fetchAndRenderTimeline() {
+            try {
+                if (!GIST_ID || GIST_ID === 'ここにあなたのGist IDを貼り付け') {
+                    const errorMessage = "【設定が必要です】Gist IDが設定されていません。このHTMLファイルを編集して、`const GIST_ID` の行（59行目あたり）にご自身のGist IDを貼り付けてください。";
+                    timelineContainer.innerHTML = `<div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded-lg" role="alert"><p class="font-bold">設定エラー</p><p class="text-sm">${errorMessage}</p></div>`;
+                    throw new Error("Gist IDが設定されていません。index.htmlを編集してください。");
+                }
+                const gistUrl = `https://api.github.com/gists/${GIST_ID}`;
+                const response = await fetch(gistUrl);
+                if (!response.ok) {
+                    throw new Error(`Gistの取得に失敗しました: ${response.statusText}`);
+                }
+                const gistData = await response.json();
+                const timelineJsonContent = gistData.files['timeline.json'].content;
+                const activities = JSON.parse(timelineJsonContent);
+                
+                renderTimeline(activities);
+
+            } catch (error) {
+                console.error("タイムラインの読み込みに失敗しました:", error);
+                // Gist ID未設定エラーの場合は、すでにメッセージが表示されているので何もしない
+                if (!timelineContainer.innerHTML.includes('設定エラー')) {
+                    timelineContainer.innerHTML = `<p class="text-center text-red-500">${error.message}</p>`;
+                }
+            } finally {
+                loadingIndicator.style.opacity = '0';
+                setTimeout(() => loadingIndicator.style.display = 'none', 500);
+            }
+        }
+
+        function renderTimeline(activities) {
+            timelineContainer.innerHTML = '';
+            if (!activities || activities.length === 0) {
+                timelineContainer.innerHTML = `<p class="text-center text-gray-500">まだ活動の記録がありません。</p>`;
+                return;
+            }
+
+            let lastActivityDateStr = null;
+
+            activities.forEach((activity) => {
+                const activityTime = new Date(activity.timestamp);
+                
+                const activityDateStr = activityTime.toLocaleDateString('ja-JP');
+                if(activityDateStr !== lastActivityDateStr) {
+                    const dateHeader = document.createElement('h2');
+                    dateHeader.className = 'text-2xl font-bold text-gray-800 mt-10 mb-4 pb-2 border-b-2 border-gray-300';
+                    dateHeader.textContent = activityTime.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+                    timelineContainer.appendChild(dateHeader);
+                    lastActivityDateStr = activityDateStr;
+                }
+                
+                const platformIcon = icons[activity.platform] || icons['default'];
+                const timeStr = activityTime.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit', hour12: false });
+                
+                const itemHTML = `
+                    <div class="relative pl-8 md:pl-20 py-4 group">
+                        <div class="absolute left-4 md:left-12 top-0 h-full w-0.5 bg-gray-300"></div>
+                        <div class="absolute left-4 md:left-12 top-6 -ml-2.5 w-5 h-5 bg-white border-2 border-gray-400 rounded-full group-hover:border-blue-500 transition-colors"></div>
+                        <div class="flex items-start space-x-4">
+                            <div class="flex-shrink-0 w-12 text-right">
+                                <p class="font-mono text-sm text-gray-500">${timeStr}</p>
+                            </div>
+                            <div class="flex-1 bg-white p-4 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition-shadow">
+                                <div class="flex items-center space-x-3 mb-2">
+                                    <span class="text-gray-500">${platformIcon}</span>
+                                    <p class="font-semibold text-gray-700">${activity.platform}</p>
+                                </div>
+                                <p class="text-gray-800 whitespace-pre-wrap">${activity.content}</p>
+                                <a href="${activity.url}" target="_blank" rel="noopener noreferrer" class="text-xs text-blue-600 hover:underline mt-2 inline-block">
+                                    元の投稿を見る
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                timelineContainer.insertAdjacentHTML('beforeend', itemHTML);
+            });
+        }
+
+        fetchAndRenderTimeline();
+    </script>
+</body>
+</html>
+
