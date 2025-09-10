@@ -17,15 +17,6 @@ jobs:
         with:
           node-version: '20'
 
-      # --- デバッグステップ ---
-      # ファイルが存在するか確認します
-      - name: Check file structure
-        run: |
-          echo "現在のディレクトリ: $(pwd)"
-          echo "ファイル一覧:"
-          ls -la
-
-      # npm installから直接インストールコマンドに変更
       - name: Install dependencies
         run: npm install @octokit/core
 
