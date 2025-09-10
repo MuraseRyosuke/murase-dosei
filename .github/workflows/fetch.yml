@@ -1,11 +1,9 @@
 name: Fetch Social Activities
 
 on:
-  # 30分ごとに自動実行
+  workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *'
-  # Actionsタブから手動で実行できるようにする
-  workflow_dispatch:
 
 jobs:
   fetch-and-update:
@@ -19,6 +17,7 @@ jobs:
         with:
           node-version: '20'
 
+      # このステップが重要です
       - name: Install dependencies
         run: npm install
 
@@ -27,12 +26,10 @@ jobs:
         env:
           GIST_ID: ${{ secrets.GIST_ID }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
-          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
-          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
