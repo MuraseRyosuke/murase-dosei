@@ -8,16 +8,25 @@ const GITHUB_USERNAME = 'MuraseRyosuke'; // 村瀨さんのGitHubユーザー名
 async function main() {
     console.log('活動の取得を開始します...');
     try {
-        const { GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GITHUB_TOKEN_FOR_API } = process.env;
+        const { GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GH_API_TOKEN } = process.env;
+        
+        // --- ▼▼▼ 新しいデバッグコード ▼▼▼ ---
+        console.log('--- 受け取った環境変数の確認 ---');
+        console.log(`GIST_ID: ${GIST_ID ? '設定あり' : '未設定'}`);
+        console.log(`GIST_TOKEN: ${GIST_TOKEN ? '設定あり' : '未設定'}`);
+        console.log(`YOUTUBE_API_KEY: ${YOUTUBE_API_KEY ? '設定あり' : '未設定'}`);
+        console.log(`GH_API_TOKEN: ${GH_API_TOKEN ? '設定あり' : '未設定'}`);
+        console.log('------------------------------------');
+        // --- ▲▲▲ 新しいデバッグコード ▲▲▲ ---
 
         // 環境変数のチェック
-        if (!GIST_ID || !GIST_TOKEN || !YOUTUBE_API_KEY || !GITHUB_TOKEN_FOR_API) {
+        if (!GIST_ID || !GIST_TOKEN || !YOUTUBE_API_KEY || !GH_API_TOKEN) {
             throw new Error('必要な環境変数（Secret）が設定されていません。');
         }
 
         // 各プラットフォームからアクティビティを取得
         const youtubeActivities = await fetchYouTubeActivities(YOUTUBE_API_KEY);
-        const githubActivities = await fetchGitHubActivities(GITHUB_TOKEN_FOR_API);
+        const githubActivities = await fetchGitHubActivities(GH_API_TOKEN);
         
         // 全てのアクティビティをマージして、タイムスタンプで降順にソート
         const allActivities = [...youtubeActivities, ...githubActivities]
