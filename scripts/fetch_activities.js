@@ -1,4 +1,5 @@
 const axios = require('axios');
+const querystring = require('querystring');
 
 // --- 設定 ---
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w'; // 村瀨さんのYouTubeチャンネルID
@@ -9,7 +10,11 @@ const MASTODON_USERNAME = 'vl_lvoO'; // 村瀨さんのMastodonユーザー名
 async function main() {
     console.log('活動の取得を開始します...');
     try {
-        const { GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GH_API_TOKEN, MASTODON_ACCESS_TOKEN, MASTODON_INSTANCE_URL } = process.env;
+        const { 
+            GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GH_API_TOKEN, 
+            MASTODON_ACCESS_TOKEN, MASTODON_INSTANCE_URL,
+            SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN
+        } = process.env;
 
         // 必須の環境変数をチェック
         if (!GIST_ID || !GIST_TOKEN) {
@@ -33,6 +38,11 @@ async function main() {
             console.log('Mastodonの活動を取得中...');
             const mastodonActivities = await fetchMastodonActivities(MASTODON_INSTANCE_URL, MASTODON_ACCESS_TOKEN);
             allActivities.push(...mastodonActivities);
+        }
+        if (SPOTIFY_CLIENT_ID && SPOTIFY_CLIENT_SECRET && SPOTIFY_REFRESH_TOKEN) {
+            console.log('Spotifyの活動を取得中...');
+            const spotifyActivities = await fetchSpotifyActivities(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN);
+            allActivities.push(...spotifyActivities);
         }
         
         // 全てのアクティビティをマージして、タイムスタンプで降順にソート
@@ -107,20 +117,17 @@ async function fetchGitHubActivities(token) {
 // --- Mastodonの活動を取得する関数 ---
 async function fetchMastodonActivities(instanceUrl, accessToken) {
     try {
-        // ユーザー名からアカウントIDを取得
         const accountLookupUrl = `${instanceUrl}/api/v1/accounts/lookup?acct=${MASTODON_USERNAME}`;
         const lookupResponse = await axios.get(accountLookupUrl, {
             headers: { 'Authorization': `Bearer ${accessToken}` }
         });
         const accountId = lookupResponse.data.id;
 
-        // アカウントIDを使って投稿（Toot）を取得
         const statusesUrl = `${instanceUrl}/api/v1/accounts/${accountId}/statuses?limit=15&exclude_replies=true&exclude_reblogs=true`;
         const response = await axios.get(statusesUrl, {
             headers: { 'Authorization': `Bearer ${accessToken}` }
         });
 
-        // HTMLタグを除去するための簡単なヘルパー関数
         const stripHtml = (html) => html.replace(/<[^>]*>?/gm, '');
 
         return response.data.map(status => ({
@@ -135,6 +142,48 @@ async function fetchMastodonActivities(instanceUrl, accessToken) {
     }
 }
 
+// --- Spotifyの活動を取得する関数 ---
+async function fetchSpotifyActivities(clientId, clientSecret, refreshToken) {
+    try {
+        // 1. Refresh Tokenを使って新しいAccess Tokenを取得
+        const tokenResponse = await axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
+            grant_type: 'refresh_token',
+            refresh_token: refreshToken,
+        }), {
+            headers: {
+                'Authorization': `Basic ${Buffer.from(`${clientId}:${clientSecret}`).toString('base64')}`,
+                'Content-Type': 'application/x-www-form-urlencoded'
+            }
+        });
+        const accessToken = tokenResponse.data.access_token;
+
+        // 2. Access Tokenを使って最近聴いた曲を取得
+        const recentlyPlayedUrl = 'https://api.spotify.com/v1/me/player/recently-played?limit=20';
+        const response = await axios.get(recentlyPlayedUrl, {
+            headers: { 'Authorization': `Bearer ${accessToken}` }
+        });
+        
+        // 重複する曲を除外するためのロジック
+        const uniqueTracks = [];
+        const trackIds = new Set();
+        for (const item of response.data.items) {
+            if (!trackIds.has(item.track.id)) {
+                uniqueTracks.push(item);
+                trackIds.add(item.track.id);
+            }
+        }
+        
+        return uniqueTracks.map(item => ({
+            platform: 'Spotify',
+            content: `「${item.track.name}」 by ${item.track.artists.map(a => a.name).join(', ')} を聴きました。`,
+            url: item.track.external_urls.spotify,
+            timestamp: item.played_at
+        }));
+    } catch (error) {
+        console.error('Spotifyアクティビティの取得に失敗しました:', error.response ? error.response.data : error.message);
+        return [];
+    }
+}
 
 // --- Gistを更新する関数 ---
 async function updateGist(gistId, token, data) {
