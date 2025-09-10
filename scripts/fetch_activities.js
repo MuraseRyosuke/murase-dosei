@@ -13,7 +13,8 @@ async function main() {
         const { 
             GIST_ID, GIST_TOKEN, YOUTUBE_API_KEY, GH_API_TOKEN, 
             MASTODON_ACCESS_TOKEN, MASTODON_INSTANCE_URL,
-            SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN
+            SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN,
+            TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, TWITCH_USER_ID
         } = process.env;
 
         // 必須の環境変数をチェック
@@ -43,6 +44,11 @@ async function main() {
             console.log('Spotifyの活動を取得中...');
             const spotifyActivities = await fetchSpotifyActivities(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN);
             allActivities.push(...spotifyActivities);
+        }
+        if (TWITCH_CLIENT_ID && TWITCH_CLIENT_SECRET && TWITCH_USER_ID) {
+            console.log('Twitchの活動を取得中...');
+            const twitchActivities = await fetchTwitchActivities(TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, TWITCH_USER_ID);
+            allActivities.push(...twitchActivities);
         }
         
         // 全てのアクティビティをマージして、タイムスタンプで降順にソート
@@ -145,7 +151,6 @@ async function fetchMastodonActivities(instanceUrl, accessToken) {
 // --- Spotifyの活動を取得する関数 ---
 async function fetchSpotifyActivities(clientId, clientSecret, refreshToken) {
     try {
-        // 1. Refresh Tokenを使って新しいAccess Tokenを取得
         const tokenResponse = await axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
             grant_type: 'refresh_token',
             refresh_token: refreshToken,
@@ -157,13 +162,11 @@ async function fetchSpotifyActivities(clientId, clientSecret, refreshToken) {
         });
         const accessToken = tokenResponse.data.access_token;
 
-        // 2. Access Tokenを使って最近聴いた曲を取得
         const recentlyPlayedUrl = 'https://api.spotify.com/v1/me/player/recently-played?limit=20';
         const response = await axios.get(recentlyPlayedUrl, {
             headers: { 'Authorization': `Bearer ${accessToken}` }
         });
         
-        // 重複する曲を除外するためのロジック
         const uniqueTracks = [];
         const trackIds = new Set();
         for (const item of response.data.items) {
@@ -181,6 +184,35 @@ async function fetchSpotifyActivities(clientId, clientSecret, refreshToken) {
         }));
     } catch (error) {
         console.error('Spotifyアクティビティの取得に失敗しました:', error.response ? error.response.data : error.message);
+        return [];
+    }
+}
+
+// --- Twitchの活動を取得する関数 ---
+async function fetchTwitchActivities(clientId, clientSecret, userId) {
+    try {
+        // 1. Client IDとClient Secretを使ってApp Access Tokenを取得
+        const tokenUrl = `https://id.twitch.tv/oauth2/token?client_id=${clientId}&client_secret=${clientSecret}&grant_type=client_credentials`;
+        const tokenResponse = await axios.post(tokenUrl);
+        const accessToken = tokenResponse.data.access_token;
+
+        // 2. Access Tokenを使って過去の配信（ビデオ）情報を取得
+        const videosUrl = `https://api.twitch.tv/helix/videos?user_id=${userId}&first=10&type=archive`;
+        const response = await axios.get(videosUrl, {
+            headers: {
+                'Client-ID': clientId,
+                'Authorization': `Bearer ${accessToken}`
+            }
+        });
+
+        return response.data.data.map(video => ({
+            platform: 'Twitch',
+            content: `配信しました: 「${video.title}」`,
+            url: video.url,
+            timestamp: video.created_at
+        }));
+    } catch (error) {
+        console.error('Twitchアクティビティの取得に失敗しました:', error.response ? error.response.data : error.message);
         return [];
     }
 }
