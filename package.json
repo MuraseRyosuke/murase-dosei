@@ -1,0 +1,13 @@
+{
+  "name": "murase-dosei-github-edition",
+  "version": "1.0.0",
+  "description": "Scripts for fetching social activities for GitHub Pages.",
+  "main": "scripts/fetch_activities.js",
+  "scripts": {
+    "start": "node scripts/fetch_activities.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
+
