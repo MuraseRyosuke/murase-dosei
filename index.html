@@ -69,10 +69,9 @@
             transform: translateY(-2px);
         }
 
-        /* --- Corporate Color Hovers (User-provided colors) --- */
+        /* --- Corporate Color Hovers --- */
         .social-links .social-link-x:hover { color: #000000; }
         @media (prefers-color-scheme: dark) { .social-links .social-link-x:hover { color: #ffffff; } }
-        
         .social-links .social-link-facebook:hover { color: #0866FF; }
         .social-links .social-link-instagram:hover { color: #FF0069; }
         .social-links .social-link-bluesky:hover { color: #0285FF; }
@@ -80,12 +79,11 @@
         .social-links .social-link-twitch:hover { color: #9146FF; }
         .social-links .social-link-youtube:hover { color: #FF0000; }
         .social-links .social-link-mastodon:hover { color: #6364FF; }
-        
         .social-links .social-link-threads:hover { color: #000000; }
         @media (prefers-color-scheme: dark) { .social-links .social-link-threads:hover { color: #ffffff; } }
-        
         .social-links .social-link-github:hover { color: #181717; }
         @media (prefers-color-scheme: dark) { .social-links .social-link-github:hover { color: #ffffff; } }
+
 
         .social-links svg {
             width: 24px;
@@ -173,7 +171,6 @@
     <div class="container">
         <header>
             <h1>村瀨動静</h1>
-            <p>村瀨涼介の活動記録</p>
             <div class="social-links" id="social-links-container">
                 <!-- アイコンはJavaScriptで描画されます -->
             </div>
@@ -242,14 +239,12 @@
             const loadingIndicator = document.getElementById('loading');
             const errorContainer = document.getElementById('error');
             
-            if (!GIST_ID || GIST_ID === 'ここにあなたのGist IDを貼り付け') {
+            if (GIST_ID === 'ここにあなたのGist IDを貼り付け') {
                  loadingIndicator.style.display = 'none';
                  errorContainer.textContent = 'Gist IDが設定されていません。index.htmlを編集してください。';
                  errorContainer.style.display = 'block';
                  return;
             }
-            
-            if (!timelineContainer || !loadingIndicator || !errorContainer) return;
             
             try {
                 const response = await fetch(`https://api.github.com/gists/${GIST_ID}`);
@@ -274,9 +269,8 @@
                 
                 const groupedActivities = groupByDate(activities);
                 
-                timelineContainer.innerHTML = ''; // Clear previous content
+                timelineContainer.innerHTML = ''; 
 
-                // 日付を降順にソートして表示
                 const sortedDates = Object.keys(groupedActivities).sort((a, b) => new Date(b) - new Date(a));
 
                 for (const date of sortedDates) {
