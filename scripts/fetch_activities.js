@@ -1,13 +1,16 @@
 const https = require('https');
 const { Octokit } = require("@octokit/core");
+const { BskyAgent } = require('@atproto/api'); // BlueSky用のライブラリを追加
 
 // --- 環境変数 (GitHub Secretsから渡される) ---
 const GIST_ID = process.env.GIST_ID;
-const GIST_TOKEN = process.env.GIST_TOKEN; // Gistを更新するためのトークン
-const GH_API_TOKEN = process.env.GH_API_TOKEN; // GitHub API叩く用のトークン
+const GIST_TOKEN = process.env.GIST_TOKEN;
+const GH_API_TOKEN = process.env.GH_API_TOKEN;
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const MASTODON_ACCESS_TOKEN = process.env.MASTODON_ACCESS_TOKEN;
 const MASTODON_INSTANCE_URL = process.env.MASTODON_INSTANCE_URL;
+const BLUESKY_IDENTIFIER = process.env.BLUESKY_IDENTIFIER; // BlueSky用IDを追加
+const BLUESKY_APP_PASSWORD = process.env.BLUESKY_APP_PASSWORD; // BlueSky用パスワードを追加
 const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const SPOTIFY_REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN;
@@ -15,11 +18,10 @@ const TWITCH_CLIENT_ID = process.env.TWITCH_CLIENT_ID;
 const TWITCH_CLIENT_SECRET = process.env.TWITCH_CLIENT_SECRET;
 const TWITCH_USER_ID = process.env.TWITCH_USER_ID;
 
-
 // ユーザー情報
 const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
-const MASTODON_USER_ID = '109353974694481373'; // pawoo.netでのvl_lvoOのID
+const MASTODON_USER_ID = '109353974694481373';
 
 const octokit = new Octokit({ auth: GH_API_TOKEN });
 const gistOctokit = new Octokit({ auth: GIST_TOKEN });
@@ -38,7 +40,11 @@ function httpsGet(url, headers = {}) {
             res.on('data', (chunk) => { data += chunk; });
             res.on('end', () => {
                 try {
-                    resolve(JSON.parse(data));
+                    if (res.statusCode >= 200 && res.statusCode < 300) {
+                        resolve(JSON.parse(data));
+                    } else {
+                        reject(new Error(`HTTPステータスコード: ${res.statusCode}, レスポンス: ${data}`));
+                    }
                 } catch (e) {
                     reject(new Error(`JSONの解析に失敗しました: ${e.message}`));
                 }
@@ -67,7 +73,11 @@ function httpsPost(url, headers, body) {
             res.on('data', (chunk) => { data += chunk; });
             res.on('end', () => {
                 try {
-                    resolve(JSON.parse(data));
+                     if (res.statusCode >= 200 && res.statusCode < 300) {
+                        resolve(JSON.parse(data));
+                    } else {
+                        reject(new Error(`HTTPステータスコード: ${res.statusCode}, レスポンス: ${data}`));
+                    }
                 } catch (e) {
                     reject(new Error(`JSONの解析に失敗しました: ${e.message}`));
                 }
@@ -80,7 +90,6 @@ function httpsPost(url, headers, body) {
         req.end();
     });
 }
-
 
 // --- 各サービスからのデータ取得関数 ---
 
@@ -98,16 +107,18 @@ async function fetchGitHubActivities() {
             .filter(event => ['PushEvent', 'CreateEvent', 'WatchEvent'].includes(event.type))
             .map(event => {
                 let content = '';
+                let url = `https://github.com/${event.repo.name}`;
                 switch (event.type) {
                     case 'PushEvent':
                         content = `${event.repo.name} に ${event.payload.commits.length}件のコミットをPushしました`;
+                        url = `https://github.com/${event.repo.name}/commits/${event.payload.head}`;
                         break;
                     case 'CreateEvent':
-                         if (event.payload.ref_type === 'repository') {
+                        if (event.payload.ref_type === 'repository') {
                             content = `新しいリポジトリ ${event.repo.name} を作成しました`;
-                         } else {
-                            return null; // リポジトリ作成以外のCreateEventは無視
-                         }
+                        } else {
+                            return null;
+                        }
                         break;
                     case 'WatchEvent':
                         content = `${event.repo.name} をStarしました`;
@@ -119,15 +130,14 @@ async function fetchGitHubActivities() {
                     platform: 'GitHub',
                     timestamp: event.created_at,
                     content: content,
-                    url: `https://github.com/${event.repo.name}`
+                    url: url
                 };
-            }).filter(item => item !== null); // nullをフィルタリング
+            }).filter(item => item !== null);
     } catch (error) {
         console.error("GitHubの活動取得中にエラー:", error.message);
-        return []; // エラーが発生した場合は空の配列を返す
+        return [];
     }
 }
-
 
 /**
  * YouTubeの活動を取得
@@ -154,24 +164,49 @@ async function fetchYouTubeActivities() {
 async function fetchMastodonActivities() {
     if (!MASTODON_INSTANCE_URL || !MASTODON_ACCESS_TOKEN) return [];
     try {
-        const url = `${MASTODON_INSTANCE_URL}/api/v1/accounts/${MASTODON_USER_ID}/statuses?limit=10`;
+        const url = `${MASTODON_INSTANCE_URL}/api/v1/accounts/${MASTODON_USER_ID}/statuses?limit=10&exclude_replies=true&exclude_reblogs=true`;
         const headers = { 'Authorization': `Bearer ${MASTODON_ACCESS_TOKEN}` };
         const data = await httpsGet(url, headers);
 
-        return data
-            .filter(status => !status.reblog && !status.in_reply_to_id) // ブーストと返信を除外
-            .map(status => ({
-                platform: 'Mastodon',
-                timestamp: status.created_at,
-                content: status.content.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, ''), // HTMLタグを除去
-                url: status.url
-            }));
+        return data.map(status => ({
+            platform: 'Mastodon',
+            timestamp: status.created_at,
+            content: status.content.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, ''), // HTMLタグを除去
+            url: status.url
+        }));
     } catch (error) {
         console.error("Mastodonの活動取得中にエラー:", error.message);
         return [];
     }
 }
 
+/**
+ * BlueSkyの活動を取得
+ */
+async function fetchBlueskyActivities() {
+    if (!BLUESKY_IDENTIFIER || !BLUESKY_APP_PASSWORD) return [];
+    try {
+        const agent = new BskyAgent({ service: 'https://bsky.social' });
+        await agent.login({ identifier: BLUESKY_IDENTIFIER, password: BLUESKY_APP_PASSWORD });
+
+        const response = await agent.api.app.bsky.feed.getAuthorFeed({
+            actor: BLUESKY_IDENTIFIER,
+            limit: 10
+        });
+
+        return response.data.feed
+            .filter(item => !item.post.record.reply && !item.reason) // リプライとリポストを除外
+            .map(item => ({
+                platform: 'Bluesky',
+                timestamp: item.post.indexedAt,
+                content: item.post.record.text,
+                url: `https://bsky.app/profile/${item.post.author.did}/post/${item.post.uri.split('/').pop()}`
+            }));
+    } catch (error) {
+        console.error("BlueSkyの活動取得中にエラー:", error.message);
+        return [];
+    }
+}
 
 /**
  * Spotifyの最近聴いた曲を取得
@@ -179,7 +214,6 @@ async function fetchMastodonActivities() {
 async function fetchSpotifyActivities() {
     if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) return [];
     try {
-        // 1. Refresh Tokenを使って新しいAccess Tokenを取得
         const tokenUrl = new URL('https://accounts.spotify.com/api/token');
         const tokenHeaders = {
             'Content-Type': 'application/x-www-form-urlencoded',
@@ -189,7 +223,6 @@ async function fetchSpotifyActivities() {
         const tokenData = await httpsPost(tokenUrl, tokenHeaders, tokenBody);
         const accessToken = tokenData.access_token;
 
-        // 2. Access Tokenを使って最近聴いた曲を取得
         const apiUrl = 'https://api.spotify.com/v1/me/player/recently-played?limit=10';
         const apiHeaders = { 'Authorization': `Bearer ${accessToken}` };
         const recentData = await httpsGet(apiUrl, apiHeaders);
@@ -206,19 +239,16 @@ async function fetchSpotifyActivities() {
     }
 }
 
-
 /**
  * Twitchの活動を取得
  */
 async function fetchTwitchActivities() {
     if (!TWITCH_CLIENT_ID || !TWITCH_CLIENT_SECRET || !TWITCH_USER_ID) return [];
     try {
-        // 1. App Access Tokenを取得
         const tokenUrl = new URL(`https://id.twitch.tv/oauth2/token?client_id=${TWITCH_CLIENT_ID}&client_secret=${TWITCH_CLIENT_SECRET}&grant_type=client_credentials`);
         const tokenData = await httpsPost(tokenUrl, {}, "");
         const accessToken = tokenData.access_token;
         
-        // 2. 過去の配信動画(VOD)を取得
         const apiUrl = `https://api.twitch.tv/helix/videos?user_id=${TWITCH_USER_ID}&first=5`;
         const apiHeaders = {
             'Client-ID': TWITCH_CLIENT_ID,
@@ -238,7 +268,6 @@ async function fetchTwitchActivities() {
     }
 }
 
-
 /**
  * Gistを更新する
  * @param {Array<object>} activities 
@@ -256,7 +285,7 @@ async function updateGist(activities) {
         console.log('Gistの更新に成功しました。');
     } catch (error) {
         console.error('Gistの更新に失敗しました:', error.message);
-        throw error; // エラーを再スローしてワークフローを失敗させる
+        throw error;
     }
 }
 
@@ -266,30 +295,22 @@ async function updateGist(activities) {
 async function main() {
     console.log('活動の取得を開始します...');
 
-    // --- 環境変数の存在チェック ---
-    if (!GIST_ID || !GIST_TOKEN || !GH_API_TOKEN || !YOUTUBE_API_KEY) {
-        console.error('--- 受け取った環境変数の確認 ---');
-        console.log(`GIST_ID: ${GIST_ID ? '✅' : '❌'}`);
-        console.log(`GIST_TOKEN: ${GIST_TOKEN ? '✅' : '❌'}`);
-        console.log(`GH_API_TOKEN: ${GH_API_TOKEN ? '✅' : '❌'}`);
-        console.log(`YOUTUBE_API_KEY: ${YOUTUBE_API_KEY ? '✅' : '❌'}`);
-        throw new Error('基本的な環境変数（Secret）が設定されていません。');
+    if (!GIST_ID || !GIST_TOKEN || !GH_API_TOKEN) {
+        throw new Error('基本的な環境変数（GIST_ID, GIST_TOKEN, GH_API_TOKEN）が設定されていません。');
     }
 
-    // 全てのサービスの活動取得を並行して実行
     const allActivitiesPromises = [
         fetchGitHubActivities(),
         fetchYouTubeActivities(),
         fetchMastodonActivities(),
+        fetchBlueskyActivities(), // BlueSkyの取得関数を追加
         fetchSpotifyActivities(),
         fetchTwitchActivities()
     ];
 
-    // 結果を一つの配列にまとめる
     const results = await Promise.all(allActivitiesPromises);
     const allActivities = [].concat(...results);
     
-    // タイムスタンプでソートし、最新7日分にフィルタリング
     const sevenDaysAgo = new Date();
     sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
 
@@ -299,15 +320,13 @@ async function main() {
 
     console.log(`合計 ${sortedAndFilteredActivities.length} 件の活動を取得しました。`);
 
-    // Gistを更新
     await updateGist(sortedAndFilteredActivities);
     
     console.log('処理が正常に完了しました。');
 }
 
-// 実行
 main().catch(error => {
     console.error("スクリプトの実行中に致命的なエラーが発生しました:", error.message);
-    process.exit(1); // エラーコード1でプロセスを終了
+    process.exit(1);
 });
 
