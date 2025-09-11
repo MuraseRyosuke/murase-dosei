@@ -26,7 +26,8 @@ const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
 const NOTE_USERNAME = 'muraseryosuke';
 const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com';
-const VIMEO_USERNAME = 'RyosukeMurase'; // Vimeoのユーザー名を追加
+const VIMEO_USERNAME = 'RyosukeMurase';
+const SOUNDCLOUD_USER_ID = '16353954'; // SoundCloudのユーザーIDを追加
 
 
 // --- APIクライアントの初期化 ---
@@ -312,7 +313,7 @@ async function fetchTumblrActivities() {
 }
 
 /**
- * Vimeoの活動を取得 (NEW)
+ * Vimeoの活動を取得
  */
 async function fetchVimeoActivities() {
     try {
@@ -327,6 +328,26 @@ async function fetchVimeoActivities() {
         }));
     } catch (error) {
         console.error("Vimeoの活動取得中にエラー:", error.message);
+        return [];
+    }
+}
+
+/**
+ * SoundCloudの活動を取得 (NEW)
+ */
+async function fetchSoundCloudActivities() {
+    try {
+        const feedUrl = `https://feeds.soundcloud.com/users/soundcloud:users:${SOUNDCLOUD_USER_ID}/sounds.rss`;
+        const feed = await parser.parseURL(feedUrl);
+        
+        return feed.items.slice(0, 5).map(item => ({
+            platform: 'SoundCloud',
+            timestamp: item.isoDate || item.pubDate,
+            content: `トラック「${item.title}」を公開しました`,
+            url: item.link
+        }));
+    } catch (error) {
+        console.error("SoundCloudの活動取得中にエラー:", error.message);
         return [];
     }
 }
@@ -371,7 +392,8 @@ async function main() {
         fetchTwitchActivities(),
         fetchNoteActivities(),
         fetchTumblrActivities(),
-        fetchVimeoActivities() // Vimeoの取得を追加
+        fetchVimeoActivities(),
+        fetchSoundCloudActivities() // SoundCloudの取得を追加
     ];
 
     const results = await Promise.all(allActivitiesPromises);
