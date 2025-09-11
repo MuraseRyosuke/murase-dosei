@@ -1,7 +1,7 @@
 const https = require('https');
 const { Octokit } = require("@octokit/core");
 const { BskyAgent } = require('@atproto/api');
-const Parser = require('rss-parser'); // RSSパーサーを追加
+const Parser = require('rss-parser');
 
 // --- 環境変数 (GitHub Secretsから渡される) ---
 const GIST_ID = process.env.GIST_ID;
@@ -24,7 +24,8 @@ const TWITCH_USER_ID = process.env.TWITCH_USER_ID;
 // --- ユーザー情報 ---
 const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
-const NOTE_USERNAME = 'muraseryosuke'; // noteのユーザー名を追加
+const NOTE_USERNAME = 'muraseryosuke';
+const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com'; // Tumblrのホスト名を追加
 
 
 // --- APIクライアントの初期化 ---
@@ -270,7 +271,7 @@ async function fetchTwitchActivities() {
 }
 
 /**
- * noteの活動を取得 (NEW)
+ * noteの活動を取得
  */
 async function fetchNoteActivities() {
     try {
@@ -285,6 +286,26 @@ async function fetchNoteActivities() {
         }));
     } catch (error) {
         console.error("noteの活動取得中にエラー:", error.message);
+        return [];
+    }
+}
+
+/**
+ * Tumblrの活動を取得 (NEW)
+ */
+async function fetchTumblrActivities() {
+    try {
+        const feedUrl = `https://${TUMBLR_HOSTNAME}/rss`;
+        const feed = await parser.parseURL(feedUrl);
+        
+        return feed.items.slice(0, 5).map(item => ({
+            platform: 'Tumblr',
+            timestamp: item.isoDate || item.pubDate, // 念のためpubDateも見る
+            content: `投稿「${item.title}」をしました`,
+            url: item.link
+        }));
+    } catch (error) {
+        console.error("Tumblrの活動取得中にエラー:", error.message);
         return [];
     }
 }
@@ -327,7 +348,8 @@ async function main() {
         fetchBlueskyActivities(),
         fetchSpotifyActivities(),
         fetchTwitchActivities(),
-        fetchNoteActivities() // noteの取得を追加
+        fetchNoteActivities(),
+        fetchTumblrActivities() // Tumblrの取得を追加
     ];
 
     const results = await Promise.all(allActivitiesPromises);
