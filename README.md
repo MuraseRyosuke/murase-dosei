@@ -4,7 +4,7 @@
 
 [**完成したサイトはこちら**](https://muraseryosuke.github.io/murase-dosei/)
 
-## ✨ 機能 (Features)
+## ✨ 機能
 
 * **マルチプラットフォーム対応**: GitHub, YouTube, Mastodon, BlueSky, Spotify, Twitchなど、複数のサービスからの活動を自動で集約します。
 * **自動更新**: GitHub Actionsを利用して、定期的に新しい活動がないか自動的にチェックし、タイムラインを更新します。
@@ -12,16 +12,16 @@
 * **シンプルなデザイン**: ダークモードにも対応した、見やすいミニマルなデザイン。
 * **ソーシャルリンク**: 各SNSやサービスへのプロフィールリンクをアイコンで表示します。
 
-## 🛠️ 仕組み (How it Works)
+## 🛠️ 仕組み
 
 このプロジェクトは、以下の流れで動作しています。
 
-1.  **スケジュール実行 (GitHub Actions)**: ワークフローが定期的に自動起動します。
-2.  **データ取得 (Node.js Script)**: 各サービス (GitHub, YouTube等) のAPIにアクセスし、最新の活動履歴を取得します。
-3.  **データ保存 (GitHub Gist)**: 取得した活動データを一つの`timeline.json`ファイルにまとめ、データベースの代わりにGitHub Gistに保存・更新します。
-4.  **ウェブサイト表示 (GitHub Pages)**: ユーザーがウェブサイトにアクセスすると、`index.html`に書かれたJavaScriptがGistから`timeline.json`を読み込み、タイムラインを動的に描画します。
+1.  **スケジュール実行**: ワークフローが定期的に自動起動します。
+2.  **データ取得**: 各サービス (GitHub, YouTube等) のAPIにアクセスし、最新の活動履歴を取得します。
+3.  **データ保存**: 取得した活動データを一つの`timeline.json`ファイルにまとめ、データベースの代わりにGitHub Gistに保存・更新します。
+4.  **ウェブサイト表示**: ユーザーがウェブサイトにアクセスすると、`index.html`に書かれたJavaScriptがGistから`timeline.json`を読み込み、タイムラインを動的に描画します。
 
-## 🚀 セットアップ方法 (Setup Guide)
+## 🚀 セットアップ方法
 
 このプロジェクトを自分用にカスタマイズして動かすための手順です。
 
@@ -65,7 +65,7 @@
 
 以上で設定は完了です。「Actions」タブからワークフローを手動で実行し、サイトが表示されるか確認してみてください。
 
-## 💻 使用技術 (Tech Stack)
+## 💻 使用技術
 
 * **Frontend**: HTML, CSS, JavaScript (Vanilla JS)
 * **Backend**: Node.js (for data fetching script)
@@ -73,7 +73,7 @@
 * **Hosting**: GitHub Pages
 * **Database**: GitHub Gist
 
-## 🔭 今後の展望 (Future Plans)
+## 🔭 今後の展望
 
 このプロジェクトはまだ始まったばかりであり、多くの改善の可能性があります。
 
@@ -84,6 +84,6 @@
 
 プルリクエストや改善提案はいつでも歓迎します！
 
-## 📄 ライセンス (License)
+## 📄 ライセンス
 
-This project is licensed under the MIT License.
+このプロジェクトはMITライセンスです。
