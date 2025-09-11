@@ -27,7 +27,8 @@ const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
 const NOTE_USERNAME = 'muraseryosuke';
 const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com';
 const VIMEO_USERNAME = 'RyosukeMurase';
-const SOUNDCLOUD_USER_ID = '16353954'; // SoundCloudのユーザーIDを追加
+const SOUNDCLOUD_USER_ID = '16353954';
+const BEHANCE_USERNAME = 'ryosukemurase'; // Behanceのユーザー名を追加
 
 
 // --- APIクライアントの初期化 ---
@@ -333,7 +334,7 @@ async function fetchVimeoActivities() {
 }
 
 /**
- * SoundCloudの活動を取得 (NEW)
+ * SoundCloudの活動を取得
  */
 async function fetchSoundCloudActivities() {
     try {
@@ -348,6 +349,26 @@ async function fetchSoundCloudActivities() {
         }));
     } catch (error) {
         console.error("SoundCloudの活動取得中にエラー:", error.message);
+        return [];
+    }
+}
+
+/**
+ * Behanceの活動を取得 (NEW)
+ */
+async function fetchBehanceActivities() {
+    try {
+        const feedUrl = `https://www.behance.net/${BEHANCE_USERNAME}/rss`;
+        const feed = await parser.parseURL(feedUrl);
+        
+        return feed.items.slice(0, 5).map(item => ({
+            platform: 'Behance',
+            timestamp: item.isoDate || item.pubDate,
+            content: `プロジェクト「${item.title}」を公開しました`,
+            url: item.link
+        }));
+    } catch (error) {
+        console.error("Behanceの活動取得中にエラー:", error.message);
         return [];
     }
 }
@@ -393,7 +414,8 @@ async function main() {
         fetchNoteActivities(),
         fetchTumblrActivities(),
         fetchVimeoActivities(),
-        fetchSoundCloudActivities() // SoundCloudの取得を追加
+        fetchSoundCloudActivities(),
+        fetchBehanceActivities() // Behanceの取得を追加
     ];
 
     const results = await Promise.all(allActivitiesPromises);
