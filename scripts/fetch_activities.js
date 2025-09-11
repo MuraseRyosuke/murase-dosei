@@ -1,6 +1,7 @@
 const https = require('https');
 const { Octokit } = require("@octokit/core");
-const { BskyAgent } = require('@atproto/api'); // BlueSky用のライブラリを追加
+const { BskyAgent } = require('@atproto/api');
+const Parser = require('rss-parser'); // RSSパーサーを追加
 
 // --- 環境変数 (GitHub Secretsから渡される) ---
 const GIST_ID = process.env.GIST_ID;
@@ -9,8 +10,9 @@ const GH_API_TOKEN = process.env.GH_API_TOKEN;
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const MASTODON_ACCESS_TOKEN = process.env.MASTODON_ACCESS_TOKEN;
 const MASTODON_INSTANCE_URL = process.env.MASTODON_INSTANCE_URL;
-const BLUESKY_IDENTIFIER = process.env.BLUESKY_IDENTIFIER; // BlueSky用IDを追加
-const BLUESKY_APP_PASSWORD = process.env.BLUESKY_APP_PASSWORD; // BlueSky用パスワードを追加
+const MASTODON_USER_ID = process.env.MASTODON_USER_ID;
+const BLUESKY_IDENTIFIER = process.env.BLUESKY_IDENTIFIER;
+const BLUESKY_APP_PASSWORD = process.env.BLUESKY_APP_PASSWORD;
 const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const SPOTIFY_REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN;
@@ -18,19 +20,22 @@ const TWITCH_CLIENT_ID = process.env.TWITCH_CLIENT_ID;
 const TWITCH_CLIENT_SECRET = process.env.TWITCH_CLIENT_SECRET;
 const TWITCH_USER_ID = process.env.TWITCH_USER_ID;
 
-// ユーザー情報
+
+// --- ユーザー情報 ---
 const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
-const MASTODON_USER_ID = '109353974694481373';
+const NOTE_USERNAME = 'muraseryosuke'; // noteのユーザー名を追加
 
+
+// --- APIクライアントの初期化 ---
 const octokit = new Octokit({ auth: GH_API_TOKEN });
 const gistOctokit = new Octokit({ auth: GIST_TOKEN });
+const bskyAgent = new BskyAgent({ service: 'https://bsky.social' });
+const parser = new Parser();
+
 
 /**
  * 汎用的なHTTPS GETリクエスト関数
- * @param {string} url
- * @param {object} headers
- * @returns {Promise<any>}
  */
 function httpsGet(url, headers = {}) {
     return new Promise((resolve, reject) => {
@@ -43,7 +48,7 @@ function httpsGet(url, headers = {}) {
                     if (res.statusCode >= 200 && res.statusCode < 300) {
                         resolve(JSON.parse(data));
                     } else {
-                        reject(new Error(`HTTPステータスコード: ${res.statusCode}, レスポンス: ${data}`));
+                        reject(new Error(`HTTPステータスコード: ${res.statusCode}, 応答: ${data}`));
                     }
                 } catch (e) {
                     reject(new Error(`JSONの解析に失敗しました: ${e.message}`));
@@ -57,10 +62,6 @@ function httpsGet(url, headers = {}) {
 
 /**
  * 汎用的なHTTPS POSTリクエスト関数
- * @param {URL} url
- * @param {object} headers
- * @param {string} body
- * @returns {Promise<any>}
  */
 function httpsPost(url, headers, body) {
     return new Promise((resolve, reject) => {
@@ -76,7 +77,7 @@ function httpsPost(url, headers, body) {
                      if (res.statusCode >= 200 && res.statusCode < 300) {
                         resolve(JSON.parse(data));
                     } else {
-                        reject(new Error(`HTTPステータスコード: ${res.statusCode}, レスポンス: ${data}`));
+                        reject(new Error(`HTTPステータスコード: ${res.statusCode}, 応答: ${data}`));
                     }
                 } catch (e) {
                     reject(new Error(`JSONの解析に失敗しました: ${e.message}`));
@@ -90,6 +91,7 @@ function httpsPost(url, headers, body) {
         req.end();
     });
 }
+
 
 // --- 各サービスからのデータ取得関数 ---
 
@@ -111,14 +113,13 @@ async function fetchGitHubActivities() {
                 switch (event.type) {
                     case 'PushEvent':
                         content = `${event.repo.name} に ${event.payload.commits.length}件のコミットをPushしました`;
-                        url = `https://github.com/${event.repo.name}/commits/${event.payload.head}`;
                         break;
                     case 'CreateEvent':
-                        if (event.payload.ref_type === 'repository') {
-                            content = `新しいリポジトリ ${event.repo.name} を作成しました`;
-                        } else {
-                            return null;
-                        }
+                         if (event.payload.ref_type === 'repository') {
+                             content = `新しいリポジトリ ${event.repo.name} を作成しました`;
+                         } else {
+                             return null; 
+                         }
                         break;
                     case 'WatchEvent':
                         content = `${event.repo.name} をStarしました`;
@@ -139,10 +140,12 @@ async function fetchGitHubActivities() {
     }
 }
 
+
 /**
  * YouTubeの活動を取得
  */
 async function fetchYouTubeActivities() {
+    if (!YOUTUBE_API_KEY) return [];
     try {
         const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${YOUTUBE_CHANNEL_ID}&maxResults=5&order=date&type=video&key=${YOUTUBE_API_KEY}`;
         const data = await httpsGet(url);
@@ -162,18 +165,20 @@ async function fetchYouTubeActivities() {
  * Mastodonの活動を取得
  */
 async function fetchMastodonActivities() {
-    if (!MASTODON_INSTANCE_URL || !MASTODON_ACCESS_TOKEN) return [];
+    if (!MASTODON_INSTANCE_URL || !MASTODON_ACCESS_TOKEN || !MASTODON_USER_ID) return [];
     try {
-        const url = `${MASTODON_INSTANCE_URL}/api/v1/accounts/${MASTODON_USER_ID}/statuses?limit=10&exclude_replies=true&exclude_reblogs=true`;
+        const url = `${MASTODON_INSTANCE_URL}/api/v1/accounts/${MASTODON_USER_ID}/statuses?limit=10`;
         const headers = { 'Authorization': `Bearer ${MASTODON_ACCESS_TOKEN}` };
         const data = await httpsGet(url, headers);
 
-        return data.map(status => ({
-            platform: 'Mastodon',
-            timestamp: status.created_at,
-            content: status.content.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, ''), // HTMLタグを除去
-            url: status.url
-        }));
+        return data
+            .filter(status => !status.reblog && !status.in_reply_to_id)
+            .map(status => ({
+                platform: 'Mastodon',
+                timestamp: status.created_at,
+                content: status.content.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, ''),
+                url: status.url
+            }));
     } catch (error) {
         console.error("Mastodonの活動取得中にエラー:", error.message);
         return [];
@@ -186,16 +191,11 @@ async function fetchMastodonActivities() {
 async function fetchBlueskyActivities() {
     if (!BLUESKY_IDENTIFIER || !BLUESKY_APP_PASSWORD) return [];
     try {
-        const agent = new BskyAgent({ service: 'https://bsky.social' });
-        await agent.login({ identifier: BLUESKY_IDENTIFIER, password: BLUESKY_APP_PASSWORD });
-
-        const response = await agent.api.app.bsky.feed.getAuthorFeed({
-            actor: BLUESKY_IDENTIFIER,
-            limit: 10
-        });
-
+        await bskyAgent.login({ identifier: BLUESKY_IDENTIFIER, password: BLUESKY_APP_PASSWORD });
+        const response = await bskyAgent.getAuthorFeed({ actor: BLUESKY_IDENTIFIER, limit: 10 });
+        
         return response.data.feed
-            .filter(item => !item.post.record.reply && !item.reason) // リプライとリポストを除外
+            .filter(item => !item.reply && !item.reason) // リプライとリポストを除外
             .map(item => ({
                 platform: 'Bluesky',
                 timestamp: item.post.indexedAt,
@@ -239,6 +239,7 @@ async function fetchSpotifyActivities() {
     }
 }
 
+
 /**
  * Twitchの活動を取得
  */
@@ -269,8 +270,28 @@ async function fetchTwitchActivities() {
 }
 
 /**
+ * noteの活動を取得 (NEW)
+ */
+async function fetchNoteActivities() {
+    try {
+        const feedUrl = `https://note.com/${NOTE_USERNAME}/rss`;
+        const feed = await parser.parseURL(feedUrl);
+        
+        return feed.items.slice(0, 5).map(item => ({
+            platform: 'note',
+            timestamp: item.isoDate,
+            content: `記事「${item.title}」を投稿しました`,
+            url: item.link
+        }));
+    } catch (error) {
+        console.error("noteの活動取得中にエラー:", error.message);
+        return [];
+    }
+}
+
+
+/**
  * Gistを更新する
- * @param {Array<object>} activities 
  */
 async function updateGist(activities) {
     try {
@@ -303,9 +324,10 @@ async function main() {
         fetchGitHubActivities(),
         fetchYouTubeActivities(),
         fetchMastodonActivities(),
-        fetchBlueskyActivities(), // BlueSkyの取得関数を追加
+        fetchBlueskyActivities(),
         fetchSpotifyActivities(),
-        fetchTwitchActivities()
+        fetchTwitchActivities(),
+        fetchNoteActivities() // noteの取得を追加
     ];
 
     const results = await Promise.all(allActivitiesPromises);
@@ -325,6 +347,7 @@ async function main() {
     console.log('処理が正常に完了しました。');
 }
 
+// 実行
 main().catch(error => {
     console.error("スクリプトの実行中に致命的なエラーが発生しました:", error.message);
     process.exit(1);
