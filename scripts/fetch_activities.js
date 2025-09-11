@@ -25,7 +25,8 @@ const TWITCH_USER_ID = process.env.TWITCH_USER_ID;
 const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
 const NOTE_USERNAME = 'muraseryosuke';
-const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com'; // Tumblrのホスト名を追加
+const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com';
+const VIMEO_USERNAME = 'RyosukeMurase'; // Vimeoのユーザー名を追加
 
 
 // --- APIクライアントの初期化 ---
@@ -291,7 +292,7 @@ async function fetchNoteActivities() {
 }
 
 /**
- * Tumblrの活動を取得 (NEW)
+ * Tumblrの活動を取得
  */
 async function fetchTumblrActivities() {
     try {
@@ -300,12 +301,32 @@ async function fetchTumblrActivities() {
         
         return feed.items.slice(0, 5).map(item => ({
             platform: 'Tumblr',
-            timestamp: item.isoDate || item.pubDate, // 念のためpubDateも見る
+            timestamp: item.isoDate || item.pubDate,
             content: `投稿「${item.title}」をしました`,
             url: item.link
         }));
     } catch (error) {
         console.error("Tumblrの活動取得中にエラー:", error.message);
+        return [];
+    }
+}
+
+/**
+ * Vimeoの活動を取得 (NEW)
+ */
+async function fetchVimeoActivities() {
+    try {
+        const feedUrl = `https://vimeo.com/${VIMEO_USERNAME}/videos/rss`;
+        const feed = await parser.parseURL(feedUrl);
+        
+        return feed.items.slice(0, 5).map(item => ({
+            platform: 'Vimeo',
+            timestamp: item.isoDate || item.pubDate,
+            content: `動画「${item.title}」を公開しました`,
+            url: item.link
+        }));
+    } catch (error) {
+        console.error("Vimeoの活動取得中にエラー:", error.message);
         return [];
     }
 }
@@ -349,7 +370,8 @@ async function main() {
         fetchSpotifyActivities(),
         fetchTwitchActivities(),
         fetchNoteActivities(),
-        fetchTumblrActivities() // Tumblrの取得を追加
+        fetchTumblrActivities(),
+        fetchVimeoActivities() // Vimeoの取得を追加
     ];
 
     const results = await Promise.all(allActivitiesPromises);
