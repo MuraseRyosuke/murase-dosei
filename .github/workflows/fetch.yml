@@ -38,6 +38,4 @@ jobs:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
           TWITCH_USER_ID: ${{ secrets.TWITCH_USER_ID }}
-          DRIBBBLE_CLIENT_ID: ${{ secrets.DRIBBBLE_CLIENT_ID }}
-          DRIBBBLE_CLIENT_SECRET: ${{ secrets.DRIBBBLE_CLIENT_SECRET }}
 
