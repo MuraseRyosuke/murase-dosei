@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-09-20T07:44:18.442Z",
+    "content": "Maison book girl の「karma」を聴きました",
+    "url": "https://open.spotify.com/track/2vLRZmFxaISrP50X0mcANM"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2025-09-20T06:15:54Z",
     "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
@@ -76,12 +82,6 @@
     "timestamp": "2025-09-19T18:10:10.329Z",
     "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
     "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-19T18:06:09.330Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
   },
   {
     "platform": "Bluesky",
