@@ -1,11 +1,10 @@
 const https = require('https');
+const fs = require('fs'); // ファイル書き込みのためのモジュールを追加
 const { Octokit } = require("@octokit/core");
 const { BskyAgent } = require('@atproto/api');
 const Parser = require('rss-parser');
 
 // --- 環境変数 (GitHub Secretsから渡される) ---
-const GIST_ID = process.env.GIST_ID;
-const GIST_TOKEN = process.env.GIST_TOKEN;
 const GH_API_TOKEN = process.env.GH_API_TOKEN;
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const MASTODON_ACCESS_TOKEN = process.env.MASTODON_ACCESS_TOKEN;
@@ -20,7 +19,6 @@ const TWITCH_CLIENT_ID = process.env.TWITCH_CLIENT_ID;
 const TWITCH_CLIENT_SECRET = process.env.TWITCH_CLIENT_SECRET;
 const TWITCH_USER_ID = process.env.TWITCH_USER_ID;
 
-
 // --- ユーザー情報 ---
 const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
@@ -28,12 +26,10 @@ const NOTE_USERNAME = 'muraseryosuke';
 const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com';
 const VIMEO_USERNAME = 'RyosukeMurase';
 const SOUNDCLOUD_USER_ID = '16353954';
-const BEHANCE_USERNAME = 'ryosukemurase'; // Behanceのユーザー名を追加
-
+const BEHANCE_USERNAME = 'ryosukemurase';
 
 // --- APIクライアントの初期化 ---
 const octokit = new Octokit({ auth: GH_API_TOKEN });
-const gistOctokit = new Octokit({ auth: GIST_TOKEN });
 const bskyAgent = new BskyAgent({ service: 'https://bsky.social' });
 const parser = new Parser();
 
@@ -99,9 +95,6 @@ function httpsPost(url, headers, body) {
 
 // --- 各サービスからのデータ取得関数 ---
 
-/**
- * GitHubの活動を取得
- */
 async function fetchGitHubActivities() {
     try {
         const response = await octokit.request('GET /users/{username}/events', {
@@ -144,10 +137,6 @@ async function fetchGitHubActivities() {
     }
 }
 
-
-/**
- * YouTubeの活動を取得
- */
 async function fetchYouTubeActivities() {
     if (!YOUTUBE_API_KEY) return [];
     try {
@@ -165,9 +154,6 @@ async function fetchYouTubeActivities() {
     }
 }
 
-/**
- * Mastodonの活動を取得
- */
 async function fetchMastodonActivities() {
     if (!MASTODON_INSTANCE_URL || !MASTODON_ACCESS_TOKEN || !MASTODON_USER_ID) return [];
     try {
@@ -189,9 +175,6 @@ async function fetchMastodonActivities() {
     }
 }
 
-/**
- * BlueSkyの活動を取得
- */
 async function fetchBlueskyActivities() {
     if (!BLUESKY_IDENTIFIER || !BLUESKY_APP_PASSWORD) return [];
     try {
@@ -199,7 +182,7 @@ async function fetchBlueskyActivities() {
         const response = await bskyAgent.getAuthorFeed({ actor: BLUESKY_IDENTIFIER, limit: 10 });
         
         return response.data.feed
-            .filter(item => !item.reply && !item.reason) // リプライとリポストを除外
+            .filter(item => !item.reply && !item.reason)
             .map(item => ({
                 platform: 'Bluesky',
                 timestamp: item.post.indexedAt,
@@ -212,9 +195,6 @@ async function fetchBlueskyActivities() {
     }
 }
 
-/**
- * Spotifyの最近聴いた曲を取得
- */
 async function fetchSpotifyActivities() {
     if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) return [];
     try {
@@ -243,10 +223,6 @@ async function fetchSpotifyActivities() {
     }
 }
 
-
-/**
- * Twitchの活動を取得
- */
 async function fetchTwitchActivities() {
     if (!TWITCH_CLIENT_ID || !TWITCH_CLIENT_SECRET || !TWITCH_USER_ID) return [];
     try {
@@ -273,9 +249,6 @@ async function fetchTwitchActivities() {
     }
 }
 
-/**
- * noteの活動を取得
- */
 async function fetchNoteActivities() {
     try {
         const feedUrl = `https://note.com/${NOTE_USERNAME}/rss`;
@@ -293,9 +266,6 @@ async function fetchNoteActivities() {
     }
 }
 
-/**
- * Tumblrの活動を取得
- */
 async function fetchTumblrActivities() {
     try {
         const feedUrl = `https://${TUMBLR_HOSTNAME}/rss`;
@@ -313,9 +283,6 @@ async function fetchTumblrActivities() {
     }
 }
 
-/**
- * Vimeoの活動を取得
- */
 async function fetchVimeoActivities() {
     try {
         const feedUrl = `https://vimeo.com/${VIMEO_USERNAME}/videos/rss`;
@@ -333,9 +300,6 @@ async function fetchVimeoActivities() {
     }
 }
 
-/**
- * SoundCloudの活動を取得
- */
 async function fetchSoundCloudActivities() {
     try {
         const feedUrl = `https://feeds.soundcloud.com/users/soundcloud:users:${SOUNDCLOUD_USER_ID}/sounds.rss`;
@@ -353,9 +317,6 @@ async function fetchSoundCloudActivities() {
     }
 }
 
-/**
- * Behanceの活動を取得 (NEW)
- */
 async function fetchBehanceActivities() {
     try {
         const feedUrl = `https://www.behance.net/${BEHANCE_USERNAME}/rss`;
@@ -375,21 +336,15 @@ async function fetchBehanceActivities() {
 
 
 /**
- * Gistを更新する
+ * 取得した活動データをtimeline.jsonファイルに書き込む
+ * @param {Array<object>} activities 
  */
-async function updateGist(activities) {
+async function writeTimelineFile(activities) {
     try {
-        await gistOctokit.request('PATCH /gists/{gist_id}', {
-            gist_id: GIST_ID,
-            files: {
-                'timeline.json': {
-                    content: JSON.stringify(activities, null, 2)
-                }
-            }
-        });
-        console.log('Gistの更新に成功しました。');
+        fs.writeFileSync('timeline.json', JSON.stringify(activities, null, 2));
+        console.log('timeline.jsonの書き込みに成功しました。');
     } catch (error) {
-        console.error('Gistの更新に失敗しました:', error.message);
+        console.error('timeline.jsonの書き込みに失敗しました:', error.message);
         throw error;
     }
 }
@@ -399,10 +354,6 @@ async function updateGist(activities) {
  */
 async function main() {
     console.log('活動の取得を開始します...');
-
-    if (!GIST_ID || !GIST_TOKEN || !GH_API_TOKEN) {
-        throw new Error('基本的な環境変数（GIST_ID, GIST_TOKEN, GH_API_TOKEN）が設定されていません。');
-    }
 
     const allActivitiesPromises = [
         fetchGitHubActivities(),
@@ -415,7 +366,7 @@ async function main() {
         fetchTumblrActivities(),
         fetchVimeoActivities(),
         fetchSoundCloudActivities(),
-        fetchBehanceActivities() // Behanceの取得を追加
+        fetchBehanceActivities()
     ];
 
     const results = await Promise.all(allActivitiesPromises);
@@ -430,7 +381,7 @@ async function main() {
 
     console.log(`合計 ${sortedAndFilteredActivities.length} 件の活動を取得しました。`);
 
-    await updateGist(sortedAndFilteredActivities);
+    await writeTimelineFile(sortedAndFilteredActivities);
     
     console.log('処理が正常に完了しました。');
 }
