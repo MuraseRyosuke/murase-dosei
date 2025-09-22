@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-22T22:28:51.118Z",
+    "content": "梅田サイファー の「レインメイカー」を聴きました",
+    "url": "https://open.spotify.com/track/2tXD4HAAzGGvwbDe5zNvDT"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-22T22:22:03.575Z",
+    "content": "Infumiaikumiai の「まだいけるか？ feat. peko, TEPPEI, コーラ, KBD, テークエム, KZ, ILL SWAG GAGA, KennyDoes, KOPERU & Cosaqu (from 梅田サイファー)」を聴きました",
+    "url": "https://open.spotify.com/track/2uryDp4Rrmd0n6s9ujxJQZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-22T22:16:48.484Z",
     "content": "梅田サイファー の「KILLING TIME」を聴きました",
     "url": "https://open.spotify.com/track/2jwZ8ezo8rwrHc7Z736clw"
@@ -8,7 +20,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-09-22T22:10:37.880Z",
-    "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コーラ)」を聴きました",
+    "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コー���)」を聴きました",
     "url": "https://open.spotify.com/track/0xEUcFBx862tEIEhHUsIAe"
   },
   {
@@ -46,18 +58,6 @@
     "timestamp": "2025-09-22T21:46:12.396Z",
     "content": "梅田サイファー の「HEADSHOT pt.2 (feat. テークエム, ふぁんく, R-指定, KBD, KennyDoes, KOPERU, KZ & peko)」を聴きました",
     "url": "https://open.spotify.com/track/5j5J1JUp3i4xHh0wRNJOGl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T21:41:02.160Z",
-    "content": "梅田サイファー の「PARTY」を聴きました",
-    "url": "https://open.spotify.com/track/7iXR1A4HS7PjkLh5JKiWru"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T21:37:35.632Z",
-    "content": "梅田サイファー の「リズム天下一武道会」を聴きました",
-    "url": "https://open.spotify.com/track/2oVaMQaU3SuhQysAZyYJJE"
   },
   {
     "platform": "GitHub",
