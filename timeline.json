@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-22T18:18:05.297Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-21T09:16:50.939Z",
     "content": "Lucky Kilimanjaro の「Drawing!」を聴きました",
     "url": "https://open.spotify.com/track/5yak1LjlIZKKRowDR8uYR3"
@@ -76,12 +82,6 @@
     "timestamp": "2025-09-19T18:28:39.527Z",
     "content": "m-flo の「ARIGATTO」を聴きました",
     "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-19T18:24:09.748Z",
-    "content": "m-flo の「the Love Bug」を聴きました",
-    "url": "https://open.spotify.com/track/5QnjmbuoM0lxXsj1NYbwwz"
   },
   {
     "platform": "Bluesky",
