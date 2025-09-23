@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-23T18:24:54.376Z",
+    "content": "m-flo の「the Love Bug」を聴きました",
+    "url": "https://open.spotify.com/track/3JRlINdL0n6OlySVpn8cvy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-23T18:17:42.944Z",
+    "content": "m-flo の「ARIGATTO」を聴きました",
+    "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-23T18:13:06.363Z",
+    "content": "Fujii Kaze の「Love Like This」を聴きました",
+    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-23T18:07:00.247Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -40,24 +58,6 @@
     "timestamp": "2025-09-22T22:10:37.880Z",
     "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コーラ)」を聴きました",
     "url": "https://open.spotify.com/track/0xEUcFBx862tEIEhHUsIAe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T22:08:28.647Z",
-    "content": "LITTLE の「小島サイファー （Prod by DJ FUMIYA)feat.KennyDoes.KOPERU.peko.R指定.たうりん.KBD.テークエム.KZ.梅田サイファー」を聴きました",
-    "url": "https://open.spotify.com/track/15YIA8i11wEt9y1MjDDNNa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T22:02:32.754Z",
-    "content": "梅田サイファー の「Yes Yes Y’all (feat. KennyDoes, OSCA, テークエム, KOPERU, KBD & tella)」を聴きました",
-    "url": "https://open.spotify.com/track/5vhL5JUBtQsbFUbgE1vGTI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T21:58:57.236Z",
-    "content": "梅田サイファー の「BOW WOW - Mo' ワンちゃん Remix」を聴きました",
-    "url": "https://open.spotify.com/track/5LQ2R6lcEBLgOXEhYsvXZm"
   },
   {
     "platform": "GitHub",
