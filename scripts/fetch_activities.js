@@ -23,10 +23,8 @@ const TWITCH_USER_ID = process.env.TWITCH_USER_ID;
 const GITHUB_USERNAME = 'MuraseRyosuke';
 const YOUTUBE_CHANNEL_ID = 'UCYnXDiX1IXfr7IfmtKGZd7w';
 const NOTE_USERNAME = 'muraseryosuke';
-const TUMBLR_HOSTNAME = 'vl-lvoo.tumblr.com';
 const VIMEO_USERNAME = 'RyosukeMurase';
 const SOUNDCLOUD_USER_ID = '16353954';
-const BEHANCE_USERNAME = 'ryosukemurase';
 
 // --- APIクライアントの初期化 ---
 const octokit = new Octokit({ auth: GH_API_TOKEN });
@@ -112,11 +110,11 @@ async function fetchGitHubActivities() {
                         content = `${event.repo.name} に ${event.payload.commits.length}件のコミットをPushしました`;
                         break;
                     case 'CreateEvent':
-                         if (event.payload.ref_type === 'repository') {
-                             content = `新しいリポジトリ ${event.repo.name} を作成しました`;
-                         } else {
-                             return null; 
-                         }
+                        if (event.payload.ref_type === 'repository') {
+                            content = `新しいリポジトリ ${event.repo.name} を作成しました`;
+                        } else {
+                            return null; 
+                        }
                         break;
                     case 'WatchEvent':
                         content = `${event.repo.name} をStarしました`;
@@ -266,23 +264,6 @@ async function fetchNoteActivities() {
     }
 }
 
-async function fetchTumblrActivities() {
-    try {
-        const feedUrl = `https://${TUMBLR_HOSTNAME}/rss`;
-        const feed = await parser.parseURL(feedUrl);
-        
-        return feed.items.slice(0, 5).map(item => ({
-            platform: 'Tumblr',
-            timestamp: item.isoDate || item.pubDate,
-            content: `投稿「${item.title}」をしました`,
-            url: item.link
-        }));
-    } catch (error) {
-        console.error("Tumblrの活動取得中にエラー:", error.message);
-        return [];
-    }
-}
-
 async function fetchVimeoActivities() {
     try {
         const feedUrl = `https://vimeo.com/${VIMEO_USERNAME}/videos/rss`;
@@ -317,24 +298,6 @@ async function fetchSoundCloudActivities() {
     }
 }
 
-async function fetchBehanceActivities() {
-    try {
-        const feedUrl = `https://www.behance.net/${BEHANCE_USERNAME}/rss`;
-        const feed = await parser.parseURL(feedUrl);
-        
-        return feed.items.slice(0, 5).map(item => ({
-            platform: 'Behance',
-            timestamp: item.isoDate || item.pubDate,
-            content: `プロジェクト「${item.title}」を公開しました`,
-            url: item.link
-        }));
-    } catch (error) {
-        console.error("Behanceの活動取得中にエラー:", error.message);
-        return [];
-    }
-}
-
-
 /**
  * 取得した活動データをtimeline.jsonファイルに書き込む
  * @param {Array<object>} activities 
@@ -363,10 +326,8 @@ async function main() {
         fetchSpotifyActivities(),
         fetchTwitchActivities(),
         fetchNoteActivities(),
-        fetchTumblrActivities(),
         fetchVimeoActivities(),
         fetchSoundCloudActivities(),
-        fetchBehanceActivities()
     ];
 
     const results = await Promise.all(allActivitiesPromises);
