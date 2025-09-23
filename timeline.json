@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-23T20:22:55.028Z",
+    "content": "Fujii Kaze の「Forever Young」を聴きました",
+    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-23T20:17:01.232Z",
     "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
     "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-23T18:24:54.376Z",
     "content": "m-flo の「the Love Bug」を聴きました",
     "url": "https://open.spotify.com/track/3JRlINdL0n6OlySVpn8cvy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-23T18:17:42.944Z",
-    "content": "m-flo の「ARIGATTO」を聴きました",
-    "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
   },
   {
     "platform": "GitHub",
