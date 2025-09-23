@@ -20,7 +20,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-09-22T22:10:37.880Z",
-    "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コーラ)」を聴きました",
+    "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コー���)」を聴きました",
     "url": "https://open.spotify.com/track/0xEUcFBx862tEIEhHUsIAe"
   },
   {
@@ -82,17 +82,5 @@
     "timestamp": "2025-09-20T06:06:03Z",
     "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
     "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2025-09-16T11:35:51.068Z",
-    "content": "DropBox使える人本当尊敬する（というより、理想的なファイラーがこの世に存在しない説はある）",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3lyxa4uqgds2k"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2025-09-16T11:34:30.971Z",
-    "content": "Pinterest、設計思想的にもっと雑に使ってほしいんだろうな～と思うけど（ボードからサブボードへ保存しても、もとのボードには残りっぱなしで二重保存になる）、それが理由でどうもうまく使いこなせない\nTwitterが非対応になったのを理由に離れてしまったし（そして今は使えるな、謎～！）",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3lyxa2ip4522k"
   }
 ]
