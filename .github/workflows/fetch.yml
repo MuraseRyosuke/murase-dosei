@@ -7,7 +7,6 @@ on:
 
 jobs:
   fetch-and-update:
-    # この3行を追加して、ワークフローに書き込み権限を与えます
     permissions:
       contents: write
       
@@ -40,10 +39,13 @@ jobs:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
           TWITCH_USER_ID: ${{ secrets.TWITCH_USER_ID }}
+      
+      - name: Get current date # 現在時刻を取得するステップ
+        id: date
+        run: echo "NOW=$(TZ=JST-9 date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update timeline data"
+          commit_message: "Update timeline data (${{ env.NOW }})" # 日時を含むコミットメッセージに変更
           file_pattern: timeline.json
-
