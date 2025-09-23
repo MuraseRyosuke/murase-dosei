@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-23T18:07:00.247Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-23T18:01:19.319Z",
+    "content": "Sade の「Smooth Operator - 2011 Remastered」を聴きました",
+    "url": "https://open.spotify.com/track/28XDE6yXI6Bp4U3nLSGqzp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-23T17:57:02.651Z",
+    "content": "Fujii Kaze の「Weak」を聴きました",
+    "url": "https://open.spotify.com/track/7KmuSV13kEJzP07shcXoov"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-22T22:28:51.118Z",
     "content": "梅田サイファー の「レインメイカー」を聴きました",
     "url": "https://open.spotify.com/track/2tXD4HAAzGGvwbDe5zNvDT"
@@ -20,7 +38,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-09-22T22:10:37.880Z",
-    "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コー���)」を聴きました",
+    "content": "梅田サイファー の「朝に歌えば (feat. KOPERU, teppei, peko, タウリン & コーラ)」を聴きました",
     "url": "https://open.spotify.com/track/0xEUcFBx862tEIEhHUsIAe"
   },
   {
@@ -40,24 +58,6 @@
     "timestamp": "2025-09-22T21:58:57.236Z",
     "content": "梅田サイファー の「BOW WOW - Mo' ワンちゃん Remix」を聴きました",
     "url": "https://open.spotify.com/track/5LQ2R6lcEBLgOXEhYsvXZm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T21:53:50.658Z",
-    "content": "ROAR の「Love and affection - 2010 Ver.」を聴きました",
-    "url": "https://open.spotify.com/track/3xojY6GCIIceOGujlUEMOf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T21:49:39.034Z",
-    "content": "KennyDoes の「オーライ (feat. テークエム, peko & KOPERU)」を聴きました",
-    "url": "https://open.spotify.com/track/6B2oIbs6eJlL54RDiY2pIW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-22T21:46:12.396Z",
-    "content": "梅田サイファー の「HEADSHOT pt.2 (feat. テークエム, ふぁんく, R-指定, KBD, KennyDoes, KOPERU, KZ & peko)」を聴きました",
-    "url": "https://open.spotify.com/track/5j5J1JUp3i4xHh0wRNJOGl"
   },
   {
     "platform": "GitHub",
