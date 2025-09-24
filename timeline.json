@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-24T07:35:12.492Z",
+    "content": "MEG の「N07B」を聴きました",
+    "url": "https://open.spotify.com/track/3xnGi8Wn71hHr5pGRmmagF"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-24T03:13:10.164Z",
     "content": "Fujii Kaze の「Forever Young」を聴きました",
     "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-24T02:37:22.903Z",
     "content": "Fujii Kaze の「Casket Girl」を聴きました",
     "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-23T20:22:55.028Z",
-    "content": "Fujii Kaze の「Forever Young」を聴きました",
-    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
   },
   {
     "platform": "GitHub",
