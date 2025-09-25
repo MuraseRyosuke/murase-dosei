@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-25T16:42:00.927Z",
+    "content": "Kozo Murashita の「初恋」を聴きました",
+    "url": "https://open.spotify.com/track/3An5wzyMgTbXYfBHHiv3wG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T16:36:29.257Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T16:31:59.848Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T16:25:29.848Z",
+    "content": "KIRINJI の「ほのめかし (feat. SE SO NEON)」を聴きました",
+    "url": "https://open.spotify.com/track/0iKP8JNS15mvdulOorh5V7"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-25T16:21:29.680Z",
     "content": "DIALOGUE+ の「2人、降り積もっていく」を聴きました",
     "url": "https://open.spotify.com/track/7ocvLBnvfC49G36jQYI1IJ"
@@ -34,95 +58,5 @@
     "timestamp": "2025-09-25T15:49:59.513Z",
     "content": "Number_i の「INZM」を聴きました",
     "url": "https://open.spotify.com/track/5PTL6Kn0n4rEmhWQP3NqEb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:46:29.700Z",
-    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
-    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:42:55.681Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:37:59.760Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:33:31.619Z",
-    "content": "m-flo の「the Love Bug」を聴きました",
-    "url": "https://open.spotify.com/track/3JRlINdL0n6OlySVpn8cvy"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-24T17:46:43Z",
-    "content": "plamere/SortYourMusic をStarしました",
-    "url": "https://github.com/plamere/SortYourMusic"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T18:31:00Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T18:27:14Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T18:09:31Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T17:55:15Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T17:46:49Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T17:23:29Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-20T06:15:54Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-20T06:12:43Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-20T06:10:18Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-20T06:06:03Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
   }
 ]
