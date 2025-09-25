@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-25T16:21:29.680Z",
+    "content": "DIALOGUE+ の「2人、降り積もっていく」を聴きました",
+    "url": "https://open.spotify.com/track/7ocvLBnvfC49G36jQYI1IJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T16:18:10.182Z",
+    "content": "ネクライトーキー の「こんがらがった!」を聴きました",
+    "url": "https://open.spotify.com/track/6JJnqVcOBfIaKXDjZqxOUv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T16:14:07.315Z",
+    "content": "RHYMESTER の「Diamonds」を聴きました",
+    "url": "https://open.spotify.com/track/2rLx7pSMIeZrKLObQC3At5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T16:02:59.671Z",
+    "content": "白羽 の「ポスト均衡」を聴きました",
+    "url": "https://open.spotify.com/track/2yU5Y4Zf6WsizwV9pwwTn3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T15:53:59.485Z",
+    "content": "Gen Hoshino の「ばらばら」を聴きました",
+    "url": "https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T15:49:59.513Z",
+    "content": "Number_i の「INZM」を聴きました",
+    "url": "https://open.spotify.com/track/5PTL6Kn0n4rEmhWQP3NqEb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T15:46:29.700Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T15:42:55.681Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-25T15:37:59.760Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -12,58 +60,10 @@
     "url": "https://open.spotify.com/track/3JRlINdL0n6OlySVpn8cvy"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:28:56.638Z",
-    "content": "m-flo の「ARIGATTO」を聴きました",
-    "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:24:55.977Z",
-    "content": "MEG の「OUR SPACE」を聴きました",
-    "url": "https://open.spotify.com/track/300Suikuu4NEuE1TBAo9aV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T15:24:54.697Z",
-    "content": "MEG の「SECRET ADVENTURE」を聴きました",
-    "url": "https://open.spotify.com/track/5XR0CEQvcYYsXSusAf98MA"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2025-09-24T17:46:43Z",
     "content": "plamere/SortYourMusic をStarしました",
     "url": "https://github.com/plamere/SortYourMusic"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-24T07:35:12.492Z",
-    "content": "MEG の「N07B」を聴きました",
-    "url": "https://open.spotify.com/track/3xnGi8Wn71hHr5pGRmmagF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-24T03:13:10.164Z",
-    "content": "Fujii Kaze の「Forever Young」を聴きました",
-    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-24T03:07:53.455Z",
-    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
-    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-24T03:03:24.635Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-24T02:58:43.480Z",
-    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
-    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
   },
   {
     "platform": "GitHub",
