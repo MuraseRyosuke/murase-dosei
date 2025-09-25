@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-25T19:15:45.190Z",
+    "content": "RHYMESTER の「The Choice Is Yours」を聴きました",
+    "url": "https://open.spotify.com/track/4niqa7E9MKusXkFMUaqoGq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T19:11:06.825Z",
+    "content": "Maaya Sakamoto の「everywhere～HAL mix」を聴きました",
+    "url": "https://open.spotify.com/track/080TZv8KSQzMrgOOYWmWZ0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T19:05:37.392Z",
+    "content": "YAKUSHIMARU Etsuko の「ファイナルダーリン」を聴きました",
+    "url": "https://open.spotify.com/track/1QoNJbrzsYDwLVxnYSTXOx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T19:01:07.011Z",
+    "content": "Shiho Nanba の「こどなの階段」を聴きました",
+    "url": "https://open.spotify.com/track/3ArIAb7U3sQCERoXSRDj3E"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T18:56:06.655Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「MULTIPLIES - 2019 Bob Ludwig Remastering」を聴きました",
+    "url": "https://open.spotify.com/track/2rw2bfm8khdwiCIJqcma43"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-25T18:53:07.022Z",
+    "content": "UNICORN の「WAO!」を聴きました",
+    "url": "https://open.spotify.com/track/0vsMJ9kZyVD3poXSisGZW7"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-25T18:48:36.833Z",
     "content": "Squarepusher の「Dark Steering」を聴きました",
     "url": "https://open.spotify.com/track/2ymO9NyWYVwomZAqKGGaAb"
@@ -22,42 +58,6 @@
     "timestamp": "2025-09-25T18:33:07.070Z",
     "content": "BOOM BOOM SATELLITES の「A HUNDRED SUNS」を聴きました",
     "url": "https://open.spotify.com/track/7GGXhDEawcYiAbjKaMsiy2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T18:28:37.951Z",
-    "content": "Kana Hanazawa の「星空☆ディスティネーション」を聴きました",
-    "url": "https://open.spotify.com/track/4SIdzzl0RYCCS962rklTNu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T18:23:36.764Z",
-    "content": "Earth, Wind & Fire の「In the Stone」を聴きました",
-    "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T18:18:41.524Z",
-    "content": "Kenshi Yonezu の「KICK BACK」を聴きました",
-    "url": "https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T18:15:36.901Z",
-    "content": "CHEMISTRY の「So in Vain」を聴きました",
-    "url": "https://open.spotify.com/track/19ZdaOPHXZRN96iplaqtq7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T18:09:36.892Z",
-    "content": "tofubeats の「RUN」を聴きました",
-    "url": "https://open.spotify.com/track/0lWLvBmmKyS421MIJqy5u3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T18:07:43.047Z",
-    "content": "Mike & Rich の「Mr. Frosty」を聴きました",
-    "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
   },
   {
     "platform": "GitHub",
