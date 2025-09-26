@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-26T20:39:47.609Z",
+    "content": "Fujii Kaze の「Forever Young」を聴きました",
+    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-26T20:33:53.638Z",
     "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
     "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-26T08:20:24.538Z",
     "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
     "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-26T08:18:47.454Z",
-    "content": "Creepy Nuts の「japanese」を聴きました",
-    "url": "https://open.spotify.com/track/3GkTpWHIlz19hXKfyTC2U0"
   },
   {
     "platform": "GitHub",
