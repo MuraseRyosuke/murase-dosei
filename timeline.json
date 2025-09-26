@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-26T20:20:22.056Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-26T20:16:05.274Z",
+    "content": "Fujii Kaze の「Love Like This」を聴きました",
+    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-26T20:11:40.788Z",
+    "content": "Fujii Kaze の「Hachikō」を聴きました",
+    "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-26T20:07:09.385Z",
+    "content": "Fujii Kaze の「I Need U Back」を聴きました",
+    "url": "https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-26T20:04:07.583Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-26T08:20:24.538Z",
     "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
     "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
@@ -28,36 +58,6 @@
     "timestamp": "2025-09-25T20:35:06.090Z",
     "content": "Rage Against The Machine の「Killing In The Name」を聴きました",
     "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T20:29:36.910Z",
-    "content": "Gipsy Kings の「Bamboléo」を聴きました",
-    "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T20:26:06.793Z",
-    "content": "KUCHIRORO の「ヒップホップの経年変化」を聴きました",
-    "url": "https://open.spotify.com/track/2Fcq5qTI9J0xL5FWGgHC2X"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T20:23:07.207Z",
-    "content": "group_inou の「EYE」を聴きました",
-    "url": "https://open.spotify.com/track/4wd8kECYqJQid66a07ABNt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T20:19:06.903Z",
-    "content": "Tokyo Girls' Style の「Love like candy floss」を聴きました",
-    "url": "https://open.spotify.com/track/5E3YANXEvLzRs6CcBY7g8i"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-25T20:15:07.825Z",
-    "content": "RYUTist の「黄昏のダイアリー」を聴きました",
-    "url": "https://open.spotify.com/track/45SRm2AEVSqbfgmdFM4POi"
   },
   {
     "platform": "GitHub",
