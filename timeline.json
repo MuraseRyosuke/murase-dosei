@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-27T14:36:04.094Z",
+    "content": "Eminem の「Unaccommodating (feat. Young M.A)」を聴きました",
+    "url": "https://open.spotify.com/track/0q2vG0UVuy6ajjcpkQHdZM"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-27T14:32:27.314Z",
+    "content": "Eminem の「Premonition - Intro」を聴きました",
+    "url": "https://open.spotify.com/track/7ccTcabbJlCJiIqtrSSwBk"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-27T14:27:28.133Z",
+    "content": "Creepy Nuts の「Bling-Bang-Bang-Born」を聴きました",
+    "url": "https://open.spotify.com/track/4LhDEsC2tzaVuZbWAaCLrP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-27T14:24:38.290Z",
+    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
+    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-27T14:22:59.717Z",
+    "content": "Creepy Nuts の「japanese」を聴きました",
+    "url": "https://open.spotify.com/track/3GkTpWHIlz19hXKfyTC2U0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-27T14:20:13.163Z",
+    "content": "Creepy Nuts の「ビリケン - Biriken」を聴きました",
+    "url": "https://open.spotify.com/track/3iXoKmxINNTdkRodeChM1d"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-27T14:17:42.405Z",
+    "content": "Creepy Nuts の「doppelgänger」を聴きました",
+    "url": "https://open.spotify.com/track/22pJeRZ0Mex0B85PQD4mUD"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-27T14:14:53.563Z",
     "content": "Creepy Nuts の「中学22年生 - 22nd year of junior high school」を聴きました",
     "url": "https://open.spotify.com/track/5vkdwWHcguaRatsvpxHyAM"
@@ -16,48 +58,6 @@
     "timestamp": "2025-09-27T14:07:17.707Z",
     "content": "Fujii Kaze の「Love Like This」を聴きました",
     "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T14:02:56.809Z",
-    "content": "Fujii Kaze の「Hachikō」を聴きました",
-    "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T13:58:30.775Z",
-    "content": "Fujii Kaze の「I Need U Back」を聴きました",
-    "url": "https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T13:55:23.967Z",
-    "content": "Fujii Kaze の「Casket Girl」を聴きました",
-    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T13:49:12.728Z",
-    "content": "Tech N9ne の「Speedom (Wwc2)」を聴きました",
-    "url": "https://open.spotify.com/track/33MpATo5CCG2ennj6LAlYq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T13:25:46.606Z",
-    "content": "Tech N9ne の「Speedom (Wwc2)」を聴きました",
-    "url": "https://open.spotify.com/track/33MpATo5CCG2ennj6LAlYq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T13:18:08.693Z",
-    "content": "Fujii Kaze の「I Need U Back」を聴きました",
-    "url": "https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-27T13:15:01.041Z",
-    "content": "Fujii Kaze の「Casket Girl」を聴きました",
-    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
   },
   {
     "platform": "GitHub",
