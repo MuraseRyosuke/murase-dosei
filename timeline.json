@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-27T13:25:46.606Z",
+    "content": "Tech N9ne の「Speedom (Wwc2)」を聴きました",
+    "url": "https://open.spotify.com/track/33MpATo5CCG2ennj6LAlYq"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-27T13:18:08.693Z",
     "content": "Fujii Kaze の「I Need U Back」を聴きました",
     "url": "https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-26T20:16:05.274Z",
     "content": "Fujii Kaze の「Love Like This」を聴きました",
     "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-26T20:11:40.788Z",
-    "content": "Fujii Kaze の「Hachikō」を聴きました",
-    "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
   },
   {
     "platform": "GitHub",
