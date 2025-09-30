@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-30T17:37:44.400Z",
+    "content": "KIRINJI の「雨を見くびるな - Instrumental 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1NYeVIxm9b9ivqzVBxjjpX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-30T17:33:00.301Z",
+    "content": "KIRINJI の「双子座グラフィティ - Instrumental 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3iPInU2oslyTM8kBDUW5iI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-30T17:28:14.466Z",
+    "content": "KIRINJI の「さよならデイジーチェイン - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2h23NsxoR0teMuuBRpK0Hu"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-30T17:25:23.381Z",
+    "content": "KIRINJI の「かどわかされて - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3vMMPW9sWlQzJCSKbiIHir"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-09-30T17:19:48.565Z",
+    "content": "KIRINJI の「五月病 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/11ptK3WXCXeiOe4n2QfTe3"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-30T17:15:54.968Z",
     "content": "KIRINJI の「冬のオルカ - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2Nfu8mTHMT6mU3fpQ1qjWR"
@@ -28,36 +58,6 @@
     "timestamp": "2025-09-30T17:00:33.509Z",
     "content": "KIRINJI の「甘やかな身体 - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/4NEeoX3J0fDr07btXPbcJj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T16:56:19.612Z",
-    "content": "KIRINJI の「雨を見くびるな - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/7vUOkb5Mw6S1VxOuC8mmUx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T16:51:29.836Z",
-    "content": "KIRINJI の「太陽の午後 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3MwTPEIXE5soEdS6fRWZFg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T16:47:35.733Z",
-    "content": "KIRINJI の「野良の虹 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1n7t6aEyxudb3Znqyta1WD"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T16:43:10.733Z",
-    "content": "KIRINJI の「風を撃て - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4JS7D4bEWBZocxQm9TGIxd"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T16:39:19.325Z",
-    "content": "KIRINJI の「双子座グラフィティ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1z38GTnregUY21EstjFwDc"
   },
   {
     "platform": "Bluesky",
@@ -116,12 +116,6 @@
   {
     "platform": "GitHub",
     "timestamp": "2025-09-23T17:46:49Z",
-    "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2025-09-23T17:23:29Z",
     "content": "MuraseRyosuke/murase-dosei に 1件のコミットをPushしました",
     "url": "https://github.com/MuraseRyosuke/murase-dosei"
   }
