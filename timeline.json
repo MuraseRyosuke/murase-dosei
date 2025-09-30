@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-09-30T12:47:04.694Z",
+    "content": "SOUL'd OUT の「ウェカピポ」を聴きました",
+    "url": "https://open.spotify.com/track/5Olqp0fKkKQtu73jTtnPzC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-09-29T23:38:52.783Z",
     "content": "SOUL'd OUT の「Sick」を聴きました",
     "url": "https://open.spotify.com/track/5MNiyilDYlPZSrpULKIFJW"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-29T23:00:52.140Z",
     "content": "Skoop On Somebody の「Dot To Tha Dot」を聴きました",
     "url": "https://open.spotify.com/track/0ra11vqKsDzTuHiAdHnKKu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-29T22:55:49.485Z",
-    "content": "SOUL'd OUT の「Sticky 69」を聴きました",
-    "url": "https://open.spotify.com/track/0RDrVfz4a1D3v6cWL39df7"
   },
   {
     "platform": "Bluesky",
