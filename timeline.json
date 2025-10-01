@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-01T05:21:48.093Z",
+    "content": "MISIA の「Higher Love」を聴きました",
+    "url": "https://open.spotify.com/track/7ck6PGxvvd0E3BVUFz8ajd"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-01T05:16:09.297Z",
     "content": "MISIA の「つつみ込むように･･･」を聴きました",
     "url": "https://open.spotify.com/track/4pZexRKclB82Oyzp0G01mK"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-30T17:12:17.451Z",
     "content": "KIRINJI の「汗染みは淡いブルース - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6mechmUlhyy93VVhxzZxXV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T17:08:00.156Z",
-    "content": "KIRINJI の「ニュータウン - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4kNxrOArNWlJ07Ab5DEFLv"
   },
   {
     "platform": "Bluesky",
