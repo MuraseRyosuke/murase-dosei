@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-01T14:52:30.028Z",
+    "content": "The Gospellers の「ミモザ」を聴きました",
+    "url": "https://open.spotify.com/track/4c10sYQ2JYrKVXg9eCPUzr"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-01T05:21:48.093Z",
     "content": "MISIA の「Higher Love」を聴きました",
     "url": "https://open.spotify.com/track/7ck6PGxvvd0E3BVUFz8ajd"
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-30T17:15:54.968Z",
     "content": "KIRINJI の「冬のオルカ - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2Nfu8mTHMT6mU3fpQ1qjWR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T17:12:17.451Z",
-    "content": "KIRINJI の「汗染みは淡いブルース - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6mechmUlhyy93VVhxzZxXV"
   },
   {
     "platform": "Bluesky",
