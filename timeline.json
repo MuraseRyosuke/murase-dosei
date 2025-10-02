@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-02T11:36:30.461Z",
+    "content": "みらくらぱーく! の「Very! Very! COCO夏っ」を聴きました",
+    "url": "https://open.spotify.com/track/44olBYGpHdpxswXEAQ2QIC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-01T14:52:30.028Z",
     "content": "The Gospellers の「ミモザ」を聴きました",
     "url": "https://open.spotify.com/track/4c10sYQ2JYrKVXg9eCPUzr"
@@ -38,7 +44,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-09-30T17:28:14.466Z",
-    "content": "KIRINJI の「さよならデイジーチェイ�� - 2018 Remaster」を聴きました",
+    "content": "KIRINJI の「さよならデイジーチェイン - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2h23NsxoR0teMuuBRpK0Hu"
   },
   {
@@ -52,12 +58,6 @@
     "timestamp": "2025-09-30T17:19:48.565Z",
     "content": "KIRINJI の「五月病 - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/11ptK3WXCXeiOe4n2QfTe3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T17:15:54.968Z",
-    "content": "KIRINJI の「冬のオルカ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2Nfu8mTHMT6mU3fpQ1qjWR"
   },
   {
     "platform": "Bluesky",
