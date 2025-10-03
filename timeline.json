@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-03T18:27:05.422Z",
+    "content": "KIRINJI の「雨は毛布のように」を聴きました",
+    "url": "https://open.spotify.com/track/0zRovRDqMWhCMOUgI54gVv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-03T18:25:35.149Z",
+    "content": "KIRINJI の「雨は毛布のように」を聴きました",
+    "url": "https://open.spotify.com/track/0zRovRDqMWhCMOUgI54gVv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-03T18:17:08.682Z",
+    "content": "KIRINJI の「Drifter」を聴きました",
+    "url": "https://open.spotify.com/track/3gx2jgb8poc1JOvXVPHFHF"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-02T18:54:57.863Z",
     "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
@@ -40,24 +58,6 @@
     "timestamp": "2025-10-01T05:16:09.297Z",
     "content": "MISIA の「つつみ込むように･･･」を聴きました",
     "url": "https://open.spotify.com/track/4pZexRKclB82Oyzp0G01mK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-01T05:04:54.787Z",
-    "content": "MISIA の「Everything」を聴きました",
-    "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T17:37:44.400Z",
-    "content": "KIRINJI の「雨を見くびるな - Instrumental 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1NYeVIxm9b9ivqzVBxjjpX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-09-30T17:33:00.301Z",
-    "content": "KIRINJI の「双子座グラフィティ - Instrumental 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3iPInU2oslyTM8kBDUW5iI"
   },
   {
     "platform": "Bluesky",
