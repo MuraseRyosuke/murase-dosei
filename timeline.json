@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-03T23:35:20.160Z",
+    "content": "Omoinotake の「トロイメライ」を聴きました",
+    "url": "https://open.spotify.com/track/3ilHK59gf2Rmw1QHr6bdnI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-03T23:31:49.711Z",
+    "content": "Omoinotake の「プリクエル」を聴きました",
+    "url": "https://open.spotify.com/track/1YmX06N3vF55MdYoJwJHqB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-03T23:27:50.191Z",
+    "content": "Omoinotake の「欠伸」を聴きました",
+    "url": "https://open.spotify.com/track/701v1e9ImAmXloobV2ztDg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-03T23:22:50.031Z",
+    "content": "Omoinotake の「ホワイトアウト」を聴きました",
+    "url": "https://open.spotify.com/track/1VgHU6fuqrVtZqL0ILJTV7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-03T23:18:20.989Z",
+    "content": "Omoinotake の「Still」を聴きました",
+    "url": "https://open.spotify.com/track/7BsX3urShU9sIgtvdawx0h"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-03T23:14:50.041Z",
     "content": "Omoinotake の「空蝉」を聴きました",
     "url": "https://open.spotify.com/track/3EV37MCj5MTEWjBxqrLLcR"
@@ -28,36 +58,6 @@
     "timestamp": "2025-10-03T22:58:20.306Z",
     "content": "Omoinotake の「Blanco」を聴きました",
     "url": "https://open.spotify.com/track/15vxxJiYb664VxbAWPZo32"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-03T22:53:50.128Z",
-    "content": "Omoinotake の「渦幕」を聴きました",
-    "url": "https://open.spotify.com/track/23E3IcJA99vxnOdtlixJco"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-03T22:49:19.840Z",
-    "content": "Omoinotake の「アクトレス」を聴きました",
-    "url": "https://open.spotify.com/track/63OcxkxY055VQZIsUODz3a"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-03T22:44:50.804Z",
-    "content": "Omoinotake の「彼方」を聴きました",
-    "url": "https://open.spotify.com/track/30btTZFAHkc4HnKvsTKDXY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-03T22:41:20.578Z",
-    "content": "Omoinotake の「So Far So Good」を聴きました",
-    "url": "https://open.spotify.com/track/535K7QSuAXQ2TTxRI6rWAG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-03T22:36:50.048Z",
-    "content": "Omoinotake の「Never Let You Go」を聴きました",
-    "url": "https://open.spotify.com/track/4sqYQgNxo6CC1I53jvQEsa"
   },
   {
     "platform": "Bluesky",
