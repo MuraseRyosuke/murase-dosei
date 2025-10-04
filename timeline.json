@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-04T17:26:40.132Z",
+    "content": "Vaundy の「不可幸力」を聴きました",
+    "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-04T17:05:42.018Z",
     "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
     "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-04T00:20:50.211Z",
     "content": "Omoinotake の「By My Side」を聴きました",
     "url": "https://open.spotify.com/track/37fQS3RFBzvi39fnjwWhqH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-04T00:16:50.027Z",
-    "content": "Omoinotake の「カエデ」を聴きました",
-    "url": "https://open.spotify.com/track/5AlQzzP4bENETFDZQRDN11"
   },
   {
     "platform": "Bluesky",
