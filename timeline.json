@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-04T17:05:42.018Z",
+    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
+    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-04T17:02:51.288Z",
+    "content": "Fujii Kaze の「Forever Young」を聴きました",
+    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-04T05:29:37.025Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -46,18 +58,6 @@
     "timestamp": "2025-10-04T00:16:50.027Z",
     "content": "Omoinotake の「カエデ」を聴きました",
     "url": "https://open.spotify.com/track/5AlQzzP4bENETFDZQRDN11"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-04T00:11:49.874Z",
-    "content": "Omoinotake の「Life goes on」を聴きました",
-    "url": "https://open.spotify.com/track/231daiM4bqi0FqPYrznAKz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-04T00:08:20.107Z",
-    "content": "Omoinotake の「fake me」を聴きました",
-    "url": "https://open.spotify.com/track/6YhOQ1oKPAy8RXRPfEckp8"
   },
   {
     "platform": "Bluesky",
