@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-06T22:37:28.118Z",
+    "content": "salyu × salyu の「ただのともだち」を聴きました",
+    "url": "https://open.spotify.com/track/6fYiMdE1bteZait8Fv3rsV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-06T22:32:57.377Z",
+    "content": "QUBIT の「G.A.D.」を聴きました",
+    "url": "https://open.spotify.com/track/7eGXucMHxgkicdIWPAynnE"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-06T22:28:57.242Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-06T22:24:26.965Z",
+    "content": "Billy Joel の「Just the Way You Are」を聴きました",
+    "url": "https://open.spotify.com/track/06RdYCp0UxsBtWsonHfSZz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-06T22:19:27.318Z",
+    "content": "Daft Punk の「One More Time」を聴きました",
+    "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-06T22:13:57.293Z",
     "content": "Salyu の「to U - Salyu ver.」を聴きました",
     "url": "https://open.spotify.com/track/1eM232V2KdkBpd7NfhCGIb"
@@ -28,35 +58,5 @@
     "timestamp": "2025-10-06T21:51:27.991Z",
     "content": "DE DE MOUSE の「be yourself」を聴きました",
     "url": "https://open.spotify.com/track/2xmM54W5qketGHgLilzynh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-06T21:46:58.462Z",
-    "content": "Cornelius の「Music」を聴きました",
-    "url": "https://open.spotify.com/track/5FWvsFbhSxoWnN8TICZVVf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-06T21:41:57.056Z",
-    "content": "RHYMESTER の「The Choice Is Yours」を聴きました",
-    "url": "https://open.spotify.com/track/4niqa7E9MKusXkFMUaqoGq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-06T21:37:26.998Z",
-    "content": "Maaya Sakamoto の「everywhere～HAL mix」を聴きました",
-    "url": "https://open.spotify.com/track/080TZv8KSQzMrgOOYWmWZ0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-06T21:32:27.082Z",
-    "content": "YAKUSHIMARU Etsuko の「ファイナルダーリン」を聴きました",
-    "url": "https://open.spotify.com/track/1QoNJbrzsYDwLVxnYSTXOx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-06T21:27:27.269Z",
-    "content": "Shiho Nanba の「こどなの階段」を聴きました",
-    "url": "https://open.spotify.com/track/3ArIAb7U3sQCERoXSRDj3E"
   }
 ]
