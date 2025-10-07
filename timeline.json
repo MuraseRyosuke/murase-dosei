@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-07T11:36:56.665Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-06T23:02:29.292Z",
     "content": "Rage Against The Machine の「Killing In The Name」を聴きました",
     "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-06T22:28:57.242Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-06T22:24:26.965Z",
-    "content": "Billy Joel の「Just the Way You Are」を聴きました",
-    "url": "https://open.spotify.com/track/06RdYCp0UxsBtWsonHfSZz"
   }
 ]
