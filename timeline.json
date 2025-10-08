@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-08T08:36:06.822Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-08T08:32:06.518Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-08T08:20:36.750Z",
     "content": "Omoinotake の「幾億光年」を聴きました",
     "url": "https://open.spotify.com/track/56BC0IdIow3PdAhPeci36H"
@@ -46,17 +58,5 @@
     "timestamp": "2025-10-07T14:21:28.948Z",
     "content": "Perfume の「マカロニ」を聴きました",
     "url": "https://open.spotify.com/track/6EaJ8O1qh3ycQxLkKUWLR8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:16:27.783Z",
-    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
-    "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:11:56.952Z",
-    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
-    "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
   }
 ]
