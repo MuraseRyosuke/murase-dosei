@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-08T06:06:57.316Z",
+    "content": "CAPSULE の「JUMPER」を聴きました",
+    "url": "https://open.spotify.com/track/5iEtF7gDTWqHZbHALwONIu"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-07T14:36:33.722Z",
     "content": "unBORDE all stars の「Feel」を聴きました",
     "url": "https://open.spotify.com/track/05WGcOn3P8GZKzFRO6hRUs"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-07T14:11:39.505Z",
     "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
     "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:10:57.572Z",
-    "content": "Gen Hoshino の「Stranger」を聴きました",
-    "url": "https://open.spotify.com/track/0Kuss0r5HEuHMkL67BfhfO"
   }
 ]
