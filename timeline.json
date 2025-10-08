@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-08T13:02:31.021Z",
+    "content": "KIRINJI の「耳をうずめて - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2z7cha3Sg22NrUjRCQek8e"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-08T12:56:52.273Z",
+    "content": "Rei Harakami の「grief & loss」を聴きました",
+    "url": "https://open.spotify.com/track/3DTRil2jPOSKRVazEToelS"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-08T09:47:58.413Z",
     "content": "m-flo loves BoA の「the Love Bug」を聴きました",
     "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
@@ -46,17 +58,5 @@
     "timestamp": "2025-10-07T14:30:47.134Z",
     "content": "Yasutaka Nakata の「ベポ!!」を聴きました",
     "url": "https://open.spotify.com/track/5CpmxK2tAls5TClXUmyeJg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:30:05.501Z",
-    "content": "Yasutaka Nakata の「NANIMONO (feat. 米津玄師)」を聴きました",
-    "url": "https://open.spotify.com/track/1YT4saG3JrRm9DU5nPgZfs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:29:41.427Z",
-    "content": "Yasutaka Nakata の「NANIMONO (feat. 米津玄師)」を聴きました",
-    "url": "https://open.spotify.com/track/1YT4saG3JrRm9DU5nPgZfs"
   }
 ]
