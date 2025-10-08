@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-08T09:47:58.413Z",
+    "content": "m-flo loves BoA の「the Love Bug」を聴きました",
+    "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-08T09:45:37.629Z",
+    "content": "Rei Harakami の「lust」を聴きました",
+    "url": "https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-08T08:36:06.822Z",
     "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
     "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -46,17 +58,5 @@
     "timestamp": "2025-10-07T14:29:41.427Z",
     "content": "Yasutaka Nakata の「NANIMONO (feat. 米津玄師)」を聴きました",
     "url": "https://open.spotify.com/track/1YT4saG3JrRm9DU5nPgZfs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:26:29.299Z",
-    "content": "Perfume の「シークレットシークレット」を聴きました",
-    "url": "https://open.spotify.com/track/0GHQ3gAaDOKgJcuxyPO7pz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-07T14:21:28.948Z",
-    "content": "Perfume の「マカロニ」を聴きました",
-    "url": "https://open.spotify.com/track/6EaJ8O1qh3ycQxLkKUWLR8"
   }
 ]
