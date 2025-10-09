@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-09T08:26:00.033Z",
+    "content": "KIRINJI の「Music!!!!!!! - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3v2rY0vR5pZ6C434TEWlIB"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-09T00:55:57.604Z",
     "content": "KIRINJI の「Drifter - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2ZWZSHeia0Hjc7jWyk2Yar"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-08T08:32:06.518Z",
     "content": "Fujii Kaze の「You」を聴きました",
     "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-08T08:20:36.750Z",
-    "content": "Omoinotake の「幾億光年」を聴きました",
-    "url": "https://open.spotify.com/track/56BC0IdIow3PdAhPeci36H"
   }
 ]
