@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-11T19:13:05.293Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-11T07:33:56.676Z",
     "content": "KIRINJI の「グッデイ・グッバイ」を聴きました",
     "url": "https://open.spotify.com/track/29Ll3I1DgonLKAUGdgNPMV"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-08T09:47:58.413Z",
     "content": "m-flo loves BoA の「the Love Bug」を聴きました",
     "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-08T09:45:37.629Z",
-    "content": "Rei Harakami の「lust」を聴きました",
-    "url": "https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC"
   }
 ]
