@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-12T07:01:37.940Z",
+    "content": "m-flo loves 坂本龍一 の「I WANNA BE DOWN」を聴きました",
+    "url": "https://open.spotify.com/track/2T9yZbOVH74OyYwcN2cASK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-12T07:01:10.477Z",
+    "content": "m-flo loves 坂本龍一 の「I WANNA BE DOWN」を聴きました",
+    "url": "https://open.spotify.com/track/2T9yZbOVH74OyYwcN2cASK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-11T21:10:05.101Z",
     "content": "KIRINJI の「牡牛座ラプソディ - Instrumental 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/72quC6C1OqHAAXoLRZ97gV"
@@ -8,7 +20,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-10-11T21:05:35.219Z",
-    "content": "KIRINJI の「銀砂子の���ンボール - Special Christmas Version 2018 Remaster」を聴きました",
+    "content": "KIRINJI の「銀砂子のピンボール - Special Christmas Version 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6dk6ZQo8QfxGAnd8wmhjIj"
   },
   {
@@ -46,17 +58,5 @@
     "timestamp": "2025-10-11T20:39:36.435Z",
     "content": "KIRINJI の「くよくよするなよ - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/10B0RGnWo7rHI5k8IaAFOf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-11T20:37:05.849Z",
-    "content": "KIRINJI の「牡牛座ラプソディ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6ospm0piuzthdAunYS2YxL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-11T20:32:35.150Z",
-    "content": "KIRINJI の「BBQパーティー - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/5aOCijx3OVWiVUf4sCeo9d"
   }
 ]
