@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-14T20:18:00.334Z",
+    "content": "Daft Punk の「Revolution 909 - Roger Sanchez & Junior Sanchez Remix」を聴きました",
+    "url": "https://open.spotify.com/track/6vWYgNwroXa6CsfDxr1rcj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T20:11:00.355Z",
+    "content": "Jamiroquai の「Superfresh - Festival Highlights」を聴きました",
+    "url": "https://open.spotify.com/track/6WkagUZEo2TnkXILFzxTYU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T20:07:30.267Z",
+    "content": "Jamiroquai の「Little L - Top Of The Pops 2001」を聴きました",
+    "url": "https://open.spotify.com/track/11L5PgBriAg2Di6OOjBo31"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T19:54:31.967Z",
+    "content": "KIRINJI の「さよならデイジーチェイン - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2h23NsxoR0teMuuBRpK0Hu"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T19:51:30.362Z",
+    "content": "KIRINJI の「かどわかされて - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3vMMPW9sWlQzJCSKbiIHir"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T19:46:00.206Z",
+    "content": "KIRINJI の「五月病 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/11ptK3WXCXeiOe4n2QfTe3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T19:42:00.854Z",
+    "content": "KIRINJI の「冬のオルカ - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2Nfu8mTHMT6mU3fpQ1qjWR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T19:38:32.405Z",
+    "content": "KIRINJI の「汗染みは淡いブルース - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/6mechmUlhyy93VVhxzZxXV"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-14T19:34:00.327Z",
     "content": "KIRINJI の「ニュータウン - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/4kNxrOArNWlJ07Ab5DEFLv"
@@ -10,53 +58,5 @@
     "timestamp": "2025-10-14T19:30:00.583Z",
     "content": "KIRINJI の「P.D.M. - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0s36yNdJ6cHkf9NUamaWUu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:26:30.485Z",
-    "content": "KIRINJI の「甘やかな身体 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4NEeoX3J0fDr07btXPbcJj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:22:30.373Z",
-    "content": "KIRINJI の「雨を見くびるな - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/7vUOkb5Mw6S1VxOuC8mmUx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:17:31.199Z",
-    "content": "KIRINJI の「太陽の午後 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3MwTPEIXE5soEdS6fRWZFg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:13:30.312Z",
-    "content": "KIRINJI の「野良の虹 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1n7t6aEyxudb3Znqyta1WD"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:09:30.422Z",
-    "content": "KIRINJI の「風を撃て - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4JS7D4bEWBZocxQm9TGIxd"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:05:30.311Z",
-    "content": "KIRINJI の「双子座グラフィティ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1z38GTnregUY21EstjFwDc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T18:54:00.365Z",
-    "content": "KIRINJI の「銀砂子のピンボール - Special Christmas Version 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6dk6ZQo8QfxGAnd8wmhjIj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T18:47:00.263Z",
-    "content": "KIRINJI の「耳をうずめて - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2z7cha3Sg22NrUjRCQek8e"
   }
 ]
