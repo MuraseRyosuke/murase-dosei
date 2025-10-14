@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-14T14:47:05.252Z",
+    "content": "Daft Punk の「The Brainwasher」を聴きました",
+    "url": "https://open.spotify.com/track/73MAeHX5sqLYfuYclsrvHc"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-14T09:59:44.597Z",
     "content": "KIRINJI の「千年紀末に降る雪は」を聴きました",
     "url": "https://open.spotify.com/track/0idCR8BqzbOAIrJliiH8Ha"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-11T20:48:39.750Z",
     "content": "KIRINJI の「ダンボールの宮殿 - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/1Vmkwb04H9XcrDYnILqQkl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-11T20:43:35.205Z",
-    "content": "KIRINJI の「銀砂子のピンボール - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/62IKSTFGADRyJNyeqhhxtP"
   }
 ]
