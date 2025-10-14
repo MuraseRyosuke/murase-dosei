@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-14T22:37:28.052Z",
+    "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
+    "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T22:31:57.685Z",
+    "content": "Ken Hirai の「キミはともだち」を聴きました",
+    "url": "https://open.spotify.com/track/5jZZA1N5oKLklX1nsUWbIi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T22:26:57.788Z",
+    "content": "Ken Hirai の「瞳をとじて」を聴きました",
+    "url": "https://open.spotify.com/track/6zlsM53kqEZnxm9j8wc4VX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T22:21:32.706Z",
+    "content": "Ken Hirai の「style」を聴きました",
+    "url": "https://open.spotify.com/track/22jYQBSYw2qULBFi6iUYpi"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-14T22:16:58.172Z",
     "content": "Ken Hirai の「LIFE is... 〜another story〜」を聴きました",
     "url": "https://open.spotify.com/track/1aQOEvN0uxSkB1eSeXgWjg"
@@ -34,29 +58,5 @@
     "timestamp": "2025-10-14T20:30:30.462Z",
     "content": "n-choco の「ELUSIVE」を聴きました",
     "url": "https://open.spotify.com/track/0U3y4tePsPc6Bp54tU010I"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T20:30:00.424Z",
-    "content": "n-choco の「ELUSIVE」を聴きました",
-    "url": "https://open.spotify.com/track/0U3y4tePsPc6Bp54tU010I"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T20:18:00.334Z",
-    "content": "Daft Punk の「Revolution 909 - Roger Sanchez & Junior Sanchez Remix」を聴きました",
-    "url": "https://open.spotify.com/track/6vWYgNwroXa6CsfDxr1rcj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T20:11:00.355Z",
-    "content": "Jamiroquai の「Superfresh - Festival Highlights」を聴きました",
-    "url": "https://open.spotify.com/track/6WkagUZEo2TnkXILFzxTYU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T20:07:30.267Z",
-    "content": "Jamiroquai の「Little L - Top Of The Pops 2001」を聴きました",
-    "url": "https://open.spotify.com/track/11L5PgBriAg2Di6OOjBo31"
   }
 ]
