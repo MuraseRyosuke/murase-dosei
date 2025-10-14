@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-14T20:33:30.090Z",
+    "content": "m-flo の「ARIGATTO」を聴きました",
+    "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T20:30:30.462Z",
+    "content": "n-choco の「ELUSIVE」を聴きました",
+    "url": "https://open.spotify.com/track/0U3y4tePsPc6Bp54tU010I"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-14T20:30:00.424Z",
+    "content": "n-choco の「ELUSIVE」を聴きました",
+    "url": "https://open.spotify.com/track/0U3y4tePsPc6Bp54tU010I"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-14T20:18:00.334Z",
     "content": "Daft Punk の「Revolution 909 - Roger Sanchez & Junior Sanchez Remix」を聴きました",
     "url": "https://open.spotify.com/track/6vWYgNwroXa6CsfDxr1rcj"
@@ -40,23 +58,5 @@
     "timestamp": "2025-10-14T19:42:00.854Z",
     "content": "KIRINJI の「冬のオルカ - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2Nfu8mTHMT6mU3fpQ1qjWR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:38:32.405Z",
-    "content": "KIRINJI の「汗染みは淡いブルース - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6mechmUlhyy93VVhxzZxXV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:34:00.327Z",
-    "content": "KIRINJI の「ニュータウン - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4kNxrOArNWlJ07Ab5DEFLv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T19:30:00.583Z",
-    "content": "KIRINJI の「P.D.M. - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0s36yNdJ6cHkf9NUamaWUu"
   }
 ]
