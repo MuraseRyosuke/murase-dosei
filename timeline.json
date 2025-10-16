@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-10-16T17:01:57.921Z",
+    "content": "m-flo loves 坂本龍一 の「I WANNA BE DOWN」を聴きました",
+    "url": "https://open.spotify.com/track/2T9yZbOVH74OyYwcN2cASK"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-10-15T09:37:39.588Z",
     "content": "とうとうXのアプリが2回に1回起動でクラッシュするようになった  クリーンインストールするか、やめるか…",
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-14T21:58:28.405Z",
     "content": "Ken Hirai の「Precious Junk」を聴きました",
     "url": "https://open.spotify.com/track/7CHzNLGQBlmhy2YvAwyyBu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T21:51:57.741Z",
-    "content": "Ken Hirai の「ノンフィクション」を聴きました",
-    "url": "https://open.spotify.com/track/04AEvGFAxWKyxYxRCUqAdp"
   }
 ]
