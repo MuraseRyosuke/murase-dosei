@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-17T08:38:08.558Z",
+    "content": "上田麗奈 の「ワタシ*ドリ」を聴きました",
+    "url": "https://open.spotify.com/track/72vslOKuNgzTVFqHeX8FJ4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-17T07:59:01.851Z",
     "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「グッドラック ライラック」を聴きました",
     "url": "https://open.spotify.com/track/5yFsRIPotgL3tyZD637NiB"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-14T22:50:57.597Z",
     "content": "Keisuke Kuwata の「炎の聖歌隊 [Choir(クワイア)]」を聴きました",
     "url": "https://open.spotify.com/track/4zNvCDu8cN0gmpscqXeYfa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T22:42:27.691Z",
-    "content": "Ken Hirai の「LIFE is...」を聴きました",
-    "url": "https://open.spotify.com/track/3t8LPUzakX7MdMTIATXvkX"
   }
 ]
