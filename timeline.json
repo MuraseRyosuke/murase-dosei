@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-17T17:15:16.232Z",
+    "content": "Ken Hirai の「キミはともだち」を聴きました",
+    "url": "https://open.spotify.com/track/5DQYNzuSgPAbvb0LQtQblm"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-17T16:15:54.778Z",
     "content": "Ken Hirai の「LIFE is...」を聴きました",
     "url": "https://open.spotify.com/track/3t8LPUzakX7MdMTIATXvkX"
@@ -14,7 +20,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-10-17T16:05:44.981Z",
-    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「グ���ドラック ライラック」を聴きました",
+    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「グッドラック ライラック」を聴きました",
     "url": "https://open.spotify.com/track/5yFsRIPotgL3tyZD637NiB"
   },
   {
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-17T07:39:24.957Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-17T07:34:46.394Z",
-    "content": "DE DE MOUSE の「sweet gravity (Edit 2020)」を聴きました",
-    "url": "https://open.spotify.com/track/6ypS3mkBs8orvPghN6ZcYw"
   },
   {
     "platform": "Bluesky",
