@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-17T19:53:58.440Z",
+    "content": "Happy Kuru Kuru の「ふたつのフューチャー」を聴きました",
+    "url": "https://open.spotify.com/track/08wSrxgvkZgoOGMPuE8yUa"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-17T17:15:16.232Z",
     "content": "Ken Hirai の「キミはともだち」を聴きました",
     "url": "https://open.spotify.com/track/5DQYNzuSgPAbvb0LQtQblm"
@@ -32,7 +38,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-10-17T07:59:01.851Z",
-    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「グッドラック ライラック」を聴きました",
+    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木���花)、高円寺みこ(CV:東城日沙子)> の「グッドラック ライラック」を聴きました",
     "url": "https://open.spotify.com/track/5yFsRIPotgL3tyZD637NiB"
   },
   {
@@ -44,7 +50,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-10-17T07:50:31.125Z",
-    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「恋するG・A・T・A・L・I・S！」を聴きました",
+    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺���こ(CV:東城日沙子)> の「恋するG・A・T・A・L・I・S！」を聴きました",
     "url": "https://open.spotify.com/track/5BgnHcaP5Q2Zn2brFnfJmt"
   },
   {
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-17T07:46:41.764Z",
     "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「グッドラック ライラック」を聴きました",
     "url": "https://open.spotify.com/track/5yFsRIPotgL3tyZD637NiB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-17T07:39:24.957Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
   },
   {
     "platform": "Bluesky",
