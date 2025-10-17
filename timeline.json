@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-17T16:15:54.778Z",
+    "content": "Ken Hirai の「LIFE is...」を聴きました",
+    "url": "https://open.spotify.com/track/3t8LPUzakX7MdMTIATXvkX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-17T16:11:17.360Z",
+    "content": "Ken Hirai の「Ring」を聴きました",
+    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-17T16:05:44.981Z",
+    "content": "GATALIS<阿佐ヶ谷みのあ(CV:本渡楓)、上井草アリス(CV:千本木彩花)、高円寺みこ(CV:東城日沙子)> の「グッドラック ライラック」を聴きました",
+    "url": "https://open.spotify.com/track/5yFsRIPotgL3tyZD637NiB"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-17T08:38:08.558Z",
     "content": "上田麗奈 の「ワタシ*ドリ」を聴きました",
     "url": "https://open.spotify.com/track/72vslOKuNgzTVFqHeX8FJ4"
@@ -42,27 +60,9 @@
     "url": "https://open.spotify.com/track/6ypS3mkBs8orvPghN6ZcYw"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2025-10-16T17:01:57.921Z",
-    "content": "m-flo loves 坂本龍一 の「I WANNA BE DOWN」を聴きました",
-    "url": "https://open.spotify.com/track/2T9yZbOVH74OyYwcN2cASK"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2025-10-15T09:37:39.588Z",
     "content": "とうとうXのアプリが2回に1回起動でクラッシュするようになった  クリーンインストールするか、やめるか…",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m37x26zihs24"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T22:59:02.721Z",
-    "content": "Keisuke Kuwata の「白い恋人達 [2022 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/1SQiB9KEx06RbXuGmqCLuc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T22:50:57.597Z",
-    "content": "Keisuke Kuwata の「炎の聖歌隊 [Choir(クワイア)]」を聴きました",
-    "url": "https://open.spotify.com/track/4zNvCDu8cN0gmpscqXeYfa"
   }
 ]
