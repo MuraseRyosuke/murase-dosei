@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-17T07:34:46.394Z",
+    "content": "DE DE MOUSE の「sweet gravity (Edit 2020)」を聴きました",
+    "url": "https://open.spotify.com/track/6ypS3mkBs8orvPghN6ZcYw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-16T17:01:57.921Z",
     "content": "m-flo loves 坂本龍一 の「I WANNA BE DOWN」を聴きました",
     "url": "https://open.spotify.com/track/2T9yZbOVH74OyYwcN2cASK"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-14T22:16:58.172Z",
     "content": "Ken Hirai の「LIFE is... 〜another story〜」を聴きました",
     "url": "https://open.spotify.com/track/1aQOEvN0uxSkB1eSeXgWjg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-14T21:58:28.405Z",
-    "content": "Ken Hirai の「Precious Junk」を聴きました",
-    "url": "https://open.spotify.com/track/7CHzNLGQBlmhy2YvAwyyBu"
   }
 ]
