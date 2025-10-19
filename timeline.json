@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-19T21:28:41.840Z",
+    "content": "DE DE MOUSE の「my favorite swing (Edit 003)」を聴きました",
+    "url": "https://open.spotify.com/track/2RHAYWeBCTd1ccyDsfK3t0"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-19T16:53:28.743Z",
     "content": "DE DE MOUSE の「be yourself (Edit 004)」を聴きました",
     "url": "https://open.spotify.com/track/7yI1xKNMb4O9tePbQYaiAG"
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-19T16:22:21.821Z",
     "content": "DE DE MOUSE の「sweet gravity (Edit 2020)」を聴きました",
     "url": "https://open.spotify.com/track/6ypS3mkBs8orvPghN6ZcYw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-19T16:18:34.179Z",
-    "content": "DE DE MOUSE の「danicing horse on my notes (Edit 2019)」を聴きました",
-    "url": "https://open.spotify.com/track/6cHke8gNjCLTutCi8ropaZ"
   },
   {
     "platform": "Bluesky",
