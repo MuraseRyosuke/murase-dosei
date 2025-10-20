@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-20T15:14:01.747Z",
+    "content": "Ken Hirai の「キャンバス」を聴きました",
+    "url": "https://open.spotify.com/track/3jz5GiCQ1vVKxTxFO0g4xD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T15:03:09.002Z",
+    "content": "Gen Hoshino の「Star」を聴きました",
+    "url": "https://open.spotify.com/track/1z4lnvupPn8fvR1zR36K18"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T15:00:01.841Z",
+    "content": "Gen Hoshino の「Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)」を聴きました",
+    "url": "https://open.spotify.com/track/64bVDKYuGiJN2ptowD1wVd"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T14:54:34.458Z",
+    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
+    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T14:50:49.430Z",
+    "content": "OFFICIAL HIGE DANDISM の「コーヒーとシロップ」を聴きました",
+    "url": "https://open.spotify.com/track/4n8sFZgvfAYHWYL1YSFMRa"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T14:48:31.522Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-20T14:39:11.403Z",
     "content": "Ozawa Kenji の「Noize」を聴きました",
     "url": "https://open.spotify.com/track/0vcqwHfIOUeBZfz0GgEWvX"
@@ -22,42 +58,6 @@
     "timestamp": "2025-10-20T13:21:51.879Z",
     "content": "m-flo の「Rendezvous 2014」を聴きました",
     "url": "https://open.spotify.com/track/7sObP9IL0WezdOJrS0yGds"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T13:21:05.808Z",
-    "content": "m-flo loves 坂本龍一 の「I WANNA BE DOWN」を聴きました",
-    "url": "https://open.spotify.com/track/2T9yZbOVH74OyYwcN2cASK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T13:16:23.038Z",
-    "content": "m-flo loves DOUBLE & TOKU の「Life is Beautiful」を聴きました",
-    "url": "https://open.spotify.com/track/6pYRP8jf9a9UXyeWo4LJ6S"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T13:10:52.798Z",
-    "content": "m-flo loves BoA の「the Love Bug」を聴きました",
-    "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T13:05:37.278Z",
-    "content": "King Gnu の「Stardom」を聴きました",
-    "url": "https://open.spotify.com/track/7gdbaUPut1M0ewKOSAqvyW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T13:01:57.836Z",
-    "content": "King Gnu の「飛行艇」を聴きました",
-    "url": "https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T12:57:37.189Z",
-    "content": "King Gnu の「カメレオン」を聴きました",
-    "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
   },
   {
     "platform": "Bluesky",
