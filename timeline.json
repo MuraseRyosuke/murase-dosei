@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-20T14:39:11.403Z",
+    "content": "Ozawa Kenji の「Noize」を聴きました",
+    "url": "https://open.spotify.com/track/0vcqwHfIOUeBZfz0GgEWvX"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-20T13:29:17.825Z",
     "content": "m-flo loves Bloodest Saxophone の「VANESSA」を聴きました",
     "url": "https://open.spotify.com/track/6NnDtUEU1hUVtMIIp53lB9"
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-20T12:57:37.189Z",
     "content": "King Gnu の「カメレオン」を聴きました",
     "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T12:52:44.975Z",
-    "content": "King Gnu の「逆夢」を聴きました",
-    "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
   },
   {
     "platform": "Bluesky",
