@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-20T09:41:42.052Z",
+    "content": "NewJeans の「Ditto」を聴きました",
+    "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T09:37:42.663Z",
+    "content": "NewJeans の「How Sweet」を聴きました",
+    "url": "https://open.spotify.com/track/4nbqGYg7fUsjBiErWJ26gZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T09:32:41.882Z",
+    "content": "Soushi Sakiyama の「花火」を聴きました",
+    "url": "https://open.spotify.com/track/2uLzHZKMUbafWuiFgS4FoX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-20T09:32:41.845Z",
+    "content": "Soushi Sakiyama の「逆行」を聴きました",
+    "url": "https://open.spotify.com/track/728iwjPVlu73hzq4nonkP8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-20T09:25:09.461Z",
     "content": "Fujii Kaze の「Forever Young」を聴きました",
     "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
@@ -34,30 +58,6 @@
     "timestamp": "2025-10-20T09:02:38.997Z",
     "content": "Ken Hirai の「Ring」を聴きました",
     "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T08:54:08.078Z",
-    "content": "KIRINJI の「イカロスの末裔 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2s1xUZV7FZ21Ld9QuP1dGV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T08:48:38.462Z",
-    "content": "KIRINJI の「唐変木のためのガイダンス - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6cXGfhsbnBBQJlFpL0dj2h"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T08:44:38.268Z",
-    "content": "KIRINJI の「耳をうずめて - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2z7cha3Sg22NrUjRCQek8e"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-19T21:28:41.840Z",
-    "content": "DE DE MOUSE の「my favorite swing (Edit 003)」を聴きました",
-    "url": "https://open.spotify.com/track/2RHAYWeBCTd1ccyDsfK3t0"
   },
   {
     "platform": "Bluesky",
