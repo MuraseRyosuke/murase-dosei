@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-23T08:43:38.182Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-23T08:42:16.269Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-21T09:56:32.404Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -46,17 +58,5 @@
     "timestamp": "2025-10-20T17:55:34.779Z",
     "content": "tofubeats の「STAKEHOLDER」を聴きました",
     "url": "https://open.spotify.com/track/3MxZUpiCnjxP9WL5Jx9jME"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T17:43:33.888Z",
-    "content": "PUNPEE の「夢追人 feat. KREVA」を聴きました",
-    "url": "https://open.spotify.com/track/1Plc0ocg3gmfZ1Zkt96bgW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T17:35:02.903Z",
-    "content": "RIP SLYME の「結果論」を聴きました",
-    "url": "https://open.spotify.com/track/3q0zZA0ISMQZ4qLSWPUoqM"
   }
 ]
