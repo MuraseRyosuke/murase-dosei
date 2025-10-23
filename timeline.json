@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-23T17:14:57.486Z",
+    "content": "Tomita Lab. の「Shiplaunching (2019 Mix)」を聴きました",
+    "url": "https://open.spotify.com/track/6mzB1WF7guXKES9P3WUYbW"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-23T09:04:19.888Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-20T17:59:47.751Z",
     "content": "tofubeats の「dance to the beat to the」を聴きました",
     "url": "https://open.spotify.com/track/6eWcXpMb0oczSnAmm7WFnk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T17:55:36.946Z",
-    "content": "tofubeats の「STAKEHOLDER」を聴きました",
-    "url": "https://open.spotify.com/track/3MxZUpiCnjxP9WL5Jx9jME"
   }
 ]
