@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-24T18:39:08.566Z",
+    "content": "涼宮ハルヒ (CV.平野 綾) の「First Good-Bye」を聴きました",
+    "url": "https://open.spotify.com/track/4b9aAY3Tfs0AZZaKlo7JoI"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-24T11:11:26.446Z",
     "content": "くにくに の「ミライアルゴリズム」を聴きました",
     "url": "https://open.spotify.com/track/09ABKfLiSdM7Uz72OG72YU"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-20T19:13:37.531Z",
     "content": "KIRINJI の「ムラサキ☆サンセット - Single Version」を聴きました",
     "url": "https://open.spotify.com/track/6zHEG7kSrCptbesII56tm6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-20T19:06:22.198Z",
-    "content": "dj newtown の「2005」を聴きました",
-    "url": "https://open.spotify.com/track/29mDf3O1tZf1cNxFjdjMlA"
   }
 ]
