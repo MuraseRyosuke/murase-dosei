@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-26T22:13:16.764Z",
+    "content": "NANIMONO の「24h / TOKYO」を聴きました",
+    "url": "https://open.spotify.com/track/1hVXXNFmV19DauJQMCrL66"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-26T20:47:24.807Z",
     "content": "Lucky Kilimanjaro の「350ml Galaxy」を聴きました",
     "url": "https://open.spotify.com/track/6mMpeDOLZGhF6p82pRFgOZ"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-26T09:02:45.296Z",
     "content": "DE DE MOUSE の「raven」を聴きました",
     "url": "https://open.spotify.com/track/71mxEtIwQYSGoXgacRJpk6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T08:58:38.250Z",
-    "content": "DE DE MOUSE の「555 is in your heart」を聴きました",
-    "url": "https://open.spotify.com/track/2pVrFDg78X3wHiZo2CH14Y"
   }
 ]
