@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-26T20:47:24.807Z",
+    "content": "Lucky Kilimanjaro の「350ml Galaxy」を聴きました",
+    "url": "https://open.spotify.com/track/6mMpeDOLZGhF6p82pRFgOZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-26T17:59:20.743Z",
     "content": "DE DE MOUSE の「baby's acid jam - [baby's star jam original version] -BONUS TRACK-」を聴きました",
     "url": "https://open.spotify.com/track/61W7OrZOPeRdybQ9ol6Rjs"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-26T08:58:38.250Z",
     "content": "DE DE MOUSE の「555 is in your heart」を聴きました",
     "url": "https://open.spotify.com/track/2pVrFDg78X3wHiZo2CH14Y"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T08:52:45.310Z",
-    "content": "DE DE MOUSE の「dancing horse on my notes」を聴きました",
-    "url": "https://open.spotify.com/track/0VWiDcbrPW10X8k02yJSn1"
   }
 ]
