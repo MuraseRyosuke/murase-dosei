@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-10-26T11:52:10.095Z",
+    "content": "DE DE MOUSE の「baby's acid jam - [baby's star jam original version] -BONUS TRACK-」を聴きました",
+    "url": "https://open.spotify.com/track/61W7OrZOPeRdybQ9ol6Rjs"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-10-26T11:05:22.622Z",
     "content": "iPhoneの設定をGemini使いながら根幹まで見直してる",
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-26T08:46:55.931Z",
     "content": "DE DE MOUSE の「the galactic nervous boy」を聴きました",
     "url": "https://open.spotify.com/track/2WEuV4fPuXL3HqZn8DkkHl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T08:40:36.253Z",
-    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
-    "url": "https://open.spotify.com/track/6XM8jnSqbjaDF9q5h9LN0p"
   }
 ]
