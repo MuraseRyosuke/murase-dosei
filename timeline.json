@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-26T08:40:36.253Z",
+    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
+    "url": "https://open.spotify.com/track/6XM8jnSqbjaDF9q5h9LN0p"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-24T21:03:47.179Z",
     "content": "KIRINJI の「耳をうずめて - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2z7cha3Sg22NrUjRCQek8e"
@@ -52,11 +58,5 @@
     "timestamp": "2025-10-21T09:56:32.404Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-21T09:51:17.072Z",
-    "content": "KIRINJI の「ムラサキ☆サンセット - Single Version」を聴きました",
-    "url": "https://open.spotify.com/track/6zHEG7kSrCptbesII56tm6"
   }
 ]
