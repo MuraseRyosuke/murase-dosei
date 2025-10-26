@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-26T17:59:20.743Z",
+    "content": "DE DE MOUSE の「baby's acid jam - [baby's star jam original version] -BONUS TRACK-」を聴きました",
+    "url": "https://open.spotify.com/track/61W7OrZOPeRdybQ9ol6Rjs"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-26T11:52:10.095Z",
     "content": "DE DE MOUSE の「baby's acid jam - [baby's star jam original version] -BONUS TRACK-」を聴きました",
     "url": "https://open.spotify.com/track/61W7OrZOPeRdybQ9ol6Rjs"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-26T08:52:45.310Z",
     "content": "DE DE MOUSE の「dancing horse on my notes」を聴きました",
     "url": "https://open.spotify.com/track/0VWiDcbrPW10X8k02yJSn1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T08:46:55.931Z",
-    "content": "DE DE MOUSE の「the galactic nervous boy」を聴きました",
-    "url": "https://open.spotify.com/track/2WEuV4fPuXL3HqZn8DkkHl"
   }
 ]
