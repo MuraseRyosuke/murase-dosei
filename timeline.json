@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-27T17:06:48.132Z",
+    "content": "Oisicle Melonpan の「未完成に瞬いて」を聴きました",
+    "url": "https://open.spotify.com/track/3ECQagtUNR0W8EA05eX3VC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-27T15:56:11.989Z",
     "content": "Oisicle Melonpan の「色水」を聴きました",
     "url": "https://open.spotify.com/track/5DCjOoHUncK7jauiGVLIrf"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-26T09:20:21.109Z",
     "content": "DE DE MOUSE の「tide of stars」を聴きました",
     "url": "https://open.spotify.com/track/4LAbxpiPWOslFrKYgdIpV6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T09:14:18.842Z",
-    "content": "DE DE MOUSE の「supernova girl」を聴きました",
-    "url": "https://open.spotify.com/track/2Sr6yIU2rweEeTWF7mH1s5"
   }
 ]
