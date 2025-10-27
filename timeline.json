@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-27T21:47:39.030Z",
+    "content": "SYCLES の「SECTOR RUSH」を聴きました",
+    "url": "https://open.spotify.com/track/3ievbchWTPXUS6J73YOK6F"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-27T17:06:48.132Z",
     "content": "Oisicle Melonpan の「未完成に瞬いて」を聴きました",
     "url": "https://open.spotify.com/track/3ECQagtUNR0W8EA05eX3VC"
@@ -58,11 +64,5 @@
     "timestamp": "2025-10-26T09:29:11.049Z",
     "content": "DE DE MOUSE の「meteorswarm falls in your radio」を聴きました",
     "url": "https://open.spotify.com/track/4F1TPla7rP1IjmwF68JJFA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T09:20:21.109Z",
-    "content": "DE DE MOUSE の「tide of stars」を聴きました",
-    "url": "https://open.spotify.com/track/4LAbxpiPWOslFrKYgdIpV6"
   }
 ]
