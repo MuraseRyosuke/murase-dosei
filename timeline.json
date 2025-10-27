@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-27T15:56:11.989Z",
+    "content": "Oisicle Melonpan の「色水」を聴きました",
+    "url": "https://open.spotify.com/track/5DCjOoHUncK7jauiGVLIrf"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-27T15:51:09.453Z",
+    "content": "DE DE MOUSE の「Nulife」を聴きました",
+    "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-26T22:13:16.764Z",
     "content": "NANIMONO の「24h / TOKYO」を聴きました",
     "url": "https://open.spotify.com/track/1hVXXNFmV19DauJQMCrL66"
@@ -52,17 +64,5 @@
     "timestamp": "2025-10-26T09:14:18.842Z",
     "content": "DE DE MOUSE の「supernova girl」を聴きました",
     "url": "https://open.spotify.com/track/2Sr6yIU2rweEeTWF7mH1s5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T09:08:24.737Z",
-    "content": "DE DE MOUSE の「my heart's raven」を聴きました",
-    "url": "https://open.spotify.com/track/7nXxTPNM9n3yx91rXsjMGV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-26T09:02:45.296Z",
-    "content": "DE DE MOUSE の「raven」を聴きました",
-    "url": "https://open.spotify.com/track/71mxEtIwQYSGoXgacRJpk6"
   }
 ]
