@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-28T15:12:19.475Z",
+    "content": "Kenshi Yonezu の「カナリヤ」を聴きました",
+    "url": "https://open.spotify.com/track/4QnBgXJAEoHjKj6LiKP9wS"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-28T12:30:16.802Z",
     "content": "aiko の「ドレミ」を聴きました",
     "url": "https://open.spotify.com/track/6dkBUE7kkVzKqlQ8BjOZTq"
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-28T11:52:04.933Z",
     "content": "dj newtown の「2005」を聴きました",
     "url": "https://open.spotify.com/track/29mDf3O1tZf1cNxFjdjMlA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-28T11:45:53.714Z",
-    "content": "aiko の「白い道」を聴きました",
-    "url": "https://open.spotify.com/track/2prX0hTxVMXupjkgGSWHqi"
   },
   {
     "platform": "Bluesky",
