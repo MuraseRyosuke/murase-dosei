@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-28T11:13:28.565Z",
+    "content": "Oasis の「Whatever - Remastered」を聴きました",
+    "url": "https://open.spotify.com/track/6gSaYI4Le0FArphq7Th9yN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-28T11:06:23.202Z",
+    "content": "Oasis の「Don't Look Back in Anger」を聴きました",
+    "url": "https://open.spotify.com/track/1xRRPtBWty61XDG7BvMdmL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-28T09:59:01.111Z",
     "content": "DE DE MOUSE の「baby's star jam - [rainy sun mix by DE DE MOUSE] -BONUS TRACK-」を聴きました",
     "url": "https://open.spotify.com/track/5LKrIb1lPsGd3BRwsHEk5O"
@@ -46,18 +58,6 @@
     "timestamp": "2025-10-28T09:15:48.025Z",
     "content": "DE DE MOUSE の「raven」を聴きました",
     "url": "https://open.spotify.com/track/71mxEtIwQYSGoXgacRJpk6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-28T09:11:13.423Z",
-    "content": "DE DE MOUSE の「555 is in your heart」を聴きました",
-    "url": "https://open.spotify.com/track/2pVrFDg78X3wHiZo2CH14Y"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-28T09:05:47.614Z",
-    "content": "DE DE MOUSE の「dancing horse on my notes」を聴きました",
-    "url": "https://open.spotify.com/track/0VWiDcbrPW10X8k02yJSn1"
   },
   {
     "platform": "Bluesky",
