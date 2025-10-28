@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-28T08:36:28.079Z",
+    "content": "9mm Parabellum Bullet の「ハートに火をつけて」を聴きました",
+    "url": "https://open.spotify.com/track/3BPqlpIKN8PZbihUsRMO0H"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-28T02:10:26.300Z",
     "content": "DE DE MOUSE の「murmur on my foot」を聴きました",
     "url": "https://open.spotify.com/track/3cc1ThSEvvpnEHIDuKSJOQ"
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-28T01:29:26.347Z",
     "content": "DE DE MOUSE の「station to stars」を聴きました",
     "url": "https://open.spotify.com/track/7v9st1x1Sav7mtNZUKvQ5U"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-28T01:24:01.943Z",
-    "content": "DE DE MOUSE の「like your magic」を聴きました",
-    "url": "https://open.spotify.com/track/5NJTXND7tWFz1pBqvk22xa"
   },
   {
     "platform": "Bluesky",
