@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-10-28T11:25:05.925Z",
+    "content": "aiko の「くちびる」を聴きました",
+    "url": "https://open.spotify.com/track/6EHse8ztE134s1dNFg8J1q"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-10-28T11:19:30.680Z",
+    "content": "aiko の「Aka」を聴きました",
+    "url": "https://open.spotify.com/track/4Dc75LgAimupVLsfQCU0Ic"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-10-28T11:13:28.565Z",
     "content": "Oasis の「Whatever - Remastered」を聴きました",
     "url": "https://open.spotify.com/track/6gSaYI4Le0FArphq7Th9yN"
@@ -46,18 +58,6 @@
     "timestamp": "2025-10-28T09:26:51.586Z",
     "content": "DE DE MOUSE の「supernova girl」を聴きました",
     "url": "https://open.spotify.com/track/2Sr6yIU2rweEeTWF7mH1s5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-28T09:20:58.016Z",
-    "content": "DE DE MOUSE の「my heart's raven」を聴きました",
-    "url": "https://open.spotify.com/track/7nXxTPNM9n3yx91rXsjMGV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-28T09:15:48.025Z",
-    "content": "DE DE MOUSE の「raven」を聴きました",
-    "url": "https://open.spotify.com/track/71mxEtIwQYSGoXgacRJpk6"
   },
   {
     "platform": "Bluesky",
