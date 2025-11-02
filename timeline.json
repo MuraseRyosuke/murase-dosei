@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-02T14:54:28.310Z",
+    "content": "NANIMONO の「24h / TOKYO」を聴きました",
+    "url": "https://open.spotify.com/track/1hVXXNFmV19DauJQMCrL66"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-02T13:31:17.489Z",
     "content": "KIRINJI の「耳をうずめて - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2z7cha3Sg22NrUjRCQek8e"
@@ -8,7 +14,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-11-01T14:17:21.016Z",
-    "content": "KIRINJI の「双子座グラフィテ�� - Instrumental 2018 Remaster」を聴きました",
+    "content": "KIRINJI の「双子座グラフィティ - Instrumental 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/3iPInU2oslyTM8kBDUW5iI"
   },
   {
@@ -52,12 +58,6 @@
     "timestamp": "2025-10-31T09:59:20.103Z",
     "content": "PAS TASTA の「river relief」を聴きました",
     "url": "https://open.spotify.com/track/3XRO9tHf7z9IS4PdmupZ8K"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-10-30T21:19:58.583Z",
-    "content": "Hiroki Kikuta の「つよいぞ」を聴きました",
-    "url": "https://open.spotify.com/track/5ROvhDOWyLdQtuNWolorpD"
   },
   {
     "platform": "Bluesky",
