@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-04T00:45:38.100Z",
+    "content": "DE DE MOUSE の「わんでもニウム '87」を聴きました",
+    "url": "https://open.spotify.com/track/3VlgleQUVZNjtYNmk9vrJx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-03T22:26:46.170Z",
     "content": "ICE の「HIGHER LOVE」を聴きました",
     "url": "https://open.spotify.com/track/1S3Fc6SUauLD7S5xgWRamI"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-03T21:51:36.708Z",
     "content": "DE DE MOUSE の「DOWN TOWN」を聴きました",
     "url": "https://open.spotify.com/track/4TdsfocmINcBCWEOELvSFj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-03T21:46:38.344Z",
-    "content": "DE DE MOUSE の「メトロポリタン美術館」を聴きました",
-    "url": "https://open.spotify.com/track/5hsceX6iEDaLc4GSmqjw7t"
   },
   {
     "platform": "Bluesky",
