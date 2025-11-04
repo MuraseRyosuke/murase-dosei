@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-04T04:28:03.219Z",
+    "content": "DE DE MOUSE の「DON-ｶﾝ!」を聴きました",
+    "url": "https://open.spotify.com/track/3LI7BHpUbUZXEE6MxmQIXA"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-04T00:45:38.100Z",
     "content": "DE DE MOUSE の「わんでもニウム '87」を聴きました",
     "url": "https://open.spotify.com/track/3VlgleQUVZNjtYNmk9vrJx"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-03T21:56:36.759Z",
     "content": "DE DE MOUSE の「east end girl(keeps singing) - remixed by FRONTIER BACKYARD」を聴きました",
     "url": "https://open.spotify.com/track/2clSmwKA5VlKms7u6qRfS7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-03T21:51:36.708Z",
-    "content": "DE DE MOUSE の「DOWN TOWN」を聴きました",
-    "url": "https://open.spotify.com/track/4TdsfocmINcBCWEOELvSFj"
   },
   {
     "platform": "Bluesky",
