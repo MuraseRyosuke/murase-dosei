@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-06T02:49:24.855Z",
+    "content": "RIP SLYME の「マタ逢ウ日マデ2010〜冨田流〜」を聴きました",
+    "url": "https://open.spotify.com/track/78DnnEI4U1bEc3ilid8MjV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-06T02:48:17.643Z",
+    "content": "RIP SLYME の「ブロウ」を聴きました",
+    "url": "https://open.spotify.com/track/4VjHoeB2f9HUbob6UM9IES"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-06T02:39:26.165Z",
+    "content": "Tomita Lab. の「the birds of four」を聴きました",
+    "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-06T02:30:55.341Z",
+    "content": "DE DE MOUSE の「sundown river - I am Robot and Proud Remix」を聴きました",
+    "url": "https://open.spotify.com/track/6itKZInGcr748HUBGuuhZb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-06T02:23:56.421Z",
+    "content": "CAPSULE の「Hello」を聴きました",
+    "url": "https://open.spotify.com/track/7yGGqBi5QLVfmjnHiTM3cQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-06T02:17:54.815Z",
+    "content": "Perfume の「ラヴ・クラウド」を聴きました",
+    "url": "https://open.spotify.com/track/3A4UGmRGYXaSGUyqxg66Qt"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-06T01:38:24.672Z",
     "content": "Perfume の「Perfume」を聴きました",
     "url": "https://open.spotify.com/track/5arEkJcWtv3l5PqUrXk3rE"
@@ -30,51 +66,9 @@
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m4uqpbqxic2h"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2025-11-04T04:28:03.219Z",
-    "content": "DE DE MOUSE の「DON-ｶﾝ!」を聴きました",
-    "url": "https://open.spotify.com/track/3LI7BHpUbUZXEE6MxmQIXA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-04T00:45:38.100Z",
-    "content": "DE DE MOUSE の「わんでもニウム '87」を聴きました",
-    "url": "https://open.spotify.com/track/3VlgleQUVZNjtYNmk9vrJx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-03T22:26:46.170Z",
-    "content": "ICE の「HIGHER LOVE」を聴きました",
-    "url": "https://open.spotify.com/track/1S3Fc6SUauLD7S5xgWRamI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-03T22:26:25.733Z",
-    "content": "ICE の「HIGHER LOVE」を聴きました",
-    "url": "https://open.spotify.com/track/1S3Fc6SUauLD7S5xgWRamI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-03T22:22:36.614Z",
-    "content": "Tokyo Ska Paradise Orchestra の「Twinkle Star - sail away mix」を聴きました",
-    "url": "https://open.spotify.com/track/5zZXdAHuqnXvBafYX0SZNI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-03T22:18:36.632Z",
-    "content": "DE DE MOUSE の「Love SQ: 悠久の風 - migratory birds mix」を聴きました",
-    "url": "https://open.spotify.com/track/0iT1m3b9fhUPXplEglHlxG"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2025-11-03T09:33:43.720Z",
     "content": "検索大手がLLM公開してるの、本当理にかなってすごいなぁ、当たり前すぎてもう前の生活を忘れている",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m4ppon6bz22e"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2025-10-30T03:03:17.624Z",
-    "content": "ChatGPTにしてももうちょっとUI良くなる気がする、トークアプリの大革命が待ってる… Geminiはところどころアップデートが見える、Claudeが一番人間的かもしれない",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m4exytcbms2l"
   }
 ]
