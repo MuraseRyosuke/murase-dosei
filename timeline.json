@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-07T17:16:42.116Z",
+    "content": "Tomita Lab. の「夜汽車 feat. BASI & kojikoji」を聴きました",
+    "url": "https://open.spotify.com/track/2H54vAT0phbQcJWi76jpSW"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-07T01:34:34.795Z",
     "content": "Mika Nakashima の「WILL」を聴きました",
     "url": "https://open.spotify.com/track/0Bx0brTEdtJ0pCWCSkdPAy"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-07T00:12:45.230Z",
     "content": "M!LK の「イイじゃん」を聴きました",
     "url": "https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-07T00:12:36.298Z",
-    "content": "Sasuke Haraguchi の「見ましょう」を聴きました",
-    "url": "https://open.spotify.com/track/2E40rdrtVsT3FuI8smE0Tt"
   },
   {
     "platform": "Bluesky",
