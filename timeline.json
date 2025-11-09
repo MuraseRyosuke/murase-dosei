@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-09T14:52:02.058Z",
+    "content": "Tomita Lab. の「the birds of four」を聴きました",
+    "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-09T14:40:31.314Z",
+    "content": "Wasuta の「マッシュ・ド・アート」を聴きました",
+    "url": "https://open.spotify.com/track/1BNxOON3TcbpxuNKvG7b7j"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-09T14:38:01.292Z",
     "content": "Wasuta の「わーるどすたんだーど」を聴きました",
     "url": "https://open.spotify.com/track/3szdJrtw7uONW0gRVURssZ"
@@ -46,18 +58,6 @@
     "timestamp": "2025-11-09T07:58:45.738Z",
     "content": "KIRINJI の「Music!!!!!!! - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/3v2rY0vR5pZ6C434TEWlIB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-09T07:51:15.731Z",
-    "content": "KIRINJI の「Drifter - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2ZWZSHeia0Hjc7jWyk2Yar"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-09T07:46:15.719Z",
-    "content": "KIRINJI の「地を這う者に翼はいらぬ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/5fkeEoq06YGLukenvKCZUE"
   },
   {
     "platform": "Bluesky",
