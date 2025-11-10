@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-10T21:37:28.683Z",
+    "content": "FUJIN CLUB の「はたけのうた」を聴きました",
+    "url": "https://open.spotify.com/track/5caj2ePHCv2jS1bR3eCv70"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-10T00:00:53.913Z",
     "content": "FUJIN CLUB の「旅とフェリー」を聴きました",
     "url": "https://open.spotify.com/track/2G4N1lcrce2qPsxdMHgG7b"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-09T08:08:45.735Z",
     "content": "KIRINJI の「Drifter - Instrumental 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0bIUGeuVmON4d1gRtZXhg4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-09T08:03:16.156Z",
-    "content": "KIRINJI の「シーサイド・シークェンス - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0V1sDKMqApnumDh4jQ3YeK"
   },
   {
     "platform": "Bluesky",
