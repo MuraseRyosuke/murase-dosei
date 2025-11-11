@@ -1,5 +1,23 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-11-11T15:19:17.581Z",
+    "content": "Daisuke Kawaguchi の「I've been searchin'〜君をさがしてた〜」を聴きました",
+    "url": "https://open.spotify.com/track/1mR3dNOaQm2nhrqtCarsZF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-11T15:13:53.578Z",
+    "content": "Daisuke Kawaguchi の「WILL (The Ultimate)」を聴きました",
+    "url": "https://open.spotify.com/track/25g3ujzDOyqjDomhlNDCa8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-11T15:08:10.694Z",
+    "content": "Daisuke Kawaguchi の「Let's Get Together Now」を聴きました",
+    "url": "https://open.spotify.com/track/0pxZn0GFs7wnHJMORNYVAK"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-11-11T13:54:06.030Z",
     "content": "iOS26から日本語フォントが中華化してるのどーにかならんかなあ",
@@ -32,7 +50,7 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-11-11T08:49:32.526Z",
-    "content": "Perfume の「ワンルーム��ディスコ」を聴きました",
+    "content": "Perfume の「ワンルーム・ディスコ」を聴きました",
     "url": "https://open.spotify.com/track/4SDovUYiPB21YBBicEKJlJ"
   },
   {
@@ -46,24 +64,6 @@
     "timestamp": "2025-11-11T08:41:32.419Z",
     "content": "Perfume の「微かなカオリ」を聴きました",
     "url": "https://open.spotify.com/track/653zHoOdoVTCrUGb7gPfoT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-11T08:36:32.214Z",
-    "content": "Perfume の「スパイス」を聴きました",
-    "url": "https://open.spotify.com/track/60v5BCPY1KCcy6AaK30Xov"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-11T08:32:32.200Z",
-    "content": "Perfume の「Relax In The City」を聴きました",
-    "url": "https://open.spotify.com/track/6AvrTAEOARaQLthsHZOSHZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-11T08:28:32.236Z",
-    "content": "Kana Hanazawa の「happy endings」を聴きました",
-    "url": "https://open.spotify.com/track/2XmWiwnuc9ha3IELRZjlzo"
   },
   {
     "platform": "Bluesky",
