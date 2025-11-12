@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-12T22:47:55.262Z",
+    "content": "CASIOPEA の「ブラック・ジョーク」を聴きました",
+    "url": "https://open.spotify.com/track/2tYHCZNhGoWZ6cCGzgkAPo"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-12T22:43:38.314Z",
     "content": "CASIOPEA の「ドリーム・ヒル」を聴きました",
     "url": "https://open.spotify.com/track/3lOpMY6bWG9ePWca1D0DQZ"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-12T21:34:21.023Z",
     "content": "DE DE MOUSE の「pump it up」を聴きました",
     "url": "https://open.spotify.com/track/5vfdDoAUoVZDGFgSQKFLBq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-12T21:28:33.135Z",
-    "content": "DE DE MOUSE の「hand on your hand」を聴きました",
-    "url": "https://open.spotify.com/track/2rt0swy2rbTQ4PfZeCQO1s"
   },
   {
     "platform": "Bluesky",
