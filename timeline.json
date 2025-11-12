@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-12T22:43:38.314Z",
+    "content": "CASIOPEA の「ドリーム・ヒル」を聴きました",
+    "url": "https://open.spotify.com/track/3lOpMY6bWG9ePWca1D0DQZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-12T22:37:57.866Z",
+    "content": "CASIOPEA の「スワロー」を聴きました",
+    "url": "https://open.spotify.com/track/6JqDvkuehHaeyndeGmLrRt"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-12T22:33:31.912Z",
+    "content": "CASIOPEA の「ファー・アウェイ」を聴きました",
+    "url": "https://open.spotify.com/track/7oO8KQn9fBsA1G4bRSg6he"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-12T22:29:39.467Z",
+    "content": "CASIOPEA の「ミッドナイト・ランデブー」を聴きました",
+    "url": "https://open.spotify.com/track/56prPhOQ8YcVNLK9UXn7Py"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-12T22:24:01.772Z",
+    "content": "CASIOPEA の「スペース・ロード」を聴きました",
+    "url": "https://open.spotify.com/track/5mhMk5MWThkEtMe7i1vhko"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-12T22:15:52.379Z",
     "content": "CASIOPEA の「ティアーズ・オブ・ザ・スター」を聴きました",
     "url": "https://open.spotify.com/track/15DKVRxHhKqRmIE2L6G82h"
@@ -28,36 +58,6 @@
     "timestamp": "2025-11-12T21:28:33.135Z",
     "content": "DE DE MOUSE の「hand on your hand」を聴きました",
     "url": "https://open.spotify.com/track/2rt0swy2rbTQ4PfZeCQO1s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-12T21:23:36.045Z",
-    "content": "DE DE MOUSE の「whimsy love」を聴きました",
-    "url": "https://open.spotify.com/track/63042UPQa4kodp244EE0ZL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-12T21:20:02.521Z",
-    "content": "DE DE MOUSE の「flesh! + blood」を聴きました",
-    "url": "https://open.spotify.com/track/0FqKK26yrMJBCXIOOUJhGl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-12T21:19:39.290Z",
-    "content": "DE DE MOUSE の「flesh! + blood」を聴きました",
-    "url": "https://open.spotify.com/track/0FqKK26yrMJBCXIOOUJhGl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-12T21:13:45.351Z",
-    "content": "DE DE MOUSE の「as you like it」を聴きました",
-    "url": "https://open.spotify.com/track/44OJW7P3dZZe0toe269Cin"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-12T21:09:12.427Z",
-    "content": "DE DE MOUSE の「rock you up」を聴きました",
-    "url": "https://open.spotify.com/track/0ZjsYSKkr22fuwrwexKo0t"
   },
   {
     "platform": "Bluesky",
