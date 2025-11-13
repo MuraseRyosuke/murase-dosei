@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-13T22:39:57.873Z",
+    "content": "CAPSULE の「写真」を聴きました",
+    "url": "https://open.spotify.com/track/38icYPjyNuXXmaI5juV5yz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-13T22:35:30.173Z",
+    "content": "CAPSULE の「東京喫茶」を聴きました",
+    "url": "https://open.spotify.com/track/2tjYDSN4f9j1MDofyfoLBa"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-13T22:30:42.045Z",
+    "content": "CAPSULE の「電気十露盤」を聴きました",
+    "url": "https://open.spotify.com/track/3gSNJQrBZJOEkmR0bkytz4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-13T22:19:50.830Z",
     "content": "CAPSULE の「神様の歌声」を聴きました",
     "url": "https://open.spotify.com/track/5WG8hLAoYwi7Qtq4lMytGo"
@@ -38,26 +56,8 @@
   {
     "platform": "Spotify",
     "timestamp": "2025-11-13T21:51:55.391Z",
-    "content": "CAPSULE の「恋ノ���」を聴きました",
+    "content": "CAPSULE の「恋ノ花」を聴きました",
     "url": "https://open.spotify.com/track/1cJk7V5dsASwlwoZ2n6Asv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-13T21:46:46.709Z",
-    "content": "CAPSULE の「粉雪」を聴きました",
-    "url": "https://open.spotify.com/track/7tccJTdowdYl4fJ0qKlHOQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-13T21:41:25.955Z",
-    "content": "CAPSULE の「サムライロジック」を聴きました",
-    "url": "https://open.spotify.com/track/1bxfADCMtAr92ZDP2tvdLh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-13T21:40:15.136Z",
-    "content": "CAPSULE の「空飛ぶ都市計画 - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1uT7TSjVRiqXChWuQDpYsf"
   },
   {
     "platform": "Bluesky",
