@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-14T05:49:59.485Z",
+    "content": "森田剛 の「ずっと僕らは」を聴きました",
+    "url": "https://open.spotify.com/track/2Gc3dyh3W2M4pbeFPVpq2F"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-14T03:15:09.405Z",
     "content": "V6 の「ありがとうのうた」を聴きました",
     "url": "https://open.spotify.com/track/1AKyE4a92UZC6gRqXp7pbH"
@@ -58,12 +64,6 @@
     "timestamp": "2025-11-13T22:51:48.646Z",
     "content": "CAPSULE の「テレポテーション - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6L7ZUDuVlHNJBRkvNrST2V"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-13T22:47:09.915Z",
-    "content": "CAPSULE の「さくら」を聴きました",
-    "url": "https://open.spotify.com/track/6r1t8fCbQlkjbxrxus34aj"
   },
   {
     "platform": "Bluesky",
