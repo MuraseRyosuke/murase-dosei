@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-14T03:15:09.405Z",
+    "content": "V6 の「ありがとうのうた」を聴きました",
+    "url": "https://open.spotify.com/track/1AKyE4a92UZC6gRqXp7pbH"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-14T03:09:49.752Z",
     "content": "CAPSULE の「do do pi do - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/3QIFOPei7TkV6u4TWXrJCA"
@@ -58,12 +64,6 @@
     "timestamp": "2025-11-13T22:47:09.915Z",
     "content": "CAPSULE の「さくら」を聴きました",
     "url": "https://open.spotify.com/track/6r1t8fCbQlkjbxrxus34aj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-13T22:39:57.873Z",
-    "content": "CAPSULE の「写真」を聴きました",
-    "url": "https://open.spotify.com/track/38icYPjyNuXXmaI5juV5yz"
   },
   {
     "platform": "Bluesky",
