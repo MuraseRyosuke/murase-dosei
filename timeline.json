@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-14T08:54:22.164Z",
+    "content": "Tomita Lab. の「the birds of four」を聴きました",
+    "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-14T05:49:59.485Z",
     "content": "森田剛 の「ずっと僕らは」を聴きました",
     "url": "https://open.spotify.com/track/2Gc3dyh3W2M4pbeFPVpq2F"
@@ -58,12 +64,6 @@
     "timestamp": "2025-11-13T22:56:42.514Z",
     "content": "CAPSULE の「Lounge Designers Killer - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/3iklxppjwZuGbHBCglR13E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-13T22:51:48.646Z",
-    "content": "CAPSULE の「テレポテーション - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6L7ZUDuVlHNJBRkvNrST2V"
   },
   {
     "platform": "Bluesky",
