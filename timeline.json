@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-11-15T14:51:24.432Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/2SOHxfQAcwaKEMtsFXhCez"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-11-15T10:14:00.222Z",
     "content": "母親が牛乳アレルギー持ちなので馴染みのなかった牛乳、最近アーモンドミルクのブームが自分の中できていていい感じ",
@@ -58,12 +64,6 @@
     "timestamp": "2025-11-15T07:39:50.784Z",
     "content": "METAFIVE の「Luv U Tokio」を聴きました",
     "url": "https://open.spotify.com/track/3iZCAoXpOP8V2EJ5XrJKVq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T07:35:24.644Z",
-    "content": "METAFIVE の「Don't Move」を聴きました",
-    "url": "https://open.spotify.com/track/1vmgPQNCIO5LUx4qVpWfHq"
   },
   {
     "platform": "GitHub",
