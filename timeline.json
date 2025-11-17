@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-17T19:13:34.594Z",
+    "content": "CASIOPEA の「タイム・リミット」を聴きました",
+    "url": "https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-17T19:09:09.854Z",
+    "content": "Masayoshi Takanaka の「トーキョーレギー」を聴きました",
+    "url": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-17T13:14:48.666Z",
     "content": "Masayoshi Takanaka の「OH! TENGO SUERTE」を聴きました",
     "url": "https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN"
@@ -52,17 +64,5 @@
     "timestamp": "2025-11-15T08:02:15.929Z",
     "content": "METAFIVE の「Disaster Baby」を聴きました",
     "url": "https://open.spotify.com/track/2ruNWLRC73CZ7Iimb6fTNt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T07:58:18.503Z",
-    "content": "METAFIVE の「Anodyne」を聴きました",
-    "url": "https://open.spotify.com/track/5K8ShKZvd3POYcOGc3cdrE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T07:53:30.692Z",
-    "content": "METAFIVE の「Gravetrippin'」を聴きました",
-    "url": "https://open.spotify.com/track/1Cdr2Eo0IqNcHEFeigpDcA"
   }
 ]
