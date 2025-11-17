@@ -2,7 +2,7 @@
 
 これは、個人の様々なオンライン活動を一つのタイムラインに集約して表示するウェブサイト「村瀨動静」のソースコードです。GitHub PagesとGitHub Actionsを利用し、サーバーレスかつ無料で運用することを目指しています。
 
-[**完成したサイトはこちら**](https://muraseryosuke.github.io/murase-dosei/)
+[**完成したサイトはこちら**](https://dosei.muraseryosuke.info)
 
 ## ✨ 機能
 
