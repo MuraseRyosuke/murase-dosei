@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-17T19:37:28.659Z",
+    "content": "Sayonara Ponytail の「ぼくらの季節(アルバムバージョン)」を聴きました",
+    "url": "https://open.spotify.com/track/2p5DzGzktaDKUJ3pTTuPXz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-17T19:26:59.437Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-17T19:23:08.476Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-17T19:17:56.963Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-17T19:13:34.594Z",
     "content": "CASIOPEA の「タイム・リミット」を聴きました",
     "url": "https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9"
@@ -40,29 +64,5 @@
     "timestamp": "2025-11-15T10:14:00.222Z",
     "content": "母親が牛乳アレルギー持ちなので馴染みのなかった牛乳、最近アーモンドミルクのブームが自分の中できていていい感じ",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m5nxjpuhec22"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T08:15:29.199Z",
-    "content": "METAFIVE の「Split Spirit - META Version」を聴きました",
-    "url": "https://open.spotify.com/track/0EACt1BrfOE7mNMoqdbQnI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T08:10:54.249Z",
-    "content": "METAFIVE の「W.G.S.F.」を聴きました",
-    "url": "https://open.spotify.com/track/01wV1c5AiiqNUp9sv7b1RF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T08:07:08.370Z",
-    "content": "METAFIVE の「Radio - META Version」を聴きました",
-    "url": "https://open.spotify.com/track/7aNd1jGC378uEqDEyq17un"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-15T08:02:15.929Z",
-    "content": "METAFIVE の「Disaster Baby」を聴きました",
-    "url": "https://open.spotify.com/track/2ruNWLRC73CZ7Iimb6fTNt"
   }
 ]
