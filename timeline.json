@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-18T23:35:11.560Z",
+    "content": "Perfume の「Human Factory - 電造人間 -」を聴きました",
+    "url": "https://open.spotify.com/track/2xIT1QHarZ7nmHR4ls0pBJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-18T22:07:35.838Z",
     "content": "Perfume の「Teenage Dreams」を聴きました",
     "url": "https://open.spotify.com/track/3IhVrFOdnEIZBUJdYn4mUM"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-18T21:37:36.060Z",
     "content": "Perfume の「タイムカプセル」を聴きました",
     "url": "https://open.spotify.com/track/6OhfYErnTVU3cqHXVKdcQU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:34:06.550Z",
-    "content": "Perfume の「Morning Cruising」を聴きました",
-    "url": "https://open.spotify.com/track/3nwqkZnUh43x0u6xKQzs21"
   },
   {
     "platform": "Bluesky",
