@@ -3,10 +3,11 @@ name: Fetch Social Activities
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *' # 30分ごとに実行
 
 jobs:
   fetch-and-update:
+    # リポジトリへの書き込み権限を付与 (git pushのため)
     permissions:
       contents: write
       
@@ -40,13 +41,14 @@ jobs:
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
           TWITCH_USER_ID: ${{ secrets.TWITCH_USER_ID }}
       
+      # 現在時刻を取得して環境変数NOWにセット (日本時間 JST)
       - name: Get current date
         id: date
         run: echo "NOW=$(TZ=JST-9 date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
 
+      # 変更があればコミットしてプッシュ (メッセージに日時を含める)
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update timeline data (${{ env.NOW }})"
           file_pattern: timeline.json
-
