@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-18T17:25:53.790Z",
+    "content": "Perfume の「Perfume」を聴きました",
+    "url": "https://open.spotify.com/track/5arEkJcWtv3l5PqUrXk3rE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-18T13:16:24.977Z",
     "content": "Mariah Carey の「All I Want for Christmas Is You - Live at The Cathedral of St. John The Divine」を聴きました",
     "url": "https://open.spotify.com/track/0QvkOcPSKtEVN4siqcwZsu"
@@ -58,12 +64,6 @@
     "timestamp": "2025-11-18T11:04:45.279Z",
     "content": "DE DE MOUSE の「sundown river - I am Robot and Proud Remix」を聴きました",
     "url": "https://open.spotify.com/track/6itKZInGcr748HUBGuuhZb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T11:00:27.832Z",
-    "content": "DE DE MOUSE の「wanna dance」を聴きました",
-    "url": "https://open.spotify.com/track/2NQE0japWT47OqATe9uH2L"
   },
   {
     "platform": "Bluesky",
