@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-19T19:05:24.722Z",
+    "content": "Perfume の「Perfume」を聴きました",
+    "url": "https://open.spotify.com/track/5arEkJcWtv3l5PqUrXk3rE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-19T05:06:39.271Z",
     "content": "Mariah Carey の「All I Want for Christmas Is You - Live at The Tokyo Dome」を聴きました",
     "url": "https://open.spotify.com/track/4qxNmlWh3J4TqiqtIB4GpF"
@@ -70,12 +76,6 @@
     "timestamp": "2025-11-18T21:45:35.430Z",
     "content": "Perfume の「メビウス」を聴きました",
     "url": "https://open.spotify.com/track/0brkcjZJfAe0MJSmhlBxlH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:41:35.638Z",
-    "content": "Perfume の「時空花」を聴きました",
-    "url": "https://open.spotify.com/track/6Rm3Z6fiyZmHv5W58o5a81"
   },
   {
     "platform": "Bluesky",
