@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-19T20:35:11.916Z",
+    "content": "Perfume の「巡ループ」を聴きました",
+    "url": "https://open.spotify.com/track/3K9ahLxtowxeHjiR0ksy9B"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-19T20:31:26.097Z",
+    "content": "Perfume の「exit」を聴きました",
+    "url": "https://open.spotify.com/track/588VVBRB5QQqtgwgSuwhtv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-19T20:26:31.644Z",
+    "content": "Perfume の「Moon」を聴きました",
+    "url": "https://open.spotify.com/track/79mVFSztA3JCIrsSZT3e8Y"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-19T20:23:35.669Z",
+    "content": "Perfume の「Human Factory - 電造人間 -」を聴きました",
+    "url": "https://open.spotify.com/track/2xIT1QHarZ7nmHR4ls0pBJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-19T20:19:11.565Z",
     "content": "Perfume の「Teenage Dreams」を聴きました",
     "url": "https://open.spotify.com/track/3IhVrFOdnEIZBUJdYn4mUM"
@@ -52,30 +76,6 @@
     "timestamp": "2025-11-18T22:03:06.268Z",
     "content": "Perfume の「Virtual Fantasy」を聴きました",
     "url": "https://open.spotify.com/track/1g41KVkSZjaAreZRguXDyE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:59:35.982Z",
-    "content": "Perfume の「ソーラ・ウィンド」を聴きました",
-    "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:55:05.949Z",
-    "content": "Perfume の「ネビュラロマンス」を聴きました",
-    "url": "https://open.spotify.com/track/5gOPOyHtNe13doLJGtEmzC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:51:05.913Z",
-    "content": "Perfume の「再起動世界」を聴きました",
-    "url": "https://open.spotify.com/track/18gV9yNPSXw4G34yyn8Vxz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:47:35.698Z",
-    "content": "Perfume の「Cipher」を聴きました",
-    "url": "https://open.spotify.com/track/1Ucel1s6uPPBnSS3g6X0E9"
   },
   {
     "platform": "Bluesky",
