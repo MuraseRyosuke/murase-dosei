@@ -1,5 +1,23 @@
 [
   {
+    "platform": "Bluesky",
+    "timestamp": "2025-11-19T03:07:30.026Z",
+    "content": "「村瀨動静」のアドレスを変えました。\ndosei.muraseryosuke.info",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m5xbkrs23c2j"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2025-11-19T03:07:05.932Z",
+    "content": "「村瀨亮介のリアルタイム健康診断」を作りました。\nstatus.muraseryosuke.info \n\nApple Watchからデータを一日数回読み込み、iOSのショートカットでGistにJSONファイルを更新、表示しています。\nあいつ今何してる？と思った際にご確認ください。",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m5xbjyy4sk2j"
+  },
+  {
+    "platform": "Mastodon",
+    "timestamp": "2025-11-19T03:05:53.906Z",
+    "content": "「村瀨亮介のリアルタイム健康診断」を作りました。https://status.muraseryosuke.info/ Apple Watchからデータを一日数回読み込み、iOSのショートカットでGistにJSONファイルを更新、表示しています。あいつ今何してる？と思った際にご確認ください。",
+    "url": "https://pawoo.net/@vl_lvoO/115574148556745839"
+  },
+  {
     "platform": "Spotify",
     "timestamp": "2025-11-18T23:35:11.560Z",
     "content": "Perfume の「Human Factory - 電造人間 -」を聴きました",
