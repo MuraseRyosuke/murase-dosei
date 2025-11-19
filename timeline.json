@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-19T20:19:11.565Z",
+    "content": "Perfume の「Teenage Dreams」を聴きました",
+    "url": "https://open.spotify.com/track/3IhVrFOdnEIZBUJdYn4mUM"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-19T19:05:24.722Z",
     "content": "Perfume の「Perfume」を聴きました",
     "url": "https://open.spotify.com/track/5arEkJcWtv3l5PqUrXk3rE"
@@ -70,12 +76,6 @@
     "timestamp": "2025-11-18T21:47:35.698Z",
     "content": "Perfume の「Cipher」を聴きました",
     "url": "https://open.spotify.com/track/1Ucel1s6uPPBnSS3g6X0E9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-18T21:45:35.430Z",
-    "content": "Perfume の「メビウス」を聴きました",
-    "url": "https://open.spotify.com/track/0brkcjZJfAe0MJSmhlBxlH"
   },
   {
     "platform": "Bluesky",
