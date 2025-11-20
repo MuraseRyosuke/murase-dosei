@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-20T03:29:14.116Z",
+    "content": "Yu Takahashi の「セピア」を聴きました",
+    "url": "https://open.spotify.com/track/2PjO4DhGKoyWiLSqc0evDr"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-20T03:24:14.496Z",
+    "content": "Yu Takahashi の「誰もいない台所」を聴きました",
+    "url": "https://open.spotify.com/track/1LbWJbqeIBT32xjZm2WCxw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-20T03:15:32.773Z",
+    "content": "Yu Takahashi の「卒業」を聴きました",
+    "url": "https://open.spotify.com/track/6qWRwhcwxJp8r684pP0FT9"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-20T02:50:25.328Z",
     "content": "Yu Takahashi の「(Where's)THE SILENT MAJORITY?」を聴きました",
     "url": "https://open.spotify.com/track/7Ht1KmHjdvBb3gW7BALK4y"
@@ -40,24 +58,6 @@
     "timestamp": "2025-11-20T01:51:14.207Z",
     "content": "CAPSULE の「tokyo smiling」を聴きました",
     "url": "https://open.spotify.com/track/5MYFgMWNjxk86yl3XyZ8t8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T01:47:03.615Z",
-    "content": "CAPSULE の「world fabrication」を聴きました",
-    "url": "https://open.spotify.com/track/62Kb1A29O8WQNgK9yOPYyu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T01:42:19.421Z",
-    "content": "CAPSULE の「urban complex」を聴きました",
-    "url": "https://open.spotify.com/track/1AKV3TJQMOnylgUCiRUhRZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T01:40:12.892Z",
-    "content": "CAPSULE の「beautiful hour」を聴きました",
-    "url": "https://open.spotify.com/track/4xfWDj56ifxEIZm96AUqS7"
   },
   {
     "platform": "Bluesky",
