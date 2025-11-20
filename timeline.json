@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-20T09:16:57.194Z",
+    "content": "DE DE MOUSE の「わんでもニウム '87」を聴きました",
+    "url": "https://open.spotify.com/track/3VlgleQUVZNjtYNmk9vrJx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-20T09:16:02.043Z",
+    "content": "DE DE MOUSE の「like your magic」を聴きました",
+    "url": "https://open.spotify.com/track/5NJTXND7tWFz1pBqvk22xa"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-20T03:29:14.116Z",
     "content": "Yu Takahashi の「セピア」を聴きました",
     "url": "https://open.spotify.com/track/2PjO4DhGKoyWiLSqc0evDr"
@@ -46,18 +58,6 @@
     "timestamp": "2025-11-20T02:28:12.788Z",
     "content": "Yu Takahashi の「素晴らしき日常」を聴きました",
     "url": "https://open.spotify.com/track/3ejEcxPr9lPHr0fUyQZ2yE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T02:22:59.859Z",
-    "content": "Yu Takahashi の「終焉のディープキス」を聴きました",
-    "url": "https://open.spotify.com/track/25p3tKJQ9OxMWLnIgLtbsy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T01:51:14.207Z",
-    "content": "CAPSULE の「tokyo smiling」を聴きました",
-    "url": "https://open.spotify.com/track/5MYFgMWNjxk86yl3XyZ8t8"
   },
   {
     "platform": "Bluesky",
