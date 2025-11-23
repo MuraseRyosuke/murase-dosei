@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-23T04:25:12.711Z",
+    "content": "Yu Takahashi の「この声」を聴きました",
+    "url": "https://open.spotify.com/track/5JbwaV5aFkuCTdFQgkZoYl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-23T04:24:39.277Z",
+    "content": "Yu Takahashi の「この声」を聴きました",
+    "url": "https://open.spotify.com/track/5JbwaV5aFkuCTdFQgkZoYl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-22T13:44:34.894Z",
     "content": "S. Kiyotaka & Omega Tribe の「ふたりの夏物語-NEVER ENDING SUMMER-」を聴きました",
     "url": "https://open.spotify.com/track/0Wh8hyqkvxEwB8TWVKBVnE"
@@ -46,18 +58,6 @@
     "timestamp": "2025-11-20T02:50:25.328Z",
     "content": "Yu Takahashi の「(Where's)THE SILENT MAJORITY?」を聴きました",
     "url": "https://open.spotify.com/track/7Ht1KmHjdvBb3gW7BALK4y"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T02:45:53.816Z",
-    "content": "Yu Takahashi の「虹と記念日」を聴きました",
-    "url": "https://open.spotify.com/track/1UkyB43JLv5UMQtrRfAvRT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T02:40:17.875Z",
-    "content": "Yu Takahashi の「ほんとのきもち」を聴きました",
-    "url": "https://open.spotify.com/track/104qnTIGZadkg7085FgSRI"
   },
   {
     "platform": "Bluesky",
