@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-24T15:42:03Z",
+    "content": "DE DE MOUSE の「festa de centauri」を聴きました",
+    "url": "https://open.spotify.com/track/2uFiFCwhttnQv32n3nUFsp"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-24T13:47:18.786Z",
     "content": "Yoshida Rinne の「Re-Rinne」を聴きました",
     "url": "https://open.spotify.com/track/2crNtj8O2I4N7e36bayOve"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-24T13:08:24.989Z",
     "content": "DE DE MOUSE の「chase after chase」を聴きました",
     "url": "https://open.spotify.com/track/7nPMAtGlXLYWFJhlBeluMG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-24T13:04:28.134Z",
-    "content": "DE DE MOUSE の「dream you up」を聴きました",
-    "url": "https://open.spotify.com/track/3s8VpQEqjlM0mYSQ8mPfFl"
   },
   {
     "platform": "Bluesky",
