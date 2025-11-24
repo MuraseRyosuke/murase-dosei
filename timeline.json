@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-24T08:31:19.555Z",
+    "content": "DE DE MOUSE の「firework girl」を聴きました",
+    "url": "https://open.spotify.com/track/3Axb5lwthEpOp2x7krL07T"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-24T06:51:11.485Z",
     "content": "DE DE MOUSE の「firework girl」を聴きました",
     "url": "https://open.spotify.com/track/3Axb5lwthEpOp2x7krL07T"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-20T03:24:14.496Z",
     "content": "Yu Takahashi の「誰もいない台所」を聴きました",
     "url": "https://open.spotify.com/track/1LbWJbqeIBT32xjZm2WCxw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-20T03:15:32.773Z",
-    "content": "Yu Takahashi の「卒業」を聴きました",
-    "url": "https://open.spotify.com/track/6qWRwhcwxJp8r684pP0FT9"
   },
   {
     "platform": "Bluesky",
