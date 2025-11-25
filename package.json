@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@atproto/api": "^0.12.1",
+    "@atproto/api": "^0.13.21",
     "@octokit/core": "^6.1.2",
     "rss-parser": "^3.13.0"
   }
