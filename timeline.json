@@ -58,23 +58,5 @@
     "timestamp": "2025-11-24T18:41:34.731Z",
     "content": "RIP SLYME の「I・N・G」を聴きました",
     "url": "https://open.spotify.com/track/6lk9HTCI3eCXERqBNIxWbm"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2025-11-19T03:07:30.026Z",
-    "content": "「村瀨動静」のアドレスを変えました。\ndosei.muraseryosuke.info",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m5xbkrs23c2j"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2025-11-19T03:07:05.932Z",
-    "content": "「村瀨亮介のリアルタイム健康診断」を作りました。\nstatus.muraseryosuke.info \n\nApple Watchからデータを一日数回読み込み、iOSのショートカットでGistにJSONファイルを更新、表示しています。\nあいつ今何してる？と思った際にご確認ください。",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m5xbjyy4sk2j"
-  },
-  {
-    "platform": "Mastodon",
-    "timestamp": "2025-11-19T03:05:53.906Z",
-    "content": "「村瀨亮介のリアルタイム健康診断」を作りました。https://status.muraseryosuke.info/ Apple Watchからデータを一日数回読み込み、iOSのショートカットでGistにJSONファイルを更新、表示しています。あいつ今何してる？と思った際にご確認ください。",
-    "url": "https://pawoo.net/@vl_lvoO/115574148556745839"
   }
 ]
