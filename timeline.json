@@ -1,5 +1,35 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-11-26T18:46:41.217Z",
+    "content": "MISIA の「アイノカタチ」を聴きました",
+    "url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-26T18:40:17.062Z",
+    "content": "MISIA の「つつみ込むように･･･(DAVE \"EQ3\" DUB MIX)」を聴きました",
+    "url": "https://open.spotify.com/track/6AUHW4DJrZ07pgvfDVKsZo"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-26T18:34:31.572Z",
+    "content": "MISIA の「逢いたくていま」を聴きました",
+    "url": "https://open.spotify.com/track/7FJC2pF6zMliU7Lvk0GBDV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-26T18:33:21.040Z",
+    "content": "DE DE MOUSE の「Midnight Dew」を聴きました",
+    "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-26T18:28:29.745Z",
+    "content": "MISIA の「Everything」を聴きました",
+    "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-11-26T10:23:13.195Z",
     "content": "絶妙に欲しいラインをギリギリ超えてくるようなガチャガチャが執拗に多すぎるので、不用意に回さないよう心がけたい（建前）",
@@ -34,35 +64,5 @@
     "timestamp": "2025-11-26T08:34:32.167Z",
     "content": "DE DE MOUSE の「Ddg (Track)」を聴きました",
     "url": "https://open.spotify.com/track/07D1nCEtd4zVv9zbtmYCkK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-26T08:31:06.529Z",
-    "content": "DE DE MOUSE の「Old Friend's Song - Old Mix」を聴きました",
-    "url": "https://open.spotify.com/track/01NLJWFsnBl0W6gtY1Tg6B"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-26T08:28:07.803Z",
-    "content": "DE DE MOUSE の「Lovely Cloudy」を聴きました",
-    "url": "https://open.spotify.com/track/5h0wVfo0KBjlqWdoNwFSQO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-26T08:27:08.775Z",
-    "content": "DE DE MOUSE の「Muddy Water Waltz」を聴きました",
-    "url": "https://open.spotify.com/track/7aVLkr55Ch7SCG0OcvbsS0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-26T08:25:46.320Z",
-    "content": "DE DE MOUSE の「Spring String」を聴きました",
-    "url": "https://open.spotify.com/track/1Is74TkAZigmrj3nppjlQe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-26T08:23:16.389Z",
-    "content": "DE DE MOUSE の「Hello My Friend」を聴きました",
-    "url": "https://open.spotify.com/track/2Pl3yzkcEhuJVnCr168QRr"
   }
 ]
