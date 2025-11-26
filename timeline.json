@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-26T06:09:03.097Z",
+    "content": "DE DE MOUSE の「bloomy chorus」を聴きました",
+    "url": "https://open.spotify.com/track/0JKvDsBLfda8YQoXzgdayn"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-26T05:37:41.416Z",
     "content": "Aphex Twin の「Flim」を聴きました",
     "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
@@ -52,11 +58,5 @@
     "timestamp": "2025-11-24T18:52:04.576Z",
     "content": "RIP SLYME の「Remember (with MONGOL800)」を聴きました",
     "url": "https://open.spotify.com/track/1YHsd31e6TcEHGR8qoCpn1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-24T18:46:34.321Z",
-    "content": "RIP SLYME の「SPEED KING」を聴きました",
-    "url": "https://open.spotify.com/track/3O4vZKO7NuMJTxaaI7pBVm"
   }
 ]
