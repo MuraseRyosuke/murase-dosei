@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-26T05:37:41.416Z",
+    "content": "Aphex Twin の「Flim」を聴きました",
+    "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-24T23:53:14.018Z",
     "content": "RIP SLYME の「ピース」を聴きました",
     "url": "https://open.spotify.com/track/0F139CaAnuO0oTFz1GHAlC"
@@ -52,11 +58,5 @@
     "timestamp": "2025-11-24T18:46:34.321Z",
     "content": "RIP SLYME の「SPEED KING」を聴きました",
     "url": "https://open.spotify.com/track/3O4vZKO7NuMJTxaaI7pBVm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-24T18:41:34.731Z",
-    "content": "RIP SLYME の「I・N・G」を聴きました",
-    "url": "https://open.spotify.com/track/6lk9HTCI3eCXERqBNIxWbm"
   }
 ]
