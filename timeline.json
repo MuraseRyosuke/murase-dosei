@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-28T20:19:12.457Z",
+    "content": "Ken Hirai の「Come Back」を聴きました",
+    "url": "https://open.spotify.com/track/0hTMvQKLYAX0MfSdlNWn9H"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T20:14:51.433Z",
+    "content": "Ken Hirai の「Ring」を聴きました",
+    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T20:09:28.885Z",
+    "content": "Ken Hirai の「LIFE is...」を聴きました",
+    "url": "https://open.spotify.com/track/3t8LPUzakX7MdMTIATXvkX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T20:01:00.349Z",
+    "content": "Ken Hirai の「Ring」を聴きました",
+    "url": "https://open.spotify.com/track/11QAIhX2kowBg340UGHK9W"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T19:53:57.012Z",
+    "content": "Ken Hirai の「魔法って言っていいかな?」を聴きました",
+    "url": "https://open.spotify.com/track/1SXL84sOvbCjrqByKXwAh4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T19:49:55.321Z",
+    "content": "Ken Hirai の「Plus One」を聴きました",
+    "url": "https://open.spotify.com/track/2joZeiPyjdmAJG3iJbGRiW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T19:46:23.457Z",
+    "content": "Ken Hirai の「桔梗が丘」を聴きました",
+    "url": "https://open.spotify.com/track/7pJ9C8gkCRh3LcwoCWRVKa"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T19:41:56.832Z",
+    "content": "Ken Hirai の「いとしき日々よ」を聴きました",
+    "url": "https://open.spotify.com/track/6esrZFuxklwZgzj0i9vPOe"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-28T19:31:23.206Z",
     "content": "Hanako Oku の「変わらないもの」を聴きました",
     "url": "https://open.spotify.com/track/6i8mvhA9dAHil8tMzuMdMw"
@@ -10,18 +58,6 @@
     "timestamp": "2025-11-28T19:22:19.722Z",
     "content": "Hanako Oku の「ガーネット」を聴きました",
     "url": "https://open.spotify.com/track/46o2j2W4LSLP013d8lZTYy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T19:16:51.344Z",
-    "content": "Hanako Oku の「変わらないもの」を聴きました",
-    "url": "https://open.spotify.com/track/6i8mvhA9dAHil8tMzuMdMw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T17:12:13.060Z",
-    "content": "m-flo の「ARIGATTO」を聴きました",
-    "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
   },
   {
     "platform": "Twitch",
@@ -34,42 +70,6 @@
     "timestamp": "2025-11-28T12:02:58.296Z",
     "content": "時をかける少女のタイムリープ残り回数のタトゥーだけは唯一入れたい",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m6otok7uzs2n"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T09:30:59.593Z",
-    "content": "DE DE MOUSE の「sweet gravity」を聴きました",
-    "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T07:34:14.963Z",
-    "content": "DE DE MOUSE の「new town romancer」を聴きました",
-    "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T07:33:35.948Z",
-    "content": "DE DE MOUSE の「same crescent song」を聴きました",
-    "url": "https://open.spotify.com/track/15gFYI6TStY9srs6YEQqXL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T07:28:55.156Z",
-    "content": "DE DE MOUSE の「like your magic」を聴きました",
-    "url": "https://open.spotify.com/track/5NJTXND7tWFz1pBqvk22xa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T07:27:37.876Z",
-    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T07:24:45.830Z",
-    "content": "DE DE MOUSE の「station to stars」を聴きました",
-    "url": "https://open.spotify.com/track/7v9st1x1Sav7mtNZUKvQ5U"
   },
   {
     "platform": "Bluesky",
