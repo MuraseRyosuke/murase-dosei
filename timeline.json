@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-28T23:26:09.623Z",
+    "content": "Ken Hirai の「大きな古時計」を聴きました",
+    "url": "https://open.spotify.com/track/2b4CkdHBb5FNnasbxow2BB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T23:21:22.858Z",
+    "content": "Ken Hirai の「LIFE is...」を聴きました",
+    "url": "https://open.spotify.com/track/3t8LPUzakX7MdMTIATXvkX"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-28T23:16:54.634Z",
     "content": "Ken Hirai の「メモリーズ」を聴きました",
     "url": "https://open.spotify.com/track/1XKDj4T7ghtyvGiZN1Vkeq"
@@ -46,18 +58,6 @@
     "timestamp": "2025-11-28T22:44:06.745Z",
     "content": "Ken Hirai の「ex-girlfriend」を聴きました",
     "url": "https://open.spotify.com/track/2Wf7rfDhCJAMMcoWBIpPW0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T22:39:51.723Z",
-    "content": "Ken Hirai の「REVOLVER」を聴きました",
-    "url": "https://open.spotify.com/track/4mRzYGDyyGdujYwsUGxiVO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T22:36:12.221Z",
-    "content": "Ken Hirai の「Strawberry Sex」を聴きました",
-    "url": "https://open.spotify.com/track/0xUnMMFcY2apAg1GMbs9RB"
   },
   {
     "platform": "Twitch",
