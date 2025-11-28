@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-28T09:30:59.593Z",
+    "content": "DE DE MOUSE の「sweet gravity」を聴きました",
+    "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-28T07:34:14.963Z",
     "content": "DE DE MOUSE の「new town romancer」を聴きました",
     "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-28T06:36:41.569Z",
     "content": "Tomita Lab. の「the birds of four」を聴きました",
     "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T06:36:19.837Z",
-    "content": "Tomita Lab. の「あはは feat. UA」を聴きました",
-    "url": "https://open.spotify.com/track/0r8LgwgqPwLI55s0JUxLx0"
   },
   {
     "platform": "Bluesky",
