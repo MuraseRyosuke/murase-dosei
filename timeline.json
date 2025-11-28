@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-11-28T17:12:13.060Z",
+    "content": "m-flo の「ARIGATTO」を聴きました",
+    "url": "https://open.spotify.com/track/4Q8hIEWqsLhiDzkXKURyv4"
+  },
+  {
     "platform": "Twitch",
     "timestamp": "2025-11-28T15:46:44Z",
     "content": "「Pangya Reborn (Test)」を配信しました",
@@ -64,12 +70,6 @@
     "timestamp": "2025-11-28T06:57:19.455Z",
     "content": "DE DE MOUSE の「like your magic」を聴きました",
     "url": "https://open.spotify.com/track/5NJTXND7tWFz1pBqvk22xa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T06:36:41.569Z",
-    "content": "Tomita Lab. の「the birds of four」を聴きました",
-    "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
   },
   {
     "platform": "Bluesky",
