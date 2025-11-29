@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-29T03:48:43.234Z",
+    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
+    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-28T23:26:09.623Z",
     "content": "Ken Hirai の「大きな古時計」を聴きました",
     "url": "https://open.spotify.com/track/2b4CkdHBb5FNnasbxow2BB"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-28T22:49:21.834Z",
     "content": "Ken Hirai の「Ring」を聴きました",
     "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T22:44:06.745Z",
-    "content": "Ken Hirai の「ex-girlfriend」を聴きました",
-    "url": "https://open.spotify.com/track/2Wf7rfDhCJAMMcoWBIpPW0"
   },
   {
     "platform": "Twitch",
