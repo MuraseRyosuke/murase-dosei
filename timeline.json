@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-29T12:51:50.156Z",
+    "content": "KOBZOV の「Жмяк хомяк」を聴きました",
+    "url": "https://open.spotify.com/track/4VTlW1mYQnUEWPeUTp2c2C"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-29T03:48:43.234Z",
     "content": "Fujii Kaze の「It Ain't Over」を聴きました",
     "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
@@ -52,12 +58,6 @@
     "timestamp": "2025-11-28T22:53:42.839Z",
     "content": "Ken Hirai の「Come Back」を聴きました",
     "url": "https://open.spotify.com/track/0hTMvQKLYAX0MfSdlNWn9H"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T22:49:21.834Z",
-    "content": "Ken Hirai の「Ring」を聴きました",
-    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
   },
   {
     "platform": "Twitch",
