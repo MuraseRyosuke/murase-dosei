@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T19:30:27.220Z",
+    "content": "Hanako Oku の「変わらないもの」を聴きました",
+    "url": "https://open.spotify.com/track/6i8mvhA9dAHil8tMzuMdMw"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-11-30T10:38:41.995Z",
     "content": "多分これ「Maybe Later」（気が向いたら）の誤訳だよな",
@@ -58,12 +64,6 @@
     "timestamp": "2025-11-28T22:58:27.563Z",
     "content": "Ken Hirai の「somebody's girl」を聴きました",
     "url": "https://open.spotify.com/track/6tx6r6Ez0pXDvRqBcXF1Eo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T22:53:42.839Z",
-    "content": "Ken Hirai の「Come Back」を聴きました",
-    "url": "https://open.spotify.com/track/0hTMvQKLYAX0MfSdlNWn9H"
   },
   {
     "platform": "Twitch",
