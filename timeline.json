@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-11-30T20:19:27.151Z",
+    "content": "Fujii Kaze の「Forever Young」を聴きました",
+    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T20:13:25.718Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T20:09:55.769Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T20:04:57.079Z",
+    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
+    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T19:59:56.198Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T19:47:55.255Z",
+    "content": "DE DE MOUSE の「Ddg (DE DE MOUSE + Drumrolls Immersive Mix)」を聴きました",
+    "url": "https://open.spotify.com/track/1EarzKqVODZJSPRMouQuou"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T19:43:55.348Z",
+    "content": "Hanako Oku の「ガーネット」を聴きました",
+    "url": "https://open.spotify.com/track/46o2j2W4LSLP013d8lZTYy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-11-30T19:38:22.260Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-30T19:30:27.220Z",
     "content": "Hanako Oku の「変わらないもの」を聴きました",
     "url": "https://open.spotify.com/track/6i8mvhA9dAHil8tMzuMdMw"
@@ -16,54 +64,6 @@
     "timestamp": "2025-11-29T12:51:50.156Z",
     "content": "KOBZOV の「Жмяк хомяк」を聴きました",
     "url": "https://open.spotify.com/track/4VTlW1mYQnUEWPeUTp2c2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-29T03:48:43.234Z",
-    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
-    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T23:26:09.623Z",
-    "content": "Ken Hirai の「大きな古時計」を聴きました",
-    "url": "https://open.spotify.com/track/2b4CkdHBb5FNnasbxow2BB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T23:21:22.858Z",
-    "content": "Ken Hirai の「LIFE is...」を聴きました",
-    "url": "https://open.spotify.com/track/3t8LPUzakX7MdMTIATXvkX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T23:16:54.634Z",
-    "content": "Ken Hirai の「メモリーズ」を聴きました",
-    "url": "https://open.spotify.com/track/1XKDj4T7ghtyvGiZN1Vkeq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T23:12:25.722Z",
-    "content": "Ken Hirai の「世界で一番君が好き？」を聴きました",
-    "url": "https://open.spotify.com/track/3WnW1A0dLgqNhpdiYSveLN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T23:06:57.427Z",
-    "content": "Ken Hirai の「Missin' you 〜It will break my heart〜」を聴きました",
-    "url": "https://open.spotify.com/track/6STGnKrsooXfinbs9YpScb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T23:02:09.672Z",
-    "content": "Ken Hirai の「I'm so drunk」を聴きました",
-    "url": "https://open.spotify.com/track/24s6JQvD6WoRjuIyt8vA1V"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-28T22:58:27.563Z",
-    "content": "Ken Hirai の「somebody's girl」を聴きました",
-    "url": "https://open.spotify.com/track/6tx6r6Ez0pXDvRqBcXF1Eo"
   },
   {
     "platform": "Twitch",
