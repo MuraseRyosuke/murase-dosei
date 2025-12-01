@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-01T15:43:14.660Z",
+    "content": "Perfume の「∞ループ」を聴きました",
+    "url": "https://open.spotify.com/track/7Er8o6IEs8MAU1aH1yI9Uf"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-01T15:38:56.129Z",
+    "content": "Perfume の「Flow」を聴きました",
+    "url": "https://open.spotify.com/track/6Si3ppdntTNAEaBUokB4Yv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-01T15:35:51.834Z",
+    "content": "Perfume の「マワルカガミ」を聴きました",
+    "url": "https://open.spotify.com/track/72C3lUTBKOXxRMjtfR0JsZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-01T15:31:57.385Z",
+    "content": "Perfume の「Spinning World」を聴きました",
+    "url": "https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-01T15:27:57.198Z",
+    "content": "Perfume の「再生」を聴きました",
+    "url": "https://open.spotify.com/track/1ZjL8ud1dhT9PDVe3Ov8kF"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-01T15:23:20.379Z",
     "content": "Perfume の「ポリゴンウェイヴ - Original Mix」を聴きました",
     "url": "https://open.spotify.com/track/1gY6DwODrCnoiezXDKgyE5"
@@ -28,36 +58,6 @@
     "timestamp": "2025-12-01T15:01:43.494Z",
     "content": "CAPSULE の「PRIME TIME - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0CIjx6HtYjpOi8a8XIBZfX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-01T14:56:00.531Z",
-    "content": "CAPSULE の「I CANT SAY I LIKE YOU - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0dqOk0KYKdrbP6Vnn6Yg5D"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-01T14:52:23.685Z",
-    "content": "CAPSULE の「WHAT iS LOVE - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3jupzpeVbZJ8cTgnZpodur"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-01T14:46:54.868Z",
-    "content": "CAPSULE の「I WILL - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0FERINEKTLkjjbHnwcWo0J"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-01T14:41:19.860Z",
-    "content": "CAPSULE の「KEEP HOPE ALIVE - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0HNxdDp6QyVSWDA7CnGpT2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-01T14:37:08.713Z",
-    "content": "CAPSULE の「STRIKER - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/27NCXiDH0N1kkOupAbh34l"
   },
   {
     "platform": "Bluesky",
