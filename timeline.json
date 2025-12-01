@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-01T09:46:49.996Z",
+    "content": "DE DE MOUSE の「journey to freedom」を聴きました",
+    "url": "https://open.spotify.com/track/7cvT2z0hB9HSdmo3mLnK7W"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-01T09:41:15.648Z",
+    "content": "DE DE MOUSE の「sweet gravity」を聴きました",
+    "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-01T09:36:02.715Z",
+    "content": "DE DE MOUSE の「like your magic」を聴きました",
+    "url": "https://open.spotify.com/track/5NJTXND7tWFz1pBqvk22xa"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-11-30T20:19:27.151Z",
     "content": "Fujii Kaze の「Forever Young」を聴きました",
     "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
@@ -42,28 +60,10 @@
     "url": "https://open.spotify.com/track/46o2j2W4LSLP013d8lZTYy"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2025-11-30T19:38:22.260Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-30T19:30:27.220Z",
-    "content": "Hanako Oku の「変わらないもの」を聴きました",
-    "url": "https://open.spotify.com/track/6i8mvhA9dAHil8tMzuMdMw"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2025-11-30T10:38:41.995Z",
     "content": "多分これ「Maybe Later」（気が向いたら）の誤訳だよな",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m6tpvnlslc2d"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-11-29T12:51:50.156Z",
-    "content": "KOBZOV の「Жмяк хомяк」を聴きました",
-    "url": "https://open.spotify.com/track/4VTlW1mYQnUEWPeUTp2c2C"
   },
   {
     "platform": "Twitch",
