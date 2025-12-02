@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-02T04:11:27.268Z",
+    "content": "Yoshinori Sunahara の「Unconscious Fragment」を聴きました",
+    "url": "https://open.spotify.com/track/6F4aUyFt7wtaBVS84cQ5s2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-02T01:06:57.691Z",
     "content": "Yoshinori Sunahara の「Bluelight」を聴きました",
     "url": "https://open.spotify.com/track/2gamr8Kb8nWLLkojBlJ1Xz"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-02T00:31:36.650Z",
     "content": "Yoshinori Sunahara の「Magic sunset st.」を聴きました",
     "url": "https://open.spotify.com/track/58HPnA3nDqJCjgC9CBr4rG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-02T00:25:46.005Z",
-    "content": "Yoshinori Sunahara の「747 DUB」を聴きました",
-    "url": "https://open.spotify.com/track/3AqlTNodt149b8lF87yUB2"
   },
   {
     "platform": "Bluesky",
