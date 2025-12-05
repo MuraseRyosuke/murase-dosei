@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-05T09:29:44.625Z",
+    "content": "DE DE MOUSE の「Girl-300」を聴きました",
+    "url": "https://open.spotify.com/track/7eCU9OhjTVlJG95Sjxr4Kl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-05T09:24:58.880Z",
+    "content": "Daishi Dance の「耳をすませば / カントリーロード」を聴きました",
+    "url": "https://open.spotify.com/track/2JhnnL1FrQH1AIfrXXHvQT"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-05T09:19:43.852Z",
     "content": "Daishi Dance の「風の谷のナウシカ / 風の谷のナウシカ - ReMASTERING」を聴きました",
     "url": "https://open.spotify.com/track/2G3KSWSdQO2sdWlTRjjBq2"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-04T12:11:39.185Z",
     "content": "あやまんJAPAN の「cafe de poipoi」を聴きました",
     "url": "https://open.spotify.com/track/6ADZHuyKVDdviVhe6aJamR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-04T12:07:25.231Z",
-    "content": "あやまんJAPAN の「LA・LA・LA LOVE SONG ～久保田と潤子のラブソング～」を聴きました",
-    "url": "https://open.spotify.com/track/3FgorNltkfuAgfomtVNgFs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-04T10:31:02.324Z",
-    "content": "Fujii Kaze の「“青春病”」を聴きました",
-    "url": "https://open.spotify.com/track/6bioW1LHzS92xtmWT6NeWl"
   },
   {
     "platform": "Bluesky",
