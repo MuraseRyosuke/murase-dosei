@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-05T19:28:41.038Z",
+    "content": "Blume popo の「in your mind」を聴きました",
+    "url": "https://open.spotify.com/track/30zdZI17lr0j4T6h3i4XGj"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-05T17:52:04.645Z",
     "content": "Tokkuri の「世界」を聴きました",
     "url": "https://open.spotify.com/track/1tb6cCJChmOeFMUDthFjMb"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-05T09:02:13.935Z",
     "content": "DE DE MOUSE の「new town romancer」を聴きました",
     "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-05T08:51:40.199Z",
-    "content": "パソコン音楽クラブ の「UFO-mie feat.The Hair Kid - Album Mix」を聴きました",
-    "url": "https://open.spotify.com/track/3NFM0iAaTTAuXKpwQc22TA"
   },
   {
     "platform": "Bluesky",
