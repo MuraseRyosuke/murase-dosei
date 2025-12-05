@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-05T02:37:54.933Z",
+    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
+    "url": "https://open.spotify.com/track/7MxNI2raAw2075i4Lx5zmK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-04T12:11:39.185Z",
     "content": "あやまんJAPAN の「cafe de poipoi」を聴きました",
     "url": "https://open.spotify.com/track/6ADZHuyKVDdviVhe6aJamR"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-03T16:50:42.598Z",
     "content": "TEMPLIME の「skycave - extend」を聴きました",
     "url": "https://open.spotify.com/track/1uv6hIaAYIPxQvLjOFEfzV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-03T16:44:13.039Z",
-    "content": "Mika Nakashima の「WILL」を聴きました",
-    "url": "https://open.spotify.com/track/0Bx0brTEdtJ0pCWCSkdPAy"
   },
   {
     "platform": "Bluesky",
