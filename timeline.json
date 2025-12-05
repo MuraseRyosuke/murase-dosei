@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-05T17:52:04.645Z",
+    "content": "Tokkuri の「世界」を聴きました",
+    "url": "https://open.spotify.com/track/1tb6cCJChmOeFMUDthFjMb"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-05T16:51:04.857Z",
     "content": "DE DE MOUSE の「ﾋﾟﾋﾟﾁｬﾝユアセルフ!」を聴きました",
     "url": "https://open.spotify.com/track/2ArZMge6480KliyKHd8dPJ"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-05T08:51:40.199Z",
     "content": "パソコン音楽クラブ の「UFO-mie feat.The Hair Kid - Album Mix」を聴きました",
     "url": "https://open.spotify.com/track/3NFM0iAaTTAuXKpwQc22TA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-05T02:37:54.933Z",
-    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
-    "url": "https://open.spotify.com/track/7MxNI2raAw2075i4Lx5zmK"
   },
   {
     "platform": "Bluesky",
