@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-05T16:51:04.857Z",
+    "content": "DE DE MOUSE の「ﾋﾟﾋﾟﾁｬﾝユアセルフ!」を聴きました",
+    "url": "https://open.spotify.com/track/2ArZMge6480KliyKHd8dPJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-05T09:29:44.625Z",
     "content": "DE DE MOUSE の「Girl-300」を聴きました",
     "url": "https://open.spotify.com/track/7eCU9OhjTVlJG95Sjxr4Kl"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-05T02:37:54.933Z",
     "content": "DE DE MOUSE の「baby's star jam」を聴きました",
     "url": "https://open.spotify.com/track/7MxNI2raAw2075i4Lx5zmK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-04T12:11:39.185Z",
-    "content": "あやまんJAPAN の「cafe de poipoi」を聴きました",
-    "url": "https://open.spotify.com/track/6ADZHuyKVDdviVhe6aJamR"
   },
   {
     "platform": "Bluesky",
