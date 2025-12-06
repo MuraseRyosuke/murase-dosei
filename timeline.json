@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-06T17:16:21.851Z",
+    "content": "Fujii Kaze の「Love Like This」を聴きました",
+    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-06T09:45:51.657Z",
     "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-06T08:21:47.845Z",
     "content": "Sasuke Haraguchi の「イガク」を聴きました",
     "url": "https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-05T19:28:41.038Z",
-    "content": "Blume popo の「in your mind」を聴きました",
-    "url": "https://open.spotify.com/track/30zdZI17lr0j4T6h3i4XGj"
   },
   {
     "platform": "Bluesky",
