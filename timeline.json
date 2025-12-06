@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-06T08:21:47.845Z",
+    "content": "Sasuke Haraguchi の「イガク」を聴きました",
+    "url": "https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-05T19:28:41.038Z",
     "content": "Blume popo の「in your mind」を聴きました",
     "url": "https://open.spotify.com/track/30zdZI17lr0j4T6h3i4XGj"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-05T09:08:10.132Z",
     "content": "DE DE MOUSE の「be yourself」を聴きました",
     "url": "https://open.spotify.com/track/2xmM54W5qketGHgLilzynh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-05T09:02:13.935Z",
-    "content": "DE DE MOUSE の「new town romancer」を聴きました",
-    "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
   },
   {
     "platform": "Bluesky",
