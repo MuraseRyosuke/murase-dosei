@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-06T17:29:15.400Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-06T17:20:59.203Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-06T17:16:21.851Z",
     "content": "Fujii Kaze の「Love Like This」を聴きました",
     "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-06T08:42:54.921Z",
     "content": "Shobaleader One の「Journey To Reedham」を聴きました",
     "url": "https://open.spotify.com/track/4BR3ueFxNKoTl09B5enqTX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-06T08:35:39.137Z",
-    "content": "Shobaleader One の「Squarepusher Theme」を聴きました",
-    "url": "https://open.spotify.com/track/5nbTnUNc6RaBeKPFWgGhFP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-06T08:21:47.845Z",
-    "content": "Sasuke Haraguchi の「イガク」を聴きました",
-    "url": "https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I"
   },
   {
     "platform": "Bluesky",
