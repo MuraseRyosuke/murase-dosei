@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-09T07:39:01.242Z",
+    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
+    "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-08T09:39:02.364Z",
     "content": "JUJU の「さよならの代わりに -Yasutaka Nakata Remix-」を聴きました",
     "url": "https://open.spotify.com/track/1vNPq14vfONeNLCdVVgYWN"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-08T07:46:12.490Z",
     "content": "YELLOW MAGIC ORCHESTRA の「ABSOLUTE EGO DANCE - 2018 Bob Ludwig Remastering」を聴きました",
     "url": "https://open.spotify.com/track/4k17JcVSvxx6z8ofESLTpJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T07:41:35.355Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「TECHNOPOLIS - 2018 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/0PaxJgmtVYrsdn5ysTyIph"
   },
   {
     "platform": "Bluesky",
