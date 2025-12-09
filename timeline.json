@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-09T20:15:25.816Z",
+    "content": "CAPSULE の「RGB」を聴きました",
+    "url": "https://open.spotify.com/track/0etrDy05z0Nk3jlLaslw4i"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T20:11:30.344Z",
+    "content": "CAPSULE の「phony phonic」を聴きました",
+    "url": "https://open.spotify.com/track/6awK7RRtNLULOEWdzIOxrU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T20:11:25.762Z",
+    "content": "Perfume の「スウィートドーナッツ」を聴きました",
+    "url": "https://open.spotify.com/track/6A9GnlszZQspOFZD3cM1gV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T20:04:25.671Z",
+    "content": "CAPSULE の「music controller - remix」を聴きました",
+    "url": "https://open.spotify.com/track/3gDQxLYWVma0POJH3KfRRJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T19:59:56.018Z",
+    "content": "CAPSULE の「ブラウニー」を聴きました",
+    "url": "https://open.spotify.com/track/6kCXEC00npqKZtgOEZL9d6"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T19:56:25.996Z",
+    "content": "CAPSULE の「逆転世界」を聴きました",
+    "url": "https://open.spotify.com/track/0wds8B6nI5LXEEh9JeUKll"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T19:51:55.567Z",
+    "content": "CAPSULE の「music controller」を聴きました",
+    "url": "https://open.spotify.com/track/2UVb0c7nl9Vy1HX9RnEbsm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T19:46:55.863Z",
+    "content": "CAPSULE の「open」を聴きました",
+    "url": "https://open.spotify.com/track/1zZ9YHgirNQYdWDtKEKbTc"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-09T19:37:25.825Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -10,54 +58,6 @@
     "timestamp": "2025-12-09T19:32:25.747Z",
     "content": "COLTEMONIKHA の「ドミノ」を聴きました",
     "url": "https://open.spotify.com/track/0Nu0yGXjuD6MghWf2byuDu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T12:07:35.229Z",
-    "content": "Kyary Pamyu Pamyu の「スキすぎてキレそう」を聴きました",
-    "url": "https://open.spotify.com/track/2XWcRhDU6rNTTJ2XG5vlef"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T07:47:40.112Z",
-    "content": "DE DE MOUSE の「Dbp (DE DE MOUSE + Drumrolls Immersive Mix)」を聴きました",
-    "url": "https://open.spotify.com/track/3ZuzvwGk78cOWwMO3quwZE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T07:43:31.846Z",
-    "content": "DE DE MOUSE の「Ddg (DE DE MOUSE + Drumrolls Immersive Mix)」を聴きました",
-    "url": "https://open.spotify.com/track/1EarzKqVODZJSPRMouQuou"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T07:39:01.242Z",
-    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
-    "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T09:39:02.364Z",
-    "content": "JUJU の「さよならの代わりに -Yasutaka Nakata Remix-」を聴きました",
-    "url": "https://open.spotify.com/track/1vNPq14vfONeNLCdVVgYWN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T09:31:04.770Z",
-    "content": "COLTEMONIKHA の「ドミノ」を聴きました",
-    "url": "https://open.spotify.com/track/3TrlyOOfEpA2atpX5kULzH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T09:26:21.841Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「SOLID STATE SURVIVOR - 2018 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/6rifGXUM6WEH5FfcPX1Vzj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T08:05:25.598Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「INSOMNIA - 2018 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/5zfdxG1x8v6PPSBrcEaBm6"
   },
   {
     "platform": "Bluesky",
