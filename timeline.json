@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-09T12:07:35.229Z",
+    "content": "Kyary Pamyu Pamyu の「スキすぎてキレそう」を聴きました",
+    "url": "https://open.spotify.com/track/2XWcRhDU6rNTTJ2XG5vlef"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-09T07:47:40.112Z",
     "content": "DE DE MOUSE の「Dbp (DE DE MOUSE + Drumrolls Immersive Mix)」を聴きました",
     "url": "https://open.spotify.com/track/3ZuzvwGk78cOWwMO3quwZE"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-08T07:57:46.889Z",
     "content": "YELLOW MAGIC ORCHESTRA の「BEHIND THE MASK - 2018 Bob Ludwig Remastering」を聴きました",
     "url": "https://open.spotify.com/track/2rscK0SA5w4mtoHNxHaBl2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T07:54:09.824Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「CASTALIA - 2018 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/1QWmeVjo2mQNrnGAwd9Bd2"
   },
   {
     "platform": "Bluesky",
