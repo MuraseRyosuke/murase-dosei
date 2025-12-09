@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-09T19:37:25.825Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-09T19:32:25.747Z",
+    "content": "COLTEMONIKHA の「ドミノ」を聴きました",
+    "url": "https://open.spotify.com/track/0Nu0yGXjuD6MghWf2byuDu"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-09T12:07:35.229Z",
     "content": "Kyary Pamyu Pamyu の「スキすぎてキレそう」を聴きました",
     "url": "https://open.spotify.com/track/2XWcRhDU6rNTTJ2XG5vlef"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-08T08:05:25.598Z",
     "content": "YELLOW MAGIC ORCHESTRA の「INSOMNIA - 2018 Bob Ludwig Remastering」を聴きました",
     "url": "https://open.spotify.com/track/5zfdxG1x8v6PPSBrcEaBm6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T08:00:57.470Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「DAY TRIPPER - 2018 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/0CAfESDylZFowlSlQhLpG8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-08T07:57:46.889Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「BEHIND THE MASK - 2018 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/2rscK0SA5w4mtoHNxHaBl2"
   },
   {
     "platform": "Bluesky",
