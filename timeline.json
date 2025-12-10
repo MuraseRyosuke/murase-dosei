@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-10T19:39:11.714Z",
+    "content": "DE DE MOUSE の「old friend's song」を聴きました",
+    "url": "https://open.spotify.com/track/5WSHoj06glSxNDFtT1lElo"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-10T19:33:14.907Z",
+    "content": "DE DE MOUSE の「old friend's song」を聴きました",
+    "url": "https://open.spotify.com/track/5WSHoj06glSxNDFtT1lElo"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-10T17:54:03.701Z",
     "content": "KIRINJI の「メスとコスメ - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6atqD31k6zQqi4dyNsA7CI"
@@ -46,17 +58,5 @@
     "timestamp": "2025-12-09T20:53:55.881Z",
     "content": "Daft Punk の「Voyager」を聴きました",
     "url": "https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T20:50:25.810Z",
-    "content": "Daft Punk の「Something About Us」を聴きました",
-    "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T20:46:25.733Z",
-    "content": "Daft Punk の「High Life」を聴きました",
-    "url": "https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn"
   }
 ]
