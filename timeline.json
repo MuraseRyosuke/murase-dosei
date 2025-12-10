@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-10T12:01:32.053Z",
+    "content": "COLTEMONIKHA の「fantastic fantasy」を聴きました",
+    "url": "https://open.spotify.com/track/4LbF7zpkdOVqtwUcDhMYkv"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-10T09:42:18.685Z",
     "content": "COLTEMONIKHA の「嘘つきジングルベル」を聴きました",
     "url": "https://open.spotify.com/track/6umelAvWVCHCETcLCyVAZJ"
@@ -52,11 +58,5 @@
     "timestamp": "2025-12-09T20:42:55.611Z",
     "content": "Daft Punk の「Superheroes」を聴きました",
     "url": "https://open.spotify.com/track/186hvCTyrni4KT9nwIQ7zS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T20:38:56.364Z",
-    "content": "Daft Punk の「Nightvision」を聴きました",
-    "url": "https://open.spotify.com/track/63JXZZRbmzooashakb0zbu"
   }
 ]
