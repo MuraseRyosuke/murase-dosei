@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-10T17:54:03.701Z",
+    "content": "KIRINJI の「メスとコスメ - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/6atqD31k6zQqi4dyNsA7CI"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-10T12:01:32.053Z",
     "content": "COLTEMONIKHA の「fantastic fantasy」を聴きました",
     "url": "https://open.spotify.com/track/4LbF7zpkdOVqtwUcDhMYkv"
@@ -52,11 +58,5 @@
     "timestamp": "2025-12-09T20:46:25.733Z",
     "content": "Daft Punk の「High Life」を聴きました",
     "url": "https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T20:42:55.611Z",
-    "content": "Daft Punk の「Superheroes」を聴きました",
-    "url": "https://open.spotify.com/track/186hvCTyrni4KT9nwIQ7zS"
   }
 ]
