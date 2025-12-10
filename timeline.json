@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-10T09:42:18.685Z",
+    "content": "COLTEMONIKHA の「嘘つきジングルベル」を聴きました",
+    "url": "https://open.spotify.com/track/6umelAvWVCHCETcLCyVAZJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-09T21:17:25.821Z",
     "content": "Daft Punk の「Too Long」を聴きました",
     "url": "https://open.spotify.com/track/3zMvotMEQK3xvH01vA9wAP"
@@ -52,11 +58,5 @@
     "timestamp": "2025-12-09T20:38:56.364Z",
     "content": "Daft Punk の「Nightvision」を聴きました",
     "url": "https://open.spotify.com/track/63JXZZRbmzooashakb0zbu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-09T20:37:25.798Z",
-    "content": "Daft Punk の「Crescendolls」を聴きました",
-    "url": "https://open.spotify.com/track/6vuPZX9fWESg5js2JFTQRJ"
   }
 ]
