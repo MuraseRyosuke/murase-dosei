@@ -1,5 +1,59 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:49:09.832Z",
+    "content": "COLTEMONIKHA の「そらとぶひかり」を聴きました",
+    "url": "https://open.spotify.com/track/2rUn7ibLCU001hOxG4Tpm0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:44:28.920Z",
+    "content": "COLTEMONIKHA の「fantastic fantasy」を聴きました",
+    "url": "https://open.spotify.com/track/4LbF7zpkdOVqtwUcDhMYkv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:40:40.328Z",
+    "content": "COLTEMONIKHA の「嘘つきジングルベル」を聴きました",
+    "url": "https://open.spotify.com/track/6umelAvWVCHCETcLCyVAZJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:35:48.656Z",
+    "content": "COLTEMONIKHA の「girly star」を聴きました",
+    "url": "https://open.spotify.com/track/2AFSSRUro1mY4P2pc4MOwu"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:31:17.362Z",
+    "content": "COLTEMONIKHA の「NAMAIKI」を聴きました",
+    "url": "https://open.spotify.com/track/7odhnwAMTQSUusHrtqXxS0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:27:32.181Z",
+    "content": "COLTEMONIKHA の「SLEEPING girl」を聴きました",
+    "url": "https://open.spotify.com/track/7FqzYsg4TrDz6prL3DmUyR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:22:39.366Z",
+    "content": "Michaël Fortunati の「Give Me Up」を聴きました",
+    "url": "https://open.spotify.com/track/3oDg58zzUvhX9YysQm31tN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:07:41.342Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2025-12-11T11:42:51.398Z",
+    "content": "Gemini、Webアプリとモバイルアプリの同期が完全ではないので、パソコンでエラー文コピペ→指示通りに画面を動かしたいのでスマホで確認しながら、が\nいちいちアプリを落とさないとできないのが本当に面倒くさすぎる、前にも言ったもっといいユーザー体験絶対あると思う",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m7pimkeszk2x"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-12-11T11:32:30.496Z",
     "content": "Geminiに私の画像90枚食べさせてコラージュして、って指示したらクラッシュしちゃった、画像読み込みってまだもうちょっとかかるのかなあ",
@@ -16,53 +70,5 @@
     "timestamp": "2025-12-11T09:41:12.266Z",
     "content": "EPO の「VITAMIN E・P・O」を聴きました",
     "url": "https://open.spotify.com/track/1EE9OwUCj1SYc12VmY5Fhl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:36:16.466Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:31:14.581Z",
-    "content": "Shiho Nanba の「まちかどハルジオン」を聴きました",
-    "url": "https://open.spotify.com/track/05FGcIyvuFTqnIdc6DzlU9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:24:23.566Z",
-    "content": "Shiho Nanba の「たぶん、青春。」を聴きました",
-    "url": "https://open.spotify.com/track/2AzzJP9DvkZ7buforxVbtn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:18:41.429Z",
-    "content": "Shiho Nanba の「こどなの階段」を聴きました",
-    "url": "https://open.spotify.com/track/3ArIAb7U3sQCERoXSRDj3E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:13:40.323Z",
-    "content": "Shiho Nanba の「水色ジェネレーション」を聴きました",
-    "url": "https://open.spotify.com/track/1l07oSkz5kOTDxjpX84sc2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:08:02.859Z",
-    "content": "Fujii Kaze の「Forever Young」を聴きました",
-    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:02:09.212Z",
-    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
-    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T08:58:18.235Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
   }
 ]
