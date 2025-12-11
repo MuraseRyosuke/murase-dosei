@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-11T08:30:46.178Z",
+    "content": "KIRINJI の「非ゼロ和ゲーム」を聴きました",
+    "url": "https://open.spotify.com/track/7n7Z6GbQzGn7Q1wxm9Gdkp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:26:40.239Z",
+    "content": "KIRINJI の「AIの逃避行」を聴きました",
+    "url": "https://open.spotify.com/track/3bFaob1V1J8X9LmN4fKziK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:12:27.545Z",
+    "content": "CAPSULE の「恋ノ花」を聴きました",
+    "url": "https://open.spotify.com/track/1cJk7V5dsASwlwoZ2n6Asv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:07:39.013Z",
+    "content": "CAPSULE の「サムライロジック」を聴きました",
+    "url": "https://open.spotify.com/track/1bxfADCMtAr92ZDP2tvdLh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:04:47.737Z",
+    "content": "KIRINJI の「エイリアンズ - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T07:58:42.925Z",
+    "content": "KIRINJI の「悪玉 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/4c65bHk6bTfzzFKJ2WHNf3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T07:52:38.192Z",
+    "content": "KIRINJI の「車と女 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2PFD1v0aYJnqBvTCb3jI6q"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T07:47:31.613Z",
+    "content": "KIRINJI の「イカロスの末裔 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2s1xUZV7FZ21Ld9QuP1dGV"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-11T07:41:44.730Z",
     "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
@@ -10,53 +58,5 @@
     "timestamp": "2025-12-11T07:31:17.057Z",
     "content": "Cornelius の「Drop」を聴きました",
     "url": "https://open.spotify.com/track/6nbIWzYfTi7VNNXpYGjZJp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:23:38.810Z",
-    "content": "Shimon Hoshino の「呼吸」を聴きました",
-    "url": "https://open.spotify.com/track/0S5MCPufxKLgVWU0ZYGC7o"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:08:03.583Z",
-    "content": "Rei Harakami の「long time」を聴きました",
-    "url": "https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:03:41.894Z",
-    "content": "DE DE MOUSE の「Memory Lane」を聴きました",
-    "url": "https://open.spotify.com/track/6kUfqTLJrgczAaD4iEvjE1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:00:50.702Z",
-    "content": "DE DE MOUSE の「Sparkler Girl」を聴きました",
-    "url": "https://open.spotify.com/track/1TK7rJbEaDFnuUwhS91gU6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T06:58:04.968Z",
-    "content": "DE DE MOUSE の「Lovely Cloudy」を聴きました",
-    "url": "https://open.spotify.com/track/5h0wVfo0KBjlqWdoNwFSQO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T06:55:26.038Z",
-    "content": "DE DE MOUSE の「Muddy Water Waltz」を聴きました",
-    "url": "https://open.spotify.com/track/7aVLkr55Ch7SCG0OcvbsS0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T06:52:22.816Z",
-    "content": "DE DE MOUSE の「Spring String」を聴きました",
-    "url": "https://open.spotify.com/track/1Is74TkAZigmrj3nppjlQe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T06:49:13.036Z",
-    "content": "DE DE MOUSE の「Hello My Friend」を聴きました",
-    "url": "https://open.spotify.com/track/2Pl3yzkcEhuJVnCr168QRr"
   }
 ]
