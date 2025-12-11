@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-11T07:41:44.730Z",
+    "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T07:31:17.057Z",
+    "content": "Cornelius の「Drop」を聴きました",
+    "url": "https://open.spotify.com/track/6nbIWzYfTi7VNNXpYGjZJp"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-11T07:23:38.810Z",
     "content": "Shimon Hoshino の「呼吸」を聴きました",
     "url": "https://open.spotify.com/track/0S5MCPufxKLgVWU0ZYGC7o"
@@ -46,17 +58,5 @@
     "timestamp": "2025-12-11T06:49:13.036Z",
     "content": "DE DE MOUSE の「Hello My Friend」を聴きました",
     "url": "https://open.spotify.com/track/2Pl3yzkcEhuJVnCr168QRr"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T06:45:43.042Z",
-    "content": "DE DE MOUSE の「Old Friend's Song - Old Mix」を聴きました",
-    "url": "https://open.spotify.com/track/01NLJWFsnBl0W6gtY1Tg6B"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T06:41:59.923Z",
-    "content": "DE DE MOUSE の「old friend's song」を聴きました",
-    "url": "https://open.spotify.com/track/5WSHoj06glSxNDFtT1lElo"
   }
 ]
