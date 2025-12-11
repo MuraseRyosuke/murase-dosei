@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-11T09:24:23.566Z",
+    "content": "Shiho Nanba の「たぶん、青春。」を聴きました",
+    "url": "https://open.spotify.com/track/2AzzJP9DvkZ7buforxVbtn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T09:18:41.429Z",
+    "content": "Shiho Nanba の「こどなの階段」を聴きました",
+    "url": "https://open.spotify.com/track/3ArIAb7U3sQCERoXSRDj3E"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T09:13:40.323Z",
+    "content": "Shiho Nanba の「水色ジェネレーション」を聴きました",
+    "url": "https://open.spotify.com/track/1l07oSkz5kOTDxjpX84sc2"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T09:08:02.859Z",
+    "content": "Fujii Kaze の「Forever Young」を聴きました",
+    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T09:02:09.212Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:58:18.235Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:50:35.442Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T08:46:09.043Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-11T08:30:46.178Z",
     "content": "KIRINJI の「非ゼロ和ゲーム」を聴きました",
     "url": "https://open.spotify.com/track/7n7Z6GbQzGn7Q1wxm9Gdkp"
@@ -10,53 +58,5 @@
     "timestamp": "2025-12-11T08:26:40.239Z",
     "content": "KIRINJI の「AIの逃避行」を聴きました",
     "url": "https://open.spotify.com/track/3bFaob1V1J8X9LmN4fKziK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T08:12:27.545Z",
-    "content": "CAPSULE の「恋ノ花」を聴きました",
-    "url": "https://open.spotify.com/track/1cJk7V5dsASwlwoZ2n6Asv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T08:07:39.013Z",
-    "content": "CAPSULE の「サムライロジック」を聴きました",
-    "url": "https://open.spotify.com/track/1bxfADCMtAr92ZDP2tvdLh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T08:04:47.737Z",
-    "content": "KIRINJI の「エイリアンズ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:58:42.925Z",
-    "content": "KIRINJI の「悪玉 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4c65bHk6bTfzzFKJ2WHNf3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:52:38.192Z",
-    "content": "KIRINJI の「車と女 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2PFD1v0aYJnqBvTCb3jI6q"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:47:31.613Z",
-    "content": "KIRINJI の「イカロスの末裔 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2s1xUZV7FZ21Ld9QuP1dGV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:41:44.730Z",
-    "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T07:31:17.057Z",
-    "content": "Cornelius の「Drop」を聴きました",
-    "url": "https://open.spotify.com/track/6nbIWzYfTi7VNNXpYGjZJp"
   }
 ]
