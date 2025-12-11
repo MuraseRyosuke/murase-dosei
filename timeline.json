@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-11T14:43:48.243Z",
+    "content": "DE DE MOUSE の「喫茶桃奈珈のテーマ」を聴きました",
+    "url": "https://open.spotify.com/track/77gEuIATFzbzFnxrKdbqP0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T14:42:05.658Z",
+    "content": "Ryuichi Sakamoto の「Tibetan Dance - 2024 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/5uBhhESyqv09XEC1jsGCnL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-11T13:39:58.912Z",
     "content": "Gen Hoshino の「夢の外へ」を聴きました",
     "url": "https://open.spotify.com/track/6wlUtMxqW0E4V0ZzPtRMkt"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-11T12:44:28.920Z",
     "content": "COLTEMONIKHA の「fantastic fantasy」を聴きました",
     "url": "https://open.spotify.com/track/4LbF7zpkdOVqtwUcDhMYkv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T12:40:40.328Z",
-    "content": "COLTEMONIKHA の「嘘つきジングルベル」を聴きました",
-    "url": "https://open.spotify.com/track/6umelAvWVCHCETcLCyVAZJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T12:35:48.656Z",
-    "content": "COLTEMONIKHA の「girly star」を聴きました",
-    "url": "https://open.spotify.com/track/2AFSSRUro1mY4P2pc4MOwu"
   },
   {
     "platform": "Bluesky",
