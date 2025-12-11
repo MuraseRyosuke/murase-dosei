@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-11T13:39:58.912Z",
+    "content": "Gen Hoshino の「夢の外へ」を聴きました",
+    "url": "https://open.spotify.com/track/6wlUtMxqW0E4V0ZzPtRMkt"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T13:36:07.974Z",
+    "content": "Gen Hoshino の「ワークソング」を聴きました",
+    "url": "https://open.spotify.com/track/7tIRL8nInt4GaLqwKewdTq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T13:32:43.314Z",
+    "content": "Gen Hoshino の「化物」を聴きました",
+    "url": "https://open.spotify.com/track/5IOKl1EeyOw7Bjp9E84tdw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T13:17:51.120Z",
+    "content": "Gen Hoshino の「日常」を聴きました",
+    "url": "https://open.spotify.com/track/2ZQMD01H60aj1qC3jz0KG1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T13:08:20.119Z",
+    "content": "COLTEMONIKHA の「ドミノ」を聴きました",
+    "url": "https://open.spotify.com/track/0Nu0yGXjuD6MghWf2byuDu"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-11T12:55:36.543Z",
+    "content": "COLTEMONIKHA の「Yum yum yummy」を聴きました",
+    "url": "https://open.spotify.com/track/6GycaCHy4fwGruhSmXuLTL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-11T12:49:09.832Z",
     "content": "COLTEMONIKHA の「そらとぶひかり」を聴きました",
     "url": "https://open.spotify.com/track/2rUn7ibLCU001hOxG4Tpm0"
@@ -24,30 +60,6 @@
     "url": "https://open.spotify.com/track/2AFSSRUro1mY4P2pc4MOwu"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T12:31:17.362Z",
-    "content": "COLTEMONIKHA の「NAMAIKI」を聴きました",
-    "url": "https://open.spotify.com/track/7odhnwAMTQSUusHrtqXxS0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T12:27:32.181Z",
-    "content": "COLTEMONIKHA の「SLEEPING girl」を聴きました",
-    "url": "https://open.spotify.com/track/7FqzYsg4TrDz6prL3DmUyR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T12:22:39.366Z",
-    "content": "Michaël Fortunati の「Give Me Up」を聴きました",
-    "url": "https://open.spotify.com/track/3oDg58zzUvhX9YysQm31tN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T12:07:41.342Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2025-12-11T11:42:51.398Z",
     "content": "Gemini、Webアプリとモバイルアプリの同期が完全ではないので、パソコンでエラー文コピペ→指示通りに画面を動かしたいのでスマホで確認しながら、が\nいちいちアプリを落とさないとできないのが本当に面倒くさすぎる、前にも言ったもっといいユーザー体験絶対あると思う",
@@ -58,17 +70,5 @@
     "timestamp": "2025-12-11T11:32:30.496Z",
     "content": "Geminiに私の画像90枚食べさせてコラージュして、って指示したらクラッシュしちゃった、画像読み込みってまだもうちょっとかかるのかなあ",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3m7pi22bcpk2x"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:45:21.746Z",
-    "content": "EPO の「土曜の夜はパラダイス」を聴きました",
-    "url": "https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-11T09:41:12.266Z",
-    "content": "EPO の「VITAMIN E・P・O」を聴きました",
-    "url": "https://open.spotify.com/track/1EE9OwUCj1SYc12VmY5Fhl"
   }
 ]
