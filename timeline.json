@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-13T20:40:32.294Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T20:36:32.305Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-13T18:55:23.510Z",
     "content": "Yoshinori Sunahara の「The First Step (Version liminal)」を聴きました",
     "url": "https://open.spotify.com/track/6mTPwNsILGggzCg5getaMR"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-13T16:19:55.138Z",
     "content": "Autechre の「mesh cinereaL」を聴きました",
     "url": "https://open.spotify.com/track/60wRehwrtU1hzBNqhjj5ZO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T15:55:26.121Z",
-    "content": "Ryoji Ikeda の「data.syntax」を聴きました",
-    "url": "https://open.spotify.com/track/4oWPJ0ryxQouBj9wFdHrgJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T15:51:10.877Z",
-    "content": "Aoki Takamasa の「Rhythm Variation 04」を聴きました",
-    "url": "https://open.spotify.com/track/1W0VPQUHlbNotUXZj1EwGe"
   },
   {
     "platform": "Bluesky",
