@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-13T21:36:02.008Z",
+    "content": "Fujii Kaze の「真っ白」を聴きました",
+    "url": "https://open.spotify.com/track/7uKf9g2kmHutlXAdJi0ExX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T21:31:32.166Z",
+    "content": "Fujii Kaze の「帰ろう」を聴きました",
+    "url": "https://open.spotify.com/track/6Dmxt4rbi97c7sjoWRrJoj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T21:26:32.054Z",
+    "content": "Fujii Kaze の「優しさ」を聴きました",
+    "url": "https://open.spotify.com/track/0f3Ce9xjHymExIpEyHUC8D"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T21:22:32.070Z",
+    "content": "Fujii Kaze の「何なんw」を聴きました",
+    "url": "https://open.spotify.com/track/2Nl3vx5qRnATIckVRZxb4T"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-13T21:17:02.163Z",
     "content": "Fujii Kaze の「“青春病”」を聴きました",
     "url": "https://open.spotify.com/track/6bioW1LHzS92xtmWT6NeWl"
@@ -34,30 +58,6 @@
     "timestamp": "2025-12-13T20:58:32.167Z",
     "content": "Fujii Kaze の「You」を聴きました",
     "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T20:53:32.081Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T20:49:32.176Z",
-    "content": "Fujii Kaze の「Love Like This」を聴きました",
-    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T20:45:02.368Z",
-    "content": "Fujii Kaze の「Hachikō」を聴きました",
-    "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T20:40:32.294Z",
-    "content": "Fujii Kaze の「Casket Girl」を聴きました",
-    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
   },
   {
     "platform": "Bluesky",
