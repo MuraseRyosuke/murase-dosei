@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-13T16:50:48.854Z",
+    "content": "Autechre の「Dial.」を聴きました",
+    "url": "https://open.spotify.com/track/71O1HKXSon9yOlUSMjCyiz"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-13T16:47:04.137Z",
     "content": "Autechre の「Cap.IV」を聴きました",
     "url": "https://open.spotify.com/track/0DO3c3hOThTLv4Kqyl1Jka"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-13T15:40:59.371Z",
     "content": "alva noto の「Transition」を聴きました",
     "url": "https://open.spotify.com/track/57HHDZIOJBOXrBX8BSTbd2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T15:27:25.254Z",
-    "content": "Yoshinori Sunahara の「Beat It」を聴きました",
-    "url": "https://open.spotify.com/track/6tCNzkvHckS8JHr9dN8Qsi"
   },
   {
     "platform": "Bluesky",
