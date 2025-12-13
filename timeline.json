@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-13T13:41:28.929Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T13:37:38.210Z",
+    "content": "Fujii Kaze の「You」を聴きました",
+    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T13:32:52.704Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-13T13:28:32.755Z",
+    "content": "Fujii Kaze の「Love Like This」を聴きました",
+    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-13T13:24:05.875Z",
     "content": "Fujii Kaze の「Hachikō」を聴きました",
     "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
@@ -40,30 +64,6 @@
     "timestamp": "2025-12-13T08:42:01.864Z",
     "content": "COLTEMONIKHA の「ドミノ」を聴きました",
     "url": "https://open.spotify.com/track/3TrlyOOfEpA2atpX5kULzH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T08:37:21.587Z",
-    "content": "COLTEMONIKHA の「ドミノ」を聴きました",
-    "url": "https://open.spotify.com/track/3TrlyOOfEpA2atpX5kULzH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T08:21:37.830Z",
-    "content": "稲葉曇 の「ラグトレイン」を聴きました",
-    "url": "https://open.spotify.com/track/3Kt6UReyCtmrYvbsHb3STj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T08:17:01.660Z",
-    "content": "梅田サイファー の「KING (RAPNAVIO VER.)」を聴きました",
-    "url": "https://open.spotify.com/track/4SKei4tQXG94R5dYu7ipv5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T08:13:07.943Z",
-    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
-    "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
   },
   {
     "platform": "Bluesky",
