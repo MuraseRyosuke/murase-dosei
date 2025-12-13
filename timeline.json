@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-13T18:55:23.510Z",
+    "content": "Yoshinori Sunahara の「The First Step (Version liminal)」を聴きました",
+    "url": "https://open.spotify.com/track/6mTPwNsILGggzCg5getaMR"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-13T16:50:48.854Z",
     "content": "Autechre の「Dial.」を聴きました",
     "url": "https://open.spotify.com/track/71O1HKXSon9yOlUSMjCyiz"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-13T15:51:10.877Z",
     "content": "Aoki Takamasa の「Rhythm Variation 04」を聴きました",
     "url": "https://open.spotify.com/track/1W0VPQUHlbNotUXZj1EwGe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T15:40:59.371Z",
-    "content": "alva noto の「Transition」を聴きました",
-    "url": "https://open.spotify.com/track/57HHDZIOJBOXrBX8BSTbd2"
   },
   {
     "platform": "Bluesky",
