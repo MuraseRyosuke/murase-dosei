@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-14T11:42:25.300Z",
+    "content": "Squarepusher の「Stor Eiglass」を聴きました",
+    "url": "https://open.spotify.com/track/3h1AFc1D6tC4fjmhCojQdP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-14T11:34:25.846Z",
     "content": "80KIDZ の「Red Star」を聴きました",
     "url": "https://open.spotify.com/track/3bODaiTe9TfBj5HO7dyxax"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-13T22:37:32.636Z",
     "content": "Cornelius の「火花」を聴きました",
     "url": "https://open.spotify.com/track/6VSdKjeSsJGygQayCwA8RY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T22:33:08.085Z",
-    "content": "Cornelius の「変わる消える」を聴きました",
-    "url": "https://open.spotify.com/track/7ElKMEJBVEvVuimhkeS114"
   },
   {
     "platform": "Bluesky",
