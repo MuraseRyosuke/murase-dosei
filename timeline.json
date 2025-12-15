@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Bluesky",
+    "timestamp": "2025-12-15T19:40:15.194Z",
+    "content": "Meta Quest 3単体でVR睡眠してみたい…と思って色々調べてみているが、まず暗い部屋だと赤外線センサーが機能しないので赤外線ライトの導入、そして標準コントローラーは腕を上げたりなどのトラッキングでしかうまく動作しないのでマウスなどの導入をしたほうがいいという、初手から追加投資が必要なガイドなのが一歩目なのが結構大変…\n次に細かな本体設定をいじるために開発者モードにする、そのためにはデベロッパー登録をして…という、ここで本来の利用想定から完璧に外れたなと踏み込ませるのが二歩目、これだけで安定しないんだろうな…と感じてしまうのが何より不安になる",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3ma2f5uidhs2v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-15T19:35:55.201Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「1000 KNIVES - YMO LIVE AT THE GREEK THEATRE 08/04/1979」を聴きました",
+    "url": "https://open.spotify.com/track/4ro90T4UpTKjoDUBdqOr4S"
+  },
+  {
     "platform": "Spotify",
     "timestamp": "2025-12-15T18:33:32.648Z",
     "content": "YELLOW MAGIC ORCHESTRA の「DAY TRIPPER - YMO LIVE AT THE GREEK THEATRE 08/04/1979」を聴きました",
@@ -52,12 +64,6 @@
     "timestamp": "2025-12-15T18:02:12.005Z",
     "content": "YELLOW MAGIC ORCHESTRA の「東風」を聴きました",
     "url": "https://open.spotify.com/track/1HvhHayieUMMmHB9RDUm0W"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T17:53:03.541Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「ファイアークラッカー」を聴きました",
-    "url": "https://open.spotify.com/track/0K9YsoS4hRW8SinM65Qvxh"
   },
   {
     "platform": "Bluesky",
