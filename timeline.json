@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-15T05:48:24.188Z",
+    "content": "Perfume の「スパイス」を聴きました",
+    "url": "https://open.spotify.com/track/60v5BCPY1KCcy6AaK30Xov"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-15T05:44:58.396Z",
+    "content": "RHYMESTER の「ガラパゴス」を聴きました",
+    "url": "https://open.spotify.com/track/4CkL6df9EOvKVHw3MVweph"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-15T05:44:21.647Z",
+    "content": "80KIDZ の「Prisma」を聴きました",
+    "url": "https://open.spotify.com/track/5Dvr0JWIBcpeJIdeZ5lnsf"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-14T16:36:26.381Z",
     "content": "RHYMESTER の「B-BOYイズム」を聴きました",
     "url": "https://open.spotify.com/track/1Ob98NWvtnKx4xP6QhRHmt"
@@ -40,24 +58,6 @@
     "timestamp": "2025-12-14T09:54:14.179Z",
     "content": "Cornelius の「続きを」を聴きました",
     "url": "https://open.spotify.com/track/79FVGx0zX4jcqqRNp8nB4n"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-14T09:49:53.029Z",
-    "content": "KIRINJI の「双子座グラフィティ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1z38GTnregUY21EstjFwDc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-14T09:39:26.031Z",
-    "content": "KIRINJI の「Drive me crazy - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0oS46mcup4HJUcAuik6uK7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-13T22:46:02.320Z",
-    "content": "Cornelius の「MIND TRAIN」を聴きました",
-    "url": "https://open.spotify.com/track/7dxIIrRMTVsTWHX7k7SL0P"
   },
   {
     "platform": "Bluesky",
