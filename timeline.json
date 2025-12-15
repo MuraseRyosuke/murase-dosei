@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-15T05:58:18.757Z",
+    "content": "Perfume の「Spring of Life - Level3-mix」を聴きました",
+    "url": "https://open.spotify.com/track/12vtP52MPA4Vz7QT5Z9lPp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-15T05:52:19.116Z",
+    "content": "Perfume の「Enter the Sphere」を聴きました",
+    "url": "https://open.spotify.com/track/7szTSXwtnZVz9lAevfsSSp"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-15T05:48:24.188Z",
     "content": "Perfume の「スパイス」を聴きました",
     "url": "https://open.spotify.com/track/60v5BCPY1KCcy6AaK30Xov"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-14T11:29:36.212Z",
     "content": "80KIDZ の「Flying Buttress」を聴きました",
     "url": "https://open.spotify.com/track/3bLdGceMu1efzf2ENf9Yr7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-14T11:22:22.997Z",
-    "content": "80KIDZ の「Miss Mars」を聴きました",
-    "url": "https://open.spotify.com/track/7JmIgtwOgSuSrA1D3pNVEX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-14T09:54:14.179Z",
-    "content": "Cornelius の「続きを」を聴きました",
-    "url": "https://open.spotify.com/track/79FVGx0zX4jcqqRNp8nB4n"
   },
   {
     "platform": "Bluesky",
