@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-15T17:43:42.967Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「イエロー・マジック (東風)」を聴きました",
+    "url": "https://open.spotify.com/track/3EsDrhZydOrpYUwHGT9ulW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-15T17:35:44.718Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-15T17:28:08.703Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-15T13:44:07.664Z",
     "content": "Keisuke Kuwata の「傷だらけの天使 [2022 Remaster]」を聴きました",
     "url": "https://open.spotify.com/track/5BaqtDto0lkJEZN0ovIrqF"
@@ -46,24 +64,6 @@
     "timestamp": "2025-12-15T07:50:34.711Z",
     "content": "Squarepusher の「Steinbolt - Remastered」を聴きました",
     "url": "https://open.spotify.com/track/3AWofkFZJsWnYYopor3pdE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T07:41:42.979Z",
-    "content": "Squarepusher の「I Fulcrum - Remastered」を聴きました",
-    "url": "https://open.spotify.com/track/6dL1MavCzJM3i9ms9E4NaZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T07:38:12.125Z",
-    "content": "Squarepusher の「Ultravisitor - Remastered」を聴きました",
-    "url": "https://open.spotify.com/track/5rE1UZZ5RIICtYOxNE2Fwd"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T07:28:54.885Z",
-    "content": "PiKi の「Kawaii Kaiwai」を聴きました",
-    "url": "https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl"
   },
   {
     "platform": "Bluesky",
