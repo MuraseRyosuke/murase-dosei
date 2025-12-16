@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-16T09:25:38.945Z",
+    "content": "Swing Out Sister の「Breakout」を聴きました",
+    "url": "https://open.spotify.com/track/5JsIknb4lyIKQCytjv0Uw5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-16T09:18:03.111Z",
+    "content": "group_inou の「9」を聴きました",
+    "url": "https://open.spotify.com/track/3f1BMAlObJ77QDTsKKixB2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-16T08:11:34.281Z",
     "content": "COLTEMONIKHA の「ドミノ」を聴きました",
     "url": "https://open.spotify.com/track/3TrlyOOfEpA2atpX5kULzH"
@@ -52,18 +64,6 @@
     "timestamp": "2025-12-15T18:23:22.900Z",
     "content": "YELLOW MAGIC ORCHESTRA の「LA FEMME CHINOISE - YMO LIVE AT THE GREEK THEATRE 08/04/1979」を聴きました",
     "url": "https://open.spotify.com/track/6xI1zQxWJpdcHBk8xaApH0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T18:15:46.798Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「BEHIND THE MASK - YMO LIVE AT THE GREEK THEATRE 08/04/1979」を聴きました",
-    "url": "https://open.spotify.com/track/23xdEAD3E0uolmO6ElxTiG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T18:10:10.521Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「CASTALIA - Live at The Venue October 16 1979」を聴きました",
-    "url": "https://open.spotify.com/track/7oWwdxhbGXNEul7lidvYFw"
   },
   {
     "platform": "Bluesky",
