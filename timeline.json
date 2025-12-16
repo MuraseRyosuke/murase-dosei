@@ -1,5 +1,23 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2025-12-16T08:11:34.281Z",
+    "content": "COLTEMONIKHA の「ドミノ」を聴きました",
+    "url": "https://open.spotify.com/track/3TrlyOOfEpA2atpX5kULzH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-16T08:06:58.956Z",
+    "content": "COLTEMONIKHA の「preparation」を聴きました",
+    "url": "https://open.spotify.com/track/2mn2BtQ1Qk6n5PA1deDC7t"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-16T08:05:44.459Z",
+    "content": "CANDY TUNE の「倍倍FIGHT!」を聴きました",
+    "url": "https://open.spotify.com/track/6v1pCoeCJjphsCyh148icW"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2025-12-15T19:40:15.194Z",
     "content": "Meta Quest 3単体でVR睡眠してみたい…と思って色々調べてみているが、まず暗い部屋だと赤外線センサーが機能しないので赤外線ライトの導入、そして標準コントローラーは腕を上げたりなどのトラッキングでしかうまく動作しないのでマウスなどの導入をしたほうがいいという、初手から追加投資が必要なガイドなのが一歩目なのが結構大変…\n次に細かな本体設定をいじるために開発者モードにする、そのためにはデベロッパー登録をして…という、ここで本来の利用想定から完璧に外れたなと踏み込ませるのが二歩目、これだけで安定しないんだろうな…と感じてしまうのが何より不安になる",
@@ -46,24 +64,6 @@
     "timestamp": "2025-12-15T18:10:10.521Z",
     "content": "YELLOW MAGIC ORCHESTRA の「CASTALIA - Live at The Venue October 16 1979」を聴きました",
     "url": "https://open.spotify.com/track/7oWwdxhbGXNEul7lidvYFw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T18:06:06.092Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「DAY TRIPPER」を聴きました",
-    "url": "https://open.spotify.com/track/1uVET3qK6fcRSVuDAUNgBp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T18:03:26.651Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「SOLID STATE SURVIVOR」を聴きました",
-    "url": "https://open.spotify.com/track/5hHjs19qB3hzaBzzOLVjCo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-15T18:02:12.005Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「東風」を聴きました",
-    "url": "https://open.spotify.com/track/1HvhHayieUMMmHB9RDUm0W"
   },
   {
     "platform": "Bluesky",
