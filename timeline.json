@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-17T23:40:54.455Z",
+    "content": "MEG の「MAGIC」を聴きました",
+    "url": "https://open.spotify.com/track/7MAVlxc2Xks2zlgratyJ6r"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-17T16:18:04.641Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-17T11:59:46.248Z",
     "content": "CANDY TUNE の「倍倍FIGHT!」を聴きました",
     "url": "https://open.spotify.com/track/4oiJ7VynczppKs3oRObXSG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T11:55:24.361Z",
-    "content": "KIRINJI の「Drifter - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2ZWZSHeia0Hjc7jWyk2Yar"
   },
   {
     "platform": "Bluesky",
