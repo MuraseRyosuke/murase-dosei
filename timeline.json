@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-17T12:29:23.363Z",
+    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
+    "url": "https://open.spotify.com/track/15XmsEkpAMMK3zMblAsq59"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T12:23:13.775Z",
+    "content": "MEG の「ROMANTIKA」を聴きました",
+    "url": "https://open.spotify.com/track/5T0XktbAQo4StqrB7Af8ed"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T12:18:47.088Z",
+    "content": "MEG の「OK」を聴きました",
+    "url": "https://open.spotify.com/track/68ysWYoJMmM0X7qDmb6fBz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T12:13:07.438Z",
+    "content": "CAPSULE の「Sound of Silence - rmx ver.」を聴きました",
+    "url": "https://open.spotify.com/track/4EG9E7t1PnwVUkGlRLhMoA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T12:08:13.687Z",
+    "content": "CAPSULE の「Sound of Silence」を聴きました",
+    "url": "https://open.spotify.com/track/2dsPLTyKar4M2JVn4zbbLU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T12:04:44.924Z",
+    "content": "COLTEMONIKHA の「ドミノ」を聴きました",
+    "url": "https://open.spotify.com/track/3TrlyOOfEpA2atpX5kULzH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T11:59:46.248Z",
+    "content": "CANDY TUNE の「倍倍FIGHT!」を聴きました",
+    "url": "https://open.spotify.com/track/4oiJ7VynczppKs3oRObXSG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-17T11:55:24.361Z",
+    "content": "KIRINJI の「Drifter - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2ZWZSHeia0Hjc7jWyk2Yar"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-17T06:14:05.059Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -10,54 +58,6 @@
     "timestamp": "2025-12-17T05:47:46.496Z",
     "content": "Stardust の「Music Sounds Better With You - Radio Edit」を聴きました",
     "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T05:47:42.394Z",
-    "content": "Daft Punk の「Voyager」を聴きました",
-    "url": "https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T02:23:39.525Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「FLOATING AWAY」を聴きました",
-    "url": "https://open.spotify.com/track/3bFybikzpcMRWuMTfDjf1V"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T02:16:53.242Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「LIMBO」を聴きました",
-    "url": "https://open.spotify.com/track/5sYCiajxzonJ4tUeYI0q3R"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T02:13:20.316Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「ハッピーエンド」を聴きました",
-    "url": "https://open.spotify.com/track/6MyOsZCr7QN6GiDaatFb6W"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T02:08:46.643Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「HERE WE GO AGAIN ～TIGHTEN UP」を聴きました",
-    "url": "https://open.spotify.com/track/4QR5iUcgtLhv8U9A3g0SYX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T02:07:38.948Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「バレエ」を聴きました",
-    "url": "https://open.spotify.com/track/5ImWkue7NEmo6uqdX8vVsA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T02:03:03.716Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「シムーン」を聴きました",
-    "url": "https://open.spotify.com/track/4ouclH4UIbNFzohZezeCB8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-17T01:56:36.121Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「TIGHTEN UP (JAPANESE GENTLEMEN STAND UP PLEASE!)」を聴きました",
-    "url": "https://open.spotify.com/track/0ymwuEO5iWNcXj6KdTSn8E"
   },
   {
     "platform": "Bluesky",
