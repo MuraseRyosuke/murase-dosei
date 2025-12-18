@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-18T20:12:32.286Z",
+    "content": "DE DE MOUSE の「Newtown浪漫」を聴きました",
+    "url": "https://open.spotify.com/track/1SOsTZKPOosHIeyILqonOF"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-18T02:54:14.001Z",
     "content": "Fujii Kaze の「Forever Young」を聴きました",
     "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-18T02:18:27.654Z",
     "content": "Fujii Kaze の「Casket Girl」を聴きました",
     "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-18T01:57:17.401Z",
-    "content": "The Selection of DE DE MOUSE Favorites performed by 六弦倶楽部 with Farah a.k.a. RF の「Tong Poo」を聴きました",
-    "url": "https://open.spotify.com/track/5xVQkZl9qT3IiKcF9ysbAX"
   },
   {
     "platform": "Bluesky",
