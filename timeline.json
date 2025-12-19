@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-19T11:16:21.986Z",
+    "content": "Yoshinori Sunahara の「Natural」を聴きました",
+    "url": "https://open.spotify.com/track/4nKK4vBBBJqFxMyxgdgosS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-19T11:12:24.775Z",
+    "content": "Yoshinori Sunahara の「Physical Music」を聴きました",
+    "url": "https://open.spotify.com/track/7mnu46SCsuIkpyayLkoa2f"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-19T11:07:06.279Z",
+    "content": "Yoshinori Sunahara の「The First Step (Version liminal)」を聴きました",
+    "url": "https://open.spotify.com/track/6mTPwNsILGggzCg5getaMR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-19T11:02:19.089Z",
+    "content": "DE DE MOUSE の「Old Friend's Song - Old Mix」を聴きました",
+    "url": "https://open.spotify.com/track/01NLJWFsnBl0W6gtY1Tg6B"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-19T04:38:24.739Z",
     "content": "Hikaru Utada の「桜流し」を聴きました",
     "url": "https://open.spotify.com/track/2TQsZUVhevVTtNUil5JoJv"
@@ -34,30 +58,6 @@
     "timestamp": "2025-12-19T04:15:14.961Z",
     "content": "Hikaru Utada の「ともだち with 小袋成彬」を聴きました",
     "url": "https://open.spotify.com/track/0hOOo6B7LuJ8sjAMjgmuMU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T04:09:28.329Z",
-    "content": "Hikaru Utada の「BADモード」を聴きました",
-    "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T04:03:53.509Z",
-    "content": "Kenshi Yonezu の「ゆめうつつ - Daydream」を聴きました",
-    "url": "https://open.spotify.com/track/2cI2h593ytqfNdbiJImZR3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T03:58:47.865Z",
-    "content": "Kenshi Yonezu の「毎日 - Every Day」を聴きました",
-    "url": "https://open.spotify.com/track/75Tu7Z1Auh4Gzd80FRJI4C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T03:53:38.886Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
   },
   {
     "platform": "Bluesky",
