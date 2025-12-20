@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-20T12:38:47.863Z",
+    "content": "The Beatles の「Day Tripper - Remastered 2015」を聴きました",
+    "url": "https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-20T12:34:39.142Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「BEHIND THE MASK - 2018 Bob Ludwig Remastering」を聴きました",
+    "url": "https://open.spotify.com/track/2rscK0SA5w4mtoHNxHaBl2"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-20T12:29:04.041Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「RYDEEN - 2018 Bob Ludwig Remastering」を聴きました",
+    "url": "https://open.spotify.com/track/2TxJx30FUVmfTAA0EveC2v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-20T12:24:26.358Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「ABSOLUTE EGO DANCE - 2018 Bob Ludwig Remastering」を聴きました",
+    "url": "https://open.spotify.com/track/4k17JcVSvxx6z8ofESLTpJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-20T12:19:52.610Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「TECHNOPOLIS - 2018 Bob Ludwig Remastering」を聴きました",
+    "url": "https://open.spotify.com/track/0PaxJgmtVYrsdn5ysTyIph"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-20T12:15:07.899Z",
+    "content": "YELLOW MAGIC ORCHESTRA の「TONG POO - YMO LIVE AT THE GREEK THEATRE 08/04/1979」を聴きました",
+    "url": "https://open.spotify.com/track/2vPKEeGSr6b3Je206m6Ohy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-19T20:19:27.487Z",
     "content": "Pet Shop Boys の「West End Girls」を聴きました",
     "url": "https://open.spotify.com/track/5Dqik1P9toCJTLj5rEm78s"
@@ -22,42 +58,6 @@
     "timestamp": "2025-12-19T19:53:52.909Z",
     "content": "DE DE MOUSE の「sweet gravity」を聴きました",
     "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T19:48:42.069Z",
-    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T19:43:24.004Z",
-    "content": "DE DE MOUSE の「new town romancer」を聴きました",
-    "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T11:16:21.986Z",
-    "content": "Yoshinori Sunahara の「Natural」を聴きました",
-    "url": "https://open.spotify.com/track/4nKK4vBBBJqFxMyxgdgosS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T11:12:24.775Z",
-    "content": "Yoshinori Sunahara の「Physical Music」を聴きました",
-    "url": "https://open.spotify.com/track/7mnu46SCsuIkpyayLkoa2f"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T11:07:06.279Z",
-    "content": "Yoshinori Sunahara の「The First Step (Version liminal)」を聴きました",
-    "url": "https://open.spotify.com/track/6mTPwNsILGggzCg5getaMR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-19T11:02:19.089Z",
-    "content": "DE DE MOUSE の「Old Friend's Song - Old Mix」を聴きました",
-    "url": "https://open.spotify.com/track/01NLJWFsnBl0W6gtY1Tg6B"
   },
   {
     "platform": "Bluesky",
