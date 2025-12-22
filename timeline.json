@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-22T15:23:25.573Z",
+    "content": "Hearts2Hearts の「FOCUS」を聴きました",
+    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-21T19:13:30.711Z",
     "content": "KIRINJI の「銀砂子のピンボール - Special Christmas Version 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6dk6ZQo8QfxGAnd8wmhjIj"
@@ -58,12 +64,6 @@
     "timestamp": "2025-12-20T12:48:54.453Z",
     "content": "Fujii Kaze の「Love Like This」を聴きました",
     "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-20T12:44:34.185Z",
-    "content": "Fujii Kaze の「Hachikō」を聴きました",
-    "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
   },
   {
     "platform": "Bluesky",
