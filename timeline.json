@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-22T17:24:36.341Z",
+    "content": "SEKAI NO OWARI の「プレゼント」を聴きました",
+    "url": "https://open.spotify.com/track/3H6sHQWnAU5jjnqFNLHjoM"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-22T17:20:14.980Z",
+    "content": "MEG の「TELEPHONE」を聴きました",
+    "url": "https://open.spotify.com/track/1sDi3Gm2EQlGfWyH4y6lOw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-22T16:11:45.086Z",
     "content": "MEG の「PASSPORT」を聴きました",
     "url": "https://open.spotify.com/track/4A9TB6jHKq5A7pqiGwEwJ5"
@@ -46,18 +58,6 @@
     "timestamp": "2025-12-22T15:27:22.427Z",
     "content": "Hearts2Hearts の「FOCUS」を聴きました",
     "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-22T15:23:25.573Z",
-    "content": "Hearts2Hearts の「FOCUS」を聴きました",
-    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-21T19:13:30.711Z",
-    "content": "KIRINJI の「銀砂子のピンボール - Special Christmas Version 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6dk6ZQo8QfxGAnd8wmhjIj"
   },
   {
     "platform": "Bluesky",
