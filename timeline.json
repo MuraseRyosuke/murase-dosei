@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-23T15:07:24.588Z",
+    "content": "Brenda Lee の「Rockin' Around The Christmas Tree」を聴きました",
+    "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-23T15:06:32.994Z",
+    "content": "Mariah Carey の「All I Want for Christmas Is You」を聴きました",
+    "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-23T15:00:34.669Z",
+    "content": "Dean Martin の「Let It Snow! Let It Snow! Let It Snow!」を聴きました",
+    "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-23T14:57:25.606Z",
+    "content": "Wham! の「Last Christmas」を聴きました",
+    "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-23T14:49:48.477Z",
+    "content": "サザンオールスターズ の「涙のキッス [2024 Remaster]」を聴きました",
+    "url": "https://open.spotify.com/track/47e7ybkxiKi7V1D38ATwUy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-23T14:35:08.558Z",
     "content": "Fujii Kaze の「You」を聴きました",
     "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
@@ -28,36 +58,6 @@
     "timestamp": "2025-12-23T03:24:13.928Z",
     "content": "Wham! の「Last Christmas」を聴きました",
     "url": "https://open.spotify.com/track/3Bpwvky2fGAw8ydsXnceJO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-23T03:09:05.994Z",
-    "content": "Wham! の「Last Christmas - Single Version」を聴きました",
-    "url": "https://open.spotify.com/track/65caoxozFBWYUlUvX4wp4S"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-23T03:04:36.691Z",
-    "content": "SEKAI NO OWARI の「プレゼント」を聴きました",
-    "url": "https://open.spotify.com/track/3H6sHQWnAU5jjnqFNLHjoM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-22T17:24:36.341Z",
-    "content": "SEKAI NO OWARI の「プレゼント」を聴きました",
-    "url": "https://open.spotify.com/track/3H6sHQWnAU5jjnqFNLHjoM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-22T17:20:14.980Z",
-    "content": "MEG の「TELEPHONE」を聴きました",
-    "url": "https://open.spotify.com/track/1sDi3Gm2EQlGfWyH4y6lOw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-22T16:11:45.086Z",
-    "content": "MEG の「PASSPORT」を聴きました",
-    "url": "https://open.spotify.com/track/4A9TB6jHKq5A7pqiGwEwJ5"
   },
   {
     "platform": "Bluesky",
