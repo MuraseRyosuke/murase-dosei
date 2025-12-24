@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-24T17:14:54.399Z",
+    "content": "Hearts2Hearts の「Flutter」を聴きました",
+    "url": "https://open.spotify.com/track/1lP4paUU6RuyAmK06jLT4K"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-24T17:11:42.574Z",
+    "content": "Hearts2Hearts の「Pretty Please」を聴きました",
+    "url": "https://open.spotify.com/track/6a5ldLz6vKhUKHvQp1HxiN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-24T17:08:18.193Z",
+    "content": "Hearts2Hearts の「Apple Pie」を聴きました",
+    "url": "https://open.spotify.com/track/0jnelJPBaLQcN5IearNmdi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2025-12-24T17:05:12.990Z",
+    "content": "Hearts2Hearts の「FOCUS」を聴きました",
+    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-23T22:00:22.801Z",
     "content": "Hearts2Hearts の「FOCUS」を聴きました",
     "url": "https://open.spotify.com/track/1G4fSgc6Id5nTIKo55XRop"
@@ -34,30 +58,6 @@
     "timestamp": "2025-12-23T21:46:13.175Z",
     "content": "Hearts2Hearts の「STYLE」を聴きました",
     "url": "https://open.spotify.com/track/1IeVyzWo9BlNk903OPe6Nz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-23T21:45:29.951Z",
-    "content": "Hearts2Hearts の「STYLE」を聴きました",
-    "url": "https://open.spotify.com/track/1IeVyzWo9BlNk903OPe6Nz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-23T21:44:58.453Z",
-    "content": "Hearts2Hearts の「STYLE」を聴きました",
-    "url": "https://open.spotify.com/track/1IeVyzWo9BlNk903OPe6Nz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-23T21:42:52.785Z",
-    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
-    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-23T21:30:22.742Z",
-    "content": "YELLOW MAGIC ORCHESTRA の「SNAKEMAN SHOW-1 - 2019 Bob Ludwig Remastering」を聴きました",
-    "url": "https://open.spotify.com/track/1lWdaGWal0YmF0xN2NwvvP"
   },
   {
     "platform": "Bluesky",
