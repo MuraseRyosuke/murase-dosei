@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2025-12-31T23:05:15.967Z",
+    "content": "DEPAPEPE の「START」を聴きました",
+    "url": "https://open.spotify.com/track/1iQK0DUKHWSHOZ8UiCJx4v"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2025-12-30T17:22:09.383Z",
     "content": "Omoinotake の「幾億光年」を聴きました",
     "url": "https://open.spotify.com/track/5Ak1F5nGzM4KRhE0H1Q3CP"
@@ -52,12 +58,6 @@
     "timestamp": "2025-12-30T14:08:54.179Z",
     "content": "DE DE MOUSE の「friday comers」を聴きました",
     "url": "https://open.spotify.com/track/7uZXul9p5nN7KnOWkaaV2o"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T14:01:56.989Z",
-    "content": "DE DE MOUSE の「journey to freedom」を聴きました",
-    "url": "https://open.spotify.com/track/7cvT2z0hB9HSdmo3mLnK7W"
   },
   {
     "platform": "Bluesky",
