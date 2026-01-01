@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-01T19:43:40.606Z",
+    "content": "CANDY TUNE の「君もゾンビですか ゾンビですね」を聴きました",
+    "url": "https://open.spotify.com/track/6zeCgja1uYd746JbWZZaiG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T19:40:32.827Z",
+    "content": "CANDY TUNE の「夏しかサマーー！♡」を聴きました",
+    "url": "https://open.spotify.com/track/6kOhaEBGthxB2dLCsKbhKl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-01T19:36:17.998Z",
     "content": "CANDY TUNE の「いえなかったことば 〜ありがとう〜」を聴きました",
     "url": "https://open.spotify.com/track/08EBWmzR2VgnLaWWYdAxwp"
@@ -46,17 +58,5 @@
     "timestamp": "2026-01-01T19:09:30.461Z",
     "content": "CANDY TUNE の「きゅきゅきゅキュート」を聴きました",
     "url": "https://open.spotify.com/track/6CROZJ7SLCaohtkQTLOK6z"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T19:05:59.833Z",
-    "content": "CANDY TUNE の「hanamaru」を聴きました",
-    "url": "https://open.spotify.com/track/4VklxP2XwSyACl3XyDlSL2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T19:02:27.887Z",
-    "content": "CANDY TUNE の「TUNE MY WAY」を聴きました",
-    "url": "https://open.spotify.com/track/7miHcECpn7Y9dUAB4Zsx8c"
   }
 ]
