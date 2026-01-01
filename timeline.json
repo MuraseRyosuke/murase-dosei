@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-01T19:36:17.998Z",
+    "content": "CANDY TUNE の「いえなかったことば 〜ありがとう〜」を聴きました",
+    "url": "https://open.spotify.com/track/08EBWmzR2VgnLaWWYdAxwp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T19:31:40.598Z",
+    "content": "CANDY TUNE の「LASTING TUNE」を聴きました",
+    "url": "https://open.spotify.com/track/4qBXpcGR1XAboEJPic69Dk"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T19:28:20.181Z",
+    "content": "CANDY TUNE の「未完な青春」を聴きました",
+    "url": "https://open.spotify.com/track/0M2P1lIAmir9nUQKEc3kZy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T19:24:14.470Z",
+    "content": "CANDY TUNE の「CATCH YOU」を聴きました",
+    "url": "https://open.spotify.com/track/1JSYfm1tj7ggvxRTVGwlyZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T19:20:57.106Z",
+    "content": "CANDY TUNE の「レイドバックジャーニー」を聴きました",
+    "url": "https://open.spotify.com/track/4sqQkUQ033b5WbJOXgdYJ2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-01T19:17:40.771Z",
     "content": "CANDY TUNE の「ナナイロプロローグ」を聴きました",
     "url": "https://open.spotify.com/track/7e1yv9BfyyDsovexsqMOyb"
@@ -28,35 +58,5 @@
     "timestamp": "2026-01-01T19:02:27.887Z",
     "content": "CANDY TUNE の「TUNE MY WAY」を聴きました",
     "url": "https://open.spotify.com/track/7miHcECpn7Y9dUAB4Zsx8c"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T18:58:39.375Z",
-    "content": "CANDY TUNE の「絶対きゃんちゅー宣言っ！」を聴きました",
-    "url": "https://open.spotify.com/track/1qtET8vWKm1V3WsPJEnes0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T18:53:56.290Z",
-    "content": "CANDY TUNE の「エトセトLOVE YOU」を聴きました",
-    "url": "https://open.spotify.com/track/5TPhtOWkw3UjJjf67cPpbh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T18:50:32.398Z",
-    "content": "CANDY TUNE の「備えあれば無問題」を聴きました",
-    "url": "https://open.spotify.com/track/37GbOM3Q7RufIFHkRdVErs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T18:46:38.660Z",
-    "content": "CANDY TUNE の「推し♡好き♡しんどい」を聴きました",
-    "url": "https://open.spotify.com/track/38gIkC6caegKJCtmNUAFFh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T18:42:40.964Z",
-    "content": "TEAM KAWAII LAB. の「CHU CHU CHU研究中！」を聴きました",
-    "url": "https://open.spotify.com/track/1MtdiDKwrccQrRGMj1dTcr"
   }
 ]
