@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-01T17:42:54.339Z",
+    "content": "Tokyo Girls' Style の「鼓動の秘密」を聴きました",
+    "url": "https://open.spotify.com/track/583pvQTzHjMlF2FekJQisG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T17:42:39.271Z",
+    "content": "Tokyo Girls' Style の「鼓動の秘密」を聴きました",
+    "url": "https://open.spotify.com/track/583pvQTzHjMlF2FekJQisG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T17:42:09.399Z",
+    "content": "Tokyo Girls' Style の「キラリ☆」を聴きました",
+    "url": "https://open.spotify.com/track/7kF0RPiXLO5ep0xuI5XBQn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T17:35:18.118Z",
+    "content": "KIRINJI の「イカロスの末裔 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2s1xUZV7FZ21Ld9QuP1dGV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T17:33:50.423Z",
+    "content": "Ale Rossi の「Sonidero」を聴きました",
+    "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T17:29:41.909Z",
+    "content": "KIRINJI の「グッデイ・グッバイ - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/0KDhLSCrMKnol8HFyp9Azq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-01T17:25:07.466Z",
+    "content": "Perfume の「巡ループ」を聴きました",
+    "url": "https://open.spotify.com/track/3K9ahLxtowxeHjiR0ksy9B"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-01T16:04:29.066Z",
     "content": "DEPAPEPE の「START」を聴きました",
     "url": "https://open.spotify.com/track/1iQK0DUKHWSHOZ8UiCJx4v"
@@ -16,53 +58,5 @@
     "timestamp": "2025-12-30T17:22:09.383Z",
     "content": "Omoinotake の「幾億光年」を聴きました",
     "url": "https://open.spotify.com/track/5Ak1F5nGzM4KRhE0H1Q3CP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T17:16:06.683Z",
-    "content": "Fujii Kaze の「Forever Young」を聴きました",
-    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T17:10:12.926Z",
-    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
-    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T17:06:22.178Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T17:01:46.812Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T16:54:08.524Z",
-    "content": "DE DE MOUSE の「a thousand better things」を聴きました",
-    "url": "https://open.spotify.com/track/2XDDUAWwELCKR8WKKQcnLB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T14:21:58.432Z",
-    "content": "DE DE MOUSE の「farewell holiday!」を聴きました",
-    "url": "https://open.spotify.com/track/2RRxlIabqIw421iIXA2013"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2025-12-30T14:14:39.183Z",
-    "content": "DE DE MOUSE の「nice avalanche」を聴きました",
-    "url": "https://open.spotify.com/track/116kMckVD2a3VARc7Jaqgv"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2025-12-25T17:40:24.693Z",
-    "content": "Affinityありがたやありがたや。。 www.affinity.studio/ja_jp/blog/fcr #AffinityByCanva",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3matd4nax2k2q"
   }
 ]
