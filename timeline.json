@@ -1,5 +1,23 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-01-02T02:26:09.187Z",
+    "content": "ORESAMA の「流星ダンスフロア」を聴きました",
+    "url": "https://open.spotify.com/track/2CoSowNujSPTb5wwAH1w02"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-02T02:21:53.155Z",
+    "content": "ORESAMA の「Hi-Fi TRAIN」を聴きました",
+    "url": "https://open.spotify.com/track/3VnhbG58Je7NSPBUfC0P1w"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-02T02:13:48.707Z",
+    "content": "KIRINJI の「エイリアンズ - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3qY12xfdjw5TToomM5CH4B"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-01-02T00:43:38.294Z",
     "content": "🎍",
@@ -46,23 +64,5 @@
     "timestamp": "2026-01-01T19:20:57.106Z",
     "content": "CANDY TUNE の「レイドバックジャーニー」を聴きました",
     "url": "https://open.spotify.com/track/4sqQkUQ033b5WbJOXgdYJ2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T19:17:40.771Z",
-    "content": "CANDY TUNE の「ナナイロプロローグ」を聴きました",
-    "url": "https://open.spotify.com/track/7e1yv9BfyyDsovexsqMOyb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T19:12:56.754Z",
-    "content": "CANDY TUNE の「WAO！アオハル！」を聴きました",
-    "url": "https://open.spotify.com/track/36dDkfohdmb6fTwUDsEabG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-01T19:09:30.461Z",
-    "content": "CANDY TUNE の「きゅきゅきゅキュート」を聴きました",
-    "url": "https://open.spotify.com/track/6CROZJ7SLCaohtkQTLOK6z"
   }
 ]
