@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-03T16:56:04.500Z",
+    "content": "CHEMISTRY の「STILL ECHO」を聴きました",
+    "url": "https://open.spotify.com/track/3fgle3I8OWdiDKdXzMK7wN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-03T16:49:52.232Z",
+    "content": "CHEMISTRY の「It Takes Two」を聴きました",
+    "url": "https://open.spotify.com/track/0Cm3WZC4175xyriiI69jZd"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-03T16:45:46.774Z",
     "content": "CHEMISTRY の「Intro-lude〜You're My Second to None〜」を聴きました",
     "url": "https://open.spotify.com/track/6sWeARjrlT16RIuItoMvqu"
@@ -46,18 +58,6 @@
     "timestamp": "2026-01-03T16:06:23.218Z",
     "content": "CHEMISTRY の「PIECES OF A DREAM」を聴きました",
     "url": "https://open.spotify.com/track/2awri5rPS65gXBN982s4Gt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:01:24.684Z",
-    "content": "CHEMISTRY の「合鍵」を聴きました",
-    "url": "https://open.spotify.com/track/6U39Ho6ACJw3CZ2vp2bdOE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T15:57:09.702Z",
-    "content": "CHEMISTRY の「Intro-lude 〜The Way We Are〜」を聴きました",
-    "url": "https://open.spotify.com/track/2mP3zwd3M1EluKEOvku151"
   },
   {
     "platform": "Bluesky",
