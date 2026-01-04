@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-04T17:17:04.410Z",
+    "content": "Hikaru Utada の「PINK BLOOD」を聴きました",
+    "url": "https://open.spotify.com/track/2EK2DrH59MHythSLcW3Akp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-04T17:13:52.106Z",
+    "content": "Hikaru Utada の「One Last Kiss」を聴きました",
+    "url": "https://open.spotify.com/track/6DaKMsQDmHMJbKYyU7AUFA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-04T17:09:35.146Z",
+    "content": "Hikaru Utada の「君に夢中」を聴きました",
+    "url": "https://open.spotify.com/track/0oxWaHk4e669g5VHbQCflA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-04T17:05:16.613Z",
+    "content": "Hikaru Utada の「BADモード」を聴きました",
+    "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-04T16:59:18.846Z",
+    "content": "Hearts2Hearts の「FOCUS」を聴きました",
+    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-04T16:55:46.251Z",
+    "content": "Omoinotake の「蕾」を聴きました",
+    "url": "https://open.spotify.com/track/09ClatOsrlbyxGnYnIqCWc"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-04T16:52:31.593Z",
+    "content": "Omoinotake の「ひとりごと」を聴きました",
+    "url": "https://open.spotify.com/track/43QChW7cZQdAmWbmamy2mZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-04T16:47:53.850Z",
     "content": "Omoinotake の「幾億光年」を聴きました",
     "url": "https://open.spotify.com/track/5Ak1F5nGzM4KRhE0H1Q3CP"
@@ -16,48 +58,6 @@
     "timestamp": "2026-01-04T16:36:21.058Z",
     "content": "Mika Nakashima の「WILL」を聴きました",
     "url": "https://open.spotify.com/track/0Bx0brTEdtJ0pCWCSkdPAy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-04T16:31:07.073Z",
-    "content": "MOROHA の「革命」を聴きました",
-    "url": "https://open.spotify.com/track/5mjkeVu24NbkHeX8zt7muo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-04T07:50:34.242Z",
-    "content": "Hakushi Hasegawa の「毒」を聴きました",
-    "url": "https://open.spotify.com/track/19AElm4KrBTdBFhz1f0JjC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-04T06:18:48.048Z",
-    "content": "CHEMISTRY の「My Gift to You」を聴きました",
-    "url": "https://open.spotify.com/track/5OzgSsv5LcsNxrEWNqyk0P"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:56:04.500Z",
-    "content": "CHEMISTRY の「STILL ECHO」を聴きました",
-    "url": "https://open.spotify.com/track/3fgle3I8OWdiDKdXzMK7wN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:49:52.232Z",
-    "content": "CHEMISTRY の「It Takes Two」を聴きました",
-    "url": "https://open.spotify.com/track/0Cm3WZC4175xyriiI69jZd"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:45:46.774Z",
-    "content": "CHEMISTRY の「Intro-lude〜You're My Second to None〜」を聴きました",
-    "url": "https://open.spotify.com/track/6sWeARjrlT16RIuItoMvqu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:42:46.531Z",
-    "content": "CHEMISTRY の「Motherland」を聴きました",
-    "url": "https://open.spotify.com/track/3ZcnflSziCDGOSHMoohYMG"
   },
   {
     "platform": "Bluesky",
