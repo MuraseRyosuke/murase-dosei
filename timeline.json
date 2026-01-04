@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-04T06:18:48.048Z",
+    "content": "CHEMISTRY の「My Gift to You」を聴きました",
+    "url": "https://open.spotify.com/track/5OzgSsv5LcsNxrEWNqyk0P"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-03T16:56:04.500Z",
     "content": "CHEMISTRY の「STILL ECHO」を聴きました",
     "url": "https://open.spotify.com/track/3fgle3I8OWdiDKdXzMK7wN"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-03T16:14:22.216Z",
     "content": "CHEMISTRY の「Point of No Return」を聴きました",
     "url": "https://open.spotify.com/track/68we4c9w6X2eW6wi0B5RF7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:06:23.218Z",
-    "content": "CHEMISTRY の「PIECES OF A DREAM」を聴きました",
-    "url": "https://open.spotify.com/track/2awri5rPS65gXBN982s4Gt"
   },
   {
     "platform": "Bluesky",
