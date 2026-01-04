@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-04T07:50:34.242Z",
+    "content": "Hakushi Hasegawa の「毒」を聴きました",
+    "url": "https://open.spotify.com/track/19AElm4KrBTdBFhz1f0JjC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-04T06:18:48.048Z",
     "content": "CHEMISTRY の「My Gift to You」を聴きました",
     "url": "https://open.spotify.com/track/5OzgSsv5LcsNxrEWNqyk0P"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-03T16:21:12.308Z",
     "content": "CHEMISTRY の「You Go Your Way (Album Version)」を聴きました",
     "url": "https://open.spotify.com/track/38QHVOHZNXlYZ6du3oSTRb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-03T16:14:22.216Z",
-    "content": "CHEMISTRY の「Point of No Return」を聴きました",
-    "url": "https://open.spotify.com/track/68we4c9w6X2eW6wi0B5RF7"
   },
   {
     "platform": "Bluesky",
