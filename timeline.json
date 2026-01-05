@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-05T04:20:51.649Z",
+    "content": "NONA REEVES の「重ねた唇」を聴きました",
+    "url": "https://open.spotify.com/track/2JhZgl24kjGBERItLHFwho"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-05T04:04:58.670Z",
     "content": "NONA REEVES の「透明ガール」を聴きました",
     "url": "https://open.spotify.com/track/5Ay8AahBVJCap7dSLxR7jR"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-04T18:57:43.845Z",
     "content": "Perfume の「575」を聴きました",
     "url": "https://open.spotify.com/track/68gKMbl2iYq3AnV5rvibzk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-04T18:53:20.065Z",
-    "content": "Perfume の「微かなカオリ」を聴きました",
-    "url": "https://open.spotify.com/track/46Exhpgsta37TY0gLTrGui"
   },
   {
     "platform": "Bluesky",
