@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-05T16:54:02.973Z",
+    "content": "Perfume の「love the world」を聴きました",
+    "url": "https://open.spotify.com/track/7qLP97TiknsX0cnRiLynQ6"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-05T16:49:31.661Z",
+    "content": "Perfume の「Take off」を聴きました",
+    "url": "https://open.spotify.com/track/27eRD5YQBnBSzlNqR5g8Vl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-05T04:20:51.649Z",
     "content": "NONA REEVES の「重ねた唇」を聴きました",
     "url": "https://open.spotify.com/track/2JhZgl24kjGBERItLHFwho"
@@ -46,18 +58,6 @@
     "timestamp": "2026-01-05T03:30:10.811Z",
     "content": "NONA REEVES の「ラヴ・アライヴ feat.宇多丸」を聴きました",
     "url": "https://open.spotify.com/track/7mmZXvcFgq9upUu0Z6BvBF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-05T03:24:00.597Z",
-    "content": "Perfume の「スパイス」を聴きました",
-    "url": "https://open.spotify.com/track/5u0A75i6Es4rGK3E0rFOIk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-04T18:57:43.845Z",
-    "content": "Perfume の「575」を聴きました",
-    "url": "https://open.spotify.com/track/68gKMbl2iYq3AnV5rvibzk"
   },
   {
     "platform": "Bluesky",
