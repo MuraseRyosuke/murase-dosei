@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-06T14:40:37.067Z",
+    "content": "Perfume の「23:30」を聴きました",
+    "url": "https://open.spotify.com/track/3zqEO06VmBlWlVWdbeJNUn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-06T14:35:21.485Z",
+    "content": "NANA の「GLAMOROUS SKY」を聴きました",
+    "url": "https://open.spotify.com/track/4cmTErd61tNeCLjPNptnCP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-06T09:36:11.001Z",
     "content": "Fujifabric の「茜色の夕日」を聴きました",
     "url": "https://open.spotify.com/track/2p8ji4NXTvYvAIRnK2d1kH"
@@ -46,18 +58,6 @@
     "timestamp": "2026-01-06T08:58:28.511Z",
     "content": "CHEMISTRY の「So in Vain」を聴きました",
     "url": "https://open.spotify.com/track/19ZdaOPHXZRN96iplaqtq7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T08:50:29.729Z",
-    "content": "CHEMISTRY の「Ordinary hero」を聴きました",
-    "url": "https://open.spotify.com/track/6HHJpOlRYjXbijprwPxShM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T08:45:23.740Z",
-    "content": "CHEMISTRY の「meaning of tears」を聴きました",
-    "url": "https://open.spotify.com/track/5nk8Y13ql5aIIn6uG4jQFv"
   },
   {
     "platform": "Bluesky",
