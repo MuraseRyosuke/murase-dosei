@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-06T05:59:50.648Z",
+    "content": "Mika Nakashima の「WILL」を聴きました",
+    "url": "https://open.spotify.com/track/0Bx0brTEdtJ0pCWCSkdPAy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-06T05:54:32.869Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-05T19:15:48.216Z",
     "content": "DE DE MOUSE の「sky as dark」を聴きました",
     "url": "https://open.spotify.com/track/5scGXaFA6FSVK4FL6g1XuE"
@@ -46,18 +58,6 @@
     "timestamp": "2026-01-05T18:38:54.466Z",
     "content": "Perfume の「パーフェクトスター･パーフェクトスタイル」を聴きました",
     "url": "https://open.spotify.com/track/5d81CUf7YrSoptiXGupHem"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-05T18:34:40.798Z",
-    "content": "Perfume の「Puppy love」を聴きました",
-    "url": "https://open.spotify.com/track/5dSOq9HYxg1K9OEABC1tGX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-05T18:30:03.864Z",
-    "content": "Perfume の「Twinkle Snow Powdery Snow」を聴きました",
-    "url": "https://open.spotify.com/track/0fqpebgPghAzMlJU09D6ZH"
   },
   {
     "platform": "Bluesky",
