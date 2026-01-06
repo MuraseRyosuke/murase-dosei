@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-06T08:29:54.103Z",
+    "content": "CHEMISTRY の「YOUR NAME NEVER GONE」を聴きました",
+    "url": "https://open.spotify.com/track/6ddKElUUHo1Hz7oQIeuYee"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-06T08:17:35.742Z",
+    "content": "CHEMISTRY の「Intro-lude」を聴きました",
+    "url": "https://open.spotify.com/track/6YwVOwXAPH8flfOPDSxHSg"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-06T07:24:37.051Z",
     "content": "DE DE MOUSE の「sky was dark」を聴きました",
     "url": "https://open.spotify.com/track/0rxAksvoninWmy4lU3hY5F"
@@ -46,18 +58,6 @@
     "timestamp": "2026-01-05T18:52:09.747Z",
     "content": "Perfume の「エレクトロ･ワールド」を聴きました",
     "url": "https://open.spotify.com/track/5aF3dD11V6lWUqfEKtGmwY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-05T18:47:48.590Z",
-    "content": "Perfume の「コンピューターシティ」を聴きました",
-    "url": "https://open.spotify.com/track/74jtD3HMfBCm4USPntahJz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-05T18:43:09.576Z",
-    "content": "Perfume の「リニアモーターガール」を聴きました",
-    "url": "https://open.spotify.com/track/6cBDE3yLw8b9nFv4gyZnd2"
   },
   {
     "platform": "Bluesky",
