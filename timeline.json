@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-06T07:24:37.051Z",
+    "content": "DE DE MOUSE の「sky was dark」を聴きました",
+    "url": "https://open.spotify.com/track/0rxAksvoninWmy4lU3hY5F"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-06T05:59:50.648Z",
     "content": "Mika Nakashima の「WILL」を聴きました",
     "url": "https://open.spotify.com/track/0Bx0brTEdtJ0pCWCSkdPAy"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-05T18:43:09.576Z",
     "content": "Perfume の「リニアモーターガール」を聴きました",
     "url": "https://open.spotify.com/track/6cBDE3yLw8b9nFv4gyZnd2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-05T18:38:54.466Z",
-    "content": "Perfume の「パーフェクトスター･パーフェクトスタイル」を聴きました",
-    "url": "https://open.spotify.com/track/5d81CUf7YrSoptiXGupHem"
   },
   {
     "platform": "Bluesky",
