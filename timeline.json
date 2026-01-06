@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-06T09:36:11.001Z",
+    "content": "Fujifabric の「茜色の夕日」を聴きました",
+    "url": "https://open.spotify.com/track/2p8ji4NXTvYvAIRnK2d1kH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-06T09:30:30.509Z",
+    "content": "Fujifabric の「虹」を聴きました",
+    "url": "https://open.spotify.com/track/1sjRNTEKVCDy9nFN8KTSIa"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-06T09:25:24.717Z",
     "content": "Fujifabric の「銀河 - Album ver.」を聴きました",
     "url": "https://open.spotify.com/track/2dK0tI2ULTg1wglQpG0VxP"
@@ -46,18 +58,6 @@
     "timestamp": "2026-01-06T08:45:23.740Z",
     "content": "CHEMISTRY の「meaning of tears」を聴きました",
     "url": "https://open.spotify.com/track/5nk8Y13ql5aIIn6uG4jQFv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T08:39:36.261Z",
-    "content": "CHEMISTRY の「〜Street Sounds of Naples,Italy〜」を聴きました",
-    "url": "https://open.spotify.com/track/1dSpe6P9I8RBpBmGZfqHrb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T08:39:20.658Z",
-    "content": "CHEMISTRY の「Bound for Identity〜dear friend〜」を聴きました",
-    "url": "https://open.spotify.com/track/1l2JYJTmwk0oYgNjQAoSjY"
   },
   {
     "platform": "Bluesky",
