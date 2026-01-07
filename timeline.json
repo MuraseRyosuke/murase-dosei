@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-07T07:46:15.187Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-06T14:40:37.067Z",
     "content": "Perfume の「23:30」を聴きました",
     "url": "https://open.spotify.com/track/3zqEO06VmBlWlVWdbeJNUn"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-06T08:59:05.975Z",
     "content": "CHEMISTRY の「〜Interlude〜」を聴きました",
     "url": "https://open.spotify.com/track/7p5d1qiQuQQz5x3mROsJ9O"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T08:58:28.511Z",
-    "content": "CHEMISTRY の「So in Vain」を聴きました",
-    "url": "https://open.spotify.com/track/19ZdaOPHXZRN96iplaqtq7"
   },
   {
     "platform": "Bluesky",
