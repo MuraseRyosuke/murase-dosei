@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-07T07:55:16.325Z",
+    "content": "Daisuke Kawaguchi の「WILL (The Ultimate)」を聴きました",
+    "url": "https://open.spotify.com/track/25g3ujzDOyqjDomhlNDCa8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-07T07:46:15.187Z",
     "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
     "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-06T09:06:52.483Z",
     "content": "CHEMISTRY の「いとしい人 (Single Ver.)」を聴きました",
     "url": "https://open.spotify.com/track/1k5FKu5dhrH4ditqgNntFh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T08:59:05.975Z",
-    "content": "CHEMISTRY の「〜Interlude〜」を聴きました",
-    "url": "https://open.spotify.com/track/7p5d1qiQuQQz5x3mROsJ9O"
   },
   {
     "platform": "Bluesky",
