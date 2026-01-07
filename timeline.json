@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-07T14:31:42.045Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-07T07:55:16.325Z",
     "content": "Daisuke Kawaguchi の「WILL (The Ultimate)」を聴きました",
     "url": "https://open.spotify.com/track/25g3ujzDOyqjDomhlNDCa8"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-06T09:13:08.192Z",
     "content": "Ken Hirai の「いとしき日々よ」を聴きました",
     "url": "https://open.spotify.com/track/6esrZFuxklwZgzj0i9vPOe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-06T09:06:52.483Z",
-    "content": "CHEMISTRY の「いとしい人 (Single Ver.)」を聴きました",
-    "url": "https://open.spotify.com/track/1k5FKu5dhrH4ditqgNntFh"
   },
   {
     "platform": "Bluesky",
