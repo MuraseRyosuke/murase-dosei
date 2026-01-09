@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-09T21:18:55.717Z",
+    "content": "Fujifabric の「茜色の夕日」を聴きました",
+    "url": "https://open.spotify.com/track/2p8ji4NXTvYvAIRnK2d1kH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T21:03:49.533Z",
+    "content": "Mika Nakashima の「STARS」を聴きました",
+    "url": "https://open.spotify.com/track/7dfwwngB6YThXZvb27c7Ct"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T20:57:49.538Z",
+    "content": "Mika Nakashima の「WILL」を聴きました",
+    "url": "https://open.spotify.com/track/0Bx0brTEdtJ0pCWCSkdPAy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-09T20:41:19.928Z",
     "content": "Hearts2Hearts の「FOCUS」を聴きました",
     "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
@@ -40,23 +58,5 @@
     "timestamp": "2026-01-09T18:41:31.030Z",
     "content": "Fuki Kitamura の「vivid II: 1ast」を聴きました",
     "url": "https://open.spotify.com/track/0V0a8W7RMQ1KFIWhXqoBtX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:38:00.752Z",
-    "content": "Fuki Kitamura の「wingbeatFreq」を聴きました",
-    "url": "https://open.spotify.com/track/5sVzRYCEey1upsf9WnfqUM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:25:07.762Z",
-    "content": "Fuki Kitamura の「Used to Fall」を聴きました",
-    "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:21:08.873Z",
-    "content": "Fuki Kitamura の「ease click」を聴きました",
-    "url": "https://open.spotify.com/track/5c2IMlCDQwRwatp7Lo35Sf"
   }
 ]
