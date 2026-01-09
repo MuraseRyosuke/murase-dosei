@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-09T20:41:19.928Z",
+    "content": "Hearts2Hearts の「FOCUS」を聴きました",
+    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T20:37:49.474Z",
+    "content": "QUBIT の「G.A.D.」を聴きました",
+    "url": "https://open.spotify.com/track/7eGXucMHxgkicdIWPAynnE"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T20:33:23.738Z",
+    "content": "Fuki Kitamura の「Used to Fall」を聴きました",
+    "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T20:33:19.708Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-09T18:43:07.539Z",
     "content": "Every Little Thing の「Dear My Friend」を聴きました",
     "url": "https://open.spotify.com/track/2XJffbVDelksP1CL8LrsYf"
@@ -34,29 +58,5 @@
     "timestamp": "2026-01-09T18:21:08.873Z",
     "content": "Fuki Kitamura の「ease click」を聴きました",
     "url": "https://open.spotify.com/track/5c2IMlCDQwRwatp7Lo35Sf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:19:59.424Z",
-    "content": "Fuki Kitamura の「中庭」を聴きました",
-    "url": "https://open.spotify.com/track/1o4KVKWnXqH6cdpkZzxZGu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:16:31.433Z",
-    "content": "Fuki Kitamura の「menou」を聴きました",
-    "url": "https://open.spotify.com/track/0moVdlJPSOz3mJmdMVVrfq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:12:07.628Z",
-    "content": "Fuki Kitamura の「vivid I: mm」を聴きました",
-    "url": "https://open.spotify.com/track/2UfP6yhLg1hpuKRP3BpkD7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:10:35.145Z",
-    "content": "Fuki Kitamura の「airy」を聴きました",
-    "url": "https://open.spotify.com/track/7xwIgOuwsJ6QXbaZAzK1rZ"
   }
 ]
