@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-09T23:39:38.046Z",
+    "content": "kamome sano の「I/O」を聴きました",
+    "url": "https://open.spotify.com/track/32OX7dlByYPIRmkfllgUV9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:36:38.291Z",
+    "content": "kamome sano の「<emotional>」を聴きました",
+    "url": "https://open.spotify.com/track/5KpiYSYGRTwBLUhwEchs32"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:32:08.166Z",
+    "content": "kamome sano の「disconnected」を聴きました",
+    "url": "https://open.spotify.com/track/7mOAFEcXaQIeEdsh4GixRi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:29:08.463Z",
+    "content": "kamome sano の「init()」を聴きました",
+    "url": "https://open.spotify.com/track/2ssAQLCtNcHWRLeFCD768Z"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-09T23:22:04.787Z",
     "content": "Fuki Kitamura の「vivid II: 1ast」を聴きました",
     "url": "https://open.spotify.com/track/0V0a8W7RMQ1KFIWhXqoBtX"
@@ -34,29 +58,5 @@
     "timestamp": "2026-01-09T23:02:03.266Z",
     "content": "Fuki Kitamura の「menou」を聴きました",
     "url": "https://open.spotify.com/track/0moVdlJPSOz3mJmdMVVrfq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T22:58:00.686Z",
-    "content": "Fuki Kitamura の「vivid I: mm」を聴きました",
-    "url": "https://open.spotify.com/track/2UfP6yhLg1hpuKRP3BpkD7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T22:56:01.048Z",
-    "content": "Fuki Kitamura の「airy」を聴きました",
-    "url": "https://open.spotify.com/track/7xwIgOuwsJ6QXbaZAzK1rZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T22:53:30.809Z",
-    "content": "Fuki Kitamura の「looping second」を聴きました",
-    "url": "https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T22:48:30.571Z",
-    "content": "Fuki Kitamura の「mirror」を聴きました",
-    "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
   }
 ]
