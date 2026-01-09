@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-09T18:43:07.539Z",
+    "content": "Every Little Thing の「Dear My Friend」を聴きました",
+    "url": "https://open.spotify.com/track/2XJffbVDelksP1CL8LrsYf"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T18:43:00.224Z",
+    "content": "Fuki Kitamura の「Used to Fall」を聴きました",
+    "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T18:41:31.030Z",
+    "content": "Fuki Kitamura の「vivid II: 1ast」を聴きました",
+    "url": "https://open.spotify.com/track/0V0a8W7RMQ1KFIWhXqoBtX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T18:38:00.752Z",
+    "content": "Fuki Kitamura の「wingbeatFreq」を聴きました",
+    "url": "https://open.spotify.com/track/5sVzRYCEey1upsf9WnfqUM"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-09T18:25:07.762Z",
     "content": "Fuki Kitamura の「Used to Fall」を聴きました",
     "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
@@ -34,29 +58,5 @@
     "timestamp": "2026-01-09T18:10:35.145Z",
     "content": "Fuki Kitamura の「airy」を聴きました",
     "url": "https://open.spotify.com/track/7xwIgOuwsJ6QXbaZAzK1rZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:07:42.750Z",
-    "content": "Fuki Kitamura の「looping second」を聴きました",
-    "url": "https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T18:02:52.288Z",
-    "content": "Fuki Kitamura の「mirror」を聴きました",
-    "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T17:57:48.676Z",
-    "content": "Fuki Kitamura の「そわ≋そわ」を聴きました",
-    "url": "https://open.spotify.com/track/7dY2tZcqGnp7kMekRYt4Tr"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T17:54:25.940Z",
-    "content": "Fuki Kitamura の「mirror」を聴きました",
-    "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
   }
 ]
