@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-10T00:05:29.295Z",
+    "content": "kamome sano の「shutdown()」を聴きました",
+    "url": "https://open.spotify.com/track/6XQv0MMgSZzkXVLZIDPpO3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:57:08.074Z",
+    "content": "kamome sano の「blue_pill」を聴きました",
+    "url": "https://open.spotify.com/track/48sD2bsCTzPsYH4Ayd4bjj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:54:07.928Z",
+    "content": "kamome sano の「</emotional>」を聴きました",
+    "url": "https://open.spotify.com/track/7f7FHZqd0ReXgaxtryPSFG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:48:38.128Z",
+    "content": "kamome sano の「0 nor 1」を聴きました",
+    "url": "https://open.spotify.com/track/2ylOVfmyOrL815Bc9kN5gQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-09T23:44:08.178Z",
+    "content": "kamome sano の「(until) eternity ends」を聴きました",
+    "url": "https://open.spotify.com/track/1boWgrr9RrSgoipfmqVMUC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-09T23:39:38.046Z",
     "content": "kamome sano の「I/O」を聴きました",
     "url": "https://open.spotify.com/track/32OX7dlByYPIRmkfllgUV9"
@@ -28,35 +58,5 @@
     "timestamp": "2026-01-09T23:22:04.787Z",
     "content": "Fuki Kitamura の「vivid II: 1ast」を聴きました",
     "url": "https://open.spotify.com/track/0V0a8W7RMQ1KFIWhXqoBtX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:19:00.731Z",
-    "content": "Fuki Kitamura の「wingbeatFreq」を聴きました",
-    "url": "https://open.spotify.com/track/5sVzRYCEey1upsf9WnfqUM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:11:01.123Z",
-    "content": "Fuki Kitamura の「Used to Fall」を聴きました",
-    "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:07:01.586Z",
-    "content": "Fuki Kitamura の「ease click」を聴きました",
-    "url": "https://open.spotify.com/track/5c2IMlCDQwRwatp7Lo35Sf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:05:30.757Z",
-    "content": "Fuki Kitamura の「中庭」を聴きました",
-    "url": "https://open.spotify.com/track/1o4KVKWnXqH6cdpkZzxZGu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:02:03.266Z",
-    "content": "Fuki Kitamura の「menou」を聴きました",
-    "url": "https://open.spotify.com/track/0moVdlJPSOz3mJmdMVVrfq"
   }
 ]
