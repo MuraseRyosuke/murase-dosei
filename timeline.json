@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-10T11:17:43.064Z",
+    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
+    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T11:15:50.328Z",
+    "content": "Fuki Kitamura の「Used to Fall」を聴きました",
+    "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-10T09:57:17.301Z",
     "content": "Fuki Kitamura の「Used to Fall」を聴きました",
     "url": "https://open.spotify.com/track/4nEk6OJztCq1ciXgeepcEo"
@@ -46,17 +58,5 @@
     "timestamp": "2026-01-10T09:35:01.608Z",
     "content": "Fuki Kitamura の「mirror」を聴きました",
     "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:30:55.874Z",
-    "content": "Hakushi Hasegawa の「砂漠で」を聴きました",
-    "url": "https://open.spotify.com/track/74RDppoF9GVRLZKKVcCXOt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T04:04:50.294Z",
-    "content": "Hakushi Hasegawa の「風邪山羊」を聴きました",
-    "url": "https://open.spotify.com/track/55IqZJUwJx1Xyn3c3UsSqF"
   }
 ]
