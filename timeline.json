@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-10T11:35:14.765Z",
+    "content": "Mika Nakashima の「WILL (album version)」を聴きました",
+    "url": "https://open.spotify.com/track/1ZhwTnaFUqfkSDn8ZWsyHV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T11:29:17.183Z",
+    "content": "CAPSULE の「FRUITS CLiPPER - 2021 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/6S0wLDkIOTHBAmVB0AM5Tl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T11:25:09.406Z",
+    "content": "QUBIT の「Mr. Sonic」を聴きました",
+    "url": "https://open.spotify.com/track/4UpJgbCEoIAJLrOQdMoKIx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-10T11:17:43.064Z",
     "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
     "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
@@ -40,23 +58,5 @@
     "timestamp": "2026-01-10T09:44:15.593Z",
     "content": "Fuki Kitamura の「vivid I: mm」を聴きました",
     "url": "https://open.spotify.com/track/2UfP6yhLg1hpuKRP3BpkD7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:42:17.562Z",
-    "content": "Fuki Kitamura の「airy」を聴きました",
-    "url": "https://open.spotify.com/track/7xwIgOuwsJ6QXbaZAzK1rZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:39:50.513Z",
-    "content": "Fuki Kitamura の「looping second」を聴きました",
-    "url": "https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:35:01.608Z",
-    "content": "Fuki Kitamura の「mirror」を聴きました",
-    "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
   }
 ]
