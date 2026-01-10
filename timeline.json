@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-10T09:39:50.513Z",
+    "content": "Fuki Kitamura の「looping second」を聴きました",
+    "url": "https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T09:35:01.608Z",
+    "content": "Fuki Kitamura の「mirror」を聴きました",
+    "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T09:30:55.874Z",
+    "content": "Hakushi Hasegawa の「砂漠で」を聴きました",
+    "url": "https://open.spotify.com/track/74RDppoF9GVRLZKKVcCXOt"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-10T04:04:50.294Z",
     "content": "Hakushi Hasegawa の「風邪山羊」を聴きました",
     "url": "https://open.spotify.com/track/55IqZJUwJx1Xyn3c3UsSqF"
@@ -40,23 +58,5 @@
     "timestamp": "2026-01-10T03:30:34.172Z",
     "content": "Trevor Something の「Summer Love」を聴きました",
     "url": "https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T00:05:29.295Z",
-    "content": "kamome sano の「shutdown()」を聴きました",
-    "url": "https://open.spotify.com/track/6XQv0MMgSZzkXVLZIDPpO3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:57:08.074Z",
-    "content": "kamome sano の「blue_pill」を聴きました",
-    "url": "https://open.spotify.com/track/48sD2bsCTzPsYH4Ayd4bjj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:54:07.928Z",
-    "content": "kamome sano の「</emotional>」を聴きました",
-    "url": "https://open.spotify.com/track/7f7FHZqd0ReXgaxtryPSFG"
   }
 ]
