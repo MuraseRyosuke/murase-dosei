@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-10T11:41:08.430Z",
+    "content": "Mika Nakashima の「STARS (album version)」を聴きました",
+    "url": "https://open.spotify.com/track/3xQYbVPYg5xaGvBFbMjgcd"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-10T11:35:14.765Z",
     "content": "Mika Nakashima の「WILL (album version)」を聴きました",
     "url": "https://open.spotify.com/track/1ZhwTnaFUqfkSDn8ZWsyHV"
@@ -52,11 +58,5 @@
     "timestamp": "2026-01-10T09:48:34.930Z",
     "content": "Fuki Kitamura の「menou」を聴きました",
     "url": "https://open.spotify.com/track/0moVdlJPSOz3mJmdMVVrfq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:44:15.593Z",
-    "content": "Fuki Kitamura の「vivid I: mm」を聴きました",
-    "url": "https://open.spotify.com/track/2UfP6yhLg1hpuKRP3BpkD7"
   }
 ]
