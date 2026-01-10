@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-10T04:04:50.294Z",
+    "content": "Hakushi Hasegawa の「風邪山羊」を聴きました",
+    "url": "https://open.spotify.com/track/55IqZJUwJx1Xyn3c3UsSqF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T04:00:22.818Z",
+    "content": "Fuki Kitamura の「airy」を聴きました",
+    "url": "https://open.spotify.com/track/7xwIgOuwsJ6QXbaZAzK1rZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T03:57:38.785Z",
+    "content": "Fuki Kitamura の「looping second」を聴きました",
+    "url": "https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T03:52:50.290Z",
+    "content": "Fuki Kitamura の「mirror」を聴きました",
+    "url": "https://open.spotify.com/track/1Jqv3asR0eqs4oZIqfCoph"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T03:48:59.940Z",
+    "content": "Fuki Kitamura の「そわ≋そわ」を聴きました",
+    "url": "https://open.spotify.com/track/7dY2tZcqGnp7kMekRYt4Tr"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T03:32:39.407Z",
+    "content": "Trevor Something の「Summer Love」を聴きました",
+    "url": "https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-10T03:30:34.172Z",
+    "content": "Trevor Something の「Summer Love」を聴きました",
+    "url": "https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-10T00:05:29.295Z",
     "content": "kamome sano の「shutdown()」を聴きました",
     "url": "https://open.spotify.com/track/6XQv0MMgSZzkXVLZIDPpO3"
@@ -16,47 +58,5 @@
     "timestamp": "2026-01-09T23:54:07.928Z",
     "content": "kamome sano の「</emotional>」を聴きました",
     "url": "https://open.spotify.com/track/7f7FHZqd0ReXgaxtryPSFG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:48:38.128Z",
-    "content": "kamome sano の「0 nor 1」を聴きました",
-    "url": "https://open.spotify.com/track/2ylOVfmyOrL815Bc9kN5gQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:44:08.178Z",
-    "content": "kamome sano の「(until) eternity ends」を聴きました",
-    "url": "https://open.spotify.com/track/1boWgrr9RrSgoipfmqVMUC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:39:38.046Z",
-    "content": "kamome sano の「I/O」を聴きました",
-    "url": "https://open.spotify.com/track/32OX7dlByYPIRmkfllgUV9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:36:38.291Z",
-    "content": "kamome sano の「<emotional>」を聴きました",
-    "url": "https://open.spotify.com/track/5KpiYSYGRTwBLUhwEchs32"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:32:08.166Z",
-    "content": "kamome sano の「disconnected」を聴きました",
-    "url": "https://open.spotify.com/track/7mOAFEcXaQIeEdsh4GixRi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:29:08.463Z",
-    "content": "kamome sano の「init()」を聴きました",
-    "url": "https://open.spotify.com/track/2ssAQLCtNcHWRLeFCD768Z"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-09T23:22:04.787Z",
-    "content": "Fuki Kitamura の「vivid II: 1ast」を聴きました",
-    "url": "https://open.spotify.com/track/0V0a8W7RMQ1KFIWhXqoBtX"
   }
 ]
