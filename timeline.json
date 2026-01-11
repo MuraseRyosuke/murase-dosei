@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-11T03:51:15.106Z",
+    "content": "Tokyo Arakawa Children's Chorus の「Mickey Mouse Club March」を聴きました",
+    "url": "https://open.spotify.com/track/4Bzf7qDWUvOtg5y2Lwgn27"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-10T11:41:08.430Z",
     "content": "Mika Nakashima の「STARS (album version)」を聴きました",
     "url": "https://open.spotify.com/track/3xQYbVPYg5xaGvBFbMjgcd"
@@ -52,11 +58,5 @@
     "timestamp": "2026-01-10T09:52:02.031Z",
     "content": "Fuki Kitamura の「中庭」を聴きました",
     "url": "https://open.spotify.com/track/1o4KVKWnXqH6cdpkZzxZGu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:48:34.930Z",
-    "content": "Fuki Kitamura の「menou」を聴きました",
-    "url": "https://open.spotify.com/track/0moVdlJPSOz3mJmdMVVrfq"
   }
 ]
