@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-11T14:42:14.009Z",
+    "content": "Chip Tanaka の「EMGR」を聴きました",
+    "url": "https://open.spotify.com/track/1ZFPTV5GMeOoFkJsZOPWAj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:38:37.790Z",
+    "content": "Chip Tanaka の「Django」を聴きました",
+    "url": "https://open.spotify.com/track/6KPFtJh7cqYKA1okBKKWdP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:35:40.311Z",
+    "content": "Chip Tanaka の「Beaver」を聴きました",
+    "url": "https://open.spotify.com/track/4IXiGO4eTt7ptR232eu4zZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:32:04.564Z",
+    "content": "Chip Tanaka の「Ringing Dub」を聴きました",
+    "url": "https://open.spotify.com/track/5j8or0qY3ztpysPmyjkGm7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:29:11.378Z",
+    "content": "Tsuji Ayano の「風になる」を聴きました",
+    "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-11T14:20:05.108Z",
     "content": "Azumi Inoue の「となりのトトロ」を聴きました",
     "url": "https://open.spotify.com/track/3fSWMbzFRBew3EbAlDPE1u"
@@ -28,35 +58,5 @@
     "timestamp": "2026-01-11T13:39:46.687Z",
     "content": "Ken Hirai の「style」を聴きました",
     "url": "https://open.spotify.com/track/22jYQBSYw2qULBFi6iUYpi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T13:27:01.711Z",
-    "content": "Ken Hirai の「LIFE is... 〜another story〜」を聴きました",
-    "url": "https://open.spotify.com/track/1aQOEvN0uxSkB1eSeXgWjg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T13:22:43.371Z",
-    "content": "Ken Hirai の「Ring」を聴きました",
-    "url": "https://open.spotify.com/track/11QAIhX2kowBg340UGHK9W"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T11:15:21.847Z",
-    "content": "Kabanagu の「すなばピクニック」を聴きました",
-    "url": "https://open.spotify.com/track/17DC2NdKCVGqHkdniILcjE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T09:45:37.825Z",
-    "content": "ミドルエステート の「たべられる♡/たべられない？」を聴きました",
-    "url": "https://open.spotify.com/track/62IToW1cwsfMrDQWB76TD8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T09:41:13.150Z",
-    "content": "Kabanagu の「すなばピクニック」を聴きました",
-    "url": "https://open.spotify.com/track/17DC2NdKCVGqHkdniILcjE"
   }
 ]
