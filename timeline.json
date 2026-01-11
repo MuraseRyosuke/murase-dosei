@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-11T14:56:30.017Z",
+    "content": "Chip Tanaka の「Pop Bomb」を聴きました",
+    "url": "https://open.spotify.com/track/79TPLCNla293YH08mTzUJb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:55:01.602Z",
+    "content": "Chip Tanaka の「Prizm」を聴きました",
+    "url": "https://open.spotify.com/track/58KabS0Wt2CMlVW33ahhFJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:51:30.776Z",
+    "content": "Chip Tanaka の「Hungry」を聴きました",
+    "url": "https://open.spotify.com/track/3C5qJuo9DP3bSfxrnIdYhp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:49:34.278Z",
+    "content": "Chip Tanaka の「Drifting」を聴きました",
+    "url": "https://open.spotify.com/track/6ZqfCUAfLEP7RwLiMKghpA"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2026-01-11T14:46:19.200Z",
+    "content": "落合陽一氏がApple Vision Proを持ち歩いていると言及している動画を見て、自分もMeta Quest 3を持ち歩くかどうかを考えながら、Immersedを再インストールして実用できるかどうかを試しているけれども。。どうだろう。。",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mc5rd4znu22w"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-11T14:46:04.182Z",
+    "content": "Chip Tanaka の「Pulse Ride」を聴きました",
+    "url": "https://open.spotify.com/track/5BbzLji49KyVhPVU1LkJgw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-11T14:42:14.009Z",
     "content": "Chip Tanaka の「EMGR」を聴きました",
     "url": "https://open.spotify.com/track/1ZFPTV5GMeOoFkJsZOPWAj"
@@ -28,35 +64,5 @@
     "timestamp": "2026-01-11T14:29:11.378Z",
     "content": "Tsuji Ayano の「風になる」を聴きました",
     "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:20:05.108Z",
-    "content": "Azumi Inoue の「となりのトトロ」を聴きました",
-    "url": "https://open.spotify.com/track/3fSWMbzFRBew3EbAlDPE1u"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:15:37.571Z",
-    "content": "安田成美 の「風の谷のナウシカ」を聴きました",
-    "url": "https://open.spotify.com/track/694LLPaanQiBqmSUR5J2ir"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:10:51.683Z",
-    "content": "Yumi Kimura の「いつも何度でも」を聴きました",
-    "url": "https://open.spotify.com/track/7f7LQSoV2zGzbPWTbP7SLv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:06:54.959Z",
-    "content": "Kazumi Nikaido の「いのちの記憶」を聴きました",
-    "url": "https://open.spotify.com/track/1ZRscSkL9Kj4wsyIyAqh6t"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T13:39:46.687Z",
-    "content": "Ken Hirai の「style」を聴きました",
-    "url": "https://open.spotify.com/track/22jYQBSYw2qULBFi6iUYpi"
   }
 ]
