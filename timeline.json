@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-11T08:52:48.703Z",
+    "content": "pami の「pity dirty」を聴きました",
+    "url": "https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-11T07:27:31.117Z",
     "content": "DE DE MOUSE の「new town romancer」を聴きました",
     "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
@@ -52,11 +58,5 @@
     "timestamp": "2026-01-11T06:51:45.324Z",
     "content": "kamome sano の「<emotional>」を聴きました",
     "url": "https://open.spotify.com/track/5KpiYSYGRTwBLUhwEchs32"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T06:47:38.387Z",
-    "content": "kamome sano の「disconnected」を聴きました",
-    "url": "https://open.spotify.com/track/7mOAFEcXaQIeEdsh4GixRi"
   }
 ]
