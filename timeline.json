@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-11T06:32:11.577Z",
+    "content": "Mika Nakashima の「TEARS (粉雪が舞うように...)」を聴きました",
+    "url": "https://open.spotify.com/track/5yY2Hs8k7AoFiVppYtO2DR"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-11T03:51:15.106Z",
     "content": "Tokyo Arakawa Children's Chorus の「Mickey Mouse Club March」を聴きました",
     "url": "https://open.spotify.com/track/4Bzf7qDWUvOtg5y2Lwgn27"
@@ -52,11 +58,5 @@
     "timestamp": "2026-01-10T09:53:18.603Z",
     "content": "Fuki Kitamura の「ease click」を聴きました",
     "url": "https://open.spotify.com/track/5c2IMlCDQwRwatp7Lo35Sf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-10T09:52:02.031Z",
-    "content": "Fuki Kitamura の「中庭」を聴きました",
-    "url": "https://open.spotify.com/track/1o4KVKWnXqH6cdpkZzxZGu"
   }
 ]
