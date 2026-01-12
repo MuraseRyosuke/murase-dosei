@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-12T06:20:48.795Z",
+    "content": "Serph の「Purple Sky」を聴きました",
+    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-11T14:56:30.017Z",
     "content": "Chip Tanaka の「Pop Bomb」を聴きました",
     "url": "https://open.spotify.com/track/79TPLCNla293YH08mTzUJb"
@@ -58,11 +64,5 @@
     "timestamp": "2026-01-11T14:32:04.564Z",
     "content": "Chip Tanaka の「Ringing Dub」を聴きました",
     "url": "https://open.spotify.com/track/5j8or0qY3ztpysPmyjkGm7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:29:11.378Z",
-    "content": "Tsuji Ayano の「風になる」を聴きました",
-    "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
   }
 ]
