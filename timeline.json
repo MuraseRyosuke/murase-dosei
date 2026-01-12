@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-12T20:20:01.288Z",
+    "content": "Toshinobu Kubota の「LA･LA･LA LOVE SONG」を聴きました",
+    "url": "https://open.spotify.com/track/02YYIhcnIdYcAtRafFSqOU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-12T20:13:41.271Z",
+    "content": "Ken Hirai の「Come Back」を聴きました",
+    "url": "https://open.spotify.com/track/0hTMvQKLYAX0MfSdlNWn9H"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-12T20:09:48.724Z",
+    "content": "Ken Hirai の「Ring」を聴きました",
+    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-12T20:03:47.635Z",
+    "content": "Serph の「Purple Sky」を聴きました",
+    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-12T20:03:22.792Z",
+    "content": "fhána の「青空のラプソディ」を聴きました",
+    "url": "https://open.spotify.com/track/3J13AWtVj8EWWEi1yfNl8J"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-12T15:40:45.890Z",
     "content": "Serph の「Purple Sky」を聴きました",
     "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
@@ -36,39 +66,9 @@
     "url": "https://open.spotify.com/track/3C5qJuo9DP3bSfxrnIdYhp"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:49:34.278Z",
-    "content": "Chip Tanaka の「Drifting」を聴きました",
-    "url": "https://open.spotify.com/track/6ZqfCUAfLEP7RwLiMKghpA"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-01-11T14:46:19.200Z",
     "content": "落合陽一氏がApple Vision Proを持ち歩いていると言及している動画を見て、自分もMeta Quest 3を持ち歩くかどうかを考えながら、Immersedを再インストールして実用できるかどうかを試しているけれども。。どうだろう。。",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mc5rd4znu22w"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:46:04.182Z",
-    "content": "Chip Tanaka の「Pulse Ride」を聴きました",
-    "url": "https://open.spotify.com/track/5BbzLji49KyVhPVU1LkJgw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:42:14.009Z",
-    "content": "Chip Tanaka の「EMGR」を聴きました",
-    "url": "https://open.spotify.com/track/1ZFPTV5GMeOoFkJsZOPWAj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:38:37.790Z",
-    "content": "Chip Tanaka の「Django」を聴きました",
-    "url": "https://open.spotify.com/track/6KPFtJh7cqYKA1okBKKWdP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:35:40.311Z",
-    "content": "Chip Tanaka の「Beaver」を聴きました",
-    "url": "https://open.spotify.com/track/4IXiGO4eTt7ptR232eu4zZ"
   }
 ]
