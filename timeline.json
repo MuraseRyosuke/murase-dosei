@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-12T20:29:26.396Z",
+    "content": "m-flo loves BoA の「the Love Bug」を聴きました",
+    "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-12T20:20:01.288Z",
     "content": "Toshinobu Kubota の「LA･LA･LA LOVE SONG」を聴きました",
     "url": "https://open.spotify.com/track/02YYIhcnIdYcAtRafFSqOU"
@@ -58,12 +64,6 @@
     "timestamp": "2026-01-11T14:55:01.602Z",
     "content": "Chip Tanaka の「Prizm」を聴きました",
     "url": "https://open.spotify.com/track/58KabS0Wt2CMlVW33ahhFJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:51:30.776Z",
-    "content": "Chip Tanaka の「Hungry」を聴きました",
-    "url": "https://open.spotify.com/track/3C5qJuo9DP3bSfxrnIdYhp"
   },
   {
     "platform": "Bluesky",
