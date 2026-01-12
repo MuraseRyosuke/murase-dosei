@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-01-12T15:40:45.890Z",
+    "content": "Serph の「Purple Sky」を聴きました",
+    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-01-12T11:20:27.797Z",
     "content": "DeepSeek、FLUXあたりをローカルでMacBook上で動かせるようにできたのでネットワークから孤立しても生きていけるようになった",
@@ -64,11 +70,5 @@
     "timestamp": "2026-01-11T14:35:40.311Z",
     "content": "Chip Tanaka の「Beaver」を聴きました",
     "url": "https://open.spotify.com/track/4IXiGO4eTt7ptR232eu4zZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-11T14:32:04.564Z",
-    "content": "Chip Tanaka の「Ringing Dub」を聴きました",
-    "url": "https://open.spotify.com/track/5j8or0qY3ztpysPmyjkGm7"
   }
 ]
