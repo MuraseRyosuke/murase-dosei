@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-13T18:37:27.594Z",
+    "content": "Cornelius の「COUNT FIVE OR SIX」を聴きました",
+    "url": "https://open.spotify.com/track/171QR1bhKibTwSrpQ6ugnR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-13T18:34:24.498Z",
+    "content": "MISIA の「つつみ込むように･･･」を聴きました",
+    "url": "https://open.spotify.com/track/4pZexRKclB82Oyzp0G01mK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-13T18:28:18.144Z",
     "content": "Cornelius の「火花」を聴きました",
     "url": "https://open.spotify.com/track/6VSdKjeSsJGygQayCwA8RY"
@@ -44,18 +56,6 @@
   {
     "platform": "Spotify",
     "timestamp": "2026-01-12T20:03:47.635Z",
-    "content": "Serph の「Purple Sky」を聴きました",
-    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T20:03:22.792Z",
-    "content": "fhána の「青空のラプソディ」を聴きました",
-    "url": "https://open.spotify.com/track/3J13AWtVj8EWWEi1yfNl8J"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T15:40:45.890Z",
     "content": "Serph の「Purple Sky」を聴きました",
     "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
   },
