@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-13T18:28:18.144Z",
+    "content": "Cornelius の「火花」を聴きました",
+    "url": "https://open.spotify.com/track/6VSdKjeSsJGygQayCwA8RY"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-13T00:57:40.402Z",
     "content": "Daft Punk の「Give Life Back to Music」を聴きました",
     "url": "https://open.spotify.com/track/5aPrFctv3WJZyJ99Ld7leT"
@@ -58,12 +64,6 @@
     "timestamp": "2026-01-12T11:20:27.797Z",
     "content": "DeepSeek、FLUXあたりをローカルでMacBook上で動かせるようにできたのでネットワークから孤立しても生きていけるようになった",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mc7wbxl6gk22"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T06:20:48.795Z",
-    "content": "Serph の「Purple Sky」を聴きました",
-    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
   },
   {
     "platform": "Bluesky",
