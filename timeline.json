@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-14T19:39:29.347Z",
+    "content": "Serph の「Rainy Baby」を聴きました",
+    "url": "https://open.spotify.com/track/39XJ0Q7ivjpHkOVx4rN5r4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-14T19:25:47.748Z",
+    "content": "Serph の「Never Forget Me」を聴きました",
+    "url": "https://open.spotify.com/track/73Kp5bFBGBBozj5NdbiJs1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-14T19:22:25.860Z",
+    "content": "Serph の「Twilight Zone」を聴きました",
+    "url": "https://open.spotify.com/track/1tWaARVEeqq4IDt7rMckIK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-14T19:18:17.848Z",
     "content": "Serph の「Short Cut」を聴きました",
     "url": "https://open.spotify.com/track/3wZZmAbg7pUcEcGPPXkvMN"
@@ -40,24 +58,6 @@
     "timestamp": "2026-01-13T18:28:18.144Z",
     "content": "Cornelius の「火花」を聴きました",
     "url": "https://open.spotify.com/track/6VSdKjeSsJGygQayCwA8RY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-13T00:57:40.402Z",
-    "content": "Daft Punk の「Give Life Back to Music」を聴きました",
-    "url": "https://open.spotify.com/track/5aPrFctv3WJZyJ99Ld7leT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T23:55:57.554Z",
-    "content": "Cornelius の「変わる消える」を聴きました",
-    "url": "https://open.spotify.com/track/7ElKMEJBVEvVuimhkeS114"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T20:29:26.396Z",
-    "content": "m-flo loves BoA の「the Love Bug」を聴きました",
-    "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
   },
   {
     "platform": "Bluesky",
