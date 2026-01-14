@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-14T19:18:17.848Z",
+    "content": "Serph の「Short Cut」を聴きました",
+    "url": "https://open.spotify.com/track/3wZZmAbg7pUcEcGPPXkvMN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-14T19:15:38.011Z",
+    "content": "Serph の「Purple Sky」を聴きました",
+    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-14T19:10:31.660Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-14T19:04:40.039Z",
+    "content": "DE DE MOUSE の「my favorite swing (Edit 003)」を聴きました",
+    "url": "https://open.spotify.com/track/2RHAYWeBCTd1ccyDsfK3t0"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-13T18:37:27.594Z",
     "content": "Cornelius の「COUNT FIVE OR SIX」を聴きました",
     "url": "https://open.spotify.com/track/171QR1bhKibTwSrpQ6ugnR"
@@ -34,30 +58,6 @@
     "timestamp": "2026-01-12T20:29:26.396Z",
     "content": "m-flo loves BoA の「the Love Bug」を聴きました",
     "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T20:20:01.288Z",
-    "content": "Toshinobu Kubota の「LA･LA･LA LOVE SONG」を聴きました",
-    "url": "https://open.spotify.com/track/02YYIhcnIdYcAtRafFSqOU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T20:13:41.271Z",
-    "content": "Ken Hirai の「Come Back」を聴きました",
-    "url": "https://open.spotify.com/track/0hTMvQKLYAX0MfSdlNWn9H"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T20:09:48.724Z",
-    "content": "Ken Hirai の「Ring」を聴きました",
-    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-12T20:03:47.635Z",
-    "content": "Serph の「Purple Sky」を聴きました",
-    "url": "https://open.spotify.com/track/5LsATYyvdlnZPL3SLOYTyK"
   },
   {
     "platform": "Bluesky",
