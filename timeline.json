@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-16T10:51:59.831Z",
+    "content": "福原 遥 の「透明クリア」を聴きました",
+    "url": "https://open.spotify.com/track/0unsYfoKtlJuo8FgUZP2NZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-16T07:47:36.329Z",
     "content": "結束バンド の「青春コンプレックス」を聴きました",
     "url": "https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-14T22:14:17.477Z",
     "content": "Sawano Hiroyuki の「UNICORN」を聴きました",
     "url": "https://open.spotify.com/track/3YbioJ807KAVVzY3NFdpF5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-14T22:09:30.304Z",
-    "content": "Hajime Mizoguchi の「Espace (エスパス)」を聴きました",
-    "url": "https://open.spotify.com/track/7iBHIMkj9EHRQh1vJctO47"
   },
   {
     "platform": "Bluesky",
