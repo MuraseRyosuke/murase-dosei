@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-17T04:04:33.027Z",
+    "content": "DE DE MOUSE の「50メートルプール平日夜」を聴きました",
+    "url": "https://open.spotify.com/track/6EmwMcCh6oQo30IsxRJd6A"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-17T03:52:50.838Z",
+    "content": "Ryoji Ikeda の「data.index」を聴きました",
+    "url": "https://open.spotify.com/track/7eKV1WYPpARYF70KZkfsdq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-17T03:51:11.337Z",
+    "content": "Yoshinori Sunahara の「liminal」を聴きました",
+    "url": "https://open.spotify.com/track/2k1vN7Jk3OlZ9N8iKAbvMl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-16T20:19:27.121Z",
     "content": "Omoinotake の「幾億光年」を聴きました",
     "url": "https://open.spotify.com/track/5Ak1F5nGzM4KRhE0H1Q3CP"
@@ -40,24 +58,6 @@
     "timestamp": "2026-01-16T19:54:51.307Z",
     "content": "Kenshi Yonezu の「Pale Blue」を聴きました",
     "url": "https://open.spotify.com/track/7nw4ElerVAP5235FN5D2OI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-16T19:52:23.928Z",
-    "content": "Perfume の「マカロニ」を聴きました",
-    "url": "https://open.spotify.com/track/6EaJ8O1qh3ycQxLkKUWLR8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-16T10:51:59.831Z",
-    "content": "福原 遥 の「透明クリア」を聴きました",
-    "url": "https://open.spotify.com/track/0unsYfoKtlJuo8FgUZP2NZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-16T07:47:36.329Z",
-    "content": "結束バンド の「青春コンプレックス」を聴きました",
-    "url": "https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB"
   },
   {
     "platform": "Bluesky",
