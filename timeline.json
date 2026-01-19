@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-19T11:21:39.763Z",
+    "content": "Omoinotake の「ひとりごと」を聴きました",
+    "url": "https://open.spotify.com/track/5cfPlnK79acrh4weAhQNP7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-19T11:11:15.218Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-19T11:07:22.532Z",
+    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
+    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-19T11:02:23.118Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-19T10:58:08.463Z",
+    "content": "CAPSULE の「Phantom」を聴きました",
+    "url": "https://open.spotify.com/track/0QCxbkkvGRYoKk90VTaaSO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-17T16:15:43.185Z",
     "content": "CAPSULE の「JUMPER」を聴きました",
     "url": "https://open.spotify.com/track/5iEtF7gDTWqHZbHALwONIu"
@@ -28,41 +58,5 @@
     "timestamp": "2026-01-17T15:53:05.605Z",
     "content": "CAPSULE の「さくら」を聴きました",
     "url": "https://open.spotify.com/track/3oIYGJwMcBWPTQXMpRNq49"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-17T15:46:16.662Z",
-    "content": "Aiko Kayo の「cosmic cosmetics」を聴きました",
-    "url": "https://open.spotify.com/track/40dMuxFuyPInnA56uaLBzS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-17T15:33:44.149Z",
-    "content": "aiko の「アンコール」を聴きました",
-    "url": "https://open.spotify.com/track/3tLNRIEUbKU29LHEuv7GyU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-17T15:30:05.504Z",
-    "content": "aiko の「星の降る日に」を聴きました",
-    "url": "https://open.spotify.com/track/2lxaH7dOPAvsScMyA4d1rf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-17T15:19:56.352Z",
-    "content": "aiko の「願い事日記」を聴きました",
-    "url": "https://open.spotify.com/track/6IZhK8mOkjTzpO3eAdhwge"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-17T15:15:54.605Z",
-    "content": "aiko の「blow」を聴きました",
-    "url": "https://open.spotify.com/track/5dcyCnDpezf5G6QyRH1fn8"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-01-12T11:20:27.797Z",
-    "content": "DeepSeek、FLUXあたりをローカルでMacBook上で動かせるようにできたのでネットワークから孤立しても生きていけるようになった",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mc7wbxl6gk22"
   }
 ]
