@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-20T06:11:48.639Z",
+    "content": "Shiho Nanba の「プールの青は嘘の青」を聴きました",
+    "url": "https://open.spotify.com/track/5kisakx2Iq6tUzljTPQl71"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-20T06:06:56.548Z",
+    "content": "Soushi Sakiyama の「嘘じゃない」を聴きました",
+    "url": "https://open.spotify.com/track/0ayjyEFPDtTlWQcSbT407P"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-20T01:49:23.033Z",
     "content": "DE DE MOUSE の「milkyway planet」を聴きました",
     "url": "https://open.spotify.com/track/3XlCT8eYcc1Ew9GKLvE6vx"
@@ -46,17 +58,5 @@
     "timestamp": "2026-01-19T20:14:59.526Z",
     "content": "SOUL'd OUT の「FIRE RHYMER」を聴きました",
     "url": "https://open.spotify.com/track/3IFE8nGkD5Kr0KzsPYruPB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-19T20:10:57.689Z",
-    "content": "SOUL'd OUT の「CLONE AS A FUNNY CREATURE PREACHER」を聴きました",
-    "url": "https://open.spotify.com/track/35G6uPVAM3Wkh7QwWEkrQa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-19T20:05:58.914Z",
-    "content": "SOUL'd OUT の「VELVET ROMANCE」を聴きました",
-    "url": "https://open.spotify.com/track/5f1SmiZPLf99RQNprWK8VC"
   }
 ]
