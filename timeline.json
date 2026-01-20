@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-20T01:49:23.033Z",
+    "content": "DE DE MOUSE の「milkyway planet」を聴きました",
+    "url": "https://open.spotify.com/track/3XlCT8eYcc1Ew9GKLvE6vx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-19T20:43:40.514Z",
     "content": "SOUL'd OUT の「My Melancholic Prequel」を聴きました",
     "url": "https://open.spotify.com/track/7jamrCaABSkbHzb8uitxaw"
@@ -52,11 +58,5 @@
     "timestamp": "2026-01-19T20:05:58.914Z",
     "content": "SOUL'd OUT の「VELVET ROMANCE」を聴きました",
     "url": "https://open.spotify.com/track/5f1SmiZPLf99RQNprWK8VC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-19T20:01:51.774Z",
-    "content": "SOUL'd OUT の「SUCK MY ART」を聴きました",
-    "url": "https://open.spotify.com/track/30WzH6A5J1RAktWHfjpMdK"
   }
 ]
