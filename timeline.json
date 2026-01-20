@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-20T07:50:41.717Z",
+    "content": "来栖りん の「わっちゅあね？」を聴きました",
+    "url": "https://open.spotify.com/track/778YzFSiTaXP55UUGOLPSt"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-20T06:11:48.639Z",
     "content": "Shiho Nanba の「プールの青は嘘の青」を聴きました",
     "url": "https://open.spotify.com/track/5kisakx2Iq6tUzljTPQl71"
@@ -52,11 +58,5 @@
     "timestamp": "2026-01-19T20:19:48.952Z",
     "content": "SOUL'd OUT の「\"P\"」を聴きました",
     "url": "https://open.spotify.com/track/5ZhXYKLrtFzIvthqf5nufC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-19T20:14:59.526Z",
-    "content": "SOUL'd OUT の「FIRE RHYMER」を聴きました",
-    "url": "https://open.spotify.com/track/3IFE8nGkD5Kr0KzsPYruPB"
   }
 ]
