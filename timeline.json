@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-21T05:10:16.944Z",
+    "content": "RHYMESTER の「The Choice Is Yours」を聴きました",
+    "url": "https://open.spotify.com/track/4niqa7E9MKusXkFMUaqoGq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-21T05:05:18.066Z",
+    "content": "RHYMESTER の「ほとんどビョーキ」を聴きました",
+    "url": "https://open.spotify.com/track/1n8V6WIM0BU9mN2Eqrlgg2"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-21T05:01:23.090Z",
+    "content": "RHYMESTER の「ラストヴァース」を聴きました",
+    "url": "https://open.spotify.com/track/7BNfJuY24d8N4UV09gDfVn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-21T04:56:41.049Z",
+    "content": "RHYMESTER の「ONCE AGAIN」を聴きました",
+    "url": "https://open.spotify.com/track/0qYxlK8UyiA2spvwRhs2rr"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-21T04:52:27.073Z",
+    "content": "RHYMESTER の「午前零時 -Intro」を聴きました",
+    "url": "https://open.spotify.com/track/20ge8zv2utvkIl1z0UPIen"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-21T04:45:27.941Z",
     "content": "PAS TASTA の「river relief - パソコン音楽クラブ remix」を聴きました",
     "url": "https://open.spotify.com/track/3HHggqWoOHx1q7b1m4mDEs"
@@ -28,35 +58,5 @@
     "timestamp": "2026-01-21T04:31:15.244Z",
     "content": "PAS TASTA の「intro impact - PAS TASTA remix」を聴きました",
     "url": "https://open.spotify.com/track/7bLiDy33Or0r5MEq8fYY1i"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-21T04:28:57.889Z",
-    "content": "古原 奈々 の「ふたりのもじぴったん - fine c'est la mix」を聴きました",
-    "url": "https://open.spotify.com/track/7kjGeezdr7XodRxJt4sAhB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-20T15:23:11.429Z",
-    "content": "METAFIVE の「環境と心理」を聴きました",
-    "url": "https://open.spotify.com/track/7wnIzkN2sJx9NvA2BeWNkw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-20T09:15:28.735Z",
-    "content": "METAFIVE の「Ain't No Fun」を聴きました",
-    "url": "https://open.spotify.com/track/1XaEXz7HnpC0JJuV6vUngZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-20T09:11:08.365Z",
-    "content": "METAFIVE の「By The End Of The World」を聴きました",
-    "url": "https://open.spotify.com/track/50AouVAPnoG2kZotRRk8FS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-20T09:06:54.942Z",
-    "content": "METAFIVE の「The Paramedics」を聴きました",
-    "url": "https://open.spotify.com/track/0vIGTXZ8tpdS6tFd8MYl4L"
   }
 ]
