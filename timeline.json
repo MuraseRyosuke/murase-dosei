@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-21T15:39:20.397Z",
+    "content": "MEG の「STORY」を聴きました",
+    "url": "https://open.spotify.com/track/1vLDMt4fGUhLhCE2d5MmrL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-21T08:33:24.735Z",
     "content": "MEG の「OUR SPACE」を聴きました",
     "url": "https://open.spotify.com/track/6TrYRSZiRgMk6AGJJ1SbXV"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-21T07:55:08.321Z",
     "content": "MEG の「TELEPHONE」を聴きました",
     "url": "https://open.spotify.com/track/6XIC2Aodm4ftQbgsBb4RqP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-21T07:46:49.425Z",
-    "content": "MEG の「PRECIOUS」を聴きました",
-    "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
   },
   {
     "platform": "YouTube",
