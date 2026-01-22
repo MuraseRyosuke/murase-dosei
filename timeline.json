@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-22T14:51:28.340Z",
+    "content": "DE DE MOUSE の「HI!GA!MI!」を聴きました",
+    "url": "https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-22T14:46:50.741Z",
+    "content": "CAPSULE の「エスケープ・フロム・リアリティ」を聴きました",
+    "url": "https://open.spotify.com/track/3SWJQ4mD8awzigXIOyBZw0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-22T14:41:58.842Z",
+    "content": "CAPSULE の「ワンダーランド」を聴きました",
+    "url": "https://open.spotify.com/track/4G7SdjOQNmcCdXKsyay43i"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-22T14:39:04.462Z",
+    "content": "CAPSULE の「バーチャル・フリーダム - Album Mix」を聴きました",
+    "url": "https://open.spotify.com/track/6JcqI5Z9sQrlAWm23Ym0fU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-22T14:34:57.934Z",
+    "content": "CAPSULE の「スタート」を聴きました",
+    "url": "https://open.spotify.com/track/1GIsaJcD5PEc2EOLH3ePpy"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-22T14:30:54.538Z",
     "content": "CAPSULE の「フューチャー・ウェイヴ - Album Mix」を聴きました",
     "url": "https://open.spotify.com/track/38J7k9y0zyUEu3gyqYRrjb"
@@ -28,36 +58,6 @@
     "timestamp": "2026-01-22T14:07:11.358Z",
     "content": "Perfume の「再生」を聴きました",
     "url": "https://open.spotify.com/track/1ZjL8ud1dhT9PDVe3Ov8kF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T14:02:27.581Z",
-    "content": "Perfume の「ポリゴンウェイヴ - Original Mix」を聴きました",
-    "url": "https://open.spotify.com/track/1gY6DwODrCnoiezXDKgyE5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T13:55:29.319Z",
-    "content": "Natsume Mito の「ねむねむGO」を聴きました",
-    "url": "https://open.spotify.com/track/6vj1bOxQ0FwijAzcqgARqc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T13:50:56.633Z",
-    "content": "Natsume Mito の「パズル」を聴きました",
-    "url": "https://open.spotify.com/track/4PfMdwovscKxpq9s3WBjiv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T13:47:52.020Z",
-    "content": "Natsume Mito の「なつめろ」を聴きました",
-    "url": "https://open.spotify.com/track/1BhsGuM4d63qWnJmo7fxDA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T13:43:13.375Z",
-    "content": "Natsume Mito の「もしもクッキング」を聴きました",
-    "url": "https://open.spotify.com/track/2LfLc2ESJRGJev77hMyEuE"
   },
   {
     "platform": "YouTube",
