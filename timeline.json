@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-22T09:37:06.979Z",
+    "content": "Kyary Pamyu Pamyu の「つけまつける」を聴きました",
+    "url": "https://open.spotify.com/track/3ou1fnaevjh2rj6gSNLTim"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-22T09:32:00.750Z",
     "content": "Kyary Pamyu Pamyu の「ちょうどいいの」を聴きました",
     "url": "https://open.spotify.com/track/10ofxvRxAwqmkGE0bBoIdE"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-22T08:48:26.165Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-21T15:39:20.397Z",
-    "content": "MEG の「STORY」を聴きました",
-    "url": "https://open.spotify.com/track/1vLDMt4fGUhLhCE2d5MmrL"
   },
   {
     "platform": "YouTube",
