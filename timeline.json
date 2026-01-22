@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-22T11:43:10.156Z",
+    "content": "Kyary Pamyu Pamyu の「おとななこども」を聴きました",
+    "url": "https://open.spotify.com/track/6oVJz7I4pOJLql4H3LGZ0w"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-22T11:37:34.727Z",
+    "content": "Perfume の「MY COLOR LTW-Mix」を聴きました",
+    "url": "https://open.spotify.com/track/4w7ncJ5VuSMA4QHvHktBS1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-22T11:32:25.449Z",
+    "content": "Kyary Pamyu Pamyu の「ぎりぎりセーフ」を聴きました",
+    "url": "https://open.spotify.com/track/0L5xJSrhOq1MejwKc5KW5k"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-22T11:14:32.523Z",
     "content": "Kyary Pamyu Pamyu の「スキすぎてキレそう」を聴きました",
     "url": "https://open.spotify.com/track/2XWcRhDU6rNTTJ2XG5vlef"
@@ -40,24 +58,6 @@
     "timestamp": "2026-01-22T09:32:00.750Z",
     "content": "Kyary Pamyu Pamyu の「ちょうどいいの」を聴きました",
     "url": "https://open.spotify.com/track/10ofxvRxAwqmkGE0bBoIdE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T09:28:28.966Z",
-    "content": "Kyary Pamyu Pamyu の「きゃりーのマーチ」を聴きました",
-    "url": "https://open.spotify.com/track/2AnSThO9dgX79DzrVnyyW6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T09:23:01.359Z",
-    "content": "Perfume の「ワンルーム･ディスコ」を聴きました",
-    "url": "https://open.spotify.com/track/6Lh6yLu4oxrosC0jBCl6BX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T09:12:59.256Z",
-    "content": "CAPSULE の「more more more」を聴きました",
-    "url": "https://open.spotify.com/track/4oMhQvSLexCWBJ1taEzegU"
   },
   {
     "platform": "YouTube",
