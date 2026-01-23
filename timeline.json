@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-23T07:52:56.138Z",
+    "content": "DE DE MOUSE の「journey to freedom」を聴きました",
+    "url": "https://open.spotify.com/track/7cvT2z0hB9HSdmo3mLnK7W"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-23T07:47:20.377Z",
     "content": "DE DE MOUSE の「sweet gravity」を聴きました",
     "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-22T16:01:19.976Z",
     "content": "アトラスサウンドチーム の「Sparks Fly」を聴きました",
     "url": "https://open.spotify.com/track/23ZIKqSVDIEFCuzqlHnmSw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T16:01:19.869Z",
-    "content": "アトラスサウンドチーム の「The Fighter」を聴きました",
-    "url": "https://open.spotify.com/track/1HI0SsjX9bEQT2v4Zo9UIO"
   },
   {
     "platform": "YouTube",
