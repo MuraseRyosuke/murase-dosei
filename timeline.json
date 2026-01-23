@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-23T06:06:56.548Z",
+    "content": "Perfume の「ふめつのあなた」を聴きました",
+    "url": "https://open.spotify.com/track/1jf4TZZyavDuL11sK5UdBY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-23T06:02:40.299Z",
+    "content": "アトラスサウンドチーム の「Blues in Velvet Room」を聴きました",
+    "url": "https://open.spotify.com/track/2oE6kfusjHLJVwbnP7vgyc"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-23T06:02:24.413Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-23T05:58:00.295Z",
+    "content": "kamome sano の「shutdown()」を聴きました",
+    "url": "https://open.spotify.com/track/6XQv0MMgSZzkXVLZIDPpO3"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-22T16:01:19.976Z",
     "content": "アトラスサウンドチーム の「Sparks Fly」を聴きました",
     "url": "https://open.spotify.com/track/23ZIKqSVDIEFCuzqlHnmSw"
@@ -34,30 +58,6 @@
     "timestamp": "2026-01-22T14:51:28.340Z",
     "content": "DE DE MOUSE の「HI!GA!MI!」を聴きました",
     "url": "https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T14:46:50.741Z",
-    "content": "CAPSULE の「エスケープ・フロム・リアリティ」を聴きました",
-    "url": "https://open.spotify.com/track/3SWJQ4mD8awzigXIOyBZw0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T14:41:58.842Z",
-    "content": "CAPSULE の「ワンダーランド」を聴きました",
-    "url": "https://open.spotify.com/track/4G7SdjOQNmcCdXKsyay43i"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T14:39:04.462Z",
-    "content": "CAPSULE の「バーチャル・フリーダム - Album Mix」を聴きました",
-    "url": "https://open.spotify.com/track/6JcqI5Z9sQrlAWm23Ym0fU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-22T14:34:57.934Z",
-    "content": "CAPSULE の「スタート」を聴きました",
-    "url": "https://open.spotify.com/track/1GIsaJcD5PEc2EOLH3ePpy"
   },
   {
     "platform": "YouTube",
