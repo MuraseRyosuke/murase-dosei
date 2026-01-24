@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-24T09:41:35.407Z",
+    "content": "MEG の「STORY」を聴きました",
+    "url": "https://open.spotify.com/track/1vLDMt4fGUhLhCE2d5MmrL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T09:37:35.585Z",
+    "content": "MEG の「OUR SPACE」を聴きました",
+    "url": "https://open.spotify.com/track/6TrYRSZiRgMk6AGJJ1SbXV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T09:33:58.377Z",
+    "content": "MEG の「STORY」を聴きました",
+    "url": "https://open.spotify.com/track/1vLDMt4fGUhLhCE2d5MmrL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T09:25:43.117Z",
+    "content": "MEG の「DESTINATION」を聴きました",
+    "url": "https://open.spotify.com/track/1cdDm3C3CzpDG1FwG14U3E"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-24T09:20:56.431Z",
     "content": "Takashi Fujii の「ヘッドフォン・ガール -翼が無くても-」を聴きました",
     "url": "https://open.spotify.com/track/1Y5zjvL4ShEctv4NnwCwPl"
@@ -34,30 +58,6 @@
     "timestamp": "2026-01-24T02:31:34.235Z",
     "content": "Yasutaka Nakata の「White Cube」を聴きました",
     "url": "https://open.spotify.com/track/4nOcwlzhIDl4IRgruK0uH8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:26:56.546Z",
-    "content": "Mondo Grosso の「Everything Needs Love (Album Edit)」を聴きました",
-    "url": "https://open.spotify.com/track/4alAAdSQY1qJcVBSLtEo1w"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:19:43.515Z",
-    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
-    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:15:54.960Z",
-    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
-    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:10:47.676Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
   },
   {
     "platform": "YouTube",
