@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-24T12:41:12.915Z",
+    "content": "KUCHIRORO の「lΛ'v mi」を聴きました",
+    "url": "https://open.spotify.com/track/2BletxjvJM1bKVwsRASIVG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T12:34:54.163Z",
+    "content": "KUCHIRORO の「あたらしいたましい」を聴きました",
+    "url": "https://open.spotify.com/track/6KQm1ROviMmd6VV5rwLiW4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T12:29:56.446Z",
+    "content": "MEG の「TELEPHONE」を聴きました",
+    "url": "https://open.spotify.com/track/6XIC2Aodm4ftQbgsBb4RqP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T12:24:27.499Z",
+    "content": "MEG の「PRECIOUS」を聴きました",
+    "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-24T12:19:40.057Z",
+    "content": "MEG の「STAR」を聴きました",
+    "url": "https://open.spotify.com/track/6KJCGC1bJiV7heuwnXIOUG"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-24T09:41:35.407Z",
     "content": "MEG の「STORY」を聴きました",
     "url": "https://open.spotify.com/track/1vLDMt4fGUhLhCE2d5MmrL"
@@ -28,36 +58,6 @@
     "timestamp": "2026-01-24T09:20:56.431Z",
     "content": "Takashi Fujii の「ヘッドフォン・ガール -翼が無くても-」を聴きました",
     "url": "https://open.spotify.com/track/1Y5zjvL4ShEctv4NnwCwPl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T09:15:58.282Z",
-    "content": "Takashi Fujii の「アイリーン」を聴きました",
-    "url": "https://open.spotify.com/track/7DxdvQZGhB2KsqmOZ8TeOa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:48:58.797Z",
-    "content": "Ami Suzuki の「SUPER MUSIC MAKER」を聴きました",
-    "url": "https://open.spotify.com/track/28RpT5xonbZRcGQK3hjWKP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:39:26.968Z",
-    "content": "Yasutaka Nakata の「NANIMONO (feat. 米津玄師)」を聴きました",
-    "url": "https://open.spotify.com/track/5uodb4Kj8xSuxurunWcbPJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:35:19.890Z",
-    "content": "Yasutaka Nakata の「Crazy Crazy (feat. Charli XCX & Kyary Pamyu Pamyu)」を聴きました",
-    "url": "https://open.spotify.com/track/69faP1Sc35RYhfaP3tNCjk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T02:31:34.235Z",
-    "content": "Yasutaka Nakata の「White Cube」を聴きました",
-    "url": "https://open.spotify.com/track/4nOcwlzhIDl4IRgruK0uH8"
   },
   {
     "platform": "YouTube",
