@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-24T16:12:06.154Z",
+    "content": "Ami Suzuki の「FREE FREE - extended mix」を聴きました",
+    "url": "https://open.spotify.com/track/0qhNb6hhJRrVBCqesbuAi4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-24T14:39:18.702Z",
     "content": "YUNGYU の「PLAY」を聴きました",
     "url": "https://open.spotify.com/track/4ejCl5PICxL3AvOKF4IWwC"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-24T13:21:35.605Z",
     "content": "Nikolai Kapustin の「Eight Concert Etudes Op. 40 Intermezzo」を聴きました",
     "url": "https://open.spotify.com/track/75dupBrijM5YSxJaE2HLyI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T13:17:59.352Z",
-    "content": "Nikolai Kapustin の「Eight Concert Etudes Op. 40 Pastoral」を聴きました",
-    "url": "https://open.spotify.com/track/5RSXgckhKRkQstY8cCUpL8"
   },
   {
     "platform": "YouTube",
