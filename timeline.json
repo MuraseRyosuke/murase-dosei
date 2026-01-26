@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-26T12:37:50.506Z",
+    "content": "Yoshinori Sunahara の「Information of TUA」を聴きました",
+    "url": "https://open.spotify.com/track/0VLY2TDZxwsIFytZ4lUH5F"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-25T08:02:53.889Z",
     "content": "DE DE MOUSE の「your favorite swing」を聴きました",
     "url": "https://open.spotify.com/track/6LomEcZjjrDl8JfkFP8tAc"
@@ -58,12 +64,6 @@
     "timestamp": "2026-01-24T16:51:19.116Z",
     "content": "CAPSULE の「CONTROL」を聴きました",
     "url": "https://open.spotify.com/track/71wDBaqiuoKmCJX70SBMCk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T16:42:03.534Z",
-    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
-    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
   },
   {
     "platform": "YouTube",
