@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-26T18:38:03.967Z",
+    "content": "DE DE MOUSE の「candy stab」を聴きました",
+    "url": "https://open.spotify.com/track/704u7B4EmPIOCsrKMbFpDf"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-26T18:34:05.741Z",
+    "content": "sasakure.UK の「enigma」を聴きました",
+    "url": "https://open.spotify.com/track/1sPqfxttg8KM1xL40PhKsx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-26T17:54:19.288Z",
+    "content": "sasakure.UK の「Atropos」を聴きました",
+    "url": "https://open.spotify.com/track/42w9Osb68qYdVAdVYgVJD0"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-26T12:37:50.506Z",
     "content": "Yoshinori Sunahara の「Information of TUA」を聴きました",
     "url": "https://open.spotify.com/track/0VLY2TDZxwsIFytZ4lUH5F"
@@ -46,24 +64,6 @@
     "timestamp": "2026-01-24T17:03:10.703Z",
     "content": "何やってもうまくいかないだろと思う時があって、それが今、早く寝て明日に切り替えるに限る",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3md6ozu6ydk2q"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T17:01:49.498Z",
-    "content": "Fujii Kaze の「満ちてゆく」を聴きました",
-    "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T16:56:49.148Z",
-    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-24T16:51:19.116Z",
-    "content": "CAPSULE の「CONTROL」を聴きました",
-    "url": "https://open.spotify.com/track/71wDBaqiuoKmCJX70SBMCk"
   },
   {
     "platform": "YouTube",
