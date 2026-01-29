@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-29T07:04:58.805Z",
+    "content": "sasakure.UK の「万有ヱレキテル」を聴きました",
+    "url": "https://open.spotify.com/track/7IEKF18Yv2VNejU0jdyVD4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-28T14:24:52.783Z",
     "content": "CAPSULE の「Pleasure ground - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0g2exo6QLnimyV1VPje4Ao"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-28T03:17:36.639Z",
     "content": "風のクロノアシリーズ サウンドチーム の「Good Night」を聴きました",
     "url": "https://open.spotify.com/track/4tksbQaqBgglgOhzwzG41K"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T03:15:35.868Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Title」を聴きました",
-    "url": "https://open.spotify.com/track/1Xlspy4Pwmwc759n5VBTf7"
   },
   {
     "platform": "Bluesky",
