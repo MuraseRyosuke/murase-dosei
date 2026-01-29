@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-29T11:00:22.194Z",
+    "content": "SAKEROCK の「千のナイフと妖怪道中記」を聴きました",
+    "url": "https://open.spotify.com/track/3cMwtwSYj7wNHqe092GIeO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-29T09:52:26.243Z",
     "content": "Perfume の「575」を聴きました",
     "url": "https://open.spotify.com/track/1vM17fFrFcmJ922AAvzvY5"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-29T08:29:15.389Z",
     "content": "KIRINJI の「エイリアンズ - 2014 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6neNfjpuuESQQkOeVY0Wfx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-29T08:23:10.985Z",
-    "content": "KIRINJI の「グッデイ・グッバイ - 2014 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6aHjodIdmVVbV8Zxex0YLh"
   },
   {
     "platform": "Bluesky",
