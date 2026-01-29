@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-29T09:00:54.142Z",
+    "content": "Yasuyuki Okamura の「マクガフィン」を聴きました",
+    "url": "https://open.spotify.com/track/4RMX14qXD8uKJtNiNixYVp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:40:04.454Z",
+    "content": "KIRINJI の「太陽とヴィーナス - 2014 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1lyAjzLiAKpsnxKyKIXnaj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:35:19.078Z",
+    "content": "KIRINJI の「雨は毛布のように - 2014 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3WgbCmCKVRzNznpTaxrKQ5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:29:15.389Z",
+    "content": "KIRINJI の「エイリアンズ - 2014 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/6neNfjpuuESQQkOeVY0Wfx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:23:10.985Z",
+    "content": "KIRINJI の「グッデイ・グッバイ - 2014 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/6aHjodIdmVVbV8Zxex0YLh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:17:45.086Z",
+    "content": "KIRINJI の「君の胸に抱かれたい - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/4dZmEDSl0FydEizlksVXKa"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:10:38.067Z",
+    "content": "KIRINJI の「甘やかな身体 - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/4NEeoX3J0fDr07btXPbcJj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T08:06:18.986Z",
+    "content": "風のクロノアシリーズ サウンドチーム の「Jugpot King Speaks」を聴きました",
+    "url": "https://open.spotify.com/track/0jV236qKIgRNi3oUssiAw8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-29T07:04:58.805Z",
     "content": "sasakure.UK の「万有ヱレキテル」を聴きました",
     "url": "https://open.spotify.com/track/7IEKF18Yv2VNejU0jdyVD4"
@@ -10,54 +58,6 @@
     "timestamp": "2026-01-28T14:24:52.783Z",
     "content": "CAPSULE の「Pleasure ground - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/0g2exo6QLnimyV1VPje4Ao"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T14:06:20.539Z",
-    "content": "sasakure.UK の「Atropos」を聴きました",
-    "url": "https://open.spotify.com/track/42w9Osb68qYdVAdVYgVJD0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T14:02:26.984Z",
-    "content": "Shigeru Matsuzaki の「愛の焼きおにぎり」を聴きました",
-    "url": "https://open.spotify.com/track/5lURwQsVhxGRcMTjWjjufI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T13:59:40.967Z",
-    "content": "KIRINJI の「甘やかな身体 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4NEeoX3J0fDr07btXPbcJj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T03:56:57.623Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Jugpot King Speaks」を聴きました",
-    "url": "https://open.spotify.com/track/0jV236qKIgRNi3oUssiAw8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T03:48:37.367Z",
-    "content": "KIRINJI の「甘やかな身体 - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4NEeoX3J0fDr07btXPbcJj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T03:39:03.623Z",
-    "content": "KIRINJI の「君の胸に抱かれたい - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4dZmEDSl0FydEizlksVXKa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T03:17:36.697Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Title」を聴きました",
-    "url": "https://open.spotify.com/track/1Xlspy4Pwmwc759n5VBTf7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-28T03:17:36.639Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Good Night」を聴きました",
-    "url": "https://open.spotify.com/track/4tksbQaqBgglgOhzwzG41K"
   },
   {
     "platform": "Bluesky",
