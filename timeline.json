@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-01-31T16:34:26.719Z",
+    "content": "UNICORN の「大迷惑 (シングル・ヴァージョン)(オリジナル・カラオケ)」を聴きました",
+    "url": "https://open.spotify.com/track/5HJ4YSTupkkiV6S5P8TJyg"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-31T16:29:47.045Z",
     "content": "UNICORN の「ペケペケ」を聴きました",
     "url": "https://open.spotify.com/track/0nbyL5SWkKrLtAvUqacbpS"
@@ -54,21 +60,9 @@
     "url": "https://open.spotify.com/track/0iT1m3b9fhUPXplEglHlxG"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-01-30T19:39:40.311Z",
-    "content": "DE DE MOUSE の「get you back」を聴きました",
-    "url": "https://open.spotify.com/track/366REQBFGirLR7NFzclkvn"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-01-30T14:29:41.797Z",
     "content": "DE DE MOUSE - True って何かの特典だっけ… 大文字スタートだからNulife以降の作品だと思うけど\nwww2.jasrac.or.jp/eJwid/main?t...\nsearch.nex-tone.co.jp/detail?17",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mdnjawdmzc2i"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-01-24T17:03:10.703Z",
-    "content": "何やってもうまくいかないだろと思う時があって、それが今、早く寝て明日に切り替えるに限る",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3md6ozu6ydk2q"
   }
 ]
