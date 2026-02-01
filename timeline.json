@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-01T09:26:38.114Z",
+    "content": "Negicco の「アイドルばかり聴かないで」を聴きました",
+    "url": "https://open.spotify.com/track/0HrL4tOIfhnRxFb90Xu3wq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-01T09:23:03.077Z",
+    "content": "Negicco の「愛は光」を聴きました",
+    "url": "https://open.spotify.com/track/20snXb3L63QeqqOvpfgY9Q"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-01T09:16:19.072Z",
+    "content": "Negicco の「雫の輪」を聴きました",
+    "url": "https://open.spotify.com/track/4cE0n4GtzKK3NbtFqsNISE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-01-31T16:34:26.719Z",
     "content": "UNICORN の「大迷惑 (シングル・ヴァージョン)(オリジナル・カラオケ)」を聴きました",
     "url": "https://open.spotify.com/track/5HJ4YSTupkkiV6S5P8TJyg"
@@ -40,24 +58,6 @@
     "timestamp": "2026-01-31T16:06:35.162Z",
     "content": "Kizuna AI の「Here for you」を聴きました",
     "url": "https://open.spotify.com/track/2MClYu3w7pRgBDHuDbyZrn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-31T15:59:20.797Z",
-    "content": "DE DE MOUSE の「get you back」を聴きました",
-    "url": "https://open.spotify.com/track/366REQBFGirLR7NFzclkvn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-31T01:25:09.144Z",
-    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
-    "url": "https://open.spotify.com/track/7MxNI2raAw2075i4Lx5zmK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-30T19:48:52.739Z",
-    "content": "DE DE MOUSE の「Love SQ: 悠久の風 - migratory birds mix」を聴きました",
-    "url": "https://open.spotify.com/track/0iT1m3b9fhUPXplEglHlxG"
   },
   {
     "platform": "Bluesky",
