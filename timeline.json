@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-01T09:34:01.356Z",
+    "content": "Salyu の「風に乗る船」を聴きました",
+    "url": "https://open.spotify.com/track/5yQGCGq4AHYKTEhiNhnS9Z"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-01T09:26:38.114Z",
     "content": "Negicco の「アイドルばかり聴かないで」を聴きました",
     "url": "https://open.spotify.com/track/0HrL4tOIfhnRxFb90Xu3wq"
@@ -52,12 +58,6 @@
     "timestamp": "2026-01-31T16:10:36.956Z",
     "content": "Kizuna AI の「Melty Dreaming GIRL, Melty Dreaming BOY」を聴きました",
     "url": "https://open.spotify.com/track/0nVCZpOx4oJ4nx3IgsJRjy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-01-31T16:06:35.162Z",
-    "content": "Kizuna AI の「Here for you」を聴きました",
-    "url": "https://open.spotify.com/track/2MClYu3w7pRgBDHuDbyZrn"
   },
   {
     "platform": "Bluesky",
