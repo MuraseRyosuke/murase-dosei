@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-02T14:20:00.451Z",
+    "content": "PASSEPIED の「メーデー」を聴きました",
+    "url": "https://open.spotify.com/track/4HdV8FxgCM3QNYwpz2g4vY"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-01T18:40:46.766Z",
     "content": "PASSEPIED の「ハイパーリアリスト」を聴きました",
     "url": "https://open.spotify.com/track/3YRkEWUsxgcv0TXunuFXaG"
@@ -52,12 +58,6 @@
     "timestamp": "2026-02-01T18:04:41.848Z",
     "content": "Base Ball Bear の「いまは僕の目を見て（C3 mix）」を聴きました",
     "url": "https://open.spotify.com/track/2O5funlWHYZ19jFvx1jlqj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-01T18:00:15.713Z",
-    "content": "Base Ball Bear の「試される（2020 ver.）」を聴きました",
-    "url": "https://open.spotify.com/track/109U6cxQyOPykIlYE0FFJV"
   },
   {
     "platform": "Bluesky",
