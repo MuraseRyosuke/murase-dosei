@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-05T18:10:43.306Z",
+    "content": "Kenshi Yonezu の「IRIS OUT」を聴きました",
+    "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-05T18:08:04.417Z",
+    "content": "sakanaction の「怪獣」を聴きました",
+    "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-05T16:22:22.491Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -46,18 +58,6 @@
     "timestamp": "2026-02-05T15:57:31.960Z",
     "content": "Polo & Pan の「Nanã」を聴きました",
     "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-05T15:54:16.810Z",
-    "content": "Anetha の「Whistleblower」を聴きました",
-    "url": "https://open.spotify.com/track/0ng3SNNggu5wRukKK9ByV0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-05T15:49:26.937Z",
-    "content": "Anna の「Forever Ravers」を聴きました",
-    "url": "https://open.spotify.com/track/151S21GytLbrVgKp1LY5Wy"
   },
   {
     "platform": "Bluesky",
