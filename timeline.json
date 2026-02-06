@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-06T14:13:57.718Z",
+    "content": "SAKEROCK の「インストバンド」を聴きました",
+    "url": "https://open.spotify.com/track/3kZXaMXSGwbfj7BkI4qOd8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-06T14:07:19.954Z",
     "content": "Purple Disco Machine の「Substitution (feat. Julian Perretta)」を聴きました",
     "url": "https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG"
@@ -52,17 +58,5 @@
     "timestamp": "2026-02-06T13:04:38.577Z",
     "content": "涼宮ハルヒ(CV.平野綾) の「Colorful Starting Line」を聴きました",
     "url": "https://open.spotify.com/track/0kjazZj9Tt4G4pUGp1KDQn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T12:59:31.101Z",
-    "content": "キョン (CV.杉田智和) の「ホモ・サピエンス・ラプソディ」を聴きました",
-    "url": "https://open.spotify.com/track/0ncvJCkJMnzSBb0wUUCg7Q"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-01-30T14:29:41.797Z",
-    "content": "DE DE MOUSE - True って何かの特典だっけ… 大文字スタートだからNulife以降の作品だと思うけど\nwww2.jasrac.or.jp/eJwid/main?t...\nsearch.nex-tone.co.jp/detail?17",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mdnjawdmzc2i"
   }
 ]
