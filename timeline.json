@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-06T15:12:11.414Z",
+    "content": "FPM の「Without You」を聴きました",
+    "url": "https://open.spotify.com/track/5B7wMG8Q14t7ZK7M0MwGgl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-06T14:13:57.718Z",
     "content": "SAKEROCK の「インストバンド」を聴きました",
     "url": "https://open.spotify.com/track/3kZXaMXSGwbfj7BkI4qOd8"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-06T13:11:27.590Z",
     "content": "YELLOW MAGIC ORCHESTRA の「ファイアークラッカー」を聴きました",
     "url": "https://open.spotify.com/track/0K9YsoS4hRW8SinM65Qvxh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T13:04:38.577Z",
-    "content": "涼宮ハルヒ(CV.平野綾) の「Colorful Starting Line」を聴きました",
-    "url": "https://open.spotify.com/track/0kjazZj9Tt4G4pUGp1KDQn"
   }
 ]
