@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-06T19:38:01.093Z",
+    "content": "EVOLUTION-K の「TRUTH 〜20th ANNIVERSARY Version〜」を聴きました",
+    "url": "https://open.spotify.com/track/0YWOymKXc0zIgoFUGWF1HE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-06T19:20:03.875Z",
     "content": "SAKEROCK の「インストバンド」を聴きました",
     "url": "https://open.spotify.com/track/3kZXaMXSGwbfj7BkI4qOd8"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-06T13:21:15.488Z",
     "content": "Gen Hoshino の「営業」を聴きました",
     "url": "https://open.spotify.com/track/6un0F7T9L32nudMRs6iVrG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T13:17:33.256Z",
-    "content": "Gen Hoshino の「バイト」を聴きました",
-    "url": "https://open.spotify.com/track/3y5TlXBvldk2qGqCz5Tnq6"
   }
 ]
