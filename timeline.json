@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-06T11:28:34.799Z",
+    "content": "鶴屋さん (CV.松岡由貴) の「青春いいじゃないかっ」を聴きました",
+    "url": "https://open.spotify.com/track/6YZw9e6nBFBdt6jhQPC5VM"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-06T08:53:58.861Z",
     "content": "長門有希 (CV.茅原実里) の「SELECT?」を聴きました",
     "url": "https://open.spotify.com/track/4x5vbz7ESTFzqQv7w0MV8A"
@@ -52,12 +58,6 @@
     "timestamp": "2026-02-06T08:19:19.164Z",
     "content": "Aya Hirano の「冒険でしょでしょ?」を聴きました",
     "url": "https://open.spotify.com/track/5yolws5GuK8GemMTTeSsxh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T08:13:11.327Z",
-    "content": "チマメ隊 の「ときめきポポロン♪」を聴きました",
-    "url": "https://open.spotify.com/track/6luzdKABhBWdCJwgvvyh8e"
   },
   {
     "platform": "Bluesky",
