@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-07T15:46:24.957Z",
+    "content": "Gen Hoshino の「くだらないの中に」を聴きました",
+    "url": "https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-07T15:41:54.766Z",
+    "content": "Gen Hoshino の「変わらないまま」を聴きました",
+    "url": "https://open.spotify.com/track/342VHesM1O1XGPO0L87Cmm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-07T15:37:54.661Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-07T15:34:17.717Z",
+    "content": "SAKEROCK の「インストバンド」を聴きました",
+    "url": "https://open.spotify.com/track/3kZXaMXSGwbfj7BkI4qOd8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-07T14:59:43.866Z",
     "content": "Sayonara Ponytail の「ゆめなんです。 - 2019 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/1b2HDdJd4tlZ5bC0Hs08Pd"
@@ -34,29 +58,5 @@
     "timestamp": "2026-02-06T15:12:11.414Z",
     "content": "FPM の「Without You」を聴きました",
     "url": "https://open.spotify.com/track/5B7wMG8Q14t7ZK7M0MwGgl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T14:13:57.718Z",
-    "content": "SAKEROCK の「インストバンド」を聴きました",
-    "url": "https://open.spotify.com/track/3kZXaMXSGwbfj7BkI4qOd8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T14:07:19.954Z",
-    "content": "Purple Disco Machine の「Substitution (feat. Julian Perretta)」を聴きました",
-    "url": "https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T13:34:40.232Z",
-    "content": "Sayonara Ponytail の「ぼくらの季節 - 2019 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3mNHYGovgrb79Urw4zbuLr"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T13:27:26.335Z",
-    "content": "Gen Hoshino の「未来」を聴きました",
-    "url": "https://open.spotify.com/track/4q8gfiDFF4YI7LRJa6GhBL"
   }
 ]
