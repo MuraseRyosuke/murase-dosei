@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-07T14:59:43.866Z",
+    "content": "Sayonara Ponytail の「ゆめなんです。 - 2019 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1b2HDdJd4tlZ5bC0Hs08Pd"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-07T06:55:15.268Z",
     "content": "MISIA の「Everything」を聴きました",
     "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-06T13:27:26.335Z",
     "content": "Gen Hoshino の「未来」を聴きました",
     "url": "https://open.spotify.com/track/4q8gfiDFF4YI7LRJa6GhBL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T13:24:12.676Z",
-    "content": "Gen Hoshino の「ステップ」を聴きました",
-    "url": "https://open.spotify.com/track/06QZEmhNR7QdWsQxDzgtHa"
   }
 ]
