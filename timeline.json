@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-07T06:55:15.268Z",
+    "content": "MISIA の「Everything」を聴きました",
+    "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-06T19:38:01.093Z",
     "content": "EVOLUTION-K の「TRUTH 〜20th ANNIVERSARY Version〜」を聴きました",
     "url": "https://open.spotify.com/track/0YWOymKXc0zIgoFUGWF1HE"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-06T13:24:12.676Z",
     "content": "Gen Hoshino の「ステップ」を聴きました",
     "url": "https://open.spotify.com/track/06QZEmhNR7QdWsQxDzgtHa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-06T13:21:15.488Z",
-    "content": "Gen Hoshino の「営業」を聴きました",
-    "url": "https://open.spotify.com/track/6un0F7T9L32nudMRs6iVrG"
   }
 ]
