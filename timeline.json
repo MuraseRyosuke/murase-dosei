@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-07T17:45:24.584Z",
+    "content": "長門有希 (CV.茅原実里) の「ハレ晴レユカイ - Ver.長門有希」を聴きました",
+    "url": "https://open.spotify.com/track/6wSpT5jUireOfIjStNvKCv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-07T17:41:24.631Z",
+    "content": "長門有希 (CV.茅原実里) の「SELECT?」を聴きました",
+    "url": "https://open.spotify.com/track/4x5vbz7ESTFzqQv7w0MV8A"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-07T17:31:54.560Z",
+    "content": "茅原実里 の「優しい忘却 -sonority-」を聴きました",
+    "url": "https://open.spotify.com/track/6wIpOAAgh2uy9rAPtjHReg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-07T17:27:24.902Z",
+    "content": "茅原実里 の「優しい忘却」を聴きました",
+    "url": "https://open.spotify.com/track/5eHN8O4eo3E1gh7hq0R7EN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-07T17:17:54.964Z",
     "content": "松尾早人 の「いつもの風景で終わる物語」を聴きました",
     "url": "https://open.spotify.com/track/5GKvgxPkfmpvZ29DAbb9si"
@@ -34,29 +58,5 @@
     "timestamp": "2026-02-07T16:59:55.034Z",
     "content": "KIRINJI の「Drifter」を聴きました",
     "url": "https://open.spotify.com/track/38UEhIwx8GWbsJxhIws0dq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T16:51:24.955Z",
-    "content": "Shiho Nanba の「プールの青は嘘の青」を聴きました",
-    "url": "https://open.spotify.com/track/5kisakx2Iq6tUzljTPQl71"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T16:35:54.601Z",
-    "content": "Perfume の「コンピュータードライビング」を聴きました",
-    "url": "https://open.spotify.com/track/3tTJD3HGIui9cvs7gs4vzL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T16:31:24.533Z",
-    "content": "Perfume の「スウィートドーナッツ」を聴きました",
-    "url": "https://open.spotify.com/track/6A9GnlszZQspOFZD3cM1gV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T16:28:25.242Z",
-    "content": "Perfume の「ビタミンドロップ」を聴きました",
-    "url": "https://open.spotify.com/track/1y4v4pMkgvoekio24AZcTk"
   }
 ]
