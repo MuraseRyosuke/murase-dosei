@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-08T10:55:14.397Z",
+    "content": "Astrud Gilberto の「Photograph」を聴きました",
+    "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:53:14.328Z",
+    "content": "João Gilberto の「O Pato - Ultimate Mix」を聴きました",
+    "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:51:14.482Z",
+    "content": "Luiz Bonfá の「Bossa Nova Cha Cha」を聴きました",
+    "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:47:44.589Z",
+    "content": "Stan Getz の「Só Danço Samba」を聴きました",
+    "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:44:15.750Z",
+    "content": "Antônio Carlos Jobim の「The Red Blouse」を聴きました",
+    "url": "https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:39:14.700Z",
+    "content": "Astrud Gilberto の「Fly Me To The Moon」を聴きました",
+    "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:36:44.303Z",
+    "content": "Marcos Valle の「Nova Bossa Nova」を聴きました",
+    "url": "https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T10:32:44.449Z",
+    "content": "João Gilberto の「Tin Tin Por Tin Tin」を聴きました",
+    "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-08T10:28:44.720Z",
     "content": "Stan Getz の「Saudade Vem Correndo」を聴きました",
     "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
@@ -10,53 +58,5 @@
     "timestamp": "2026-02-08T10:25:14.181Z",
     "content": "Antônio Carlos Jobim の「Wave」を聴きました",
     "url": "https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T10:22:14.478Z",
-    "content": "Masami Sato の「夜のストレンジャー」を聴きました",
-    "url": "https://open.spotify.com/track/5UHgukK5kLbgOX1WEKxM4t"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T10:17:14.275Z",
-    "content": "Masami Sato の「ミスター・ロンリー」を聴きました",
-    "url": "https://open.spotify.com/track/04aCuW5ieaxFV2inxNmB6w"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T10:12:44.343Z",
-    "content": "Masami Sato の「ラルフの昼寝」を聴きました",
-    "url": "https://open.spotify.com/track/3G3JSnQ9BlW10nv3XI6ybM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T10:09:14.455Z",
-    "content": "Masami Sato の「ユー・レイズ・ミー・アップ」を聴きました",
-    "url": "https://open.spotify.com/track/1jNILnoZ8s5DQY5pXrTKEW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T10:04:15.073Z",
-    "content": "Masami Sato の「マイ・ハート・ウィル・ゴー・オン」を聴きました",
-    "url": "https://open.spotify.com/track/0qFQqwyFnJykWMW2LkfPc5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T09:59:14.257Z",
-    "content": "Masami Sato の「カノン」を聴きました",
-    "url": "https://open.spotify.com/track/6G2owWoRwYEziw8BfIzXTs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T09:54:14.599Z",
-    "content": "Masami Sato の「ジムノペディ第1番」を聴きました",
-    "url": "https://open.spotify.com/track/4qDMoDFTihhJ8yG3Fdz1MZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T09:50:14.314Z",
-    "content": "Masami Sato の「ジャズ・サンバ」を聴きました",
-    "url": "https://open.spotify.com/track/6puX4vHpsvcYZlA9huVx9B"
   }
 ]
