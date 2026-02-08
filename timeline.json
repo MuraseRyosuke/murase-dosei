@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-08T14:57:55.095Z",
+    "content": "Stockholm Whereabouts の「Green Light」を聴きました",
+    "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-08T12:35:14.517Z",
     "content": "Joseph Gonzalez の「Call on me softly」を聴きました",
     "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-08T12:08:14.810Z",
     "content": "Wanda Sá の「Adriana」を聴きました",
     "url": "https://open.spotify.com/track/07jiARShTjI2U7p9vay1df"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:06:14.255Z",
-    "content": "Gilberto Gil の「Aos Pés da Cruz」を聴きました",
-    "url": "https://open.spotify.com/track/0TUsBvY4MUVc0hRojyJmrr"
   }
 ]
