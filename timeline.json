@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-08T07:54:45.718Z",
+    "content": "Masami Sato の「デサフィナード」を聴きました",
+    "url": "https://open.spotify.com/track/6v7yhYlZmzvNbBvA15FkEx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T07:49:14.189Z",
+    "content": "Masami Sato の「コルコバード」を聴きました",
+    "url": "https://open.spotify.com/track/6VP8bl5LHL2TlBJTRHxlzA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T07:43:44.281Z",
+    "content": "Masami Sato の「アンド・アイ・ラヴ・ハー」を聴きました",
+    "url": "https://open.spotify.com/track/4gxLgRP6AXt0o2h6SoA3oq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T07:37:14.104Z",
+    "content": "Masami Sato の「男と女」を聴きました",
+    "url": "https://open.spotify.com/track/4F8jd4wrvuR8UjNlyhZ003"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T07:32:14.182Z",
+    "content": "Masami Sato の「いそしぎ」を聴きました",
+    "url": "https://open.spotify.com/track/2juaocROycAgQ2IVdou8gv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T07:26:44.095Z",
+    "content": "Masami Sato の「メニナ・フロー」を聴きました",
+    "url": "https://open.spotify.com/track/4xoslza6gIjB8F5gw15ibL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-08T03:02:15.506Z",
     "content": "Masami Sato の「イパネマの娘」を聴きました",
     "url": "https://open.spotify.com/track/6MN51s29DqdR7CiHBAyQ7r"
@@ -22,41 +58,5 @@
     "timestamp": "2026-02-07T17:41:24.631Z",
     "content": "長門有希 (CV.茅原実里) の「SELECT?」を聴きました",
     "url": "https://open.spotify.com/track/4x5vbz7ESTFzqQv7w0MV8A"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:31:54.560Z",
-    "content": "茅原実里 の「優しい忘却 -sonority-」を聴きました",
-    "url": "https://open.spotify.com/track/6wIpOAAgh2uy9rAPtjHReg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:27:24.902Z",
-    "content": "茅原実里 の「優しい忘却」を聴きました",
-    "url": "https://open.spotify.com/track/5eHN8O4eo3E1gh7hq0R7EN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:17:54.964Z",
-    "content": "松尾早人 の「いつもの風景で終わる物語」を聴きました",
-    "url": "https://open.spotify.com/track/5GKvgxPkfmpvZ29DAbb9si"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:12:54.512Z",
-    "content": "神前 暁 の「いつもの風景から始まる物語」を聴きました",
-    "url": "https://open.spotify.com/track/0xbRTX9TLNxk4y5lfqoft5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:06:54.511Z",
-    "content": "神前 暁 の「冒険でしょでしょ? - 予告アレンジ」を聴きました",
-    "url": "https://open.spotify.com/track/3OoNGcZamZYLBzmo7dYuCy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:02:55.351Z",
-    "content": "神前 暁 の「歯医者をねらえ！、暁ふんばった」を聴きました",
-    "url": "https://open.spotify.com/track/70wiiH7lMLmOYOebivp0uo"
   }
 ]
