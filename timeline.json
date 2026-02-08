@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-08T03:02:15.506Z",
+    "content": "Masami Sato の「イパネマの娘」を聴きました",
+    "url": "https://open.spotify.com/track/6MN51s29DqdR7CiHBAyQ7r"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-08T02:56:39.085Z",
+    "content": "Masami Sato の「トリステ」を聴きました",
+    "url": "https://open.spotify.com/track/3oO2wlSW0dIfzttwTWgiRz"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-07T17:45:24.584Z",
     "content": "長門有希 (CV.茅原実里) の「ハレ晴レユカイ - Ver.長門有希」を聴きました",
     "url": "https://open.spotify.com/track/6wSpT5jUireOfIjStNvKCv"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-07T17:02:55.351Z",
     "content": "神前 暁 の「歯医者をねらえ！、暁ふんばった」を聴きました",
     "url": "https://open.spotify.com/track/70wiiH7lMLmOYOebivp0uo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T17:02:55.017Z",
-    "content": "神前 暁 の「ハレ晴レユカイ (こなたの着メロ)」を聴きました",
-    "url": "https://open.spotify.com/track/2erVCipnEwaHyUjgXtm0bT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-07T16:59:55.034Z",
-    "content": "KIRINJI の「Drifter」を聴きました",
-    "url": "https://open.spotify.com/track/38UEhIwx8GWbsJxhIws0dq"
   }
 ]
