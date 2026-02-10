@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-10T11:24:55.905Z",
+    "content": "Daoko の「ステップアップLOVE」を聴きました",
+    "url": "https://open.spotify.com/track/0Jo3XaHyxZ4pHtF6sNZGMP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-10T11:08:11.941Z",
+    "content": "Masami Sato の「メニナ・フロー」を聴きました",
+    "url": "https://open.spotify.com/track/4xoslza6gIjB8F5gw15ibL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-08T14:57:55.095Z",
     "content": "Stockholm Whereabouts の「Green Light」を聴きました",
     "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-08T12:16:14.273Z",
     "content": "Toquinho の「Tristeza」を聴きました",
     "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:12:15.264Z",
-    "content": "Elis Regina の「Só Tinha De Ser Com Você」を聴きました",
-    "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:08:14.810Z",
-    "content": "Wanda Sá の「Adriana」を聴きました",
-    "url": "https://open.spotify.com/track/07jiARShTjI2U7p9vay1df"
   }
 ]
