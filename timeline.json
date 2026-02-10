@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-10T11:54:05.421Z",
+    "content": "SweetS の「Grow into shinin' stars」を聴きました",
+    "url": "https://open.spotify.com/track/6Ii0TmeHz7alPGLAHxlqzB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-10T11:49:48.961Z",
+    "content": "SweetS の「Love like candy floss」を聴きました",
+    "url": "https://open.spotify.com/track/2yB2HNfOxxgcpAd7IxIXsz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-10T11:45:54.151Z",
+    "content": "Folder の「パラシューター」を聴きました",
+    "url": "https://open.spotify.com/track/1h2Q0b54GvCwhjDU0KRaoy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-10T11:33:07.554Z",
+    "content": "松浦亜弥 の「Yeah！めっちゃホリディ」を聴きました",
+    "url": "https://open.spotify.com/track/40XkGKVt9FHjMH4i3FYOC8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-10T11:24:55.905Z",
     "content": "Daoko の「ステップアップLOVE」を聴きました",
     "url": "https://open.spotify.com/track/0Jo3XaHyxZ4pHtF6sNZGMP"
@@ -34,29 +58,5 @@
     "timestamp": "2026-02-08T12:28:44.383Z",
     "content": "The Cloud の「Beatriz」を聴きました",
     "url": "https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:24:44.371Z",
-    "content": "Cauby Peixoto の「Até Quem Sabe」を聴きました",
-    "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:22:14.613Z",
-    "content": "João Donato の「Manha de Carnaval」を聴きました",
-    "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:18:44.292Z",
-    "content": "Nara Leão の「Este Seu Olhar」を聴きました",
-    "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:16:14.273Z",
-    "content": "Toquinho の「Tristeza」を聴きました",
-    "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
   }
 ]
