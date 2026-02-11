@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-11T18:57:55.791Z",
+    "content": "Kevin MacLeod の「Airport Lounge」を聴きました",
+    "url": "https://open.spotify.com/track/7gmC89LfjoOvsjwNatDUSK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-11T18:50:10.239Z",
+    "content": "Kevin MacLeod の「Local Forecast - Elevator」を聴きました",
+    "url": "https://open.spotify.com/track/5sRQNFKwE9kgNleZgnCpgw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-11T18:46:33.822Z",
+    "content": "Alexandra Stan の「MR. SAXOBEAT - YASUTAKA NAKATA REMIX」を聴きました",
+    "url": "https://open.spotify.com/track/6vCZMDAKiqVNPuCL3Xwifz"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-10T11:54:05.421Z",
     "content": "SweetS の「Grow into shinin' stars」を聴きました",
     "url": "https://open.spotify.com/track/6Ii0TmeHz7alPGLAHxlqzB"
@@ -40,23 +58,5 @@
     "timestamp": "2026-02-08T14:57:55.095Z",
     "content": "Stockholm Whereabouts の「Green Light」を聴きました",
     "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:35:14.517Z",
-    "content": "Joseph Gonzalez の「Call on me softly」を聴きました",
-    "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:31:44.684Z",
-    "content": "Leandro Amor Trio の「Our Poetry」を聴きました",
-    "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-08T12:28:44.383Z",
-    "content": "The Cloud の「Beatriz」を聴きました",
-    "url": "https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ"
   }
 ]
