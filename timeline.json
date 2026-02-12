@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-12T12:46:30.209Z",
+    "content": "Taeko Onuki の「何もいらない」を聴きました",
+    "url": "https://open.spotify.com/track/2daDWlwE6JzDZZsjWlCUAC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-12T09:29:17.673Z",
     "content": "Taeko Onuki の「くすりをたくさん」を聴きました",
     "url": "https://open.spotify.com/track/2eD6XNSxGGInddLRp1G7I5"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-11T20:16:44.752Z",
     "content": "Aya Hirano の「うぇるかむUNKNOWN」を聴きました",
     "url": "https://open.spotify.com/track/2I9qi4lug8VrFJShP744CK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-11T20:13:23.889Z",
-    "content": "Aya Hirano の「風読みリボン」を聴きました",
-    "url": "https://open.spotify.com/track/5MP4hNeHWAwBUld8ZFwqwp"
   }
 ]
