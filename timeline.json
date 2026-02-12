@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-12T20:07:36.174Z",
+    "content": "Gen Hoshino の「予想」を聴きました",
+    "url": "https://open.spotify.com/track/0GHjd1CQqvaaVpqvuFFsIG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-12T20:02:45.383Z",
+    "content": "aiko の「ずっと」を聴きました",
+    "url": "https://open.spotify.com/track/3b4ZOaKRkuiM8Y9u44xXVB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-12T19:57:46.178Z",
+    "content": "aiko の「白い道」を聴きました",
+    "url": "https://open.spotify.com/track/2prX0hTxVMXupjkgGSWHqi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-12T19:53:37.163Z",
+    "content": "aiko の「くちびる」を聴きました",
+    "url": "https://open.spotify.com/track/6EHse8ztE134s1dNFg8J1q"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-12T19:40:41.729Z",
+    "content": "サザンオールスターズ の「素敵な夢を叶えましょう」を聴きました",
+    "url": "https://open.spotify.com/track/0ZvD5T4M5xR09faA7WZpwS"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-12T19:21:07.852Z",
     "content": "SHE IS SUMMER の「出会ってから付き合うまでのあの感じ」を聴きました",
     "url": "https://open.spotify.com/track/3GpgGrWD7hFQ5yXDrNY3bi"
@@ -28,35 +58,5 @@
     "timestamp": "2026-02-12T12:46:30.209Z",
     "content": "Taeko Onuki の「何もいらない」を聴きました",
     "url": "https://open.spotify.com/track/2daDWlwE6JzDZZsjWlCUAC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-12T09:29:17.673Z",
-    "content": "Taeko Onuki の「くすりをたくさん」を聴きました",
-    "url": "https://open.spotify.com/track/2eD6XNSxGGInddLRp1G7I5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-12T09:23:37.797Z",
-    "content": "Taeko Onuki の「幻惑」を聴きました",
-    "url": "https://open.spotify.com/track/6s06bjGHrblBBtzQavQuZC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-12T09:17:25.555Z",
-    "content": "Taeko Onuki の「RECIPE ＜調理法＞」を聴きました",
-    "url": "https://open.spotify.com/track/6RaesaYwzgLW87u4Oz9e5x"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-12T09:13:46.161Z",
-    "content": "Taeko Onuki の「テディ・ベア」を聴きました",
-    "url": "https://open.spotify.com/track/0166EsbC1BXp3i5WE8akIF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-11T20:33:47.723Z",
-    "content": "Aya Hirano の「止マレ!」を聴きました",
-    "url": "https://open.spotify.com/track/2lOP2DlQiQWrN2rUK4CwPf"
   }
 ]
