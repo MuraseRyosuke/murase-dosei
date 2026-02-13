@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-13T09:56:51.534Z",
+    "content": "Rocketman の「dancemusic」を聴きました",
+    "url": "https://open.spotify.com/track/671alDmYCdRghIQNxfYYUQ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-12T20:07:36.174Z",
     "content": "Gen Hoshino の「予想」を聴きました",
     "url": "https://open.spotify.com/track/0GHjd1CQqvaaVpqvuFFsIG"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-12T18:09:51.248Z",
     "content": "スマイレージ の「有頂天LOVE」を聴きました",
     "url": "https://open.spotify.com/track/0KPJkAkoeLQ6I0Uq7IAKJ9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-12T12:46:30.209Z",
-    "content": "Taeko Onuki の「何もいらない」を聴きました",
-    "url": "https://open.spotify.com/track/2daDWlwE6JzDZZsjWlCUAC"
   }
 ]
