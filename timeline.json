@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-14T18:34:03.598Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-14T18:13:10.964Z",
+    "content": "sakanaction の「新宝島 -Rearrange 2020-」を聴きました",
+    "url": "https://open.spotify.com/track/1eBoD5zXPQma0QoszpnrR9"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-14T17:39:13.536Z",
     "content": "Kenshi Yonezu の「ピースサイン - Peace Sign」を聴きました",
     "url": "https://open.spotify.com/track/364JzOajs76bJymjHm3sVY"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-14T16:48:37.582Z",
     "content": "モーニング娘。 の「恋のダンスサイト」を聴きました",
     "url": "https://open.spotify.com/track/3MLBn5uoaoWSw2n4o8Lzdu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-14T16:06:07.228Z",
-    "content": "BOOM BOOM SATELLITES の「KICK IT OUT (2017)」を聴きました",
-    "url": "https://open.spotify.com/track/1uU0bpM3TBXJNlsvfxDZBj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-14T16:01:07.110Z",
-    "content": "Kenshi Yonezu の「KICK BACK」を聴きました",
-    "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
   }
 ]
