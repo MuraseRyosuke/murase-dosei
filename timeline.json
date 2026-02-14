@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-14T17:39:13.536Z",
+    "content": "Kenshi Yonezu の「ピースサイン - Peace Sign」を聴きました",
+    "url": "https://open.spotify.com/track/364JzOajs76bJymjHm3sVY"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-14T17:13:37.373Z",
     "content": "Kenshi Yonezu の「Lemon」を聴きました",
     "url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-14T16:01:07.110Z",
     "content": "Kenshi Yonezu の「KICK BACK」を聴きました",
     "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-14T13:26:29.458Z",
-    "content": "モーニング娘。 の「サヨナラのかわりに」を聴きました",
-    "url": "https://open.spotify.com/track/3wZF1FtfjUbwlhUSuK61p0"
   }
 ]
