@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-14T07:02:27.229Z",
+    "content": "Kevin MacLeod の「Local Forecast - Elevator」を聴きました",
+    "url": "https://open.spotify.com/track/5sRQNFKwE9kgNleZgnCpgw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-14T04:57:54.363Z",
     "content": "モーニング娘。 の「恋のダイヤル6700」を聴きました",
     "url": "https://open.spotify.com/track/26ZvtpFiZOQPFJ5KEuloys"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-13T19:56:34.178Z",
     "content": "モーニング娘。'18 の「自由な国だから」を聴きました",
     "url": "https://open.spotify.com/track/3j8SOm6Q6LBBNgMKXaEBOX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-13T19:51:31.098Z",
-    "content": "モーニング娘。'18 の「フラリ銀座」を聴きました",
-    "url": "https://open.spotify.com/track/2XyO1UT83pB288Cyga8xTj"
   }
 ]
