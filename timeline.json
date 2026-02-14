@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-14T16:06:07.228Z",
+    "content": "BOOM BOOM SATELLITES の「KICK IT OUT (2017)」を聴きました",
+    "url": "https://open.spotify.com/track/1uU0bpM3TBXJNlsvfxDZBj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-14T16:01:07.110Z",
+    "content": "Kenshi Yonezu の「KICK BACK」を聴きました",
+    "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-14T13:26:29.458Z",
     "content": "モーニング娘。 の「サヨナラのかわりに」を聴きました",
     "url": "https://open.spotify.com/track/3wZF1FtfjUbwlhUSuK61p0"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-14T07:29:17.775Z",
     "content": "モーニング娘。 の「ランチタイム ～レバニラ炒め～」を聴きました",
     "url": "https://open.spotify.com/track/7e3TFwTqXrT4khEF0NjC7u"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-14T07:02:27.229Z",
-    "content": "Kevin MacLeod の「Local Forecast - Elevator」を聴きました",
-    "url": "https://open.spotify.com/track/5sRQNFKwE9kgNleZgnCpgw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-14T04:57:54.363Z",
-    "content": "モーニング娘。 の「恋のダイヤル6700」を聴きました",
-    "url": "https://open.spotify.com/track/26ZvtpFiZOQPFJ5KEuloys"
   }
 ]
