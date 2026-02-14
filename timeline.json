@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-14T12:32:58.426Z",
+    "content": "モーニング娘。 の「真夏の光線」を聴きました",
+    "url": "https://open.spotify.com/track/4ha41KB3pzL854YyHIFTMw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-14T07:44:54.437Z",
     "content": "モーニング娘。 の「恋のダンスサイト」を聴きました",
     "url": "https://open.spotify.com/track/1btYXOrt7nKeupFbfTemmj"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-13T20:15:01.819Z",
     "content": "モーニング娘。'18 の「憧れのStress-free - モーニング娘。'18 Ver.」を聴きました",
     "url": "https://open.spotify.com/track/5WyRuEmFiphGNzVafx66cc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-13T20:11:00.977Z",
-    "content": "モーニング娘。'15 の「冷たい風と片思い - TYPE B」を聴きました",
-    "url": "https://open.spotify.com/track/4wdwS7036BaoBArl6weCBa"
   }
 ]
