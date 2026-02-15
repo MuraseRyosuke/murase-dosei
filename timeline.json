@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-15T14:54:37.499Z",
+    "content": "bo en の「Intro」を聴きました",
+    "url": "https://open.spotify.com/track/1SOqPQGODw7rDTxzo5lEg0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T14:53:35.434Z",
+    "content": "Calum Bowen の「Lovely Village」を聴きました",
+    "url": "https://open.spotify.com/track/1ydzEPaogXjTqeNASvj0ec"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T14:50:44.663Z",
+    "content": "Calum Bowen の「Lovely City」を聴きました",
+    "url": "https://open.spotify.com/track/2JpSBwBn7pazsn6IgjPYhv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T14:48:12.552Z",
+    "content": "Calum Bowen の「Lovely Planet」を聴きました",
+    "url": "https://open.spotify.com/track/5zynqCSSakIKTDLI0Cw7m4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-15T14:24:13.215Z",
     "content": "全てあなたの所為です。 の「アブジェ」を聴きました",
     "url": "https://open.spotify.com/track/3e7T8O6NSPXs4HMJiPEiS7"
@@ -34,29 +58,5 @@
     "timestamp": "2026-02-15T13:31:48.739Z",
     "content": "全てあなたの所為です。 の「.」を聴きました",
     "url": "https://open.spotify.com/track/4vW7DDzoW3iPAURLIeO2Le"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T13:28:23.193Z",
-    "content": "Yo Hitoto の「ハナミズキ」を聴きました",
-    "url": "https://open.spotify.com/track/28NV7pexaSrgQqxize1rav"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T13:21:28.580Z",
-    "content": "Yo Hitoto の「ハナミズキ」を聴きました",
-    "url": "https://open.spotify.com/track/28NV7pexaSrgQqxize1rav"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T13:07:20.032Z",
-    "content": "sora tob sakana の「広告の街」を聴きました",
-    "url": "https://open.spotify.com/track/0AOV7BjEl2NGMRVZOcBVwu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T13:02:47.073Z",
-    "content": "sora tob sakana の「New Stranger」を聴きました",
-    "url": "https://open.spotify.com/track/5wpMTWLBcsfujdCbbiw41D"
   }
 ]
