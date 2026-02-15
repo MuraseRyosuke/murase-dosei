@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-15T11:44:01.784Z",
+    "content": "杏(CV.真堂圭) の「青空トライアングル」を聴きました",
+    "url": "https://open.spotify.com/track/2K8D1JqxnX7iBlMk60HABH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T11:37:09.692Z",
+    "content": "Tommy february6 の「MaGic in youR Eyes」を聴きました",
+    "url": "https://open.spotify.com/track/5iXv9j4Xj8Xcsgm1wFMSZ8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T11:29:06.793Z",
+    "content": "Tommy february6 の「ChOOSe mE or Die」を聴きました",
+    "url": "https://open.spotify.com/track/1ccqUfxia5GOSGXumGXA6C"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-15T11:24:24.289Z",
     "content": "Tommy february6 の「je t'aime ★ je t'aime」を聴きました",
     "url": "https://open.spotify.com/track/0yOKgkcFiusvJB7jhtbdFY"
@@ -40,23 +58,5 @@
     "timestamp": "2026-02-15T09:32:32.356Z",
     "content": "aiko の「恋をしたのは」を聴きました",
     "url": "https://open.spotify.com/track/7dVZBUR06TnFQCJLJbfdtV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T08:59:05.991Z",
-    "content": "CHEMISTRY の「So in Vain」を聴きました",
-    "url": "https://open.spotify.com/track/19ZdaOPHXZRN96iplaqtq7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T08:53:05.280Z",
-    "content": "CHEMISTRY の「Now or Never」を聴きました",
-    "url": "https://open.spotify.com/track/2BAhFDx7i0iLAKXeeP2VOy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T08:48:05.237Z",
-    "content": "CHEMISTRY の「Ordinary hero」を聴きました",
-    "url": "https://open.spotify.com/track/6HHJpOlRYjXbijprwPxShM"
   }
 ]
