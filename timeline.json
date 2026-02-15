@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-15T09:37:02.371Z",
+    "content": "Gen Hoshino の「ギャグ」を聴きました",
+    "url": "https://open.spotify.com/track/1SthVgXPOV0py1CHizp42X"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-15T09:32:32.356Z",
     "content": "aiko の「恋をしたのは」を聴きました",
     "url": "https://open.spotify.com/track/7dVZBUR06TnFQCJLJbfdtV"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-15T08:27:34.990Z",
     "content": "CHEMISTRY の「YOUR NAME NEVER GONE」を聴きました",
     "url": "https://open.spotify.com/track/6ddKElUUHo1Hz7oQIeuYee"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T08:22:35.226Z",
-    "content": "CHEMISTRY の「Us」を聴きました",
-    "url": "https://open.spotify.com/track/4EhCokEDALnioZB0ZQZxbY"
   }
 ]
