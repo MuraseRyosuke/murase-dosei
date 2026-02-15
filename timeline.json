@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-15T18:38:30.791Z",
+    "content": "MISIA の「Everything」を聴きました",
+    "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T18:27:42.353Z",
+    "content": "黒魔 (Chroma) の「Shifting Temple」を聴きました",
+    "url": "https://open.spotify.com/track/5ySJqPNAd1zCcFkFWHj275"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-15T16:29:53.220Z",
     "content": "黒魔 (Chroma) の「Winds of Trial」を聴きました",
     "url": "https://open.spotify.com/track/48aoBWcdhY19kwMwqinSjq"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-15T16:09:24.565Z",
     "content": "黒魔 (Chroma) の「Clockwork Scholar」を聴きました",
     "url": "https://open.spotify.com/track/4FX0311A3xmC8BdwQjejjQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:06:29.179Z",
-    "content": "黒魔 (Chroma) の「Roots of Resonance」を聴きました",
-    "url": "https://open.spotify.com/track/09AZHaBxEXSgP8tFgZh3LU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:03:29.817Z",
-    "content": "黒魔 (Chroma) の「Shifting Temple」を聴きました",
-    "url": "https://open.spotify.com/track/5ySJqPNAd1zCcFkFWHj275"
   }
 ]
