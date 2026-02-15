@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-15T19:24:53.436Z",
+    "content": "aiko の「白い道」を聴きました",
+    "url": "https://open.spotify.com/track/2prX0hTxVMXupjkgGSWHqi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T19:20:23.443Z",
+    "content": "aiko の「くちびる」を聴きました",
+    "url": "https://open.spotify.com/track/6EHse8ztE134s1dNFg8J1q"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T19:14:53.522Z",
+    "content": "aiko の「Aka」を聴きました",
+    "url": "https://open.spotify.com/track/4Dc75LgAimupVLsfQCU0Ic"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T19:07:53.429Z",
+    "content": "杏(CV.真堂圭) の「青空トライアングル」を聴きました",
+    "url": "https://open.spotify.com/track/2K8D1JqxnX7iBlMk60HABH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T19:02:23.789Z",
+    "content": "杏(CV.真堂圭) の「青空トライアングル」を聴きました",
+    "url": "https://open.spotify.com/track/2K8D1JqxnX7iBlMk60HABH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T18:51:54.250Z",
+    "content": "SEKAI NO OWARI の「プレゼント」を聴きました",
+    "url": "https://open.spotify.com/track/3H6sHQWnAU5jjnqFNLHjoM"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T18:45:53.742Z",
+    "content": "MISIA の「Everything」を聴きました",
+    "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-15T18:38:53.514Z",
+    "content": "Yo Hitoto の「ハナミズキ」を聴きました",
+    "url": "https://open.spotify.com/track/28NV7pexaSrgQqxize1rav"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-15T18:38:30.791Z",
     "content": "MISIA の「Everything」を聴きました",
     "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
@@ -10,53 +58,5 @@
     "timestamp": "2026-02-15T18:27:42.353Z",
     "content": "黒魔 (Chroma) の「Shifting Temple」を聴きました",
     "url": "https://open.spotify.com/track/5ySJqPNAd1zCcFkFWHj275"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:29:53.220Z",
-    "content": "黒魔 (Chroma) の「Winds of Trial」を聴きました",
-    "url": "https://open.spotify.com/track/48aoBWcdhY19kwMwqinSjq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:26:51.519Z",
-    "content": "黒魔 (Chroma) の「Endroll」を聴きました",
-    "url": "https://open.spotify.com/track/3WuNJC48lL7CuKPQ6NYjxM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:25:37.158Z",
-    "content": "黒魔 (Chroma) の「Afterglow」を聴きました",
-    "url": "https://open.spotify.com/track/1ec1aS5bkh6SOohSdrhw6g"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:21:01.202Z",
-    "content": "黒魔 (Chroma) の「Coming for You」を聴きました",
-    "url": "https://open.spotify.com/track/7ktf324xirdwr0nAhfJJHM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:18:02.697Z",
-    "content": "黒魔 (Chroma) の「Last Reflection」を聴きました",
-    "url": "https://open.spotify.com/track/0segXka0Z9cefPjXWsS70L"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:15:11.756Z",
-    "content": "黒魔 (Chroma) の「Perseverance」を聴きました",
-    "url": "https://open.spotify.com/track/6CVbZVfQvdvoK97IODdOY1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:12:15.239Z",
-    "content": "黒魔 (Chroma) の「Honest Masquerade」を聴きました",
-    "url": "https://open.spotify.com/track/2kvOViqsEBnu6OsrPxqUS3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T16:09:24.565Z",
-    "content": "黒魔 (Chroma) の「Clockwork Scholar」を聴きました",
-    "url": "https://open.spotify.com/track/4FX0311A3xmC8BdwQjejjQ"
   }
 ]
