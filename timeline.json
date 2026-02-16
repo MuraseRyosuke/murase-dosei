@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-16T18:01:50.034Z",
+    "content": "集団 の「プリズム」を聴きました",
+    "url": "https://open.spotify.com/track/3WSLxK1FoAwIrZ7PenqkcV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T17:55:23.502Z",
+    "content": "新しい地図 join ミュージック の「#SINGING」を聴きました",
+    "url": "https://open.spotify.com/track/6FRHZcsRMQEUySNN0JZoWA"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-16T15:33:38.952Z",
     "content": "集団 の「プリズム」を聴きました",
     "url": "https://open.spotify.com/track/3WSLxK1FoAwIrZ7PenqkcV"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-16T14:56:03.871Z",
     "content": "ああああ の「さよならコスモノート - Long ver.」を聴きました",
     "url": "https://open.spotify.com/track/4OeRLEgRuxMnIVH4izWtJp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-16T14:51:53.962Z",
-    "content": "ああああ の「おもちゃのためのパレード」を聴きました",
-    "url": "https://open.spotify.com/track/4sziotrl9Kv3guqaWRNmOe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-16T14:48:17.633Z",
-    "content": "梅干茶漬け の「Nymph -ツギハギの世界で-」を聴きました",
-    "url": "https://open.spotify.com/track/6Nr8ozZPb8rVv6VorWbbAC"
   }
 ]
