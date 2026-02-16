@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-16T12:50:14.320Z",
+    "content": "新しい地図 join ミュージック の「星のファンファーレ」を聴きました",
+    "url": "https://open.spotify.com/track/1cMzu4S0MTFoicrfe7Hh9n"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:45:40.062Z",
+    "content": "Cymbals の「I’m a Believer」を聴きました",
+    "url": "https://open.spotify.com/track/3IcmSs8ZoCSkBRRlgIMEpw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:39:17.301Z",
+    "content": "nobodyknows+ の「ココロオドル」を聴きました",
+    "url": "https://open.spotify.com/track/4RdC5OUxPmB3MaohWx3xLY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:32:40.007Z",
+    "content": "PELICAN FANCLUB の「ハッキング・ハックイーン」を聴きました",
+    "url": "https://open.spotify.com/track/5hBbGxOWtOlUkM9WGfP4iL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:29:26.400Z",
+    "content": "PELICAN FANCLUB の「ハイネ」を聴きました",
+    "url": "https://open.spotify.com/track/704mvGvyq5u0d4jZ67Xoew"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:26:41.334Z",
+    "content": "PELICAN FANCLUB の「Telepath Telepath」を聴きました",
+    "url": "https://open.spotify.com/track/5EhIewy8MAd9nKiz1uZr8r"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:23:01.439Z",
+    "content": "PELICAN FANCLUB の「三原色」を聴きました",
+    "url": "https://open.spotify.com/track/4EG10OLde2d8EisbYoKTuZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-16T12:18:29.362Z",
+    "content": "黒魔 (Chroma) の「Winds of Trial」を聴きました",
+    "url": "https://open.spotify.com/track/48aoBWcdhY19kwMwqinSjq"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-15T19:45:01.051Z",
     "content": "黒魔 (Chroma) の「Shifting Temple」を聴きました",
     "url": "https://open.spotify.com/track/5ySJqPNAd1zCcFkFWHj275"
@@ -10,53 +58,5 @@
     "timestamp": "2026-02-15T19:41:51.179Z",
     "content": "黒魔 (Chroma) の「Winds of Trial」を聴きました",
     "url": "https://open.spotify.com/track/48aoBWcdhY19kwMwqinSjq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:39:48.718Z",
-    "content": "aiko の「冷たい嘘」を聴きました",
-    "url": "https://open.spotify.com/track/64AQkVGZHcCsix7ZBtBF52"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:34:53.501Z",
-    "content": "aiko の「向かいあわせ」を聴きました",
-    "url": "https://open.spotify.com/track/3reL6cCK2sC1Pq3kGLBrrO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:29:53.552Z",
-    "content": "aiko の「ずっと」を聴きました",
-    "url": "https://open.spotify.com/track/3b4ZOaKRkuiM8Y9u44xXVB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:24:53.436Z",
-    "content": "aiko の「白い道」を聴きました",
-    "url": "https://open.spotify.com/track/2prX0hTxVMXupjkgGSWHqi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:20:23.443Z",
-    "content": "aiko の「くちびる」を聴きました",
-    "url": "https://open.spotify.com/track/6EHse8ztE134s1dNFg8J1q"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:14:53.522Z",
-    "content": "aiko の「Aka」を聴きました",
-    "url": "https://open.spotify.com/track/4Dc75LgAimupVLsfQCU0Ic"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:07:53.429Z",
-    "content": "杏(CV.真堂圭) の「青空トライアングル」を聴きました",
-    "url": "https://open.spotify.com/track/2K8D1JqxnX7iBlMk60HABH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-15T19:02:23.789Z",
-    "content": "杏(CV.真堂圭) の「青空トライアングル」を聴きました",
-    "url": "https://open.spotify.com/track/2K8D1JqxnX7iBlMk60HABH"
   }
 ]
