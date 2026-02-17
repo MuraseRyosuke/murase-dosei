@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-17T14:00:17.092Z",
+    "content": "Perfume の「チョコレイト・ディスコ」を聴きました",
+    "url": "https://open.spotify.com/track/35WLGytCEIVPLBPfhNPhTp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T13:52:27.740Z",
+    "content": "Sheena Ringo の「おだいじに」を聴きました",
+    "url": "https://open.spotify.com/track/52UchVYXQRUsIgGptAA9Wa"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T13:49:17.269Z",
+    "content": "Creep Hyp の「手と手」を聴きました",
+    "url": "https://open.spotify.com/track/1sqs1PSTZIkPi2BF4MV4RK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T13:43:29.905Z",
+    "content": "Omodaka の「Plum Song」を聴きました",
+    "url": "https://open.spotify.com/track/74TijDyX3EQ1KudmFttJ5C"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T13:39:59.427Z",
+    "content": "黒魔 (Chroma) の「Roots of Resonance」を聴きました",
+    "url": "https://open.spotify.com/track/09AZHaBxEXSgP8tFgZh3LU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T13:25:57.727Z",
+    "content": "Fujii Kaze の「Shape Of You」を聴きました",
+    "url": "https://open.spotify.com/track/3VcT4kpalhVmwBvTj9WUwW"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-17T13:16:53.581Z",
     "content": "モーニング娘。 の「泣いちゃうかも」を聴きました",
     "url": "https://open.spotify.com/track/3a5xh0ez7v8FYTM2Bb2j5c"
@@ -22,41 +58,5 @@
     "timestamp": "2026-02-17T12:14:27.457Z",
     "content": "Quruli の「Regulus」を聴きました",
     "url": "https://open.spotify.com/track/6RWHg2HhheaybvzN0tpa5s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T12:11:05.044Z",
-    "content": "Quruli の「たまにおもうこと」を聴きました",
-    "url": "https://open.spotify.com/track/0HbrTdgF8yMDniMb0i1iSp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T11:26:01.745Z",
-    "content": "NONA REEVES の「愛の太陽」を聴きました",
-    "url": "https://open.spotify.com/track/2Xj5WFawXW6AFkRsKDGUiq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T11:20:58.294Z",
-    "content": "Quruli の「忘れないように (Album mix)」を聴きました",
-    "url": "https://open.spotify.com/track/6H8V0J0u4TNuyu5N028HR2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T11:15:22.021Z",
-    "content": "Quruli の「Remember me (wien mix)」を聴きました",
-    "url": "https://open.spotify.com/track/0u8X52u3ITJPuE2ER31gQD"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T11:06:44.354Z",
-    "content": "Quruli の「Natsuno」を聴きました",
-    "url": "https://open.spotify.com/track/1IwdfIPaU4oI5xT2kMOlww"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T11:03:43.303Z",
-    "content": "Quruli の「かごの中のジョニー」を聴きました",
-    "url": "https://open.spotify.com/track/2zqwTjMYzYb6z9ZwArCkYB"
   }
 ]
