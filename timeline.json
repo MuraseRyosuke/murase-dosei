@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-17T19:47:28.168Z",
+    "content": "DE DE MOUSE の「charmed」を聴きました",
+    "url": "https://open.spotify.com/track/0NRD9BUB1E1py9d5WhZuSL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T19:43:26.889Z",
+    "content": "DE DE MOUSE の「love destination」を聴きました",
+    "url": "https://open.spotify.com/track/2MRijdxTKflv4EU9EtsShK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T19:39:11.873Z",
+    "content": "DE DE MOUSE の「be yourself」を聴きました",
+    "url": "https://open.spotify.com/track/2xmM54W5qketGHgLilzynh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T19:34:42.237Z",
+    "content": "BIM の「RASEN」を聴きました",
+    "url": "https://open.spotify.com/track/7Ioe77iVs0S1enZ2X9nOUF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T19:03:23.962Z",
+    "content": "RHYMESTER の「午前零時 -Intro」を聴きました",
+    "url": "https://open.spotify.com/track/20ge8zv2utvkIl1z0UPIen"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-17T14:00:17.092Z",
     "content": "Perfume の「チョコレイト・ディスコ」を聴きました",
     "url": "https://open.spotify.com/track/35WLGytCEIVPLBPfhNPhTp"
@@ -28,35 +58,5 @@
     "timestamp": "2026-02-17T13:39:59.427Z",
     "content": "黒魔 (Chroma) の「Roots of Resonance」を聴きました",
     "url": "https://open.spotify.com/track/09AZHaBxEXSgP8tFgZh3LU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T13:25:57.727Z",
-    "content": "Fujii Kaze の「Shape Of You」を聴きました",
-    "url": "https://open.spotify.com/track/3VcT4kpalhVmwBvTj9WUwW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T13:16:53.581Z",
-    "content": "モーニング娘。 の「泣いちゃうかも」を聴きました",
-    "url": "https://open.spotify.com/track/3a5xh0ez7v8FYTM2Bb2j5c"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T12:47:22.994Z",
-    "content": "ARASHI の「Turning Up」を聴きました",
-    "url": "https://open.spotify.com/track/4zdQmfTLWgGd5mAX4MUIaX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T12:33:28.526Z",
-    "content": "Kyary Pamyu Pamyu の「Point of view」を聴きました",
-    "url": "https://open.spotify.com/track/4fROPhCLLcDH4N5pgZv1bW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T12:14:27.457Z",
-    "content": "Quruli の「Regulus」を聴きました",
-    "url": "https://open.spotify.com/track/6RWHg2HhheaybvzN0tpa5s"
   }
 ]
