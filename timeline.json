@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-17T11:06:44.354Z",
+    "content": "Quruli の「Natsuno」を聴きました",
+    "url": "https://open.spotify.com/track/1IwdfIPaU4oI5xT2kMOlww"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T11:03:43.303Z",
+    "content": "Quruli の「かごの中のジョニー」を聴きました",
+    "url": "https://open.spotify.com/track/2zqwTjMYzYb6z9ZwArCkYB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-17T10:56:30.665Z",
+    "content": "Quruli の「さよならリグレット」を聴きました",
+    "url": "https://open.spotify.com/track/1quydvDHYcl6g9L1D0nsIL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-17T09:49:40.013Z",
     "content": "タンポポ の「ラストキッス」を聴きました",
     "url": "https://open.spotify.com/track/3uhlj2dUVyx0Cei8tEfJqk"
@@ -40,23 +58,5 @@
     "timestamp": "2026-02-17T09:23:41.223Z",
     "content": "アズマリム の「人類みなセンパイ！」を聴きました",
     "url": "https://open.spotify.com/track/7mnBBK1tWzxCByaGtcD7uT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-16T18:57:23.340Z",
-    "content": "NONA REEVES の「DJ! DJ! 〜とどかぬ想い〜 feat. YOU THE ROCK★」を聴きました",
-    "url": "https://open.spotify.com/track/51YXur6SKVkjIc7BBZpnhf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-16T18:53:09.674Z",
-    "content": "NONA REEVES の「LOVE TOGETHER」を聴きました",
-    "url": "https://open.spotify.com/track/5LYQQaKIRcbMwm8XzFR8Lw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-16T18:48:14.202Z",
-    "content": "NONA REEVES の「ニュー･ソウル」を聴きました",
-    "url": "https://open.spotify.com/track/4pAOl5BaaLs6Kp4OtMWBqV"
   }
 ]
