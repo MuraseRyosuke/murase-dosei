@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-18T19:51:08.101Z",
+    "content": "モーニング娘。 の「BE ポジティブ！」を聴きました",
+    "url": "https://open.spotify.com/track/1zhL4UvqD5MFmPpUsBfzs9"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-18T18:19:48.845Z",
     "content": "Noriyuki Makihara の「もう恋なんてしない - 2012 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-17T14:00:17.092Z",
     "content": "Perfume の「チョコレイト・ディスコ」を聴きました",
     "url": "https://open.spotify.com/track/35WLGytCEIVPLBPfhNPhTp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T13:52:27.740Z",
-    "content": "Sheena Ringo の「おだいじに」を聴きました",
-    "url": "https://open.spotify.com/track/52UchVYXQRUsIgGptAA9Wa"
   }
 ]
