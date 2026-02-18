@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-18T18:19:48.845Z",
+    "content": "Noriyuki Makihara の「もう恋なんてしない - 2012 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-18T10:25:17.721Z",
     "content": "Takenobu Mitsuyoshi の「The King of Speed - Daytona USA Re;mix」を聴きました",
     "url": "https://open.spotify.com/track/7LqTzGkH8CzOXLVpsoC3LZ"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-17T13:52:27.740Z",
     "content": "Sheena Ringo の「おだいじに」を聴きました",
     "url": "https://open.spotify.com/track/52UchVYXQRUsIgGptAA9Wa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T13:49:17.269Z",
-    "content": "Creep Hyp の「手と手」を聴きました",
-    "url": "https://open.spotify.com/track/1sqs1PSTZIkPi2BF4MV4RK"
   }
 ]
