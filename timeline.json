@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-18T10:25:17.721Z",
+    "content": "Takenobu Mitsuyoshi の「The King of Speed - Daytona USA Re;mix」を聴きました",
+    "url": "https://open.spotify.com/track/7LqTzGkH8CzOXLVpsoC3LZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-17T20:00:53.011Z",
     "content": "SEGA SOUND TEAM の「OPENING JINGLE (OutRun2 series)」を聴きました",
     "url": "https://open.spotify.com/track/1M59C83uyJeEGOzcZYg79H"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-17T13:49:17.269Z",
     "content": "Creep Hyp の「手と手」を聴きました",
     "url": "https://open.spotify.com/track/1sqs1PSTZIkPi2BF4MV4RK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-17T13:43:29.905Z",
-    "content": "Omodaka の「Plum Song」を聴きました",
-    "url": "https://open.spotify.com/track/74TijDyX3EQ1KudmFttJ5C"
   }
 ]
