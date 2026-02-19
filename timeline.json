@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-19T19:25:59.963Z",
+    "content": "モーニング娘。 の「元気ピカッピカッ！」を聴きました",
+    "url": "https://open.spotify.com/track/6X58VnPcVf3rsi0QsGmxb7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-19T19:03:26.608Z",
+    "content": "モーニング娘。 の「わがまま 気のまま 愛のジョーク」を聴きました",
+    "url": "https://open.spotify.com/track/1NXntlOlgq287uaPKpDFue"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-19T18:57:28.685Z",
+    "content": "BATTEN GIRLS の「OiSa」を聴きました",
+    "url": "https://open.spotify.com/track/6gc0lRkJ03yy67ECdpzq2q"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-19T18:31:20.529Z",
     "content": "モーニング娘。 の「恋のダンスサイト」を聴きました",
     "url": "https://open.spotify.com/track/1btYXOrt7nKeupFbfTemmj"
@@ -40,24 +58,6 @@
     "timestamp": "2026-02-19T18:03:01.679Z",
     "content": "ORESAMA の「Hi-Fi TRAIN」を聴きました",
     "url": "https://open.spotify.com/track/3VnhbG58Je7NSPBUfC0P1w"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-19T17:29:24.905Z",
-    "content": "AKB48 の「君のことが好きだから」を聴きました",
-    "url": "https://open.spotify.com/track/1ptClqLBCFuSI41A5NIx3c"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-19T17:25:16.258Z",
-    "content": "AKB48 の「大声ダイヤモンド」を聴きました",
-    "url": "https://open.spotify.com/track/3MJjLlRboFvdTrz60MaUto"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-19T17:21:07.588Z",
-    "content": "AKB48 の「RIVER」を聴きました",
-    "url": "https://open.spotify.com/track/1rUnp98PG8oNAZLA3PLQEr"
   },
   {
     "platform": "Bluesky",
