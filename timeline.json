@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-20T13:18:07.799Z",
+    "content": "Tackey Tsubasaa の「Venus」を聴きました",
+    "url": "https://open.spotify.com/track/1ApnlFxvuq7J6xOrVSlJ1F"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-20T11:28:24.897Z",
     "content": "Momoiro Clover Z の「Z女戦争」を聴きました",
     "url": "https://open.spotify.com/track/14hwW40bmZr4NYpK55FxlQ"
@@ -52,12 +58,6 @@
     "timestamp": "2026-02-19T19:25:59.963Z",
     "content": "モーニング娘。 の「元気ピカッピカッ！」を聴きました",
     "url": "https://open.spotify.com/track/6X58VnPcVf3rsi0QsGmxb7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-19T19:03:26.608Z",
-    "content": "モーニング娘。 の「わがまま 気のまま 愛のジョーク」を聴きました",
-    "url": "https://open.spotify.com/track/1NXntlOlgq287uaPKpDFue"
   },
   {
     "platform": "Bluesky",
