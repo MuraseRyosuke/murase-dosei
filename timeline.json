@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-26T08:15:44.919Z",
+    "content": "モーニング娘。 の「OK YEAH！」を聴きました",
+    "url": "https://open.spotify.com/track/5XH0yup0Uu2zfVGg8h9pu4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-26T08:07:06.950Z",
+    "content": "モーニング娘。'21 の「恋愛Destiny～本音を論じたい～」を聴きました",
+    "url": "https://open.spotify.com/track/6VwYyKDauRCQ67GtjnlJ8g"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-26T08:03:06.554Z",
     "content": "モーニング娘。'14 の「私は私なんだ」を聴きました",
     "url": "https://open.spotify.com/track/3GNzZTzmJ8bm7Dk0lqG5LQ"
@@ -46,18 +58,6 @@
     "timestamp": "2026-02-26T07:31:32.631Z",
     "content": "モーニング娘。 の「踊れ！モーニングカレー」を聴きました",
     "url": "https://open.spotify.com/track/288mcLU4e0PqQUtiq7qsTr"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-26T07:27:42.507Z",
-    "content": "モーニング娘。'14 の「時空を超え 宇宙を超え」を聴きました",
-    "url": "https://open.spotify.com/track/6yylU0PuG6xeM7zGlJWgl7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-26T07:22:54.631Z",
-    "content": "モーニング娘。'17 の「私のなんにもわかっちゃない」を聴きました",
-    "url": "https://open.spotify.com/track/7r1GhrewTtO6c796GNetTa"
   },
   {
     "platform": "Bluesky",
