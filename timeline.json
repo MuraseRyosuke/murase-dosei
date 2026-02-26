@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-26T04:26:33.156Z",
+    "content": "モーニング娘。'16 の「泡沫サタデーナイト！」を聴きました",
+    "url": "https://open.spotify.com/track/2guwsLLGdI5AYvlMMjeTyC"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-26T04:22:28.604Z",
+    "content": "モーニング娘。'24 の「最KIYOU」を聴きました",
+    "url": "https://open.spotify.com/track/3QJHl5bxKfsyCdSa5ejHTm"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-24T11:05:47.517Z",
     "content": "モーニング娘。'20 の「KOKORO&KARADA」を聴きました",
     "url": "https://open.spotify.com/track/6fztex4CtzExAGb5kvROaO"
@@ -46,18 +58,6 @@
     "timestamp": "2026-02-23T12:03:47.889Z",
     "content": "Jamiroquai の「Too Young to Die」を聴きました",
     "url": "https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-23T11:57:34.016Z",
-    "content": "Jamiroquai の「When You Gonna Learn?」を聴きました",
-    "url": "https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-23T11:52:06.611Z",
-    "content": "Jamiroquai の「Planet Home」を聴きました",
-    "url": "https://open.spotify.com/track/2BdBS34xhGRweAm990KuiO"
   },
   {
     "platform": "Bluesky",
