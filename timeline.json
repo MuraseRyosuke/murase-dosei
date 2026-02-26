@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-26T21:34:24.417Z",
+    "content": "Ryuichi Sakamoto の「Improvisation - 20201212」を聴きました",
+    "url": "https://open.spotify.com/track/5MU9oj4ieDJ7b7A3v0hNK2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-26T21:32:32.027Z",
     "content": "Ryuichi Sakamoto の「MUJI2020」を聴きました",
     "url": "https://open.spotify.com/track/3DDJC7uBRVJesjhwT0wGsM"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-26T20:52:47.738Z",
     "content": "Ryuichi Sakamoto の「Mizu no Naka no Bagatelle」を聴きました",
     "url": "https://open.spotify.com/track/3Fgph2b8NBURAtrMUjhkNl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-26T20:48:32.836Z",
-    "content": "Ryuichi Sakamoto の「Aoneko no Torso」を聴きました",
-    "url": "https://open.spotify.com/track/3OHMh4aDCztImB81pPMGXx"
   }
 ]
