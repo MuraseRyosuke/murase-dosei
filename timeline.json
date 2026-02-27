@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-27T02:42:41.375Z",
+    "content": "Cornelius の「Helix / Spiral」を聴きました",
+    "url": "https://open.spotify.com/track/6nF4KWUUkvzknU63Ynkro5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T02:39:06.528Z",
+    "content": "Cornelius の「夢の中で」を聴きました",
+    "url": "https://open.spotify.com/track/4f04NLdGzJFheSvp8B05bQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T02:34:53.230Z",
+    "content": "Cornelius の「Surfing on Mind Wave pt 2」を聴きました",
+    "url": "https://open.spotify.com/track/5bZvhP6t3M6Xirvc2bgDBP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T02:29:19.078Z",
+    "content": "Cornelius の「未来の人へ」を聴きました",
+    "url": "https://open.spotify.com/track/5ZUkJad84XLGhxlH04GYh5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T02:24:41.296Z",
+    "content": "Cornelius の「いつか / どこか」を聴きました",
+    "url": "https://open.spotify.com/track/7DtatA2Cag5DWYhmXbiHoL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T02:20:51.932Z",
+    "content": "Cornelius の「あなたがいるなら」を聴きました",
+    "url": "https://open.spotify.com/track/0xnLfnw14niTCmMMVVciQ9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T02:14:39.560Z",
+    "content": "Cornelius の「MIND TRAIN」を聴きました",
+    "url": "https://open.spotify.com/track/7dxIIrRMTVsTWHX7k7SL0P"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-27T02:04:59.191Z",
     "content": "CFCF の「Punksong」を聴きました",
     "url": "https://open.spotify.com/track/3vhm6EhfXmtbaD2KLAHQnm"
@@ -16,47 +58,5 @@
     "timestamp": "2026-02-27T02:01:26.999Z",
     "content": "CFCF の「Model Castings」を聴きました",
     "url": "https://open.spotify.com/track/7yPrm6Q0M6pE7wISE4s0qE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:57:02.046Z",
-    "content": "CFCF の「Nostalgic Body」を聴きました",
-    "url": "https://open.spotify.com/track/39eYCeqc1dDVvskK2uKUQq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:51:11.910Z",
-    "content": "CFCF の「Life is Perfecto」を聴きました",
-    "url": "https://open.spotify.com/track/5oAstMfysTU1PmFOZHIFOe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:43:54.522Z",
-    "content": "CFCF の「welcome.WAV」を聴きました",
-    "url": "https://open.spotify.com/track/0pcjiFh9fcoADZcnCzRRG8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:43:02.758Z",
-    "content": "CFCF の「Re-Identity」を聴きました",
-    "url": "https://open.spotify.com/track/3VLTdzBOpXCHMWyYpqqbHP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:40:14.843Z",
-    "content": "CFCF の「Subdivisions」を聴きました",
-    "url": "https://open.spotify.com/track/6gNGqXjHfrcM0kItFDtQmI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:37:26.724Z",
-    "content": "CFCF の「Closed Space」を聴きました",
-    "url": "https://open.spotify.com/track/7gW2TDSTCxngUJ6l75pCkv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T01:32:15.417Z",
-    "content": "CFCF の「Last Century Modern」を聴きました",
-    "url": "https://open.spotify.com/track/6cxh7syzYsIXMRt469UDQ1"
   }
 ]
