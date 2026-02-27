@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-27T13:08:43.408Z",
+    "content": "ReGLOSS の「2co1」を聴きました",
+    "url": "https://open.spotify.com/track/1qaOBTYzoSBssG9KyWoT4g"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-27T13:02:52.321Z",
     "content": "DE DE MOUSE の「Bent」を聴きました",
     "url": "https://open.spotify.com/track/2kOun7mLtIoUZJJpGyEJQs"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-27T11:46:16.577Z",
     "content": "DE DE MOUSE の「Dream You Up」を聴きました",
     "url": "https://open.spotify.com/track/4XLYLsKMT4IZthEXvoroLq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T11:44:20.088Z",
-    "content": "DE DE MOUSE の「Bent」を聴きました",
-    "url": "https://open.spotify.com/track/2kOun7mLtIoUZJJpGyEJQs"
   }
 ]
