@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-27T07:15:07.501Z",
+    "content": "Toshiki Kadomatsu の「Way to the Shore \"Eri\"」を聴きました",
+    "url": "https://open.spotify.com/track/5FiEATCtZSR5f4s3294GtE"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-27T07:05:21.195Z",
+    "content": "Cornelius の「Mellow Yellow Feel」を聴きました",
+    "url": "https://open.spotify.com/track/4gJE8z6cEg6Z9Y77MBc5LQ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-27T02:42:41.375Z",
     "content": "Cornelius の「Helix / Spiral」を聴きました",
     "url": "https://open.spotify.com/track/6nF4KWUUkvzknU63Ynkro5"
@@ -46,17 +58,5 @@
     "timestamp": "2026-02-27T02:04:59.191Z",
     "content": "CFCF の「Punksong」を聴きました",
     "url": "https://open.spotify.com/track/3vhm6EhfXmtbaD2KLAHQnm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T02:03:26.040Z",
-    "content": "CFCF の「suburbilude」を聴きました",
-    "url": "https://open.spotify.com/track/7jLtzOGoT9gttO0DBRZEtw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T02:01:26.999Z",
-    "content": "CFCF の「Model Castings」を聴きました",
-    "url": "https://open.spotify.com/track/7yPrm6Q0M6pE7wISE4s0qE"
   }
 ]
