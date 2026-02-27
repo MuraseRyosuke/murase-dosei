@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-27T16:56:26.267Z",
+    "content": "Masashi Sada の「風に立つライオン」を聴きました",
+    "url": "https://open.spotify.com/track/1bwUYEEKzHvCi14UJnlhhq"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-27T15:19:05.698Z",
     "content": "ポケモン音楽クラブ の「バツグンタイプ」を聴きました",
     "url": "https://open.spotify.com/track/0z6r6l49kStB4LMsJNsFeT"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-27T11:53:51.467Z",
     "content": "DE DE MOUSE の「as you like it」を聴きました",
     "url": "https://open.spotify.com/track/44OJW7P3dZZe0toe269Cin"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T11:48:15.997Z",
-    "content": "DE DE MOUSE の「Hand on Your Hand」を聴きました",
-    "url": "https://open.spotify.com/track/4TWXmMVQEPmY3bmyqxftNH"
   }
 ]
