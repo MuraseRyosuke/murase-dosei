@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-27T15:19:05.698Z",
+    "content": "ポケモン音楽クラブ の「バツグンタイプ」を聴きました",
+    "url": "https://open.spotify.com/track/0z6r6l49kStB4LMsJNsFeT"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-27T13:08:43.408Z",
     "content": "ReGLOSS の「2co1」を聴きました",
     "url": "https://open.spotify.com/track/1qaOBTYzoSBssG9KyWoT4g"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-27T11:48:15.997Z",
     "content": "DE DE MOUSE の「Hand on Your Hand」を聴きました",
     "url": "https://open.spotify.com/track/4TWXmMVQEPmY3bmyqxftNH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T11:46:16.577Z",
-    "content": "DE DE MOUSE の「Dream You Up」を聴きました",
-    "url": "https://open.spotify.com/track/4XLYLsKMT4IZthEXvoroLq"
   }
 ]
