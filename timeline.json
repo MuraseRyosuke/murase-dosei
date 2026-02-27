@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-27T09:25:44.922Z",
+    "content": "CFCF の「Sate Padang」を聴きました",
+    "url": "https://open.spotify.com/track/10KLZOKmh3c7SKCmYLbpZP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-27T07:15:07.501Z",
     "content": "Toshiki Kadomatsu の「Way to the Shore \"Eri\"」を聴きました",
     "url": "https://open.spotify.com/track/5FiEATCtZSR5f4s3294GtE"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-27T02:14:39.560Z",
     "content": "Cornelius の「MIND TRAIN」を聴きました",
     "url": "https://open.spotify.com/track/7dxIIrRMTVsTWHX7k7SL0P"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-27T02:04:59.191Z",
-    "content": "CFCF の「Punksong」を聴きました",
-    "url": "https://open.spotify.com/track/3vhm6EhfXmtbaD2KLAHQnm"
   }
 ]
