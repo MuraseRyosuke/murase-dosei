@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-28T17:03:33.058Z",
+    "content": "PASSEPIED の「DISTANCE」を聴きました",
+    "url": "https://open.spotify.com/track/6v6WCRxWKr7Ac7DziqNV80"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-28T16:56:47.156Z",
+    "content": "PASSEPIED の「やまない声」を聴きました",
+    "url": "https://open.spotify.com/track/1DhQGOo4GijePLEVfobb71"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-02-28T16:53:17.540Z",
+    "content": "PASSEPIED の「永すぎた春」を聴きました",
+    "url": "https://open.spotify.com/track/3DSqCdEKbtr9j80K6KAWfe"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-28T16:49:03.833Z",
     "content": "PASSEPIED の「素顔」を聴きました",
     "url": "https://open.spotify.com/track/6Q9Z8TDrH85kEUdhFt9Bct"
@@ -40,23 +58,5 @@
     "timestamp": "2026-02-28T16:19:44.665Z",
     "content": "PASSEPIED の「贅沢ないいわけ」を聴きました",
     "url": "https://open.spotify.com/track/6dQy64lNmMr6BjAmGteXmA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-28T16:14:35.138Z",
-    "content": "PASSEPIED の「術中ハック」を聴きました",
-    "url": "https://open.spotify.com/track/0wDHAJLdAmXhaCW4juyNRN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-28T16:10:44.021Z",
-    "content": "PASSEPIED の「蜘蛛の糸」を聴きました",
-    "url": "https://open.spotify.com/track/7jptYkWbnmkpZNeujFcrIw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-28T16:06:58.626Z",
-    "content": "PASSEPIED の「アンサー」を聴きました",
-    "url": "https://open.spotify.com/track/1qJThMZBFbO2sBiDsA0qB9"
   }
 ]
