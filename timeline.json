@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-02-28T14:25:42.008Z",
+    "content": "PASSEPIED の「術中ハック」を聴きました",
+    "url": "https://open.spotify.com/track/0wDHAJLdAmXhaCW4juyNRN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-02-28T14:21:59.647Z",
     "content": "PASSEPIED の「蜘蛛の糸」を聴きました",
     "url": "https://open.spotify.com/track/7jptYkWbnmkpZNeujFcrIw"
@@ -52,11 +58,5 @@
     "timestamp": "2026-02-28T09:07:32.133Z",
     "content": "RIDGE RACER Series の「GRIP」を聴きました",
     "url": "https://open.spotify.com/track/4qYBngpK5hnxdYjBzXcJml"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-28T08:59:15.636Z",
-    "content": "RIDGE RACER Series の「Drive U 2 dancing」を聴きました",
-    "url": "https://open.spotify.com/track/5FV59EVpkjbEZVF45ilNDO"
   }
 ]
