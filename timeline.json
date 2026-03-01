@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-01T16:26:31.697Z",
+    "content": "Shiho Nanba の「2センチのテレビ塔」を聴きました",
+    "url": "https://open.spotify.com/track/5B4dFuh5djXlGsdImWJPiO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-01T12:44:14.896Z",
     "content": "snafu の「tokyo drift for gen-z」を聴きました",
     "url": "https://open.spotify.com/track/2Eq3s2Ntm3kmHHjs4WFKtm"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-01T08:28:17.279Z",
     "content": "Caramella Girls の「Caramelldansen - O-O-Oa-Oa」を聴きました",
     "url": "https://open.spotify.com/track/6OGjeFDlR8lxpByMec5PeL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T08:27:05.628Z",
-    "content": "Judas の「キッチンはマイステージ(カバー)feat.R.Cena」を聴きました",
-    "url": "https://open.spotify.com/track/1nGdKrT21jGC2kmBAqxwCq"
   }
 ]
