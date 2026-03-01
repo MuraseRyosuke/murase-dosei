@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-01T09:23:06.759Z",
+    "content": "Sly & The Family Stone の「Thank You (Falettinme Be Mice Elf Agin) - Single Version」を聴きました",
+    "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-01T09:16:35.553Z",
+    "content": "Masashi Sada の「遙かなるクリスマス」を聴きました",
+    "url": "https://open.spotify.com/track/2BsPdaismgusaSLNTrImqP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-01T09:03:04.659Z",
+    "content": "DE DE MOUSE の「You Are Right」を聴きました",
+    "url": "https://open.spotify.com/track/2u4fTt0wijKelMLs1TNSe5"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-01T08:28:17.279Z",
     "content": "Caramella Girls の「Caramelldansen - O-O-Oa-Oa」を聴きました",
     "url": "https://open.spotify.com/track/6OGjeFDlR8lxpByMec5PeL"
@@ -40,23 +58,5 @@
     "timestamp": "2026-03-01T08:00:22.729Z",
     "content": "PASSEPIED の「贅沢ないいわけ」を聴きました",
     "url": "https://open.spotify.com/track/6dQy64lNmMr6BjAmGteXmA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T08:00:12.449Z",
-    "content": "PASSEPIED の「ハイパーリアリスト」を聴きました",
-    "url": "https://open.spotify.com/track/3YRkEWUsxgcv0TXunuFXaG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-28T17:03:33.058Z",
-    "content": "PASSEPIED の「DISTANCE」を聴きました",
-    "url": "https://open.spotify.com/track/6v6WCRxWKr7Ac7DziqNV80"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-02-28T16:56:47.156Z",
-    "content": "PASSEPIED の「やまない声」を聴きました",
-    "url": "https://open.spotify.com/track/1DhQGOo4GijePLEVfobb71"
   }
 ]
