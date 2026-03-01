@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-01T20:49:00.644Z",
+    "content": "UNICORN の「WAO!」を聴きました",
+    "url": "https://open.spotify.com/track/0vsMJ9kZyVD3poXSisGZW7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-01T20:44:29.188Z",
+    "content": "Leo Imai の「New Roses」を聴きました",
+    "url": "https://open.spotify.com/track/25XKi258eSwDdPruRmJBb5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-01T20:34:44.335Z",
+    "content": "Billy Joel の「The Ballad of Billy the Kid - Live on WSIU \"The Session\", Feb 10, 1972」を聴きました",
+    "url": "https://open.spotify.com/track/1AJxb6zg4U15mdV0gScIY5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-01T20:32:31.529Z",
+    "content": "unBORDE all stars の「Feel」を聴きました",
+    "url": "https://open.spotify.com/track/05WGcOn3P8GZKzFRO6hRUs"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-01T20:23:54.942Z",
     "content": "MON7A の「TOGE TOGE - Sped Up」を聴きました",
     "url": "https://open.spotify.com/track/5W4xE7IGjQVxrrOIqhNr6q"
@@ -34,29 +58,5 @@
     "timestamp": "2026-03-01T17:12:05.206Z",
     "content": "Ludwig van Beethoven の「Symphony No. 9 in D Minor, Op. 125 \"Choral\": I. Allegro ma non troppo, un poco maestoso」を聴きました",
     "url": "https://open.spotify.com/track/25jgRpWDSpoFRNgd0saSAY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T16:43:30.132Z",
-    "content": "大滝詠一 の「Pap-Pi-Doo-Bi-Doo-Ba物語」を聴きました",
-    "url": "https://open.spotify.com/track/730l49aEWTlPLAuxoDNpRY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T16:40:13.424Z",
-    "content": "大滝詠一 の「カナリア諸島にて」を聴きました",
-    "url": "https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T16:36:11.825Z",
-    "content": "大滝詠一 の「Velvet Motel」を聴きました",
-    "url": "https://open.spotify.com/track/4abmivWHbLtFMzc0GUfSz6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T16:32:26.314Z",
-    "content": "大滝詠一 の「君は天然色」を聴きました",
-    "url": "https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB"
   }
 ]
