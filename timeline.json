@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-01T12:44:14.896Z",
+    "content": "snafu の「tokyo drift for gen-z」を聴きました",
+    "url": "https://open.spotify.com/track/2Eq3s2Ntm3kmHHjs4WFKtm"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-01T09:56:02.934Z",
     "content": "Stratus の「You Must Follow - Evol Intent VIP」を聴きました",
     "url": "https://open.spotify.com/track/3t6JUvcsEn7l8RWrPhiBGN"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-01T08:27:05.628Z",
     "content": "Judas の「キッチンはマイステージ(カバー)feat.R.Cena」を聴きました",
     "url": "https://open.spotify.com/track/1nGdKrT21jGC2kmBAqxwCq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T08:22:23.897Z",
-    "content": "Acid=Stone Valley の「STORM(カバー)feat.YOZU」を聴きました",
-    "url": "https://open.spotify.com/track/1AitYjR41jEgGIjYGHX3wN"
   }
 ]
