@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-02T14:08:09.333Z",
+    "content": "Earth, Wind & Fire の「In the Stone」を聴きました",
+    "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-02T12:53:36.463Z",
     "content": "Madeon の「Borealis」を聴きました",
     "url": "https://open.spotify.com/track/0OomkPDgVnSGwnrK8ywiSX"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-02T12:25:44.612Z",
     "content": "Madeon の「All My Friends」を聴きました",
     "url": "https://open.spotify.com/track/3ArdPRbscsYB2uI70AzpuG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-02T12:22:21.236Z",
-    "content": "Madeon の「Dream Dream Dream」を聴きました",
-    "url": "https://open.spotify.com/track/5FAFRyxvtiFzPTsKmfXudD"
   }
 ]
