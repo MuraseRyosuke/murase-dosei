@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-02T19:56:42.275Z",
+    "content": "PASSEPIED の「最終電車」を聴きました",
+    "url": "https://open.spotify.com/track/2X0Qw8qcryZ8QCxTs7sC69"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-02T19:52:12.229Z",
+    "content": "PASSEPIED の「つくり囃子」を聴きました",
+    "url": "https://open.spotify.com/track/1aX8l8Nwh7WtzTNBvIXtdG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-02T19:38:39.820Z",
+    "content": "PASSEPIED の「最終電車」を聴きました",
+    "url": "https://open.spotify.com/track/2X0Qw8qcryZ8QCxTs7sC69"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-02T18:41:49.643Z",
     "content": "PASSEPIED の「最終電車」を聴きました",
     "url": "https://open.spotify.com/track/2X0Qw8qcryZ8QCxTs7sC69"
@@ -40,23 +58,5 @@
     "timestamp": "2026-03-02T18:11:48.508Z",
     "content": "RIDGE RACER Series の「RANK UP」を聴きました",
     "url": "https://open.spotify.com/track/0MVe6larYdZjRE7tUDYvVh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-02T18:01:48.673Z",
-    "content": "Kenshi Yonezu の「KICK BACK」を聴きました",
-    "url": "https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-02T17:58:48.198Z",
-    "content": "Kenshi Yonezu の「Pale Blue」を聴きました",
-    "url": "https://open.spotify.com/track/1YcrPcT05eI3ojtTpJO8cE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-02T17:53:48.237Z",
-    "content": "Kenshi Yonezu の「ゆめうつつ - Daydream」を聴きました",
-    "url": "https://open.spotify.com/track/2cI2h593ytqfNdbiJImZR3"
   }
 ]
