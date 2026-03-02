@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-02T11:40:14.813Z",
+    "content": "QUBIT の「Fast Life - Album mix」を聴きました",
+    "url": "https://open.spotify.com/track/3xYPHVpYLnImf6JvAafd8S"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-01T22:44:02.203Z",
     "content": "QUBIT の「Beautiful Days」を聴きました",
     "url": "https://open.spotify.com/track/7iSGf8qaB5WI5RFBAi9LNP"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-01T22:08:53.877Z",
     "content": "PASSEPIED の「大発見！」を聴きました",
     "url": "https://open.spotify.com/track/2mvaH0g0G5en7MXXrZIMcQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-01T22:03:23.413Z",
-    "content": "PASSEPIED の「グッド・バイ」を聴きました",
-    "url": "https://open.spotify.com/track/0rEZGCBnKpJiR4AOLSDODv"
   }
 ]
