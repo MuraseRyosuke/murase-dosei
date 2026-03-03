@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-03T20:32:07.064Z",
+    "content": "Network Music Ensemble の「Red Line」を聴きました",
+    "url": "https://open.spotify.com/track/3jC2YZFgNS1DwPAZ9CfaZw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-03T20:29:14.159Z",
+    "content": "Network Music Ensemble の「Adrenaline」を聴きました",
+    "url": "https://open.spotify.com/track/6uHx2J40PlRekMHKKeTJAZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-03T20:13:08.146Z",
+    "content": "PASSEPIED の「新擬態」を聴きました",
+    "url": "https://open.spotify.com/track/7C4yTcim76gYfz1o6fpIbG"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-03T19:21:36.799Z",
     "content": "PASSEPIED の「トゥパリタ」を聴きました",
     "url": "https://open.spotify.com/track/1yYkxzJSwfWckjNbkTtaze"
@@ -40,23 +58,5 @@
     "timestamp": "2026-03-03T14:29:19.177Z",
     "content": "After the Rain の「１・２・３」を聴きました",
     "url": "https://open.spotify.com/track/5a6YChdEs7LDu5RuCsxHXH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T14:20:15.817Z",
-    "content": "group_inou の「EYE」を聴きました",
-    "url": "https://open.spotify.com/track/4wd8kECYqJQid66a07ABNt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T14:13:31.840Z",
-    "content": "ZAZEN BOYS の「Weekend」を聴きました",
-    "url": "https://open.spotify.com/track/2rVEtcPXtTXclz6u2Md9nv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T14:07:01.600Z",
-    "content": "Sunshine Love Steel Orchestra の「Up Up And Away」を聴きました",
-    "url": "https://open.spotify.com/track/1t009eKgV3C94espMdNvhN"
   }
 ]
