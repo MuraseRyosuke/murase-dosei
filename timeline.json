@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-03T06:17:20.304Z",
+    "content": "Denki Groove の「25 Raw Beats」を聴きました",
+    "url": "https://open.spotify.com/track/7x4zYJoAPIGQYZaJRKQ0Mj"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-03T05:11:58.855Z",
     "content": "TEMPLIME の「Yoake」を聴きました",
     "url": "https://open.spotify.com/track/0jcPZ536nU1Pwm0tFAnNS6"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-03T04:46:15.856Z",
     "content": "TEMPLIME の「Suichu」を聴きました",
     "url": "https://open.spotify.com/track/1g0mrVVG15a05rSK9R8him"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T04:42:43.598Z",
-    "content": "TEMPLIME の「Skycave」を聴きました",
-    "url": "https://open.spotify.com/track/2QZ4LrnWintatbZePvvwf8"
   }
 ]
