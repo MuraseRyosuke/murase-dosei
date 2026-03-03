@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-03T08:40:40.007Z",
+    "content": "Tokyo Incidents の「緑酒」を聴きました",
+    "url": "https://open.spotify.com/track/3oll64wUY1QJZDCw3PUYiu"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-03T08:36:41.024Z",
+    "content": "PASSEPIED の「最終電車」を聴きました",
+    "url": "https://open.spotify.com/track/2X0Qw8qcryZ8QCxTs7sC69"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-03T06:17:20.304Z",
     "content": "Denki Groove の「25 Raw Beats」を聴きました",
     "url": "https://open.spotify.com/track/7x4zYJoAPIGQYZaJRKQ0Mj"
@@ -46,17 +58,5 @@
     "timestamp": "2026-03-03T04:54:34.882Z",
     "content": "TEMPLIME の「Melody Smash (feat. LIL SOFT TENNIS)」を聴きました",
     "url": "https://open.spotify.com/track/2N4HffuhFJjAHTwsNorujH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T04:51:04.761Z",
-    "content": "TEMPLIME の「Cold Tears (Original)」を聴きました",
-    "url": "https://open.spotify.com/track/685RPqslsHPlrKEua1FBOb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T04:46:15.856Z",
-    "content": "TEMPLIME の「Suichu」を聴きました",
-    "url": "https://open.spotify.com/track/1g0mrVVG15a05rSK9R8him"
   }
 ]
