@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-04T03:56:59.870Z",
+    "content": "Network Music Ensemble の「Adrenaline」を聴きました",
+    "url": "https://open.spotify.com/track/6uHx2J40PlRekMHKKeTJAZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-04T03:10:37.064Z",
+    "content": "Network Music Ensemble の「Red Line」を聴きました",
+    "url": "https://open.spotify.com/track/3jC2YZFgNS1DwPAZ9CfaZw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-03T20:32:07.064Z",
     "content": "Network Music Ensemble の「Red Line」を聴きました",
     "url": "https://open.spotify.com/track/3jC2YZFgNS1DwPAZ9CfaZw"
@@ -46,17 +58,5 @@
     "timestamp": "2026-03-03T19:04:20.465Z",
     "content": "PASSEPIED の「最終電車」を聴きました",
     "url": "https://open.spotify.com/track/2X0Qw8qcryZ8QCxTs7sC69"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T19:00:24.663Z",
-    "content": "PASSEPIED の「つくり囃子」を聴きました",
-    "url": "https://open.spotify.com/track/1aX8l8Nwh7WtzTNBvIXtdG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T14:29:19.177Z",
-    "content": "After the Rain の「１・２・３」を聴きました",
-    "url": "https://open.spotify.com/track/5a6YChdEs7LDu5RuCsxHXH"
   }
 ]
