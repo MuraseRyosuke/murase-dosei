@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-04T21:57:55.209Z",
+    "content": "Network Music Ensemble の「Adrenaline」を聴きました",
+    "url": "https://open.spotify.com/track/6uHx2J40PlRekMHKKeTJAZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-04T03:56:59.870Z",
     "content": "Network Music Ensemble の「Adrenaline」を聴きました",
     "url": "https://open.spotify.com/track/6uHx2J40PlRekMHKKeTJAZ"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-03T19:07:49.568Z",
     "content": "PASSEPIED の「大発見！」を聴きました",
     "url": "https://open.spotify.com/track/2mvaH0g0G5en7MXXrZIMcQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T19:04:20.465Z",
-    "content": "PASSEPIED の「最終電車」を聴きました",
-    "url": "https://open.spotify.com/track/2X0Qw8qcryZ8QCxTs7sC69"
   }
 ]
