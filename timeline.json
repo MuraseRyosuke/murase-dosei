@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-08T12:14:25.885Z",
+    "content": "Fujii Kaze の「My Place」を聴きました",
+    "url": "https://open.spotify.com/track/16jM50SQ1eIkjjERn6HHSj"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-05T08:39:00.295Z",
     "content": "Network Music Ensemble の「Adrenaline」を聴きました",
     "url": "https://open.spotify.com/track/6uHx2J40PlRekMHKKeTJAZ"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-03T19:17:16.124Z",
     "content": "PASSEPIED の「電影夢想少女」を聴きました",
     "url": "https://open.spotify.com/track/7uPUtUUZk4ysNEI37E06pg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-03T19:11:12.039Z",
-    "content": "PASSEPIED の「2009」を聴きました",
-    "url": "https://open.spotify.com/track/71dZN7HsD6cLWY8iCr4Kec"
   }
 ]
