@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-10T18:53:17.187Z",
+    "content": "雀が原中学卓球部 の「V字上昇Victory」を聴きました",
+    "url": "https://open.spotify.com/track/4ZH4CSd24quV9NC1LxBrv8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-10T17:17:31.652Z",
     "content": "Kizuna AI の「meet you - DE DE MOUSE Birthday Disco Mix」を聴きました",
     "url": "https://open.spotify.com/track/7CeqbGVPbkGck0R7OnoS7m"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-10T16:44:53.894Z",
     "content": "DE DE MOUSE の「ちょっとだけ魔女」を聴きました",
     "url": "https://open.spotify.com/track/69rX5Xpyf9tuO8y5HgUPDA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-10T16:30:44.644Z",
-    "content": "DE DE MOUSE の「scat n' shout」を聴きました",
-    "url": "https://open.spotify.com/track/28PNwKNTzrWteM7PFUJnv9"
   }
 ]
