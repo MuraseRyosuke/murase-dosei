@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-11T12:02:40.633Z",
+    "content": "Folder の「FIRE! FIRE!」を聴きました",
+    "url": "https://open.spotify.com/track/5oK1UD9nI78FdeHDbbxd6G"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-11T09:34:49.087Z",
     "content": "Kizuna AI の「Here for you」を聴きました",
     "url": "https://open.spotify.com/track/2MClYu3w7pRgBDHuDbyZrn"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-10T17:06:59.658Z",
     "content": "Koshi Inaba の「タッチ」を聴きました",
     "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-10T17:03:29.863Z",
-    "content": "Kenshi Yonezu の「IRIS OUT」を聴きました",
-    "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
   }
 ]
