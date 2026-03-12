@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-12T19:00:14.203Z",
+    "content": "Koshi Inaba の「タッチ」を聴きました",
+    "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-12T18:18:55.969Z",
     "content": "Dead Or Alive の「You Spin Me Round (Like a Record)」を聴きました",
     "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
@@ -52,11 +58,5 @@
     "timestamp": "2026-03-10T17:17:31.652Z",
     "content": "Kizuna AI の「meet you - DE DE MOUSE Birthday Disco Mix」を聴きました",
     "url": "https://open.spotify.com/track/7CeqbGVPbkGck0R7OnoS7m"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-10T17:10:51.624Z",
-    "content": "Kizuna AI の「Here for you」を聴きました",
-    "url": "https://open.spotify.com/track/2MClYu3w7pRgBDHuDbyZrn"
   }
 ]
