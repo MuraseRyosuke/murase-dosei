@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-12T23:46:52.571Z",
+    "content": "BUMP OF CHICKEN の「ray」を聴きました",
+    "url": "https://open.spotify.com/track/1QrR4mWXPY9bLsA4FKYtJF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-12T23:41:12.981Z",
+    "content": "BUMP OF CHICKEN の「ray」を聴きました",
+    "url": "https://open.spotify.com/track/67T4aWFCAbMNWKamvI3piH"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2026-03-12T23:32:58.396Z",
+    "content": "今週ずーっと体調悪いな！1日があっちゅーまに終わってる、もう金曜",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mgvkq4hiz22p"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-12T19:00:14.203Z",
     "content": "Koshi Inaba の「タッチ」を聴きました",
     "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
@@ -46,17 +64,5 @@
     "timestamp": "2026-03-10T19:43:06.289Z",
     "content": "FRUITS ZIPPER の「さん」を聴きました",
     "url": "https://open.spotify.com/track/4D3xkne3ELx6hJoPdRTEPd"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-10T18:53:17.187Z",
-    "content": "雀が原中学卓球部 の「V字上昇Victory」を聴きました",
-    "url": "https://open.spotify.com/track/4ZH4CSd24quV9NC1LxBrv8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-10T17:17:31.652Z",
-    "content": "Kizuna AI の「meet you - DE DE MOUSE Birthday Disco Mix」を聴きました",
-    "url": "https://open.spotify.com/track/7CeqbGVPbkGck0R7OnoS7m"
   }
 ]
