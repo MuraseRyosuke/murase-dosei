@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-14T15:35:44.346Z",
+    "content": "Prefuse 73 の「Black List」を聴きました",
+    "url": "https://open.spotify.com/track/0lJHeq3lqQEFB58xxvOR5t"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-14T12:32:09.916Z",
     "content": "Daft Punk の「Around the World」を聴きました",
     "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-13T00:18:31.990Z",
     "content": "鈴木 光人 の「スピードスクエア -シューティングスター- - FF7 Rebirth OST Ver.」を聴きました",
     "url": "https://open.spotify.com/track/10GyX4pw32KdNsuMJpTxOh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-13T00:13:40.461Z",
-    "content": "初星学園 の「Feel Jewel Dream - Instrumental」を聴きました",
-    "url": "https://open.spotify.com/track/0DGnA6jWDdclsFwuY3zx6B"
   },
   {
     "platform": "Bluesky",
