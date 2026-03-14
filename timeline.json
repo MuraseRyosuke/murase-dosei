@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-14T12:32:09.916Z",
+    "content": "Daft Punk の「Around the World」を聴きました",
+    "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-13T09:09:30.881Z",
     "content": "Hearts2Hearts の「RUDE!」を聴きました",
     "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-13T00:13:40.461Z",
     "content": "初星学園 の「Feel Jewel Dream - Instrumental」を聴きました",
     "url": "https://open.spotify.com/track/0DGnA6jWDdclsFwuY3zx6B"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-13T00:10:18.272Z",
-    "content": "初星学園 の「Feel Jewel Dream」を聴きました",
-    "url": "https://open.spotify.com/track/354cRxdFNcY7tmjV1ddxUO"
   },
   {
     "platform": "Bluesky",
