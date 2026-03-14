@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-14T16:32:52.376Z",
+    "content": "Fujii Kaze の「満ちてゆく」を聴きました",
+    "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-14T16:27:14.743Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-14T15:35:44.346Z",
     "content": "Prefuse 73 の「Black List」を聴きました",
     "url": "https://open.spotify.com/track/0lJHeq3lqQEFB58xxvOR5t"
@@ -46,18 +58,6 @@
     "timestamp": "2026-03-13T02:21:07.641Z",
     "content": "Hearts2Hearts の「FOCUS」を聴きました",
     "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-13T00:23:08.016Z",
-    "content": "Hearts2Hearts の「RUDE!」を聴きました",
-    "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-13T00:18:31.990Z",
-    "content": "鈴木 光人 の「スピードスクエア -シューティングスター- - FF7 Rebirth OST Ver.」を聴きました",
-    "url": "https://open.spotify.com/track/10GyX4pw32KdNsuMJpTxOh"
   },
   {
     "platform": "Bluesky",
