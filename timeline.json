@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-15T18:20:29.567Z",
+    "content": "King Gnu の「飛行艇」を聴きました",
+    "url": "https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T18:16:08.065Z",
+    "content": "King Gnu の「カメレオン」を聴きました",
+    "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T18:14:24.924Z",
+    "content": "Fruitcake の「My Feet Won't Move」を聴きました",
+    "url": "https://open.spotify.com/track/4jCH5a9qCrfnfzhP7Wv4SG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T18:12:53.369Z",
+    "content": "King Gnu の「逆夢」を聴きました",
+    "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T18:03:48.021Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T17:59:37.552Z",
+    "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-15T13:39:02.353Z",
     "content": "My Chemical Romance の「Dead!」を聴きました",
     "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
@@ -22,42 +58,6 @@
     "timestamp": "2026-03-15T13:26:01.091Z",
     "content": "Yuji Nomi の「‐ヴァイオリン・チューニング‐」を聴きました",
     "url": "https://open.spotify.com/track/7t5todLEmcS6dsEObH9j0G"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T13:25:28.736Z",
-    "content": "Yuji Nomi の「エンゲルス・ツィマー （天使の部屋）」を聴きました",
-    "url": "https://open.spotify.com/track/5dvVW2T9b0c7hCN1ZdnBnB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T13:23:24.656Z",
-    "content": "Yuji Nomi の「丘の上、微風あり」を聴きました",
-    "url": "https://open.spotify.com/track/0HiNTWeOdnMV5JM4C2bfM2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T13:21:06.984Z",
-    "content": "Yuji Nomi の「電車に揺られて」を聴きました",
-    "url": "https://open.spotify.com/track/6s3fw6uvSO4TVePpczYlA9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T13:19:48.521Z",
-    "content": "Yuji Nomi の「打ち明け話」を聴きました",
-    "url": "https://open.spotify.com/track/20sW6tBil72EiK20W021Ls"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T13:17:38.923Z",
-    "content": "Yuji Nomi の「夏の終わり」を聴きました",
-    "url": "https://open.spotify.com/track/40rbVaHGz4PgjsuAgKMQGN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T13:16:54.088Z",
-    "content": "Yuji Nomi の「エルフの女王」を聴きました",
-    "url": "https://open.spotify.com/track/3r55Keeyh6JInuKr6phTEm"
   },
   {
     "platform": "Bluesky",
