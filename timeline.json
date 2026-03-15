@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-15T19:45:12.120Z",
+    "content": "ARASHI の「サクラ咲ケ」を聴きました",
+    "url": "https://open.spotify.com/track/3JH4q3juvdcWm6Gb9vH0iN"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T19:40:42.220Z",
+    "content": "ARASHI の「PIKA☆☆NCHI DOUBLE」を聴きました",
+    "url": "https://open.spotify.com/track/5EkhKMozDu9v0Pt4Lowjum"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-15T19:31:42.166Z",
+    "content": "ARASHI の「a Day in Our Life」を聴きました",
+    "url": "https://open.spotify.com/track/33EqZ33MQTbwp9gemvrlBo"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-15T19:26:11.960Z",
     "content": "ARASHI の「感謝カンゲキ雨嵐」を聴きました",
     "url": "https://open.spotify.com/track/6kWou3NSzpD8sVjlQNoTPJ"
@@ -40,24 +58,6 @@
     "timestamp": "2026-03-15T18:14:24.924Z",
     "content": "Fruitcake の「My Feet Won't Move」を聴きました",
     "url": "https://open.spotify.com/track/4jCH5a9qCrfnfzhP7Wv4SG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T18:12:53.369Z",
-    "content": "King Gnu の「逆夢」を聴きました",
-    "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T18:03:48.021Z",
-    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
-    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-15T17:59:37.552Z",
-    "content": "KIRINJI の「千年紀末に降る雪は - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/0W7YTggTm2uArhg6NkSM4O"
   },
   {
     "platform": "Bluesky",
