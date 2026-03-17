@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-17T12:15:55.294Z",
+    "content": "PASSEPIED の「つくり囃子」を聴きました",
+    "url": "https://open.spotify.com/track/1aX8l8Nwh7WtzTNBvIXtdG"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-17T09:38:45.374Z",
     "content": "PASSEPIED の「ヨアケマエ」を聴きました",
     "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-17T08:06:29.487Z",
     "content": "ARASHI の「果てない空」を聴きました",
     "url": "https://open.spotify.com/track/1TFHeKNEUBD9Suo3HGzHYw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-17T08:00:51.725Z",
-    "content": "ARASHI の「Løve Rainbow」を聴きました",
-    "url": "https://open.spotify.com/track/47RmMKs0XB2UBrZ491eqhI"
   },
   {
     "platform": "Bluesky",
