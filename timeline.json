@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-19T16:20:32.505Z",
+    "content": "Spiral Deluxe の「E=MC²」を聴きました",
+    "url": "https://open.spotify.com/track/0hbr9PFK2LcZ8w5jNS7ulV"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-19T14:38:16.980Z",
     "content": "Manji Line の「KEY MAKER」を聴きました",
     "url": "https://open.spotify.com/track/4luSM8fvABlREOFujzzRgN"
@@ -58,12 +64,6 @@
     "timestamp": "2026-03-19T14:05:53.319Z",
     "content": "森七菜 の「ロバとギターときみとぼく」を聴きました",
     "url": "https://open.spotify.com/track/0vXOdM13Etr5yDYjQ1CkBu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T14:03:06.244Z",
-    "content": "森七菜 の「背伸び」を聴きました",
-    "url": "https://open.spotify.com/track/0XRzHrcaCSuEJO0w0ipMWs"
   },
   {
     "platform": "Mastodon",
