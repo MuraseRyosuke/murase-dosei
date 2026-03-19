@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-19T11:07:53.741Z",
+    "content": "King Gnu の「Flash!!!」を聴きました",
+    "url": "https://open.spotify.com/track/4XkJ7N5iX7UKR1uuwVr7A6"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-19T11:05:11.073Z",
+    "content": "King Gnu の「Slumberland」を聴きました",
+    "url": "https://open.spotify.com/track/5lyMIH0DJaG58plHd6mL7g"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-19T11:02:06.451Z",
+    "content": "King Gnu の「Sympa Ⅰ」を聴きました",
+    "url": "https://open.spotify.com/track/36w0cZUXiMm4MAeowfAtqm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-19T10:58:56.007Z",
+    "content": "King Gnu の「Slumberland」を聴きました",
+    "url": "https://open.spotify.com/track/089VYze40c7Eue8zrtMwJn"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-19T09:57:09.974Z",
     "content": "Daoko の「Allure of the Dark」を聴きました",
     "url": "https://open.spotify.com/track/0hXgDM8G5XNXQvkPmrZI5j"
@@ -34,30 +58,6 @@
     "timestamp": "2026-03-19T09:37:28.898Z",
     "content": "Godiego の「銀河鉄道999 - シン・ミックス」を聴きました",
     "url": "https://open.spotify.com/track/2Oded9hR3DKNdkn9LUOkjb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T09:33:51.371Z",
-    "content": "Godiego の「ガンダーラ - シン・ミックス」を聴きました",
-    "url": "https://open.spotify.com/track/4Z0pixGO3V4Nky4V3vYC5J"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T09:28:06.801Z",
-    "content": "Hearts2Hearts の「RUDE! - Japanese Ver.」を聴きました",
-    "url": "https://open.spotify.com/track/4A6mBa9t394jUD5dLrD2tG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T09:24:45.973Z",
-    "content": "Hearts2Hearts の「RUDE!」を聴きました",
-    "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T09:21:03.406Z",
-    "content": "NewJeans の「Ditto」を聴きました",
-    "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
   },
   {
     "platform": "Mastodon",
