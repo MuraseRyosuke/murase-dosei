@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-20T04:21:10.554Z",
+    "content": "CAPSULE の「Super Scooter Happy」を聴きました",
+    "url": "https://open.spotify.com/track/600ID0LjZg6rrxyhOh5ys3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-20T04:14:57.744Z",
+    "content": "RIDGE RACER Series の「GAME OVER」を聴きました",
+    "url": "https://open.spotify.com/track/77ZLW8ey8zX3yO4vwVes93"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-19T23:27:59.167Z",
     "content": "RIDGE RACER Series の「END CREDITS」を聴きました",
     "url": "https://open.spotify.com/track/06jmE4mzsf3UKkR736a50S"
@@ -46,18 +58,6 @@
     "timestamp": "2026-03-19T23:12:44.408Z",
     "content": "RIDGE RACER Series の「VOLCANO VEHICLE」を聴きました",
     "url": "https://open.spotify.com/track/1deKyoFzGXba2y9jjpPsKx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T23:06:11.927Z",
-    "content": "RIDGE RACER Series の「STIMULATION」を聴きました",
-    "url": "https://open.spotify.com/track/652naVnpToEvIg9cN3ifgO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-19T23:00:13.587Z",
-    "content": "RIDGE RACER Series の「SILVER STREAM」を聴きました",
-    "url": "https://open.spotify.com/track/4uCKn6FPZSCTCgM6kuj0XW"
   },
   {
     "platform": "Bluesky",
