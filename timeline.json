@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-20T19:05:09.125Z",
+    "content": "DE DE MOUSE の「star appears」を聴きました",
+    "url": "https://open.spotify.com/track/7ubrKi86YUX27fQBmBpQro"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-20T18:54:18.750Z",
+    "content": "Passion Pit の「The Reeling」を聴きました",
+    "url": "https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-20T13:55:51.741Z",
     "content": "Masaaki Sakai の「さらば恋人」を聴きました",
     "url": "https://open.spotify.com/track/61zt1oeM4XQwOS20LPLpyo"
@@ -46,18 +58,6 @@
     "timestamp": "2026-03-20T13:09:34.715Z",
     "content": "METRO MEW の「めろめろグルーヴ」を聴きました",
     "url": "https://open.spotify.com/track/3wNZrPcyObjsZRLG7h6Vq6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-20T13:05:05.561Z",
-    "content": "あやまんJAPAN の「ぽいぽいぽいぽぽいぽいぽぴー」を聴きました",
-    "url": "https://open.spotify.com/track/4Y3jk2uGUwlsZtEJulx3Sa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-20T13:00:33.811Z",
-    "content": "Yoshida Ichiro Untouchable の「ゼリーの雨で眠れない」を聴きました",
-    "url": "https://open.spotify.com/track/3Mp5Yda61FVub6lzJwx6Sx"
   },
   {
     "platform": "Bluesky",
