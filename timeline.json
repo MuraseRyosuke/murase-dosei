@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-21T16:32:29.298Z",
+    "content": "KAT-TUN の「SIGNAL」を聴きました",
+    "url": "https://open.spotify.com/track/0gG5ujgE9lmvrh8MoD5Zsi"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-21T16:04:18.278Z",
     "content": "Jilly の「BE MY BABE」を聴きました",
     "url": "https://open.spotify.com/track/37hfUPuxBBXCxK9M6Zo0SO"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-21T11:54:09.115Z",
     "content": "Vicarious Visions Audio の「Hog Ride」を聴きました",
     "url": "https://open.spotify.com/track/2rrD3wL4bnjvdcMRbemcKO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T11:52:30.602Z",
-    "content": "Vicarious Visions Audio の「Hang 'Em High Gem」を聴きました",
-    "url": "https://open.spotify.com/track/3E7WIOCSdMvTSg3A1mKgtm"
   },
   {
     "platform": "Bluesky",
