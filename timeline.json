@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-22T05:22:39.133Z",
+    "content": "KAT-TUN の「Real Face」を聴きました",
+    "url": "https://open.spotify.com/track/2YexX0xrBifDj0KFVe5kqY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-22T05:06:01.509Z",
+    "content": "ARASHI の「Step and Go」を聴きました",
+    "url": "https://open.spotify.com/track/7rAB8BtUzH9RF6HiUDT1XZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-21T16:32:29.298Z",
     "content": "KAT-TUN の「SIGNAL」を聴きました",
     "url": "https://open.spotify.com/track/0gG5ujgE9lmvrh8MoD5Zsi"
@@ -48,18 +60,6 @@
     "url": "https://open.spotify.com/track/5OB7p8SZJcxlqFPZ26GCvo"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T11:55:58.060Z",
-    "content": "Vicarious Visions Audio の「Dingodile」を聴きました",
-    "url": "https://open.spotify.com/track/0PmYgbQzTwGIL3QLpMactu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T11:54:09.115Z",
-    "content": "Vicarious Visions Audio の「Hog Ride」を聴きました",
-    "url": "https://open.spotify.com/track/2rrD3wL4bnjvdcMRbemcKO"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-03-19T17:09:41.696Z",
     "content": "私を構成する9つのゲーム\n1. PangYa\n2. クラッシュ バンディクー レーシング\n3. Wipeout Pure\n4. Daytona USA\n5. F-Zero GX\n6. レイジレーサー\n7. ポケモンピンボール\n8. Skate 2\n9. Initial D: Street Stage\n#My9Games #私を構成する9つのゲーム\nmy9games.com/s/9a39c7332d...",
@@ -88,11 +88,5 @@
     "timestamp": "2026-03-17T07:39:53Z",
     "content": "Midra429/NCOverlay をStarしました",
     "url": "https://github.com/Midra429/NCOverlay"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-03-15T05:34:16.694Z",
-    "content": "Messengerのドメイン、Facebook、手放すんだ…",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mh37tzq4b22x"
   }
 ]
