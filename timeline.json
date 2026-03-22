@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-22T11:35:05.420Z",
+    "content": "KAT-TUN の「SIGNAL」を聴きました",
+    "url": "https://open.spotify.com/track/0gG5ujgE9lmvrh8MoD5Zsi"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-22T05:22:39.133Z",
     "content": "KAT-TUN の「Real Face」を聴きました",
     "url": "https://open.spotify.com/track/2YexX0xrBifDj0KFVe5kqY"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-21T13:00:54.522Z",
     "content": "はなわ の「伝説の男 ~ビバ・ガッツ~」を聴きました",
     "url": "https://open.spotify.com/track/1ViFLjKKeUnAgAW0bAB5Pe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T11:57:43.567Z",
-    "content": "Vicarious Visions Audio の「N. Tropy」を聴きました",
-    "url": "https://open.spotify.com/track/5OB7p8SZJcxlqFPZ26GCvo"
   },
   {
     "platform": "Bluesky",
