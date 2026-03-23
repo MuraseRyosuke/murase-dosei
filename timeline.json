@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-23T06:42:31.784Z",
+    "content": "千葉雄喜 の「チーム友達」を聴きました",
+    "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-23T06:39:29.873Z",
+    "content": "sakanaction の「いらない」を聴きました",
+    "url": "https://open.spotify.com/track/7lT3oj3gxE6AJb87ZK8up7"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-22T14:31:02.082Z",
     "content": "RIDGE RACER Series の「RAGE RACER」を聴きました",
     "url": "https://open.spotify.com/track/0TZLpKwnbHQKbz6QqvdgdX"
@@ -46,18 +58,6 @@
     "timestamp": "2026-03-21T14:43:06.589Z",
     "content": "dave rodgers の「Deja Vu」を聴きました",
     "url": "https://open.spotify.com/track/2IDDD1K6q6gIGwz1womSrO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T14:38:57.885Z",
-    "content": "ARASHI の「A・RA・SHI」を聴きました",
-    "url": "https://open.spotify.com/track/6fuvs0HtsA61a8y2ejn5Re"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T13:05:13.105Z",
-    "content": "ARASHI の「ワイルド アット ハート」を聴きました",
-    "url": "https://open.spotify.com/track/2im8jqte4utp2s1ZI52OFv"
   },
   {
     "platform": "Bluesky",
