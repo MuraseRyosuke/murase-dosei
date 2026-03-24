@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-24T04:26:29.933Z",
+    "content": "Perfume の「Spinning World」を聴きました",
+    "url": "https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-24T04:22:30.238Z",
+    "content": "Perfume の「再生」を聴きました",
+    "url": "https://open.spotify.com/track/1ZjL8ud1dhT9PDVe3Ov8kF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-24T04:17:45.932Z",
+    "content": "Perfume の「ポリゴンウェイヴ - Original Mix」を聴きました",
+    "url": "https://open.spotify.com/track/1gY6DwODrCnoiezXDKgyE5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-24T04:13:12.386Z",
+    "content": "Perfume の「Time Warp - v1.1」を聴きました",
+    "url": "https://open.spotify.com/track/0I5iV8BHy19iNuGBE96x9w"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-24T04:10:19.477Z",
+    "content": "Perfume の「Plasma」を聴きました",
+    "url": "https://open.spotify.com/track/0yIE2un7AXpV5W09XpvX9r"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-23T06:42:31.784Z",
     "content": "千葉雄喜 の「チーム友達」を聴きました",
     "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
@@ -28,36 +58,6 @@
     "timestamp": "2026-03-22T05:22:39.133Z",
     "content": "KAT-TUN の「Real Face」を聴きました",
     "url": "https://open.spotify.com/track/2YexX0xrBifDj0KFVe5kqY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-22T05:06:01.509Z",
-    "content": "ARASHI の「Step and Go」を聴きました",
-    "url": "https://open.spotify.com/track/7rAB8BtUzH9RF6HiUDT1XZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T16:32:29.298Z",
-    "content": "KAT-TUN の「SIGNAL」を聴きました",
-    "url": "https://open.spotify.com/track/0gG5ujgE9lmvrh8MoD5Zsi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T16:04:18.278Z",
-    "content": "Jilly の「BE MY BABE」を聴きました",
-    "url": "https://open.spotify.com/track/37hfUPuxBBXCxK9M6Zo0SO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T14:48:03.428Z",
-    "content": "dave rodgers の「SPACE BOY」を聴きました",
-    "url": "https://open.spotify.com/track/4P9oqOrFDijZRN7TWP4OUZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-21T14:43:06.589Z",
-    "content": "dave rodgers の「Deja Vu」を聴きました",
-    "url": "https://open.spotify.com/track/2IDDD1K6q6gIGwz1womSrO"
   },
   {
     "platform": "Bluesky",
