@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-26T20:16:33.275Z",
+    "content": "Earth, Wind & Fire の「September」を聴きました",
+    "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-26T20:12:58.500Z",
+    "content": "Perfume の「wonder2」を聴きました",
+    "url": "https://open.spotify.com/track/3bb5TiXIDbY3EchhKTpByx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-26T07:39:42.388Z",
     "content": "Perfume の「Perfume」を聴きました",
     "url": "https://open.spotify.com/track/5arEkJcWtv3l5PqUrXk3rE"
@@ -46,17 +58,5 @@
     "timestamp": "2026-03-25T17:15:55.922Z",
     "content": "CAPSULE の「FRUITS CLiPPER - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/6S0wLDkIOTHBAmVB0AM5Tl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-25T17:11:46.498Z",
-    "content": "CAPSULE の「CS Entrance6 - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/65QnrjL0abpW4gYMxvOCNn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-25T17:09:09.411Z",
-    "content": "KIRINJI の「進水式」を聴きました",
-    "url": "https://open.spotify.com/track/3ItVo2BVfbNpCQMD3hk0d9"
   }
 ]
