@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-26T07:39:42.388Z",
+    "content": "Perfume の「Perfume」を聴きました",
+    "url": "https://open.spotify.com/track/5arEkJcWtv3l5PqUrXk3rE"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-26T07:34:07.200Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-26T07:05:26.076Z",
+    "content": "蓮沼執太フルフィル の「windandwindows」を聴きました",
+    "url": "https://open.spotify.com/track/1GdiDfKGYbpOXqYLJ9lNuY"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-25T17:56:28.461Z",
     "content": "SUPER★DRAGON の「ワチャ-ガチャ！ (Remix Ver.)」を聴きました",
     "url": "https://open.spotify.com/track/6l0Sp44XoA9JhH5kOr00K0"
@@ -40,24 +58,6 @@
     "timestamp": "2026-03-25T17:09:09.411Z",
     "content": "KIRINJI の「進水式」を聴きました",
     "url": "https://open.spotify.com/track/3ItVo2BVfbNpCQMD3hk0d9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-25T17:03:58.188Z",
-    "content": "Kana Hanazawa の「happy endings」を聴きました",
-    "url": "https://open.spotify.com/track/2XmWiwnuc9ha3IELRZjlzo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-25T16:59:30.769Z",
-    "content": "FUJIN CLUB の「わたしお嫁に行くわ」を聴きました",
-    "url": "https://open.spotify.com/track/4APTZb4w6LhDjMyKRVMqM1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-25T16:54:34.361Z",
-    "content": "Mariya Takeuchi の「いのちの歌」を聴きました",
-    "url": "https://open.spotify.com/track/0dhG4A3Fs65pX39ZM2NINa"
   },
   {
     "platform": "Bluesky",
