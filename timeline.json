@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-27T21:44:32.197Z",
+    "content": "Nathan Fake の「The Sky Was Pink - Holden Tool」を聴きました",
+    "url": "https://open.spotify.com/track/6QG9gRZBpVaWyFcx7BaEVE"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-27T21:38:45.088Z",
+    "content": "Nathan Fake の「The Sky Was Pink - Holden Remix」を聴きました",
+    "url": "https://open.spotify.com/track/2oeEq7M17OE5rqcYYYHZet"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-27T21:29:14.817Z",
     "content": "Nathan Fake の「The Sky Was Pink - Icelandic Version」を聴きました",
     "url": "https://open.spotify.com/track/6veUSczOqFL9eWD8wT5pPb"
@@ -46,17 +58,5 @@
     "timestamp": "2026-03-27T20:52:10.971Z",
     "content": "DE DE MOUSE の「sky as dark」を聴きました",
     "url": "https://open.spotify.com/track/5scGXaFA6FSVK4FL6g1XuE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-27T20:48:49.258Z",
-    "content": "DE DE MOUSE の「fading tonight」を聴きました",
-    "url": "https://open.spotify.com/track/11EXxh0p67OuFC9nJUtLCH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-27T20:45:23.906Z",
-    "content": "DE DE MOUSE の「flicks tonight」を聴きました",
-    "url": "https://open.spotify.com/track/067c8VTZUITWxzVgdm8lLw"
   }
 ]
