@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-28T14:21:00.238Z",
+    "content": "Shinichi Osawa の「Our Song - Song & You Mix」を聴きました",
+    "url": "https://open.spotify.com/track/3ObU8VqubHFV2mBROeZznr"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T14:15:24.030Z",
+    "content": "Shinichi Osawa の「Rendezvous」を聴きました",
+    "url": "https://open.spotify.com/track/0KOLzPji7isbg3TeiABtDu"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-28T12:42:33.333Z",
     "content": "DE DE MOUSE の「Dream About You」を聴きました",
     "url": "https://open.spotify.com/track/3BmewWlY3upy4oBqPV4dlH"
@@ -46,17 +58,5 @@
     "timestamp": "2026-03-28T12:08:56.797Z",
     "content": "RIDGE RACER Series の「RANK UP」を聴きました",
     "url": "https://open.spotify.com/track/0MVe6larYdZjRE7tUDYvVh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:06:54.458Z",
-    "content": "RIDGE RACER Series の「REPLAY (TIME ATTACK)」を聴きました",
-    "url": "https://open.spotify.com/track/5tcgEGxCbIXf0P6tADcfQ0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:04:43.702Z",
-    "content": "RIDGE RACER Series の「VOLCANO VEHICLE」を聴きました",
-    "url": "https://open.spotify.com/track/1deKyoFzGXba2y9jjpPsKx"
   }
 ]
