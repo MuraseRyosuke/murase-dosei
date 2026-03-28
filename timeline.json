@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-28T15:32:00.846Z",
+    "content": "Perfume の「ねぇ」を聴きました",
+    "url": "https://open.spotify.com/track/7r3hZlo7LaRdZMC5rZlFfG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T15:26:58.447Z",
+    "content": "Serph の「Ladyland」を聴きました",
+    "url": "https://open.spotify.com/track/43OmyZXiOaDSzq9HXjZWYd"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-28T14:21:00.238Z",
     "content": "Shinichi Osawa の「Our Song - Song & You Mix」を聴きました",
     "url": "https://open.spotify.com/track/3ObU8VqubHFV2mBROeZznr"
@@ -46,17 +58,5 @@
     "timestamp": "2026-03-28T12:19:25.139Z",
     "content": "DE DE MOUSE の「milkyway drive」を聴きました",
     "url": "https://open.spotify.com/track/2Lf6mae4mvyREQ8E7w3exk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:10:29.859Z",
-    "content": "RIDGE RACER Series の「MENU SCREEN」を聴きました",
-    "url": "https://open.spotify.com/track/6m85tgDQiuc6AjFMrHRHUY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:08:56.797Z",
-    "content": "RIDGE RACER Series の「RANK UP」を聴きました",
-    "url": "https://open.spotify.com/track/0MVe6larYdZjRE7tUDYvVh"
   }
 ]
