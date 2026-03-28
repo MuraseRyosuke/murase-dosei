@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-28T16:09:36.528Z",
+    "content": "Kyary Pamyu Pamyu の「dreamin dreamin」を聴きました",
+    "url": "https://open.spotify.com/track/1o51arfcq5g3T31yx3WGMk"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T16:04:34.925Z",
+    "content": "MEG の「dreamin dreamin」を聴きました",
+    "url": "https://open.spotify.com/track/6YEWwy7SwR5KDeDvLEftmv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T15:58:14.584Z",
+    "content": "CAPSULE の「ポータブル空港 - rmx ver.」を聴きました",
+    "url": "https://open.spotify.com/track/6QffB1DXUvJpD3PFdBm732"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T15:53:32.859Z",
+    "content": "CAPSULE の「CrazEEE Skyhopper - rmx ver.」を聴きました",
+    "url": "https://open.spotify.com/track/3qIkWivj4BTiR6JfQPpT6z"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2026-03-28T15:51:45.693Z",
+    "content": "なんか色々な機材の導入をじっくり熟考したけれども、自分はどこでも同じ環境が持ち出せて再現できることに価値を感じているので、おそらく今後もデスクトップパソコンは買わないんだろうなぁという結論に至った",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mi4yg4rjqk2x"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T15:44:48.538Z",
+    "content": "CAPSULE の「Sugarless GiRL - rmx ver.」を聴きました",
+    "url": "https://open.spotify.com/track/7vyTbzHxkPNkHK4gzqS2tw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-03-28T15:36:18.304Z",
+    "content": "現 の「夢滲」を聴きました",
+    "url": "https://open.spotify.com/track/1fUKWRwJHlutwmXeyYsYSM"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-28T15:32:00.846Z",
     "content": "Perfume の「ねぇ」を聴きました",
     "url": "https://open.spotify.com/track/7r3hZlo7LaRdZMC5rZlFfG"
@@ -22,41 +64,5 @@
     "timestamp": "2026-03-28T14:15:24.030Z",
     "content": "Shinichi Osawa の「Rendezvous」を聴きました",
     "url": "https://open.spotify.com/track/0KOLzPji7isbg3TeiABtDu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:42:33.333Z",
-    "content": "DE DE MOUSE の「Dream About You」を聴きました",
-    "url": "https://open.spotify.com/track/3BmewWlY3upy4oBqPV4dlH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:38:21.673Z",
-    "content": "DE DE MOUSE の「When We Love」を聴きました",
-    "url": "https://open.spotify.com/track/1yUBGVb3eufY5EmTZj4zta"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:35:00.017Z",
-    "content": "DE DE MOUSE の「Fallin' in」を聴きました",
-    "url": "https://open.spotify.com/track/4JuTIEVabtmRbkAejTVuL3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:29:15.429Z",
-    "content": "DE DE MOUSE の「fading last night」を聴きました",
-    "url": "https://open.spotify.com/track/0tfkanyHYko5kDEtTHOJD2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:24:14.139Z",
-    "content": "DE DE MOUSE の「your favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/6LomEcZjjrDl8JfkFP8tAc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-28T12:19:25.139Z",
-    "content": "DE DE MOUSE の「milkyway drive」を聴きました",
-    "url": "https://open.spotify.com/track/2Lf6mae4mvyREQ8E7w3exk"
   }
 ]
