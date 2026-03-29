@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-03-29T15:37:46.178Z",
+    "content": "ARASHI の「a Day in Our Life : Reborn」を聴きました",
+    "url": "https://open.spotify.com/track/535arwGNZvUKdQrdHV7U4L"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-03-29T15:32:19.032Z",
     "content": "ARASHI の「a Day in Our Life」を聴きました",
     "url": "https://open.spotify.com/track/5DJByOTv5ef2u5TDPjCFsE"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-29T14:58:55.541Z",
     "content": "fhána の「青空のラプソディ」を聴きました",
     "url": "https://open.spotify.com/track/3J13AWtVj8EWWEi1yfNl8J"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-29T14:54:16.811Z",
-    "content": "TWEEDEES の「プリン賛歌 - 20th à la mode Edition」を聴きました",
-    "url": "https://open.spotify.com/track/2QVzZd1w8L19TcQbpdvfkH"
   },
   {
     "platform": "Bluesky",
