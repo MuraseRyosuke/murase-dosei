@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-01T13:49:25.474Z",
+    "content": "DE DE MOUSE の「flicks tonight」を聴きました",
+    "url": "https://open.spotify.com/track/067c8VTZUITWxzVgdm8lLw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-01T04:41:41.106Z",
     "content": "DE DE MOUSE の「candy stab」を聴きました",
     "url": "https://open.spotify.com/track/704u7B4EmPIOCsrKMbFpDf"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-30T18:01:22.791Z",
     "content": "DE DE MOUSE の「Nulife」を聴きました",
     "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-30T17:56:59.934Z",
-    "content": "DE DE MOUSE の「scat n' shout」を聴きました",
-    "url": "https://open.spotify.com/track/28PNwKNTzrWteM7PFUJnv9"
   },
   {
     "platform": "Bluesky",
