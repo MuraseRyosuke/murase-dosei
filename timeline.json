@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-01T20:00:23.776Z",
+    "content": "DE DE MOUSE の「Newtown浪漫」を聴きました",
+    "url": "https://open.spotify.com/track/1SOsTZKPOosHIeyILqonOF"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-01T15:19:22.345Z",
     "content": "DE DE MOUSE の「new town romancer」を聴きました",
     "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
@@ -52,12 +58,6 @@
     "timestamp": "2026-03-30T18:11:39.980Z",
     "content": "DE DE MOUSE の「your favorite swing」を聴きました",
     "url": "https://open.spotify.com/track/6LomEcZjjrDl8JfkFP8tAc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-30T18:06:34.181Z",
-    "content": "DE DE MOUSE の「a thousand better things」を聴きました",
-    "url": "https://open.spotify.com/track/2XDDUAWwELCKR8WKKQcnLB"
   },
   {
     "platform": "Bluesky",
