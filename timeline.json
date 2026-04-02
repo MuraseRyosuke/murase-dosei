@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-02T05:19:11.550Z",
+    "content": "CAPSULE の「music controller」を聴きました",
+    "url": "https://open.spotify.com/track/1QcSM5IKHSVBoXm3sCYhG5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-02T05:10:12.863Z",
+    "content": "Nash Music Library の「SC-1903」を聴きました",
+    "url": "https://open.spotify.com/track/5BALO3KDzddz7dNVvIxf7l"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-01T20:00:23.776Z",
     "content": "DE DE MOUSE の「Newtown浪漫」を聴きました",
     "url": "https://open.spotify.com/track/1SOsTZKPOosHIeyILqonOF"
@@ -46,18 +58,6 @@
     "timestamp": "2026-03-31T08:06:39.859Z",
     "content": "m-flo の「GateWay」を聴きました",
     "url": "https://open.spotify.com/track/0ZbrPNzu1wzzrK5Kbm0epz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-30T18:16:26.518Z",
-    "content": "DE DE MOUSE の「love destination」を聴きました",
-    "url": "https://open.spotify.com/track/2MRijdxTKflv4EU9EtsShK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-30T18:11:39.980Z",
-    "content": "DE DE MOUSE の「your favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/6LomEcZjjrDl8JfkFP8tAc"
   },
   {
     "platform": "Bluesky",
