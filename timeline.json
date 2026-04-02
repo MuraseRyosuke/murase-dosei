@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-02T13:17:04.234Z",
+    "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
+    "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-02T13:13:11.185Z",
+    "content": "METAFIVE の「Wife」を聴きました",
+    "url": "https://open.spotify.com/track/33EK6j3B2DWkkIGOmc5ubx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-02T13:05:59.822Z",
+    "content": "METAFIVE の「環境と心理」を聴きました",
+    "url": "https://open.spotify.com/track/7wnIzkN2sJx9NvA2BeWNkw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-02T12:57:18.466Z",
+    "content": "METAFIVE の「Radio - META Version」を聴きました",
+    "url": "https://open.spotify.com/track/7aNd1jGC378uEqDEyq17un"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-02T05:19:11.550Z",
     "content": "CAPSULE の「music controller」を聴きました",
     "url": "https://open.spotify.com/track/1QcSM5IKHSVBoXm3sCYhG5"
@@ -34,30 +58,6 @@
     "timestamp": "2026-04-01T04:41:41.106Z",
     "content": "DE DE MOUSE の「candy stab」を聴きました",
     "url": "https://open.spotify.com/track/704u7B4EmPIOCsrKMbFpDf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-31T08:15:44.414Z",
-    "content": "m-flo の「HyperNova」を聴きました",
-    "url": "https://open.spotify.com/track/1t5jRgx7sFpGu3nNtt1U68"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-31T08:15:16.881Z",
-    "content": "m-flo の「come again *Reloaded」を聴きました",
-    "url": "https://open.spotify.com/track/0JFlKjPm6lt1cQmVh6AC6j"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-31T08:10:47.127Z",
-    "content": "m-flo の「ARIGATTO」を聴きました",
-    "url": "https://open.spotify.com/track/3wLGnBmspaijt5ikDiiQKL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-03-31T08:06:39.859Z",
-    "content": "m-flo の「GateWay」を聴きました",
-    "url": "https://open.spotify.com/track/0ZbrPNzu1wzzrK5Kbm0epz"
   },
   {
     "platform": "Bluesky",
