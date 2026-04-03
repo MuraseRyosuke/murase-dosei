@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-03T16:01:26.595Z",
+    "content": "DE DE MOUSE の「majestic boring day」を聴きました",
+    "url": "https://open.spotify.com/track/28crzpIaRXhu3I2wR0Heod"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-03T12:06:43.379Z",
     "content": "9nine の「ゆるとぴあ（instrumental)」を聴きました",
     "url": "https://open.spotify.com/track/1NId1tBXY0DGwE6v6aebqr"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-03T11:36:00.721Z",
     "content": "PASSEPIED の「つくり囃子」を聴きました",
     "url": "https://open.spotify.com/track/1aX8l8Nwh7WtzTNBvIXtdG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-03T11:31:39.676Z",
-    "content": "Hearts2Hearts の「FOCUS」を聴きました",
-    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
   },
   {
     "platform": "Bluesky",
