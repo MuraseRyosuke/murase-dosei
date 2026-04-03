@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-03T12:06:43.379Z",
+    "content": "9nine の「ゆるとぴあ（instrumental)」を聴きました",
+    "url": "https://open.spotify.com/track/1NId1tBXY0DGwE6v6aebqr"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-03T12:02:39.673Z",
+    "content": "9nine の「ゆるとぴあ」を聴きました",
+    "url": "https://open.spotify.com/track/6gawIt7VofyW2HqCvpmZdZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-03T11:59:05.233Z",
     "content": "DE DE MOUSE の「Hand on Your Hand」を聴きました",
     "url": "https://open.spotify.com/track/4TWXmMVQEPmY3bmyqxftNH"
@@ -46,18 +58,6 @@
     "timestamp": "2026-04-03T11:31:39.676Z",
     "content": "Hearts2Hearts の「FOCUS」を聴きました",
     "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-03T11:28:42.561Z",
-    "content": "Hearts2Hearts の「RUDE!」を聴きました",
-    "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-03T11:16:40.953Z",
-    "content": "m-flo の「GateWay」を聴きました",
-    "url": "https://open.spotify.com/track/0ZbrPNzu1wzzrK5Kbm0epz"
   },
   {
     "platform": "Bluesky",
