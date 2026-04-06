@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-04-06T06:19:29.567Z",
+    "content": "RIP SLYME の「BLUE BE-BOP」を聴きました",
+    "url": "https://open.spotify.com/track/3D2xvTAmar3owBYBdJOYrv"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2026-04-05T13:01:46Z",
     "content": "saturday06/VRM-Addon-for-Blender をStarしました",
@@ -58,11 +64,5 @@
     "timestamp": "2026-04-03T11:40:08.360Z",
     "content": "PASSEPIED の「ヨアケマエ」を聴きました",
     "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-03T11:36:00.721Z",
-    "content": "PASSEPIED の「つくり囃子」を聴きました",
-    "url": "https://open.spotify.com/track/1aX8l8Nwh7WtzTNBvIXtdG"
   }
 ]
