@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-07T12:22:04.647Z",
+    "content": "DE DE MOUSE の「milkyway drive」を聴きました",
+    "url": "https://open.spotify.com/track/2Lf6mae4mvyREQ8E7w3exk"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-07T06:29:00.435Z",
     "content": "Nash Music Library の「Jingle-41」を聴きました",
     "url": "https://open.spotify.com/track/1exZFlcNXxo8Cweo0rhH2o"
@@ -70,11 +76,5 @@
     "timestamp": "2026-04-03T11:56:43.030Z",
     "content": "DE DE MOUSE の「Dream You Up」を聴きました",
     "url": "https://open.spotify.com/track/4XLYLsKMT4IZthEXvoroLq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-03T11:54:46.783Z",
-    "content": "DE DE MOUSE の「Bent」を聴きました",
-    "url": "https://open.spotify.com/track/2kOun7mLtIoUZJJpGyEJQs"
   }
 ]
