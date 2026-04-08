@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-08T13:20:18.886Z",
+    "content": "Hiroko Yakushimaru の「Woman - 「Wの悲劇」より」を聴きました",
+    "url": "https://open.spotify.com/track/1EZQVFAMGCUcC54FJY9wm9"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-08T05:02:37.818Z",
     "content": "Hiroko Yakushimaru の「セーラー服と機関銃」を聴きました",
     "url": "https://open.spotify.com/track/4a6Tpe4ke7vPXkYSYo2lBn"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-07T15:14:43.051Z",
     "content": "Broken Haze の「Armored Unicorns」を聴きました",
     "url": "https://open.spotify.com/track/4m9jUmfoPslh7lIQzHBDO9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-07T12:22:04.647Z",
-    "content": "DE DE MOUSE の「milkyway drive」を聴きました",
-    "url": "https://open.spotify.com/track/2Lf6mae4mvyREQ8E7w3exk"
   },
   {
     "platform": "GitHub",
