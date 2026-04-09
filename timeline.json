@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-09T06:55:23.749Z",
+    "content": "Tom Jones の「It's Not Unusual」を聴きました",
+    "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-09T02:48:18.618Z",
     "content": "Tom Jones の「It's Not Unusual」を聴きました",
     "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-09T00:29:14.368Z",
     "content": "Ayana Taketatsu の「♪の国のアリス」を聴きました",
     "url": "https://open.spotify.com/track/5YA5n3rmLhwSbUkUU8Ilni"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-09T00:23:12.130Z",
-    "content": "Ayana Taketatsu の「えぶりでぃメリークリスマス」を聴きました",
-    "url": "https://open.spotify.com/track/2Gap7BBkNcyIHHpBKAWfqw"
   },
   {
     "platform": "GitHub",
