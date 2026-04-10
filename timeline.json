@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-10T20:37:03.503Z",
+    "content": "aiko の「かばん」を聴きました",
+    "url": "https://open.spotify.com/track/1c7K8Xv56eqeARDmhMCZRI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-10T20:31:59.963Z",
+    "content": "aiko の「KissHug」を聴きました",
+    "url": "https://open.spotify.com/track/6RtUMYhAsnV15bWK9cBxX2"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-10T20:25:56.816Z",
+    "content": "aiko の「花火」を聴きました",
+    "url": "https://open.spotify.com/track/4pecYUsFFFYJKcB1nQaM2N"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-10T20:20:45.510Z",
+    "content": "譜久村聖 の「ロングラブレター」を聴きました",
+    "url": "https://open.spotify.com/track/7pHW7jYZQDikzPEXK1uM8G"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-10T19:32:02.520Z",
     "content": "兎田ぺこら の「兎座ストーリー」を聴きました",
     "url": "https://open.spotify.com/track/3QxDXrepnx2WfyBugd5Mhm"
@@ -34,30 +58,6 @@
     "timestamp": "2026-04-10T19:00:58.977Z",
     "content": "M!LK の「爆裂愛してる」を聴きました",
     "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-10T18:57:30.392Z",
-    "content": "M!LK の「爆裂愛してる」を聴きました",
-    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-10T18:53:52.427Z",
-    "content": "M!LK の「爆裂愛してる」を聴きました",
-    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-10T18:50:23.750Z",
-    "content": "M!LK の「イイじゃん」を聴きました",
-    "url": "https://open.spotify.com/track/0jj4mLjwYcos3PPzjQwVzh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-10T18:47:04.990Z",
-    "content": "M!LK の「好きすぎて滅！」を聴きました",
-    "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
   },
   {
     "platform": "GitHub",
