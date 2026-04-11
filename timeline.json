@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-11T09:20:15.625Z",
+    "content": "兎田ぺこら の「最強女神†ウーサペコラ」を聴きました",
+    "url": "https://open.spotify.com/track/55B4gzCzjSUCyrL5HWcaQ3"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-11T00:49:02.537Z",
     "content": "aiko の「舌打ち」を聴きました",
     "url": "https://open.spotify.com/track/1qhcdUWlOQvNwAHjYpbJOI"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-11T00:12:17.283Z",
     "content": "aiko の「キスでおこして」を聴きました",
     "url": "https://open.spotify.com/track/6dfVgJB0YdSAv4MYP7dr48"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-11T00:06:17.277Z",
-    "content": "aiko の「Do you think about me?」を聴きました",
-    "url": "https://open.spotify.com/track/4c7fYdSbg7IKDAOq4jnBcK"
   },
   {
     "platform": "GitHub",
