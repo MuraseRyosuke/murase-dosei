@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-12T07:02:46.839Z",
+    "content": "aiko の「甘い絨毯」を聴きました",
+    "url": "https://open.spotify.com/track/1jIFF2BUwmqaaOIUDlhaqU"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-11T09:20:15.625Z",
     "content": "兎田ぺこら の「最強女神†ウーサペコラ」を聴きました",
     "url": "https://open.spotify.com/track/55B4gzCzjSUCyrL5HWcaQ3"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-11T00:17:44.474Z",
     "content": "aiko の「そんな話」を聴きました",
     "url": "https://open.spotify.com/track/0JKmO3e7mQlFtpiKecrt1t"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-11T00:12:17.283Z",
-    "content": "aiko の「キスでおこして」を聴きました",
-    "url": "https://open.spotify.com/track/6dfVgJB0YdSAv4MYP7dr48"
   },
   {
     "platform": "GitHub",
