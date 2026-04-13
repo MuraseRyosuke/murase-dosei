@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-13T09:17:21.979Z",
+    "content": "Tokyo Ska Paradise Orchestra の「星降る夜に - feat.甲本ヒロト [2020 Remaster]」を聴きました",
+    "url": "https://open.spotify.com/track/6AmwYZ9X7O3vpqfzYca7XL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T09:12:56.745Z",
+    "content": "Suginami Junior Chorus の「にんげんっていいな」を聴きました",
+    "url": "https://open.spotify.com/track/607Oyi8LPHrQNM0maGeET7"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-13T03:11:54.873Z",
     "content": "ARASHI の「truth」を聴きました",
     "url": "https://open.spotify.com/track/2wXcM7reyJbhOOlTD0vmji"
@@ -46,18 +58,6 @@
     "timestamp": "2026-04-12T19:07:47.640Z",
     "content": "ARASHI の「PIKA☆☆NCHI DOUBLE」を聴きました",
     "url": "https://open.spotify.com/track/5EkhKMozDu9v0Pt4Lowjum"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:02:41.421Z",
-    "content": "ARASHI の「言葉より大切なもの」を聴きました",
-    "url": "https://open.spotify.com/track/2Cm93N4bCmnfsPUmCxVJgv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T18:56:55.941Z",
-    "content": "ARASHI の「とまどいながら」を聴きました",
-    "url": "https://open.spotify.com/track/1neOk2gNmcd2FRu1fSzqnm"
   },
   {
     "platform": "GitHub",
