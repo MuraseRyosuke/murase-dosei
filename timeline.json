@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-13T18:53:39.028Z",
+    "content": "Fujii Kaze の「真っ白」を聴きました",
+    "url": "https://open.spotify.com/track/57UKjaYzGB8yK4EQWAeksH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T18:48:42.825Z",
+    "content": "Fujii Kaze の「満ちてゆく」を聴きました",
+    "url": "https://open.spotify.com/track/3Ez9uxIM4nwbAZRAdJvBxS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T18:43:27.421Z",
+    "content": "Fujii Kaze の「花」を聴きました",
+    "url": "https://open.spotify.com/track/4CRqeGDZZ9IgvrfkAnbv57"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T18:39:18.140Z",
+    "content": "Fujii Kaze の「It's Alright」を聴きました",
+    "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T18:35:56.927Z",
+    "content": "Fujii Kaze の「Workin' Hard」を聴きました",
+    "url": "https://open.spotify.com/track/2Ykikb0b30E1Hi5ng26bWb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T18:31:54.072Z",
+    "content": "Fujii Kaze の「Feelin’ Go(o)d」を聴きました",
+    "url": "https://open.spotify.com/track/7ggRO16MsCFa3PPb3kTuft"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-13T18:28:26.835Z",
+    "content": "Fujii Kaze の「grace」を聴きました",
+    "url": "https://open.spotify.com/track/2tl4ErQDLJq9kif4mbafpp"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-13T09:17:21.979Z",
     "content": "Tokyo Ska Paradise Orchestra の「星降る夜に - feat.甲本ヒロト [2020 Remaster]」を聴きました",
     "url": "https://open.spotify.com/track/6AmwYZ9X7O3vpqfzYca7XL"
@@ -16,47 +58,5 @@
     "timestamp": "2026-04-13T03:11:54.873Z",
     "content": "ARASHI の「truth」を聴きました",
     "url": "https://open.spotify.com/track/2wXcM7reyJbhOOlTD0vmji"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:36:57.751Z",
-    "content": "ARASHI の「One Love」を聴きました",
-    "url": "https://open.spotify.com/track/2Xhs7Ro74wZ8t3EB0tOkvF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:32:12.297Z",
-    "content": "ARASHI の「Step and Go」を聴きました",
-    "url": "https://open.spotify.com/track/7rAB8BtUzH9RF6HiUDT1XZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:27:42.307Z",
-    "content": "ARASHI の「Happiness」を聴きました",
-    "url": "https://open.spotify.com/track/1tLvRLEa6Tq8O0YqyOWq4X"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:23:09.008Z",
-    "content": "ARASHI の「We can make it !」を聴きました",
-    "url": "https://open.spotify.com/track/3A0ZO16WWdhHCdmbf4ruxw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:18:58.159Z",
-    "content": "ARASHI の「Love so sweet」を聴きました",
-    "url": "https://open.spotify.com/track/1Nbg8dtB9KRUkuPbUbVhTf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:14:05.946Z",
-    "content": "ARASHI の「きっと大丈夫」を聴きました",
-    "url": "https://open.spotify.com/track/4KBO5gaWBBc32rnH5XKQQ5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T19:07:47.640Z",
-    "content": "ARASHI の「PIKA☆☆NCHI DOUBLE」を聴きました",
-    "url": "https://open.spotify.com/track/5EkhKMozDu9v0Pt4Lowjum"
   }
 ]
