@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-13T03:11:54.873Z",
+    "content": "ARASHI の「truth」を聴きました",
+    "url": "https://open.spotify.com/track/2wXcM7reyJbhOOlTD0vmji"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-12T19:36:57.751Z",
     "content": "ARASHI の「One Love」を聴きました",
     "url": "https://open.spotify.com/track/2Xhs7Ro74wZ8t3EB0tOkvF"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-12T18:56:55.941Z",
     "content": "ARASHI の「とまどいながら」を聴きました",
     "url": "https://open.spotify.com/track/1neOk2gNmcd2FRu1fSzqnm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-12T18:52:30.545Z",
-    "content": "ARASHI の「ナイスな心意気」を聴きました",
-    "url": "https://open.spotify.com/track/0DkXeyNJBF3raYqq4roFP4"
   },
   {
     "platform": "GitHub",
