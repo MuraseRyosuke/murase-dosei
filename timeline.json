@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-14T09:44:04.348Z",
+    "content": "Fujii Kaze の「真っ白」を聴きました",
+    "url": "https://open.spotify.com/track/57UKjaYzGB8yK4EQWAeksH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-14T09:39:08.294Z",
+    "content": "Fujii Kaze の「満ちてゆく」を聴きました",
+    "url": "https://open.spotify.com/track/3Ez9uxIM4nwbAZRAdJvBxS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-14T09:22:05.327Z",
+    "content": "Fujii Kaze の「花」を聴きました",
+    "url": "https://open.spotify.com/track/4CRqeGDZZ9IgvrfkAnbv57"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-14T09:17:58.233Z",
+    "content": "Fujii Kaze の「It's Alright」を聴きました",
+    "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-14T09:14:36.257Z",
+    "content": "Fujii Kaze の「Workin' Hard」を聴きました",
+    "url": "https://open.spotify.com/track/2Ykikb0b30E1Hi5ng26bWb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-14T09:10:30.512Z",
+    "content": "Fujii Kaze の「Feelin’ Go(o)d」を聴きました",
+    "url": "https://open.spotify.com/track/7ggRO16MsCFa3PPb3kTuft"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-14T09:06:10.309Z",
+    "content": "Fujii Kaze の「grace」を聴きました",
+    "url": "https://open.spotify.com/track/2tl4ErQDLJq9kif4mbafpp"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-13T18:53:39.028Z",
     "content": "Fujii Kaze の「真っ白」を聴きました",
     "url": "https://open.spotify.com/track/57UKjaYzGB8yK4EQWAeksH"
@@ -16,47 +58,5 @@
     "timestamp": "2026-04-13T18:43:27.421Z",
     "content": "Fujii Kaze の「花」を聴きました",
     "url": "https://open.spotify.com/track/4CRqeGDZZ9IgvrfkAnbv57"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T18:39:18.140Z",
-    "content": "Fujii Kaze の「It's Alright」を聴きました",
-    "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T18:35:56.927Z",
-    "content": "Fujii Kaze の「Workin' Hard」を聴きました",
-    "url": "https://open.spotify.com/track/2Ykikb0b30E1Hi5ng26bWb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T18:31:54.072Z",
-    "content": "Fujii Kaze の「Feelin’ Go(o)d」を聴きました",
-    "url": "https://open.spotify.com/track/7ggRO16MsCFa3PPb3kTuft"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T18:28:26.835Z",
-    "content": "Fujii Kaze の「grace」を聴きました",
-    "url": "https://open.spotify.com/track/2tl4ErQDLJq9kif4mbafpp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T09:17:21.979Z",
-    "content": "Tokyo Ska Paradise Orchestra の「星降る夜に - feat.甲本ヒロト [2020 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/6AmwYZ9X7O3vpqfzYca7XL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T09:12:56.745Z",
-    "content": "Suginami Junior Chorus の「にんげんっていいな」を聴きました",
-    "url": "https://open.spotify.com/track/607Oyi8LPHrQNM0maGeET7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-13T03:11:54.873Z",
-    "content": "ARASHI の「truth」を聴きました",
-    "url": "https://open.spotify.com/track/2wXcM7reyJbhOOlTD0vmji"
   }
 ]
