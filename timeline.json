@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-15T14:08:30.913Z",
+    "content": "Kaela Kimura の「Humpty Dumpty」を聴きました",
+    "url": "https://open.spotify.com/track/0s2yH86ljOs4H3S44shrWv"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-15T08:59:16.911Z",
     "content": "Aooo の「青い煙」を聴きました",
     "url": "https://open.spotify.com/track/0N3RwH35ox2YpDwi8ViBMh"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-14T15:00:08.794Z",
     "content": "AI の「ONE」を聴きました",
     "url": "https://open.spotify.com/track/2vKgl7U6YWCUKGj8trLL5D"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-14T14:55:02.995Z",
-    "content": "FPM の「Why Not? - Tomita Lab.Remix」を聴きました",
-    "url": "https://open.spotify.com/track/6vZi9xxzxonsIy8qwL53BS"
   },
   {
     "platform": "GitHub",
