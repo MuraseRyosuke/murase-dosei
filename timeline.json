@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-19T20:28:18.623Z",
+    "content": "パソコン音楽クラブ の「Prologue」を聴きました",
+    "url": "https://open.spotify.com/track/2QhpQYD2CAf0SfkG1IhbL8"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-19T13:39:56.589Z",
     "content": "Tokyo Ska Paradise Orchestra の「Twinkle Star - sail away mix」を聴きました",
     "url": "https://open.spotify.com/track/5fkm61ChKscXaJdqVNUCa5"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-15T21:37:08.044Z",
     "content": "Tomita Lab. の「Launching On A Fine Day (2019 Mix)」を聴きました",
     "url": "https://open.spotify.com/track/1vfZxrzJD2Mqo6jqTXerzv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-15T21:33:39.845Z",
-    "content": "Tomita Lab. の「アタタカイ雨 (2019 Mix)」を聴きました",
-    "url": "https://open.spotify.com/track/00Hl0hPiENcXo5M2TbbfAY"
   },
   {
     "platform": "GitHub",
