@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-19T13:39:56.589Z",
+    "content": "Tokyo Ska Paradise Orchestra の「Twinkle Star - sail away mix」を聴きました",
+    "url": "https://open.spotify.com/track/5fkm61ChKscXaJdqVNUCa5"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-17T15:17:59.207Z",
     "content": "M!LK の「爆裂愛してる」を聴きました",
     "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-15T21:33:39.845Z",
     "content": "Tomita Lab. の「アタタカイ雨 (2019 Mix)」を聴きました",
     "url": "https://open.spotify.com/track/00Hl0hPiENcXo5M2TbbfAY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-15T21:27:31.902Z",
-    "content": "Tomita Lab. の「Like A Queen」を聴きました",
-    "url": "https://open.spotify.com/track/6hP8m8PJGltvtBBgFwF5ck"
   },
   {
     "platform": "GitHub",
