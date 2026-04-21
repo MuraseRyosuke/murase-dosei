@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-21T19:43:49.384Z",
+    "content": "Kyary Pamyu Pamyu の「かまいたち」を聴きました",
+    "url": "https://open.spotify.com/track/1aJVzo3RLS6lkNwE2SzSNl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-21T19:38:59.017Z",
+    "content": "Kyary Pamyu Pamyu の「キミに100パーセント」を聴きました",
+    "url": "https://open.spotify.com/track/1chTElozugAFsW2x03IS6d"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-21T19:34:36.808Z",
+    "content": "どこでもジャンボリー！ の「Color Mixing ピンク（Pink）」を聴きました",
+    "url": "https://open.spotify.com/track/7sScgQ3WFpAc7GIY5afSnI"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-21T16:24:15.964Z",
     "content": "DE DE MOUSE の「真夜中の獣」を聴きました",
     "url": "https://open.spotify.com/track/5S5OyMZQMx7nyDHOUwScZX"
@@ -40,24 +58,6 @@
     "timestamp": "2026-04-21T15:02:12.614Z",
     "content": "Mika Nakashima の「火の鳥 (Album Mix)」を聴きました",
     "url": "https://open.spotify.com/track/3Yn2tbo89Nmhi35vk1OR3S"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T14:57:39.073Z",
-    "content": "Akiko Yano の「大丈夫です」を聴きました",
-    "url": "https://open.spotify.com/track/63VEg5dFoWbCQSjH6ZFYKc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T14:50:21.752Z",
-    "content": "Sheena Ringo の「青春の瞬き」を聴きました",
-    "url": "https://open.spotify.com/track/63F1cWkR3NC13jXqhhjcfE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T14:45:02.557Z",
-    "content": "Tomita Lab. の「夏の亡霊 feat. KIRINJI」を聴きました",
-    "url": "https://open.spotify.com/track/6EDXp2oxBs4KcovZPwuCgk"
   },
   {
     "platform": "GitHub",
