@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-22T16:30:12.752Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-22T16:26:05.045Z",
+    "content": "M!LK の「爆裂愛してる」を聴きました",
+    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-22T15:46:19.985Z",
+    "content": "KUCHIRORO の「man #1 power」を聴きました",
+    "url": "https://open.spotify.com/track/6cvqY0pIQtWjHhf6rzPfBW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-22T15:45:23.449Z",
+    "content": "KUCHIRORO の「ふたりは恋人」を聴きました",
+    "url": "https://open.spotify.com/track/5m6kRipb3EtdifRrMiOQLc"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-22T15:40:23.017Z",
+    "content": "Yasuyuki Horigome の「THE FLY」を聴きました",
+    "url": "https://open.spotify.com/track/5FSlaeQFHsJmSeivktf87a"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-22T04:52:44.490Z",
     "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
     "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -28,36 +58,6 @@
     "timestamp": "2026-04-21T19:38:59.017Z",
     "content": "Kyary Pamyu Pamyu の「キミに100パーセント」を聴きました",
     "url": "https://open.spotify.com/track/1chTElozugAFsW2x03IS6d"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T19:34:36.808Z",
-    "content": "どこでもジャンボリー！ の「Color Mixing ピンク（Pink）」を聴きました",
-    "url": "https://open.spotify.com/track/7sScgQ3WFpAc7GIY5afSnI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T16:24:15.964Z",
-    "content": "DE DE MOUSE の「真夜中の獣」を聴きました",
-    "url": "https://open.spotify.com/track/5S5OyMZQMx7nyDHOUwScZX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T15:50:07.333Z",
-    "content": "Maaya Sakamoto の「鏡の中で」を聴きました",
-    "url": "https://open.spotify.com/track/7sylSCr7B6OXeNu3EiFMaR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T15:45:10.081Z",
-    "content": "Tomita Lab. の「the birds of four」を聴きました",
-    "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T15:41:39.163Z",
-    "content": "Ken Hirai の「キャンバス」を聴きました",
-    "url": "https://open.spotify.com/track/3jz5GiCQ1vVKxTxFO0g4xD"
   },
   {
     "platform": "GitHub",
