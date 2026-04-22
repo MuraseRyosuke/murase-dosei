@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-22T04:52:44.490Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-22T04:17:05.056Z",
+    "content": "Jimmy Cliff の「I Can See Clearly Now」を聴きました",
+    "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-22T04:13:35.421Z",
+    "content": "Kyary Pamyu Pamyu の「原点回避」を聴きました",
+    "url": "https://open.spotify.com/track/0JyFsJ80ncbV7g09nGy8Pk"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-21T19:43:49.384Z",
     "content": "Kyary Pamyu Pamyu の「かまいたち」を聴きました",
     "url": "https://open.spotify.com/track/1aJVzo3RLS6lkNwE2SzSNl"
@@ -40,24 +58,6 @@
     "timestamp": "2026-04-21T15:41:39.163Z",
     "content": "Ken Hirai の「キャンバス」を聴きました",
     "url": "https://open.spotify.com/track/3jz5GiCQ1vVKxTxFO0g4xD"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T15:35:44.796Z",
-    "content": "Crystal Kay の「Kiss」を聴きました",
-    "url": "https://open.spotify.com/track/45YpgeayMxntEZRPIYpKUl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T15:30:14.654Z",
-    "content": "Mika Nakashima の「LEGEND (Original)」を聴きました",
-    "url": "https://open.spotify.com/track/5L5R1GI15eNzPbjmvKVDGb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-21T15:02:12.614Z",
-    "content": "Mika Nakashima の「火の鳥 (Album Mix)」を聴きました",
-    "url": "https://open.spotify.com/track/3Yn2tbo89Nmhi35vk1OR3S"
   },
   {
     "platform": "GitHub",
