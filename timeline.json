@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-23T11:53:22.722Z",
+    "content": "Fujii Kaze の「満ちてゆく」を聴きました",
+    "url": "https://open.spotify.com/track/3Ez9uxIM4nwbAZRAdJvBxS"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-22T20:46:02.455Z",
     "content": "Fujii Kaze の「You」を聴きました",
     "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-22T20:01:58.339Z",
     "content": "やみの おねえさん の「きょういくばんぐみのテーマ」を聴きました",
     "url": "https://open.spotify.com/track/6dU5iw0cdtrhGvhFWhwYLB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-22T19:59:06.923Z",
-    "content": "MISIA の「果てなく続くストーリー」を聴きました",
-    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
   },
   {
     "platform": "GitHub",
