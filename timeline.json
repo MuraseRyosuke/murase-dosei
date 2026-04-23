@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-23T16:16:35.899Z",
+    "content": "Hideaki Tokunaga の「壊れかけのRadio」を聴きました",
+    "url": "https://open.spotify.com/track/4BXQ9BO9lNCfYaCFNCW5E4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-23T11:53:22.722Z",
     "content": "Fujii Kaze の「満ちてゆく」を聴きました",
     "url": "https://open.spotify.com/track/3Ez9uxIM4nwbAZRAdJvBxS"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-22T20:09:11.462Z",
     "content": "Ikimonogakari の「超ありがとう」を聴きました",
     "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-22T20:01:58.339Z",
-    "content": "やみの おねえさん の「きょういくばんぐみのテーマ」を聴きました",
-    "url": "https://open.spotify.com/track/6dU5iw0cdtrhGvhFWhwYLB"
   },
   {
     "platform": "GitHub",
