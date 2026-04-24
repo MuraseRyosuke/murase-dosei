@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-24T01:21:07.307Z",
+    "content": "Gen Hoshino の「バイト」を聴きました",
+    "url": "https://open.spotify.com/track/3y5TlXBvldk2qGqCz5Tnq6"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-23T21:59:17.342Z",
     "content": "Gen Hoshino の「くだらないの中に」を聴きました",
     "url": "https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-23T21:26:36.971Z",
     "content": "Rei Harakami の「おかし」を聴きました",
     "url": "https://open.spotify.com/track/5mpi5JM0YPDgfhUIm7ZuDy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:17:15.207Z",
-    "content": "Rei Harakami の「きえたこい」を聴きました",
-    "url": "https://open.spotify.com/track/1udeUxBQ3tTp0Q7yUeBFri"
   },
   {
     "platform": "GitHub",
