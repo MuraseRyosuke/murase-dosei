@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-24T14:12:00.700Z",
+    "content": "Hiroji Miyamoto の「冬の花」を聴きました",
+    "url": "https://open.spotify.com/track/093PfS9s0pKyyXyKjnsHZE"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-24T14:07:03.574Z",
+    "content": "三山ひろし の「花とサムライ」を聴きました",
+    "url": "https://open.spotify.com/track/70ZGGrGCEkrMbV8b98YBL9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-24T14:02:51.122Z",
+    "content": "Dohatsuten の「オトナノススメ」を聴きました",
+    "url": "https://open.spotify.com/track/4TldzBU1uLx0PGzgs6TFxF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-24T13:57:52.002Z",
+    "content": "Koshi Inaba の「タッチ」を聴きました",
+    "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-24T13:53:55.246Z",
+    "content": "Avantgardey の「OKP Cipher」を聴きました",
+    "url": "https://open.spotify.com/track/3vwUXHtESKcFpmykAnOe6F"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-24T01:21:07.307Z",
     "content": "Gen Hoshino の「バイト」を聴きました",
     "url": "https://open.spotify.com/track/3y5TlXBvldk2qGqCz5Tnq6"
@@ -28,36 +58,6 @@
     "timestamp": "2026-04-23T21:48:21.147Z",
     "content": "Gen Hoshino の「エピソード」を聴きました",
     "url": "https://open.spotify.com/track/4YwmBSShob1VhqPvq1t61V"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:46:09.168Z",
-    "content": "Gen Hoshino の「グー」を聴きました",
-    "url": "https://open.spotify.com/track/1lQboqkDA55Lv64t70KgzU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:42:34.983Z",
-    "content": "Gen Hoshino の「ばらばら」を聴きました",
-    "url": "https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:39:12.707Z",
-    "content": "KIRINJI の「代官山エレジー - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3TZj59L9ojgH8peyouJJeX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:33:07.777Z",
-    "content": "I Am Robot And Proud の「Grace Days」を聴きました",
-    "url": "https://open.spotify.com/track/7AoMmEfZI5SATSjlm4RquE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:26:36.971Z",
-    "content": "Rei Harakami の「おかし」を聴きました",
-    "url": "https://open.spotify.com/track/5mpi5JM0YPDgfhUIm7ZuDy"
   },
   {
     "platform": "GitHub",
