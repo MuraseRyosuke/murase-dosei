@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-25T05:20:16.557Z",
+    "content": "Tamio Okuda の「BEAT（アルバムバージョン）」を聴きました",
+    "url": "https://open.spotify.com/track/4u83UUM6nWJY3xEiMqcC8Z"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-25T05:19:58.407Z",
+    "content": "Kenshi Yonezu の「感電」を聴きました",
+    "url": "https://open.spotify.com/track/6H0PLsSYMzDOqhLgyOlzIj"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-24T14:12:00.700Z",
     "content": "Hiroji Miyamoto の「冬の花」を聴きました",
     "url": "https://open.spotify.com/track/093PfS9s0pKyyXyKjnsHZE"
@@ -46,18 +58,6 @@
     "timestamp": "2026-04-23T21:54:57.138Z",
     "content": "Gen Hoshino の「変わらないまま」を聴きました",
     "url": "https://open.spotify.com/track/342VHesM1O1XGPO0L87Cmm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:51:17.427Z",
-    "content": "Gen Hoshino の「湯気」を聴きました",
-    "url": "https://open.spotify.com/track/3EMr3gNOpGCC4Uaty4sCcB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:48:21.147Z",
-    "content": "Gen Hoshino の「エピソード」を聴きました",
-    "url": "https://open.spotify.com/track/4YwmBSShob1VhqPvq1t61V"
   },
   {
     "platform": "GitHub",
