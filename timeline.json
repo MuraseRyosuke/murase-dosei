@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-25T19:56:32.545Z",
+    "content": "M!LK の「好きすぎて滅！」を聴きました",
+    "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-25T05:20:16.557Z",
     "content": "Tamio Okuda の「BEAT（アルバムバージョン）」を聴きました",
     "url": "https://open.spotify.com/track/4u83UUM6nWJY3xEiMqcC8Z"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-23T21:59:17.342Z",
     "content": "Gen Hoshino の「くだらないの中に」を聴きました",
     "url": "https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-23T21:54:57.138Z",
-    "content": "Gen Hoshino の「変わらないまま」を聴きました",
-    "url": "https://open.spotify.com/track/342VHesM1O1XGPO0L87Cmm"
   },
   {
     "platform": "GitHub",
