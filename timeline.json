@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-25T22:52:16.940Z",
+    "content": "やみの おねえさん の「きょういくばんぐみのテーマ」を聴きました",
+    "url": "https://open.spotify.com/track/6dU5iw0cdtrhGvhFWhwYLB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-25T22:50:09.289Z",
+    "content": "Mrs. GREEN APPLE の「lulu.」を聴きました",
+    "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-25T22:45:37.900Z",
+    "content": "Mrs. GREEN APPLE の「風と町」を聴きました",
+    "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-25T22:41:58.841Z",
+    "content": "MISIA の「果てなく続くストーリー」を聴きました",
+    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-25T22:35:32.923Z",
+    "content": "MISIA の「ラストダンスあなたと」を聴きました",
+    "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-25T21:57:05.994Z",
     "content": "Avantgardey の「OKP Cipher」を聴きました",
     "url": "https://open.spotify.com/track/3vwUXHtESKcFpmykAnOe6F"
@@ -28,36 +58,6 @@
     "timestamp": "2026-04-25T21:32:16.603Z",
     "content": "MISIA の「Everything」を聴きました",
     "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:25:15.199Z",
-    "content": "T-SQUARE の「LEAVE ME ALONE」を聴きました",
-    "url": "https://open.spotify.com/track/1cXHxPt7hcK06kZ9KxaVgw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:20:17.134Z",
-    "content": "T-SQUARE の「MEGALITH」を聴きました",
-    "url": "https://open.spotify.com/track/7xPozGLSLRn8lYvjdhigjp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:14:56.404Z",
-    "content": "DEZOLVE の「Frontiers」を聴きました",
-    "url": "https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:09:47.396Z",
-    "content": "Spectrum の「Slapdash」を聴きました",
-    "url": "https://open.spotify.com/track/2fhNDJBmXyyCt6zv8WAjEw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:07:23.776Z",
-    "content": "DEZOLVE の「Coruscate」を聴きました",
-    "url": "https://open.spotify.com/track/1ErVzFDc6Gq2ybUQDSDJqC"
   },
   {
     "platform": "GitHub",
