@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-25T23:19:07.429Z",
+    "content": "Hideaki Tokunaga の「壊れかけのRadio」を聴きました",
+    "url": "https://open.spotify.com/track/4BXQ9BO9lNCfYaCFNCW5E4"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-25T23:12:14.855Z",
+    "content": "Ikimonogakari の「超ありがとう」を聴きました",
+    "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-25T22:52:16.940Z",
     "content": "やみの おねえさん の「きょういくばんぐみのテーマ」を聴きました",
     "url": "https://open.spotify.com/track/6dU5iw0cdtrhGvhFWhwYLB"
@@ -46,18 +58,6 @@
     "timestamp": "2026-04-25T21:44:19.077Z",
     "content": "aiko の「ボーイフレンド」を聴きました",
     "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:37:00.593Z",
-    "content": "雀が原中学卓球部 の「灼熱スイッチ」を聴きました",
-    "url": "https://open.spotify.com/track/4MnCYguz7oO1NmZ4ZQulEn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:32:16.603Z",
-    "content": "MISIA の「Everything」を聴きました",
-    "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
   },
   {
     "platform": "GitHub",
