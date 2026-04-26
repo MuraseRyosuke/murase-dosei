@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-26T05:41:09.249Z",
+    "content": "aiko の「ボーイフレンド」を聴きました",
+    "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-25T23:19:07.429Z",
     "content": "Hideaki Tokunaga の「壊れかけのRadio」を聴きました",
     "url": "https://open.spotify.com/track/4BXQ9BO9lNCfYaCFNCW5E4"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-25T21:52:49.519Z",
     "content": "Akiko Wada の「あの鐘を鳴らすのはあなた」を聴きました",
     "url": "https://open.spotify.com/track/18kGOfLsyx9YhSa6X8nfQi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:44:19.077Z",
-    "content": "aiko の「ボーイフレンド」を聴きました",
-    "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
   },
   {
     "platform": "GitHub",
