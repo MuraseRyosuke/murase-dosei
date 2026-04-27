@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-27T11:34:04.413Z",
+    "content": "Koshi Inaba の「タッチ」を聴きました",
+    "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T11:29:51.253Z",
+    "content": "Hearts2Hearts の「RUDE! - Japanese Ver.」を聴きました",
+    "url": "https://open.spotify.com/track/4A6mBa9t394jUD5dLrD2tG"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T11:26:31.130Z",
+    "content": "Akiko Wada の「あの鐘を鳴らすのはあなた」を聴きました",
+    "url": "https://open.spotify.com/track/18kGOfLsyx9YhSa6X8nfQi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T11:19:42.365Z",
+    "content": "M!LK の「好きすぎて滅！」を聴きました",
+    "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T11:16:09.510Z",
+    "content": "M!LK の「爆裂愛してる」を聴きました",
+    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T11:04:08.985Z",
+    "content": "Mrs. GREEN APPLE の「lulu.」を聴きました",
+    "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T10:59:42.046Z",
+    "content": "MISIA の「果てなく続くストーリー」を聴きました",
+    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T10:55:23.621Z",
+    "content": "sakanaction の「夜の踊り子」を聴きました",
+    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-26T05:41:09.249Z",
     "content": "aiko の「ボーイフレンド」を聴きました",
     "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
@@ -10,53 +58,5 @@
     "timestamp": "2026-04-25T23:19:07.429Z",
     "content": "Hideaki Tokunaga の「壊れかけのRadio」を聴きました",
     "url": "https://open.spotify.com/track/4BXQ9BO9lNCfYaCFNCW5E4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T23:12:14.855Z",
-    "content": "Ikimonogakari の「超ありがとう」を聴きました",
-    "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T22:52:16.940Z",
-    "content": "やみの おねえさん の「きょういくばんぐみのテーマ」を聴きました",
-    "url": "https://open.spotify.com/track/6dU5iw0cdtrhGvhFWhwYLB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T22:50:09.289Z",
-    "content": "Mrs. GREEN APPLE の「lulu.」を聴きました",
-    "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T22:45:37.900Z",
-    "content": "Mrs. GREEN APPLE の「風と町」を聴きました",
-    "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T22:41:58.841Z",
-    "content": "MISIA の「果てなく続くストーリー」を聴きました",
-    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T22:35:32.923Z",
-    "content": "MISIA の「ラストダンスあなたと」を聴きました",
-    "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:57:05.994Z",
-    "content": "Avantgardey の「OKP Cipher」を聴きました",
-    "url": "https://open.spotify.com/track/3vwUXHtESKcFpmykAnOe6F"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-25T21:52:49.519Z",
-    "content": "Akiko Wada の「あの鐘を鳴らすのはあなた」を聴きました",
-    "url": "https://open.spotify.com/track/18kGOfLsyx9YhSa6X8nfQi"
   }
 ]
