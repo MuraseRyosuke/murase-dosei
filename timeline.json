@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-27T17:02:20.044Z",
+    "content": "Hikaru Utada の「真夏の通り雨」を聴きました",
+    "url": "https://open.spotify.com/track/5RBDrY6VWBo4zHqajx8mLw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-27T16:21:47.716Z",
+    "content": "MISIA の「果てなく続くストーリー」を聴きました",
+    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-27T13:43:40.608Z",
     "content": "Fujii Kaze の「Love Like This」を聴きました",
     "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
@@ -46,17 +58,5 @@
     "timestamp": "2026-04-27T10:59:42.046Z",
     "content": "MISIA の「果てなく続くストーリー」を聴きました",
     "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-27T10:55:23.621Z",
-    "content": "sakanaction の「夜の踊り子」を聴きました",
-    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-26T05:41:09.249Z",
-    "content": "aiko の「ボーイフレンド」を聴きました",
-    "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
   }
 ]
