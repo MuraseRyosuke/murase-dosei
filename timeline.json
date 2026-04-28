@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-28T07:12:12.266Z",
+    "content": "UNISON SQUARE GARDEN の「mix juiceのいうとおり」を聴きました",
+    "url": "https://open.spotify.com/track/2GNYNGYvMX5lvfcYIm8wPd"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-27T18:10:06.960Z",
     "content": "UNISON SQUARE GARDEN の「シュガーソングとビターステップ」を聴きました",
     "url": "https://open.spotify.com/track/6uR92injo4PDzSrOPRFfHt"
@@ -52,11 +58,5 @@
     "timestamp": "2026-04-27T11:19:42.365Z",
     "content": "M!LK の「好きすぎて滅！」を聴きました",
     "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-27T11:16:09.510Z",
-    "content": "M!LK の「爆裂愛してる」を聴きました",
-    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
   }
 ]
