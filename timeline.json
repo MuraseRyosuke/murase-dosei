@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-28T19:55:54.400Z",
+    "content": "sakanaction の「夜の踊り子」を聴きました",
+    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-28T19:51:19.576Z",
+    "content": "aiko の「ボーイフレンド」を聴きました",
+    "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-28T12:42:28.320Z",
     "content": "Hideaki Tokunaga の「壊れかけのRadio」を聴きました",
     "url": "https://open.spotify.com/track/4BXQ9BO9lNCfYaCFNCW5E4"
@@ -52,17 +64,5 @@
     "timestamp": "2026-04-28T12:08:13.792Z",
     "content": "UNISON SQUARE GARDEN の「春が来てぼくら」を聴きました",
     "url": "https://open.spotify.com/track/1hbTYIALy6ZKUraynVquOk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T12:03:28.944Z",
-    "content": "UNISON SQUARE GARDEN の「君の瞳に恋してない」を聴きました",
-    "url": "https://open.spotify.com/track/6U66VwTTHyeV2qDJ1REHlh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T11:58:26.940Z",
-    "content": "Koshi Inaba の「タッチ」を聴きました",
-    "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
   }
 ]
