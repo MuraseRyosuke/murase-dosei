@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-29T09:19:04.925Z",
+    "content": "UNISON SQUARE GARDEN の「春が来てぼくら」を聴きました",
+    "url": "https://open.spotify.com/track/1hbTYIALy6ZKUraynVquOk"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T08:49:54.075Z",
+    "content": "LAUSBUB の「higher」を聴きました",
+    "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T08:46:16.604Z",
+    "content": "Perfume の「SEVENTH HEAVEN」を聴きました",
+    "url": "https://open.spotify.com/track/5vvQZ1Qkf5v9A68F0TjTEZ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T08:41:33.234Z",
+    "content": "Fujii Kaze の「It's Alright」を聴きました",
+    "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T08:37:42.508Z",
+    "content": "Fujii Kaze の「Workin' Hard」を聴きました",
+    "url": "https://open.spotify.com/track/2Ykikb0b30E1Hi5ng26bWb"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-29T08:33:39.981Z",
     "content": "Fujii Kaze の「Feelin’ Go(o)d」を聴きました",
     "url": "https://open.spotify.com/track/7ggRO16MsCFa3PPb3kTuft"
@@ -30,39 +60,9 @@
     "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T19:51:19.576Z",
-    "content": "aiko の「ボーイフレンド」を聴きました",
-    "url": "https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T12:42:28.320Z",
-    "content": "Hideaki Tokunaga の「壊れかけのRadio」を聴きました",
-    "url": "https://open.spotify.com/track/4BXQ9BO9lNCfYaCFNCW5E4"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-04-28T12:41:02Z",
     "content": "Keychron/Keychron-Keyboards-Hardware-Design をStarしました",
     "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T12:37:12.710Z",
-    "content": "Fuyumi Sakamoto の「また君に恋してる」を聴きました",
-    "url": "https://open.spotify.com/track/6zJ3yMfQXJ8pYrjNl52vzy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T12:32:53.517Z",
-    "content": "Remioromen の「粉雪」を聴きました",
-    "url": "https://open.spotify.com/track/1jonTMQX0g0VLgcw3Sn2LW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-28T12:24:38.303Z",
-    "content": "Mrs. GREEN APPLE の「風と町」を聴きました",
-    "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
   }
 ]
