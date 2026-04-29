@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-29T23:51:43.538Z",
+    "content": "Keisuke Kuwata の「白い恋人達」を聴きました",
+    "url": "https://open.spotify.com/track/5hFHG3UfvrOfhcV8anlU8g"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T23:45:13.267Z",
+    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T23:40:43.530Z",
+    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T23:40:38.348Z",
+    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-29T23:38:33.734Z",
+    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-29T20:55:59.806Z",
     "content": "Fujifabric の「TEENAGER」を聴きました",
     "url": "https://open.spotify.com/track/0EnhRxKvWt4vt48LY3cDkt"
@@ -28,36 +58,6 @@
     "timestamp": "2026-04-29T20:38:29.778Z",
     "content": "Fujifabric の「パッション・フルーツ」を聴きました",
     "url": "https://open.spotify.com/track/0Sr7ek91hg3SCo673W0onh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-29T20:34:30.041Z",
-    "content": "Fujifabric の「ロマネ」を聴きました",
-    "url": "https://open.spotify.com/track/3RfMlmFoeMcg6iIKUAQerI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-29T20:29:29.820Z",
-    "content": "Fujifabric の「Surfer King」を聴きました",
-    "url": "https://open.spotify.com/track/3g77vEeCmTCUOt9Mobz6Od"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-29T20:24:59.870Z",
-    "content": "Fujifabric の「Strawberry Shortcakes」を聴きました",
-    "url": "https://open.spotify.com/track/2ZoUfXpxhAoC9fUCrc7iYe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-29T20:21:29.850Z",
-    "content": "Fujifabric の「Chocolate Panic」を聴きました",
-    "url": "https://open.spotify.com/track/3jVmt2Ixvoc8QXEL9Ps8Zi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-29T20:16:29.912Z",
-    "content": "Fujifabric の「若者のすべて」を聴きました",
-    "url": "https://open.spotify.com/track/5dH4asCl80Mvbsoz6zJVyZ"
   },
   {
     "platform": "GitHub",
