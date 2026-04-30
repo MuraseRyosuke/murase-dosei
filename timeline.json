@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-30T13:25:30.589Z",
+    "content": "RIDGE RACER Series の「VOLCANO VEHICLE」を聴きました",
+    "url": "https://open.spotify.com/track/1deKyoFzGXba2y9jjpPsKx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-30T08:43:34.868Z",
     "content": "RIDGE RACER Series の「STIMULATION」を聴きました",
     "url": "https://open.spotify.com/track/652naVnpToEvIg9cN3ifgO"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-30T02:00:41.597Z",
     "content": "Keisuke Kuwata の「金目鯛の煮つけ」を聴きました",
     "url": "https://open.spotify.com/track/1y2DjR60Ca5ScsuASBY6ft"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T01:51:03.946Z",
-    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
-    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
   },
   {
     "platform": "GitHub",
