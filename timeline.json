@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-30T16:26:45.875Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-30T16:21:07.916Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-30T16:01:41.005Z",
     "content": "Fujii Kaze の「You」を聴きました",
     "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
@@ -46,18 +58,6 @@
     "timestamp": "2026-04-30T06:12:23.206Z",
     "content": "RIDGE RACER Series の「MENU SCREEN」を聴きました",
     "url": "https://open.spotify.com/track/6m85tgDQiuc6AjFMrHRHUY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T06:10:24.928Z",
-    "content": "RIDGE RACER Series の「PROLOGUE」を聴きました",
-    "url": "https://open.spotify.com/track/3dFJ4vI6YDhM1f3yT3EQDg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T06:09:29.946Z",
-    "content": "RIDGE RACER Series の「OPENING」を聴きました",
-    "url": "https://open.spotify.com/track/6QiWJ6IX3Qeszmz5kf1fwx"
   },
   {
     "platform": "GitHub",
