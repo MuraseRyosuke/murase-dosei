@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-30T08:37:37.068Z",
+    "content": "RIDGE RACER Series の「SILVER STREAM」を聴きました",
+    "url": "https://open.spotify.com/track/4uCKn6FPZSCTCgM6kuj0XW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-30T08:20:15.746Z",
+    "content": "RIDGE RACER Series の「RAGE RACER」を聴きました",
+    "url": "https://open.spotify.com/track/0TZLpKwnbHQKbz6QqvdgdX"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-30T06:12:23.206Z",
     "content": "RIDGE RACER Series の「MENU SCREEN」を聴きました",
     "url": "https://open.spotify.com/track/6m85tgDQiuc6AjFMrHRHUY"
@@ -46,18 +58,6 @@
     "timestamp": "2026-04-30T01:31:13.442Z",
     "content": "Aooo の「水中少女」を聴きました",
     "url": "https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T01:13:13.192Z",
-    "content": "RHYMESTER の「Diamonds」を聴きました",
-    "url": "https://open.spotify.com/track/2rLx7pSMIeZrKLObQC3At5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T01:08:43.232Z",
-    "content": "岡村靖幸さらにライムスター の「マクガフィン」を聴きました",
-    "url": "https://open.spotify.com/track/2p00nMY5AvJP4nTGmNoCul"
   },
   {
     "platform": "GitHub",
