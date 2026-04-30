@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-30T08:43:34.868Z",
+    "content": "RIDGE RACER Series の「STIMULATION」を聴きました",
+    "url": "https://open.spotify.com/track/652naVnpToEvIg9cN3ifgO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-30T08:37:37.068Z",
     "content": "RIDGE RACER Series の「SILVER STREAM」を聴きました",
     "url": "https://open.spotify.com/track/4uCKn6FPZSCTCgM6kuj0XW"
@@ -52,12 +58,6 @@
     "timestamp": "2026-04-30T01:51:03.946Z",
     "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
     "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T01:31:13.442Z",
-    "content": "Aooo の「水中少女」を聴きました",
-    "url": "https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50"
   },
   {
     "platform": "GitHub",
