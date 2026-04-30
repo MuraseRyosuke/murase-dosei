@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-04-30T06:12:23.206Z",
+    "content": "RIDGE RACER Series の「MENU SCREEN」を聴きました",
+    "url": "https://open.spotify.com/track/6m85tgDQiuc6AjFMrHRHUY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-30T06:10:24.928Z",
+    "content": "RIDGE RACER Series の「PROLOGUE」を聴きました",
+    "url": "https://open.spotify.com/track/3dFJ4vI6YDhM1f3yT3EQDg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-30T06:09:29.946Z",
+    "content": "RIDGE RACER Series の「OPENING」を聴きました",
+    "url": "https://open.spotify.com/track/6QiWJ6IX3Qeszmz5kf1fwx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-30T06:06:05.482Z",
+    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
+    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-04-30T06:01:01.248Z",
+    "content": "Fujifabric の「Small World」を聴きました",
+    "url": "https://open.spotify.com/track/3zlPc830bn4uC2NsOAhXro"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-04-30T02:00:41.597Z",
     "content": "Keisuke Kuwata の「金目鯛の煮つけ」を聴きました",
     "url": "https://open.spotify.com/track/1y2DjR60Ca5ScsuASBY6ft"
@@ -28,36 +58,6 @@
     "timestamp": "2026-04-30T01:08:43.232Z",
     "content": "岡村靖幸さらにライムスター の「マクガフィン」を聴きました",
     "url": "https://open.spotify.com/track/2p00nMY5AvJP4nTGmNoCul"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T01:03:43.398Z",
-    "content": "RHYMESTER の「世界、西原商会の世界！ Part 2 逆featuring CRAZY KEN BAND」を聴きました",
-    "url": "https://open.spotify.com/track/7LGI4HSaVY0KAyEyjXTjSa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T00:59:43.158Z",
-    "content": "Sheena Ringo の「目抜き通り」を聴きました",
-    "url": "https://open.spotify.com/track/4agbwtk2JXEGWtjDcj6b6b"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T00:56:13.423Z",
-    "content": "Sheena Ringo の「獣ゆく細道」を聴きました",
-    "url": "https://open.spotify.com/track/1b8tkaZy5pnsrKj5ettPPf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T00:50:13.193Z",
-    "content": "サザンオールスターズ の「ピースとハイライト」を聴きました",
-    "url": "https://open.spotify.com/track/6Z37RZJ0WXDMNDx9OZ2j7s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T00:45:43.292Z",
-    "content": "Noriyuki Makihara の「Love & Peace Inside?」を聴きました",
-    "url": "https://open.spotify.com/track/5e3RFmWyRb9Cb80xx3BQHf"
   },
   {
     "platform": "GitHub",
