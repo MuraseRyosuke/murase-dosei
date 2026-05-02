@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-02T07:00:40.894Z",
+    "content": "Tokyo Incidents の「緑酒」を聴きました",
+    "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T06:55:40.360Z",
+    "content": "Sheena Ringo の「茎(STEM) ～大名遊ビ編～」を聴きました",
+    "url": "https://open.spotify.com/track/0lLc0tgumgVgSgsfBeu4HQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T06:46:59.042Z",
+    "content": "Sheena Ringo の「すべりだい」を聴きました",
+    "url": "https://open.spotify.com/track/0hPXqHg4TEQRIAnK3n9EUY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T06:42:23.667Z",
+    "content": "MISIA の「果てなく続くストーリー」を聴きました",
+    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T06:35:47.535Z",
+    "content": "Tomita Lab. の「the birds of four」を聴きました",
+    "url": "https://open.spotify.com/track/74y2YsJs6kA1AJ6pG4c9DI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T06:30:24.790Z",
+    "content": "Keisuke Kuwata の「金目鯛の煮つけ」を聴きました",
+    "url": "https://open.spotify.com/track/1y2DjR60Ca5ScsuASBY6ft"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T06:29:57.400Z",
+    "content": "Sheena Ringo の「青春の瞬き」を聴きました",
+    "url": "https://open.spotify.com/track/63F1cWkR3NC13jXqhhjcfE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-01T13:29:39.097Z",
     "content": "クマリデパート の「愛 Eye Catch」を聴きました",
     "url": "https://open.spotify.com/track/7pEJKrQ80Fk5POJtTzZdTX"
@@ -16,48 +58,6 @@
     "timestamp": "2026-05-01T13:18:50.649Z",
     "content": "FRUITS ZIPPER の「NEW KAWAII」を聴きました",
     "url": "https://open.spotify.com/track/5cyv0C8sidO5KhQiK7ErQ8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-01T06:28:22.389Z",
-    "content": "Sheena Ringo の「青春の瞬き」を聴きました",
-    "url": "https://open.spotify.com/track/63F1cWkR3NC13jXqhhjcfE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-01T06:20:53.625Z",
-    "content": "Yoshinori Sunahara の「LOVEBEAT - 2021 Optimized Re-Master」を聴きました",
-    "url": "https://open.spotify.com/track/1iQ2JAQrhk1rnClrcv6jhW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-01T06:19:22.170Z",
-    "content": "梅田サイファー の「Love of the game」を聴きました",
-    "url": "https://open.spotify.com/track/1kCPCegdpOKdyjikoRakY4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T16:26:45.875Z",
-    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T16:21:07.916Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T16:01:41.005Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-04-30T15:57:00.039Z",
-    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
-    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
   },
   {
     "platform": "GitHub",
