@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-02T19:11:30.916Z",
+    "content": "Kuricorder Quartet の「おじいさんの11ヶ月」を聴きました",
+    "url": "https://open.spotify.com/track/0U1zOVAZONuZCbSMF3D5pW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T18:50:02.764Z",
+    "content": "MISIA の「果てなく続くストーリー」を聴きました",
+    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T18:43:36.653Z",
+    "content": "Fujii Kaze の「Love Like This」を聴きました",
+    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-02T18:39:13.798Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-02T09:20:10.299Z",
     "content": "OFFICIAL HIGE DANDISM の「B-Side Blues」を聴きました",
     "url": "https://open.spotify.com/track/1AVhV3FVQw7WykJ0gLc5kP"
@@ -34,30 +58,6 @@
     "timestamp": "2026-05-02T08:52:56.814Z",
     "content": "OFFICIAL HIGE DANDISM の「Subtitle」を聴きました",
     "url": "https://open.spotify.com/track/5ZkHkXPHrIM8K5twCe78i9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-02T08:47:52.367Z",
-    "content": "OFFICIAL HIGE DANDISM の「濁点」を聴きました",
-    "url": "https://open.spotify.com/track/2fDetmNK5rkTtYurjzoITH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-02T08:44:45.651Z",
-    "content": "OFFICIAL HIGE DANDISM の「Sharon」を聴きました",
-    "url": "https://open.spotify.com/track/394W63Gn6TSEEBo6DHsclU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-02T08:40:25.782Z",
-    "content": "OFFICIAL HIGE DANDISM の「I'm home (Interlude)」を聴きました",
-    "url": "https://open.spotify.com/track/3fF2B3mhTwkEtoSD2yvgYt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-02T08:39:42.788Z",
-    "content": "OFFICIAL HIGE DANDISM の「日常」を聴きました",
-    "url": "https://open.spotify.com/track/4bM39Z3rhnPdYrgpG9VuCb"
   },
   {
     "platform": "GitHub",
