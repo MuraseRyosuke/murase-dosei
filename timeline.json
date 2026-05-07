@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-07T19:33:42.599Z",
+    "content": "OFFICIAL HIGE DANDISM の「Subtitle - Live」を聴きました",
+    "url": "https://open.spotify.com/track/4FceKUnMV3wffrAFlkDwRc"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-07T19:33:22.964Z",
+    "content": "Perfume の「スパイス」を聴きました",
+    "url": "https://open.spotify.com/track/5u0A75i6Es4rGK3E0rFOIk"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-07T17:23:00.210Z",
     "content": "OFFICIAL HIGE DANDISM の「日常 - Live」を聴きました",
     "url": "https://open.spotify.com/track/6Jbdhv5fvUWHgY1TCTeUMI"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-07T16:47:26.527Z",
     "content": "OFFICIAL HIGE DANDISM の「スターダスト」を聴きました",
     "url": "https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-07T16:41:43.982Z",
-    "content": "m-flo の「>>TEMPORAL ANOMALY」を聴きました",
-    "url": "https://open.spotify.com/track/4BKqmvE2QOWs4XkLpK9bK5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-07T16:40:31.398Z",
-    "content": "m-flo の「HyperNova」を聴きました",
-    "url": "https://open.spotify.com/track/1t5jRgx7sFpGu3nNtt1U68"
   }
 ]
