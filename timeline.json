@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-08T00:38:20.720Z",
+    "content": "Maaya Sakamoto の「プラチナ」を聴きました",
+    "url": "https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-07T19:33:42.599Z",
     "content": "OFFICIAL HIGE DANDISM の「Subtitle - Live」を聴きました",
     "url": "https://open.spotify.com/track/4FceKUnMV3wffrAFlkDwRc"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-07T16:52:48.554Z",
     "content": "OFFICIAL HIGE DANDISM の「Make Me Wonder」を聴きました",
     "url": "https://open.spotify.com/track/1sgW7loPL1qtWOPimvm7X5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-07T16:47:26.527Z",
-    "content": "OFFICIAL HIGE DANDISM の「スターダスト」を聴きました",
-    "url": "https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk"
   }
 ]
