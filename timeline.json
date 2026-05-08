@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-08T21:10:52.362Z",
+    "content": "OFFICIAL HIGE DANDISM の「I LOVE... - Live」を聴きました",
+    "url": "https://open.spotify.com/track/1RknSmhCYZTqA0Atain6Bb"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-08T21:04:51.797Z",
+    "content": "OFFICIAL HIGE DANDISM の「異端なスター - Live」を聴きました",
+    "url": "https://open.spotify.com/track/0EKB9yoGAhlSbvPqBQoFRu"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-08T20:58:27.711Z",
     "content": "OFFICIAL HIGE DANDISM の「Pretender - Live」を聴きました",
     "url": "https://open.spotify.com/track/2eQOCORs44ruUF7SPqcbOG"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-08T20:23:37.676Z",
     "content": "OFFICIAL HIGE DANDISM の「ブラザーズ - Live」を聴きました",
     "url": "https://open.spotify.com/track/6dwjd1NT4Qn1L7g5rQjTwI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-08T20:17:51.816Z",
-    "content": "OFFICIAL HIGE DANDISM の「ペンディング・マシーン - Live」を聴きました",
-    "url": "https://open.spotify.com/track/5c8qTou1nnCA6P4K28S2Sq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-08T20:13:47.526Z",
-    "content": "OFFICIAL HIGE DANDISM の「Stand By You - Live」を聴きました",
-    "url": "https://open.spotify.com/track/0zOkyPiOQoZikWBWEf4tVv"
   }
 ]
