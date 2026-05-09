@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-09T16:01:08.811Z",
+    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-09T15:57:48.819Z",
+    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
+    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-09T15:42:58.313Z",
     "content": "OFFICIAL HIGE DANDISM の「Same Blue - Live」を聴きました",
     "url": "https://open.spotify.com/track/59wQTbqcpHAnYSShODIks0"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-09T14:58:03.520Z",
     "content": "OFFICIAL HIGE DANDISM の「ノーダウト - Live」を聴きました",
     "url": "https://open.spotify.com/track/1iEPVZzwb0GB9JDz0exWQv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T14:52:41.828Z",
-    "content": "OFFICIAL HIGE DANDISM の「Stand By You - Live」を聴きました",
-    "url": "https://open.spotify.com/track/0zOkyPiOQoZikWBWEf4tVv"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T14:44:39.089Z",
-    "content": "OFFICIAL HIGE DANDISM の「Laughter - Live」を聴きました",
-    "url": "https://open.spotify.com/track/5x9APp9TLbhSWhUSauqnQc"
   }
 ]
