@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-10T07:06:40.962Z",
+    "content": "sakanaction の「夜の踊り子」を聴きました",
+    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-10T07:00:56.410Z",
+    "content": "sakanaction の「夜の踊り子」を聴きました",
+    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-10T06:55:38.955Z",
+    "content": "可不 の「フォニイ」を聴きました",
+    "url": "https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-10T06:50:24.588Z",
+    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-10T06:45:41.064Z",
+    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
+    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-09T16:01:08.811Z",
     "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
     "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
@@ -28,35 +58,5 @@
     "timestamp": "2026-05-09T15:26:17.814Z",
     "content": "OFFICIAL HIGE DANDISM の「I LOVE... - Live」を聴きました",
     "url": "https://open.spotify.com/track/1RknSmhCYZTqA0Atain6Bb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T15:19:51.271Z",
-    "content": "OFFICIAL HIGE DANDISM の「Pretender - Live」を聴きました",
-    "url": "https://open.spotify.com/track/2eQOCORs44ruUF7SPqcbOG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T15:13:39.474Z",
-    "content": "OFFICIAL HIGE DANDISM の「アポトーシス - Live」を聴きました",
-    "url": "https://open.spotify.com/track/56arBiFfY6fCHSfQVTVzRV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T15:07:10.544Z",
-    "content": "OFFICIAL HIGE DANDISM の「Editorial - Live」を聴きました",
-    "url": "https://open.spotify.com/track/3Wcys5kO7559SKMnBVfTBH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T15:04:46.342Z",
-    "content": "OFFICIAL HIGE DANDISM の「Cry Baby - Live」を聴きました",
-    "url": "https://open.spotify.com/track/55eYnd6uYFG3rAw8TLsGdK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T14:58:03.520Z",
-    "content": "OFFICIAL HIGE DANDISM の「ノーダウト - Live」を聴きました",
-    "url": "https://open.spotify.com/track/1iEPVZzwb0GB9JDz0exWQv"
   }
 ]
