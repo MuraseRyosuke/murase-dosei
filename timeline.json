@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-10T19:43:27.349Z",
+    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
+    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-10T09:50:58.770Z",
     "content": "sakanaction の「夜の踊り子」を聴きました",
     "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-10T06:50:24.588Z",
     "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
     "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-10T06:45:41.064Z",
-    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
-    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
   }
 ]
