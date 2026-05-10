@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-10T09:50:58.770Z",
+    "content": "sakanaction の「夜の踊り子」を聴きました",
+    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-10T09:45:12.131Z",
+    "content": "sakanaction の「夜の踊り子」を聴きました",
+    "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-10T08:45:56.447Z",
     "content": "OFFICIAL HIGE DANDISM の「Stand By You」を聴きました",
     "url": "https://open.spotify.com/track/5D8UugGdM9n9hMsiminaZN"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-10T06:45:41.064Z",
     "content": "PASSEPIED の「ヨアケマエ」を聴きました",
     "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T16:01:08.811Z",
-    "content": "Keisuke Kuwata の「本当は怖い愛とロマンス」を聴きました",
-    "url": "https://open.spotify.com/track/3EDTJxWgZFF0uQHizHUzj7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-09T15:57:48.819Z",
-    "content": "Creepy Nuts の「ちゅだい - Chxxai」を聴きました",
-    "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
   }
 ]
