@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-11T09:00:31.367Z",
+    "content": "Maaya Sakamoto の「プラチナ」を聴きました",
+    "url": "https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-11T05:12:56.435Z",
     "content": "Berry Goodman の「You & Me」を聴きました",
     "url": "https://open.spotify.com/track/6Ya3GdMfEv5wuqx3AqAosq"
@@ -50,12 +56,6 @@
   {
     "platform": "Spotify",
     "timestamp": "2026-05-11T04:07:54.291Z",
-    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
-    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-10T19:43:27.349Z",
     "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
     "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
   }
