@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-12T11:56:58.429Z",
+    "content": "Perfume の「巡ループ」を聴きました",
+    "url": "https://open.spotify.com/track/3K9ahLxtowxeHjiR0ksy9B"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-11T09:00:31.367Z",
     "content": "Maaya Sakamoto の「プラチナ」を聴きました",
     "url": "https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-11T04:13:40.582Z",
     "content": "sakanaction の「忘れられないの」を聴きました",
     "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-11T04:07:54.291Z",
-    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
-    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
   }
 ]
