@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-14T11:24:47.613Z",
+    "content": "OFFICIAL HIGE DANDISM の「Same Blue - Live」を聴きました",
+    "url": "https://open.spotify.com/track/59wQTbqcpHAnYSShODIks0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-14T11:18:15.235Z",
+    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
+    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-13T12:43:09.018Z",
     "content": "Vaundy の「ZERO」を聴きました",
     "url": "https://open.spotify.com/track/65HcaAy1eQRr5pxVvVAqc5"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-12T15:12:44.771Z",
     "content": "CAPSULE の「You are the reason - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/3KdMsRU3CNoqHgduhwSnBz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-12T15:07:32.759Z",
-    "content": "CAPSULE の「Eternity - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2EFl03vA7ggon5wQOCoVfi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-12T15:03:26.668Z",
-    "content": "CAPSULE の「FLASH BACK - 2021 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3asvvYLjCC5isebPg90rYe"
   }
 ]
