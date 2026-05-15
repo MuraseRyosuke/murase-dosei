@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-15T16:39:51.263Z",
+    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
+    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-15T14:16:37.272Z",
     "content": "Perfume の「微かなカオリ」を聴きました",
     "url": "https://open.spotify.com/track/653zHoOdoVTCrUGb7gPfoT"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-15T08:39:02.707Z",
     "content": "Fujifabric の「Small World」を聴きました",
     "url": "https://open.spotify.com/track/3zlPc830bn4uC2NsOAhXro"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-15T03:56:01.879Z",
-    "content": "Ken Ishii の「Jerk - Original」を聴きました",
-    "url": "https://open.spotify.com/track/1MNXhVqQNWNPlFDeUcG5cw"
   }
 ]
