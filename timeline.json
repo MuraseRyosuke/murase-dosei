@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-15T09:17:51.575Z",
+    "content": "Fujifabric の「黒服の人」を聴きました",
+    "url": "https://open.spotify.com/track/2yYA18Mz6kd56NOpDI1Qia"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-15T08:47:34.491Z",
+    "content": "Fujifabric の「LIFE」を聴きました",
+    "url": "https://open.spotify.com/track/7mIWH19lOUXBkNrQtLYQli"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-15T08:39:02.707Z",
+    "content": "Fujifabric の「Small World」を聴きました",
+    "url": "https://open.spotify.com/track/3zlPc830bn4uC2NsOAhXro"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-15T03:56:01.879Z",
     "content": "Ken Ishii の「Jerk - Original」を聴きました",
     "url": "https://open.spotify.com/track/1MNXhVqQNWNPlFDeUcG5cw"
@@ -40,23 +58,5 @@
     "timestamp": "2026-05-14T18:13:20.335Z",
     "content": "Inner Science の「Unfold」を聴きました",
     "url": "https://open.spotify.com/track/7mjlfS8J1vVUwTfuZogU7U"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-14T18:13:05.997Z",
-    "content": "wattabass の「Happy Barrio」を聴きました",
-    "url": "https://open.spotify.com/track/6ZCuwS5QJWXMj5ckRYG3Qj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-14T18:12:28.790Z",
-    "content": "Guchon の「Snake Head」を聴きました",
-    "url": "https://open.spotify.com/track/1kHnIpDUYocNRQQnsTYQDU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-14T11:24:47.613Z",
-    "content": "OFFICIAL HIGE DANDISM の「Same Blue - Live」を聴きました",
-    "url": "https://open.spotify.com/track/59wQTbqcpHAnYSShODIks0"
   }
 ]
