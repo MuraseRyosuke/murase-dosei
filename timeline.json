@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-15T14:16:37.272Z",
+    "content": "Perfume の「微かなカオリ」を聴きました",
+    "url": "https://open.spotify.com/track/653zHoOdoVTCrUGb7gPfoT"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-15T14:11:39.744Z",
+    "content": "Perfume の「Virtual Fantasy」を聴きました",
+    "url": "https://open.spotify.com/track/1g41KVkSZjaAreZRguXDyE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-15T11:26:58.276Z",
     "content": "Perfume の「ソーラ・ウィンド」を聴きました",
     "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-15T03:56:01.879Z",
     "content": "Ken Ishii の「Jerk - Original」を聴きました",
     "url": "https://open.spotify.com/track/1MNXhVqQNWNPlFDeUcG5cw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-15T03:55:31.138Z",
-    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
-    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-15T03:51:26.121Z",
-    "content": "Guido Schneider の「If You - Original Mix」を聴きました",
-    "url": "https://open.spotify.com/track/09Nt7sPZBipzia9ezmiasg"
   }
 ]
