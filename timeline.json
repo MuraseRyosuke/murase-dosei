@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-15T17:41:52.327Z",
+    "content": "Perfume の「コールドスリープ」を聴きました",
+    "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-15T16:39:51.263Z",
     "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
     "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-15T08:47:34.491Z",
     "content": "Fujifabric の「LIFE」を聴きました",
     "url": "https://open.spotify.com/track/7mIWH19lOUXBkNrQtLYQli"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-15T08:39:02.707Z",
-    "content": "Fujifabric の「Small World」を聴きました",
-    "url": "https://open.spotify.com/track/3zlPc830bn4uC2NsOAhXro"
   }
 ]
