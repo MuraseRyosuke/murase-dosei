@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-17T11:37:52.818Z",
+    "content": "OFFICIAL HIGE DANDISM の「Same Blue」を聴きました",
+    "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-17T08:56:23.728Z",
     "content": "Jamiroquai の「Virtual Insanity - Remastered 2013」を聴きました",
     "url": "https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-16T09:33:01.478Z",
     "content": "Takkyu Ishino の「Fana-Tekk（agraph Remix）」を聴きました",
     "url": "https://open.spotify.com/track/1jpPuJjtGggyG1CV22aP1v"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-16T09:30:23.283Z",
-    "content": "Mihai Popoviciu の「I Should」を聴きました",
-    "url": "https://open.spotify.com/track/1HcdZoHazt1KS4Nsbm6Iao"
   }
 ]
