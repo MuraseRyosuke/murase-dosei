@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-19T09:42:50.100Z",
+    "content": "RIDGE RACER Series の「RIDGE RACERS 2 SPECIAL DJ MEGAMIX (full length)」を聴きました",
+    "url": "https://open.spotify.com/track/0MoEMvq0gV0lAvOhJRp2TD"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-18T17:57:58.872Z",
     "content": "RIDGE RACER Series の「RIDGE RACERS 2 SPECIAL DJ MEGAMIX (full length)」を聴きました",
     "url": "https://open.spotify.com/track/0MoEMvq0gV0lAvOhJRp2TD"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-17T17:07:46.246Z",
     "content": "RIDGE RACER Series の「Grip (from RIDGE RACER 2)」を聴きました",
     "url": "https://open.spotify.com/track/3ueg2HmUt7DmbSGi87l6xq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-17T17:05:12.832Z",
-    "content": "RIDGE RACER Series の「Tek Trek (from RIDGE RACERS)」を聴きました",
-    "url": "https://open.spotify.com/track/1wb8jegYNb8N514f5IF9Ed"
   }
 ]
