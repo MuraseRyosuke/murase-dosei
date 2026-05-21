@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-21T15:21:03.898Z",
+    "content": "tofubeats の「大丈夫 (feat. 柴田聡子)」を聴きました",
+    "url": "https://open.spotify.com/track/1FjQBpPM0o4xPPpeOPYaIO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-21T15:17:22.885Z",
+    "content": "RIDGE RACER Series の「R4U mix」を聴きました",
+    "url": "https://open.spotify.com/track/7gqCgNJvZQ1XugX59HXxjc"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-21T04:00:03.125Z",
     "content": "RIDGE RACER Series の「OPENING」を聴きました",
     "url": "https://open.spotify.com/track/6QiWJ6IX3Qeszmz5kf1fwx"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-20T00:12:13.292Z",
     "content": "RIDGE RACER Series の「REPLAY」を聴きました",
     "url": "https://open.spotify.com/track/5ZL47FvFcpcYnDdzo1mcnG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-20T00:11:13.367Z",
-    "content": "RIDGE RACER Series の「DEEP DRIVE」を聴きました",
-    "url": "https://open.spotify.com/track/45qzgbFmP7C0wLRD8ykCBF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-20T00:04:48.838Z",
-    "content": "RIDGE RACER Series の「VOLCANO VEHICLE」を聴きました",
-    "url": "https://open.spotify.com/track/1deKyoFzGXba2y9jjpPsKx"
   }
 ]
