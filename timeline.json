@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-22T12:16:29.990Z",
+    "content": "tofubeats の「大丈夫 (feat. 柴田聡子)」を聴きました",
+    "url": "https://open.spotify.com/track/1FjQBpPM0o4xPPpeOPYaIO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-22T05:47:58.641Z",
     "content": "M!LK の「爆裂愛してる」を聴きました",
     "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-21T17:18:53.201Z",
     "content": "NONA REEVES の「ニュー･ソウル」を聴きました",
     "url": "https://open.spotify.com/track/4pAOl5BaaLs6Kp4OtMWBqV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-21T16:45:53.604Z",
-    "content": "Noriyuki Makihara の「遠く遠く - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/3f7bdbdODQAOY9ZHE9ZKh5"
   }
 ]
