@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-22T05:47:58.641Z",
+    "content": "M!LK の「爆裂愛してる」を聴きました",
+    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-21T17:50:28.605Z",
     "content": "M!LK の「爆裂愛してる」を聴きました",
     "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-21T16:45:53.604Z",
     "content": "Noriyuki Makihara の「遠く遠く - 2012 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/3f7bdbdODQAOY9ZHE9ZKh5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-21T16:41:23.616Z",
-    "content": "Noriyuki Makihara の「もう恋なんてしない - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6"
   }
 ]
