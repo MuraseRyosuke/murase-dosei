@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-24T04:11:31.891Z",
+    "content": "OFFICIAL HIGE DANDISM の「アポトーシス」を聴きました",
+    "url": "https://open.spotify.com/track/222BlW44cS9nOM6C369IB2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-23T07:24:05.563Z",
     "content": "OFFICIAL HIGE DANDISM の「Editorial」を聴きました",
     "url": "https://open.spotify.com/track/75zWFErLuubT7CE61UoaIP"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-22T12:16:29.990Z",
     "content": "tofubeats の「大丈夫 (feat. 柴田聡子)」を聴きました",
     "url": "https://open.spotify.com/track/1FjQBpPM0o4xPPpeOPYaIO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-22T05:47:58.641Z",
-    "content": "M!LK の「爆裂愛してる」を聴きました",
-    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
   }
 ]
