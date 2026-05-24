@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-24T19:18:18.910Z",
+    "content": "Mrs. GREEN APPLE の「Carrying Happiness」を聴きました",
+    "url": "https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-24T19:02:38.180Z",
+    "content": "CAPSULE の「プラスチックガール」を聴きました",
+    "url": "https://open.spotify.com/track/5Gun38m9bMY7uYyPrGUgwE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-24T04:11:31.891Z",
     "content": "OFFICIAL HIGE DANDISM の「アポトーシス」を聴きました",
     "url": "https://open.spotify.com/track/222BlW44cS9nOM6C369IB2"
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-22T19:19:26.817Z",
     "content": "OFFICIAL HIGE DANDISM の「アポトーシス」を聴きました",
     "url": "https://open.spotify.com/track/222BlW44cS9nOM6C369IB2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-22T19:19:07.388Z",
-    "content": "Shobaleader One の「Squarepusher Theme」を聴きました",
-    "url": "https://open.spotify.com/track/5nbTnUNc6RaBeKPFWgGhFP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-22T12:16:29.990Z",
-    "content": "tofubeats の「大丈夫 (feat. 柴田聡子)」を聴きました",
-    "url": "https://open.spotify.com/track/1FjQBpPM0o4xPPpeOPYaIO"
   }
 ]
