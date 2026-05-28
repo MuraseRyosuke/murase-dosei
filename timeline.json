@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-28T02:42:37.923Z",
+    "content": "上田麗奈 の「ワタシ*ドリ」を聴きました",
+    "url": "https://open.spotify.com/track/72vslOKuNgzTVFqHeX8FJ4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-28T02:42:20.987Z",
     "content": "チーム“ハナヤマタ” の「花ハ踊レヤいろはにほ」を聴きました",
     "url": "https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-26T11:58:38.331Z",
     "content": "Kenshi Yonezu の「JANE DOE」を聴きました",
     "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-26T11:52:03.589Z",
-    "content": "Dohatsuten の「オトナノススメ」を聴きました",
-    "url": "https://open.spotify.com/track/4TldzBU1uLx0PGzgs6TFxF"
   }
 ]
