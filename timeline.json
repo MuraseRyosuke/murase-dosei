@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-29T19:41:39.762Z",
+    "content": "Fujii Kaze の「真っ白」を聴きました",
+    "url": "https://open.spotify.com/track/57UKjaYzGB8yK4EQWAeksH"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-29T19:30:12.364Z",
     "content": "Fujii Kaze の「満ちてゆく」を聴きました",
     "url": "https://open.spotify.com/track/3Ez9uxIM4nwbAZRAdJvBxS"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-29T13:14:30.009Z",
     "content": "Shiho Nanba の「まちかどハルジオン」を聴きました",
     "url": "https://open.spotify.com/track/05FGcIyvuFTqnIdc6DzlU9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-29T13:10:16.409Z",
-    "content": "Shiho Nanba の「みっつの涙」を聴きました",
-    "url": "https://open.spotify.com/track/5shD1UAKkFh7tBmOKV5H3r"
   }
 ]
