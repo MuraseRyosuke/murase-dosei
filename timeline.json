@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-05-31T15:53:56.463Z",
+    "content": "ARASHI の「Løve Rainbow」を聴きました",
+    "url": "https://open.spotify.com/track/1yGiuCOSDhVvifpmMO9yHP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-31T08:30:02.268Z",
     "content": "ARASHI の「PIKA☆☆NCHI DOUBLE」を聴きました",
     "url": "https://open.spotify.com/track/1HVDo1B73jbeHEanIDOpIC"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-31T05:11:47.385Z",
     "content": "ARASHI の「Oh Yeah!」を聴きました",
     "url": "https://open.spotify.com/track/2SWpvDGQPolxdKFsvLpk8B"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-31T05:07:04.299Z",
-    "content": "ARASHI の「Løve Rainbow」を聴きました",
-    "url": "https://open.spotify.com/track/1yGiuCOSDhVvifpmMO9yHP"
   }
 ]
