@@ -14,6 +14,18 @@
   {
     "platform": "Spotify",
     "timestamp": "2026-05-31T08:30:02.268Z",
+    "content": "ARASHI の「PIKA☆☆NCHI DOUBLE」を聴きました",
+    "url": "https://open.spotify.com/track/1HVDo1B73jbeHEanIDOpIC"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-31T08:30:02.268Z",
+    "content": "ARASHI の「Five」を聴きました",
+    "url": "https://open.spotify.com/track/0LytqjqWwlqDDheQsAATx8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-05-31T08:30:02.268Z",
     "content": "ARASHI の「Five」を聴きました",
     "url": "https://open.spotify.com/track/0LytqjqWwlqDDheQsAATx8"
   },
@@ -46,17 +58,5 @@
     "timestamp": "2026-05-31T05:20:49.923Z",
     "content": "ARASHI の「迷宮ラブソング」を聴きました",
     "url": "https://open.spotify.com/track/4qIQn9YSS8hPc6ItNjxySJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-31T05:16:13.123Z",
-    "content": "ARASHI の「果てない空」を聴きました",
-    "url": "https://open.spotify.com/track/6V90svq6ex0XsvLxgQ5dGm"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-31T05:11:47.385Z",
-    "content": "ARASHI の「Oh Yeah!」を聴きました",
-    "url": "https://open.spotify.com/track/2SWpvDGQPolxdKFsvLpk8B"
   }
 ]
