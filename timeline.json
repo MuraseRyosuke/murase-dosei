@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-01T16:20:06.458Z",
+    "content": "nuphory の「BRING IT」を聴きました",
+    "url": "https://open.spotify.com/track/4Gc35cepyWUl8auu84wiU2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-05-31T15:53:56.463Z",
     "content": "ARASHI の「Løve Rainbow」を聴きました",
     "url": "https://open.spotify.com/track/1yGiuCOSDhVvifpmMO9yHP"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-31T05:25:17.449Z",
     "content": "ARASHI の「A・RA・SHI」を聴きました",
     "url": "https://open.spotify.com/track/1kdGYCHCff09E2FASM5IVY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-31T05:20:49.923Z",
-    "content": "ARASHI の「迷宮ラブソング」を聴きました",
-    "url": "https://open.spotify.com/track/4qIQn9YSS8hPc6ItNjxySJ"
   }
 ]
