@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-02T09:29:07.142Z",
+    "content": "Sunnylane の「Respirar」を聴きました",
+    "url": "https://open.spotify.com/track/3kDSCpqIUliVBSzGvGRTni"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-01T16:20:06.458Z",
     "content": "nuphory の「BRING IT」を聴きました",
     "url": "https://open.spotify.com/track/4Gc35cepyWUl8auu84wiU2"
@@ -52,11 +58,5 @@
     "timestamp": "2026-05-31T05:29:45.401Z",
     "content": "ARASHI の「Monster」を聴きました",
     "url": "https://open.spotify.com/track/2WZQFqvPvrGRelBgRHA73M"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-05-31T05:25:17.449Z",
-    "content": "ARASHI の「A・RA・SHI」を聴きました",
-    "url": "https://open.spotify.com/track/1kdGYCHCff09E2FASM5IVY"
   }
 ]
