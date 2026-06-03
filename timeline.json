@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-03T06:28:14.939Z",
+    "content": "MISIA の「果てなく続くストーリー」を聴きました",
+    "url": "https://open.spotify.com/track/3OtCe3K1nu7MIoLkqjyafj"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-02T23:33:49.162Z",
     "content": "Mrs. GREEN APPLE の「lulu.」を聴きました",
     "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-02T22:56:19.312Z",
     "content": "sakanaction の「夜の踊り子」を聴きました",
     "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-02T22:51:16.067Z",
-    "content": "DREAMS COME TRUE の「うれしい！たのしい！大好き！」を聴きました",
-    "url": "https://open.spotify.com/track/7tqltihMt6Z2DAFAi6eNzH"
   }
 ]
