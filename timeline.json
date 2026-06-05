@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-05T18:45:46.115Z",
+    "content": "Ninajirachi の「London Song」を聴きました",
+    "url": "https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-05T05:18:35.198Z",
     "content": "UNICORN の「TEPPAN KING」を聴きました",
     "url": "https://open.spotify.com/track/1m9gGWVosZBoe7o99VkrAZ"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-04T07:54:03.945Z",
     "content": "Fujii Kaze の「風よ」を聴きました",
     "url": "https://open.spotify.com/track/77NDAeUdOg9ODtEhbZjAb4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-04T07:49:19.452Z",
-    "content": "Fujii Kaze の「死ぬのがいいわ」を聴きました",
-    "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
   }
 ]
