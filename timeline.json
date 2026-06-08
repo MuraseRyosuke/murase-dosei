@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-08T14:01:45.174Z",
+    "content": "Fujii Kaze の「It's Alright」を聴きました",
+    "url": "https://open.spotify.com/track/4GNeJeD7DAIFWQkZG8h3uK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-08T14:01:45.174Z",
+    "content": "Fujii Kaze の「It's Alright」を聴きました",
+    "url": "https://open.spotify.com/track/4GNeJeD7DAIFWQkZG8h3uK"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-08T14:00:45.883Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-08T06:53:04.148Z",
     "content": "DE DE MOUSE の「Leaving you」を聴きました",
     "url": "https://open.spotify.com/track/02zc3atyZydtdo5jNh9fjK"
@@ -40,23 +58,5 @@
     "timestamp": "2026-06-08T06:31:33.266Z",
     "content": "DE DE MOUSE の「Moment」を聴きました",
     "url": "https://open.spotify.com/track/4nilFlZDpNs6NYbIHO3iD2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:27:25.567Z",
-    "content": "DE DE MOUSE の「Regret」を聴きました",
-    "url": "https://open.spotify.com/track/3aoCbrzEZPnvBD2UBnaKiK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:23:26.752Z",
-    "content": "DE DE MOUSE の「Heartbeat」を聴きました",
-    "url": "https://open.spotify.com/track/4hdLPxeLEEMqyF1SnGyDgx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:20:01.873Z",
-    "content": "DE DE MOUSE の「Magic」を聴きました",
-    "url": "https://open.spotify.com/track/6Eb7eE1asCSzPIvJGNDn1f"
   }
 ]
