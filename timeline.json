@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-09T11:49:03.810Z",
+    "content": "モーニング娘。'24 の「最KIYOU」を聴きました",
+    "url": "https://open.spotify.com/track/0TMzYImV47GXIYi2yRJu7B"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-09T11:44:08.451Z",
+    "content": "モーニング娘。'20 の「KOKORO&KARADA」を聴きました",
+    "url": "https://open.spotify.com/track/6fztex4CtzExAGb5kvROaO"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-09T11:38:59.095Z",
+    "content": "UNICORN の「WAO!」を聴きました",
+    "url": "https://open.spotify.com/track/0vsMJ9kZyVD3poXSisGZW7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-09T11:34:16.709Z",
+    "content": "Edward Elgar の「行進曲｢威風堂々｣第1番」を聴きました",
+    "url": "https://open.spotify.com/track/24qD7TCMUbPJaDRY95GSFL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-08T14:01:45.174Z",
     "content": "Fujii Kaze の「It's Alright」を聴きました",
     "url": "https://open.spotify.com/track/4GNeJeD7DAIFWQkZG8h3uK"
@@ -34,29 +58,5 @@
     "timestamp": "2026-06-08T06:45:55.754Z",
     "content": "DE DE MOUSE の「Stay (With Me)」を聴きました",
     "url": "https://open.spotify.com/track/5fhXRp4arpA9vWpho9vScT"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:42:25.762Z",
-    "content": "DE DE MOUSE の「Free」を聴きました",
-    "url": "https://open.spotify.com/track/4R4eHJ9Nm4Rb21nGIk8vv2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:39:08.387Z",
-    "content": "DE DE MOUSE の「Growing Up」を聴きました",
-    "url": "https://open.spotify.com/track/1Tjyxm1fwZ36nIJb1KKj7D"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:35:05.879Z",
-    "content": "DE DE MOUSE の「Breath」を聴きました",
-    "url": "https://open.spotify.com/track/5AupPItj7p61aOP7y2O6dI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-08T06:31:33.266Z",
-    "content": "DE DE MOUSE の「Moment」を聴きました",
-    "url": "https://open.spotify.com/track/4nilFlZDpNs6NYbIHO3iD2"
   }
 ]
