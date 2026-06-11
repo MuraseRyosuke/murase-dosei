@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-11T00:11:24.624Z",
+    "content": "M!LK の「好きすぎて滅！」を聴きました",
+    "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-10T23:01:57.974Z",
     "content": "BEGIN の「島人ぬ宝」を聴きました",
     "url": "https://open.spotify.com/track/6P3cVv4fPhKa0Ipx6s9qAM"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-09T21:00:56.623Z",
     "content": "King & Prince の「Theater」を聴きました",
     "url": "https://open.spotify.com/track/5obcTVBYLhSTTBuuttwq24"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-09T20:47:42.543Z",
-    "content": "M!LK の「爆裂愛してる」を聴きました",
-    "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
   }
 ]
