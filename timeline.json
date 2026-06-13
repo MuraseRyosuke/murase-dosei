@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-13T05:18:50.159Z",
+    "content": "Tampopo Jido Gasshodan の「蛍の光」を聴きました",
+    "url": "https://open.spotify.com/track/0J09wjVUMfTdZnZfWTGA4G"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-13T04:23:33.756Z",
     "content": "新浜レオン の「LOVE しない？」を聴きました",
     "url": "https://open.spotify.com/track/5EQbDmEffSwReBGpmmHM2q"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-11T23:42:11.502Z",
     "content": "banvox の「Future」を聴きました",
     "url": "https://open.spotify.com/track/2IpaIu5uGMYdwzB7E8DUAP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-11T07:13:18.800Z",
-    "content": "in the blue shirt の「Fork in the Road」を聴きました",
-    "url": "https://open.spotify.com/track/4cCcgI8mTCiFHjrvREmciE"
   }
 ]
