@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-16T16:35:02.978Z",
+    "content": "Kyary Pamyu Pamyu の「ぱみゅぱみゅレボリューション」を聴きました",
+    "url": "https://open.spotify.com/track/0qIjl6WvX1PqoXU6xNsLdw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-16T07:56:29.025Z",
     "content": "Kyary Pamyu Pamyu の「チェリーボンボン」を聴きました",
     "url": "https://open.spotify.com/track/6ZIBjemH5DG4gEscAL3y7s"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-15T23:09:53.729Z",
     "content": "RIDGE RACER Series の「Move Me」を聴きました",
     "url": "https://open.spotify.com/track/1O84jtarAp8PpKOJDyxFHc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-15T23:05:12.323Z",
-    "content": "RIDGE RACER Series の「Your Vibe」を聴きました",
-    "url": "https://open.spotify.com/track/2vUpo5UGh5iBOxgxmEMU8o"
   }
 ]
