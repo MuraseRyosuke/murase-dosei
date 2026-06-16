@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-16T07:56:29.025Z",
+    "content": "Kyary Pamyu Pamyu の「チェリーボンボン」を聴きました",
+    "url": "https://open.spotify.com/track/6ZIBjemH5DG4gEscAL3y7s"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-16T07:52:50.536Z",
+    "content": "Kyary Pamyu Pamyu の「きゃりーのマーチ」を聴きました",
+    "url": "https://open.spotify.com/track/2AnSThO9dgX79DzrVnyyW6"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-16T04:12:28.818Z",
+    "content": "Kyary Pamyu Pamyu の「キミに100パーセント」を聴きました",
+    "url": "https://open.spotify.com/track/3BPnFpAL02Bos8EoTLnO9R"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-15T23:31:58.352Z",
     "content": "RIDGE RACER Series の「Daredevil」を聴きました",
     "url": "https://open.spotify.com/track/784uzMurbpbnxMdkPMfn2g"
@@ -40,23 +58,5 @@
     "timestamp": "2026-06-15T23:05:12.323Z",
     "content": "RIDGE RACER Series の「Your Vibe」を聴きました",
     "url": "https://open.spotify.com/track/2vUpo5UGh5iBOxgxmEMU8o"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-15T23:01:18.644Z",
-    "content": "RIDGE RACER Series の「Naked Glow」を聴きました",
-    "url": "https://open.spotify.com/track/7IShGij5ECYefZ1TPIP9wp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-15T22:57:35.099Z",
-    "content": "RIDGE RACER Series の「Silver Stream」を聴きました",
-    "url": "https://open.spotify.com/track/4bnKpXIozs5PMsj9htUkqI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-15T22:53:21.888Z",
-    "content": "RIDGE RACER Series の「Euphoria」を聴きました",
-    "url": "https://open.spotify.com/track/2sQink5Cq5KVXd8f7th9vp"
   }
 ]
