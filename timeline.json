@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-20T16:38:13.934Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T16:27:57.619Z",
+    "content": "CAPSULE の「CONTROL」を聴きました",
+    "url": "https://open.spotify.com/track/71wDBaqiuoKmCJX70SBMCk"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T16:23:21.118Z",
+    "content": "CAPSULE の「HOME」を聴きました",
+    "url": "https://open.spotify.com/track/0O5rpUAGfzmfhkyAgXaMTt"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-20T12:19:58.035Z",
     "content": "DE DE MOUSE の「モーフ ボール」を聴きました",
     "url": "https://open.spotify.com/track/0aKp80w7T1lcNGc6dIZ20s"
@@ -40,23 +58,5 @@
     "timestamp": "2026-06-19T11:03:51.989Z",
     "content": "Junji Ishiwatari の「神様のいうとおり」を聴きました",
     "url": "https://open.spotify.com/track/0QMrcdaxY9MPwezD7ypojn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-19T11:00:06.617Z",
-    "content": "YAKUSHIMARU Etsuko の「ヴィーナスとジーザス」を聴きました",
-    "url": "https://open.spotify.com/track/32asGa03gg4uzKgff53yEV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-19T10:53:27.950Z",
-    "content": "Mrs. GREEN APPLE の「クスシキ」を聴きました",
-    "url": "https://open.spotify.com/track/57zS3lPil2VxdlBLXHu8l2"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-19T10:50:14.335Z",
-    "content": "Mrs. GREEN APPLE の「クスシキ」を聴きました",
-    "url": "https://open.spotify.com/track/57zS3lPil2VxdlBLXHu8l2"
   }
 ]
