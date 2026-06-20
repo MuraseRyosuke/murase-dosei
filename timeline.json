@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-20T18:03:14.062Z",
+    "content": "CAPSULE の「RETURN」を聴きました",
+    "url": "https://open.spotify.com/track/6CRRC95IS7MNkRrYJAOoK7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T17:57:57.830Z",
+    "content": "CAPSULE の「SPACE」を聴きました",
+    "url": "https://open.spotify.com/track/4MR0wstzoMt8974cJ8SjiR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T17:53:15.193Z",
+    "content": "CAPSULE の「ESC」を聴きました",
+    "url": "https://open.spotify.com/track/3kg8zctEUx3u5daAfFu9My"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T17:50:56.507Z",
+    "content": "CAPSULE の「SHIFT」を聴きました",
+    "url": "https://open.spotify.com/track/1VDdJTV85MU7biGkIuGpug"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T17:47:06.077Z",
+    "content": "CAPSULE の「12345678」を聴きました",
+    "url": "https://open.spotify.com/track/14sUFfl58E2hs6GDh5IIq7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-20T17:40:57.824Z",
+    "content": "CAPSULE の「DELETE」を聴きました",
+    "url": "https://open.spotify.com/track/1rspFvnGMVptU6oEq6Zeog"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-20T16:38:13.934Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -22,41 +58,5 @@
     "timestamp": "2026-06-20T12:19:58.035Z",
     "content": "DE DE MOUSE の「モーフ ボール」を聴きました",
     "url": "https://open.spotify.com/track/0aKp80w7T1lcNGc6dIZ20s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-20T12:17:34.975Z",
-    "content": "aiko の「milk」を聴きました",
-    "url": "https://open.spotify.com/track/5BDh3j6kCJUmzUpSh0ESVZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-20T08:16:37.947Z",
-    "content": "DE DE MOUSE の「ライト スピード ユー」を聴きました",
-    "url": "https://open.spotify.com/track/0u5rtXgVw65KmWeAxQnzcj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-20T08:11:51.234Z",
-    "content": "DE DE MOUSE の「レイブ ナインティースリー」を聴きました",
-    "url": "https://open.spotify.com/track/7k53yhpb9knIayRdTbddul"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-20T08:05:17.777Z",
-    "content": "DE DE MOUSE の「サテンディスコ スリーナイン」を聴きました",
-    "url": "https://open.spotify.com/track/3NxvisUhys0XjAIjSmiMAs"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-19T12:41:03.549Z",
-    "content": "CAPSULE の「happy life generator」を聴きました",
-    "url": "https://open.spotify.com/track/5qWN4ThjW7emHpZuXcjkNc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-19T11:03:51.989Z",
-    "content": "Junji Ishiwatari の「神様のいうとおり」を聴きました",
-    "url": "https://open.spotify.com/track/0QMrcdaxY9MPwezD7ypojn"
   }
 ]
