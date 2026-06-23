@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-23T14:20:56.721Z",
+    "content": "DEVO の「Puppet Boy」を聴きました",
+    "url": "https://open.spotify.com/track/3sOOE5gy9FI2KuGnjqAiGg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-23T14:15:41.505Z",
+    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
+    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-23T12:30:21.909Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -46,17 +58,5 @@
     "timestamp": "2026-06-23T11:40:10.182Z",
     "content": "Gen Hoshino の「くせのうた」を聴きました",
     "url": "https://open.spotify.com/track/3VYGe2iv4Ja4KcgsKGhTZg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-23T11:31:08.287Z",
-    "content": "KIRINJI の「くよくよするなよ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/10B0RGnWo7rHI5k8IaAFOf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-23T11:28:41.605Z",
-    "content": "KIRINJI の「牡牛座ラプソディ - 2018 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/6ospm0piuzthdAunYS2YxL"
   }
 ]
