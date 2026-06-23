@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-23T17:08:25.620Z",
+    "content": "MOROHA の「革命」を聴きました",
+    "url": "https://open.spotify.com/track/5mjkeVu24NbkHeX8zt7muo"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-23T14:20:56.721Z",
     "content": "DEVO の「Puppet Boy」を聴きました",
     "url": "https://open.spotify.com/track/3sOOE5gy9FI2KuGnjqAiGg"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-23T11:42:59.482Z",
     "content": "Gen Hoshino の「兄妹」を聴きました",
     "url": "https://open.spotify.com/track/1yOqNi0aXqiZJw6eBGWqW1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-23T11:40:10.182Z",
-    "content": "Gen Hoshino の「くせのうた」を聴きました",
-    "url": "https://open.spotify.com/track/3VYGe2iv4Ja4KcgsKGhTZg"
   }
 ]
