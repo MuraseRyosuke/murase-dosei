@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-24T07:39:23.322Z",
+    "content": "Fujii Kaze の「まつり」を聴きました",
+    "url": "https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-24T07:35:21.014Z",
+    "content": "Fujii Kaze の「きらり」を聴きました",
+    "url": "https://open.spotify.com/track/3L7ISJTvKx56uhsF28aJ4p"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-23T17:08:25.620Z",
     "content": "MOROHA の「革命」を聴きました",
     "url": "https://open.spotify.com/track/5mjkeVu24NbkHeX8zt7muo"
@@ -46,17 +58,5 @@
     "timestamp": "2026-06-23T12:10:41.503Z",
     "content": "Fujii Kaze の「Casket Girl」を聴きました",
     "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-23T12:06:22.849Z",
-    "content": "Gen Hoshino の「さようならのうみ (Instrumental)」を聴きました",
-    "url": "https://open.spotify.com/track/4GldX1uRkauyCaSKr0L6hk"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-23T11:42:59.482Z",
-    "content": "Gen Hoshino の「兄妹」を聴きました",
-    "url": "https://open.spotify.com/track/1yOqNi0aXqiZJw6eBGWqW1"
   }
 ]
