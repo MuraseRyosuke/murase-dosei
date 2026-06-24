@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-24T17:38:38.078Z",
+    "content": "Masayuki Suzuki の「渋谷で5時(Romantic Single Version)」を聴きました",
+    "url": "https://open.spotify.com/track/3OFmJeYeDymWktj369dnDv"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-24T15:17:31.410Z",
     "content": "Hikaru Utada の「パッパパラダイス (Instrumental)」を聴きました",
     "url": "https://open.spotify.com/track/1x7yC1np8BlYWBfDz0w1XJ"
@@ -52,11 +58,5 @@
     "timestamp": "2026-06-24T14:43:22.416Z",
     "content": "Tokyo Girls' Style の「ヒマワリと星屑」を聴きました",
     "url": "https://open.spotify.com/track/1cFtUc6MyYGajaa33pSz8U"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T14:40:24.905Z",
-    "content": "Tokyo Girls' Style の「Liar」を聴きました",
-    "url": "https://open.spotify.com/track/03BoKhu5vQ3YMabwYKw0Ws"
   }
 ]
