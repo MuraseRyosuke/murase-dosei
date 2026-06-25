@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-25T18:05:34.604Z",
+    "content": "Kyary Pamyu Pamyu の「Focus Focus」を聴きました",
+    "url": "https://open.spotify.com/track/6QPWUM2xaallfdqTcsQVqS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-25T18:00:34.590Z",
+    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
+    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-25T10:36:05.768Z",
     "content": "Masayuki Suzuki の「Love is Show」を聴きました",
     "url": "https://open.spotify.com/track/3Ert8woiS7lxqJcJL21pU0"
@@ -46,17 +58,5 @@
     "timestamp": "2026-06-24T15:00:28.099Z",
     "content": "Tokyo Girls' Style の「運命」を聴きました",
     "url": "https://open.spotify.com/track/3MGbR8xPZqaTVEEnJ8jQR3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T14:55:08.804Z",
-    "content": "Tokyo Girls' Style の「Partition Love」を聴きました",
-    "url": "https://open.spotify.com/track/11QW0Bhh1g7blomvLpGuZU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T14:48:31.883Z",
-    "content": "Tokyo Girls' Style の「Limited addiction」を聴きました",
-    "url": "https://open.spotify.com/track/5GwjHfQaYq7H0dvo9bu0p7"
   }
 ]
