@@ -1,5 +1,23 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-06-26T13:11:41.373Z",
+    "content": "Kyary Pamyu Pamyu の「にんじゃりばんばん」を聴きました",
+    "url": "https://open.spotify.com/track/3zrmJWuIWUmrhhSAZnlOYF"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-26T13:07:14.611Z",
+    "content": "Kyary Pamyu Pamyu の「なんだこれくしょん」を聴きました",
+    "url": "https://open.spotify.com/track/52J5BmBqplzq0XojZn0IDQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-06-26T13:06:10.102Z",
+    "content": "Kyary Pamyu Pamyu の「Focus Focus」を聴きました",
+    "url": "https://open.spotify.com/track/6QPWUM2xaallfdqTcsQVqS"
+  },
+  {
     "platform": "YouTube",
     "timestamp": "2026-06-25T18:44:21Z",
     "content": "動画「20220624」を公開しました",
@@ -25,6 +43,12 @@
   },
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-25T10:36:05.768Z",
+    "content": "Masayuki Suzuki の「Love is Show」を聴きました",
+    "url": "https://open.spotify.com/track/3Ert8woiS7lxqJcJL21pU0"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-24T17:38:38.078Z",
     "content": "Masayuki Suzuki の「渋谷で5時(Romantic Single Version)」を聴きました",
     "url": "https://open.spotify.com/track/3OFmJeYeDymWktj369dnDv"
@@ -40,29 +64,5 @@
     "timestamp": "2026-06-24T15:13:43.925Z",
     "content": "Hikaru Utada の「パッパパラダイス」を聴きました",
     "url": "https://open.spotify.com/track/12mQ3b4UU5A612boAFkJcu"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T15:09:52.995Z",
-    "content": "Hikaru Utada の「パッパパラダイス」を聴きました",
-    "url": "https://open.spotify.com/track/3347KswTTnQyqjUL9dXi5J"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T15:05:28.729Z",
-    "content": "Tokyo Girls' Style の「ちいさな奇跡」を聴きました",
-    "url": "https://open.spotify.com/track/0994l6pyooIDTteLBcbTMf"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T15:04:24.511Z",
-    "content": "Tokyo Girls' Style の「鼓動の秘密」を聴きました",
-    "url": "https://open.spotify.com/track/583pvQTzHjMlF2FekJQisG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T15:00:28.099Z",
-    "content": "Tokyo Girls' Style の「運命」を聴きました",
-    "url": "https://open.spotify.com/track/3MGbR8xPZqaTVEEnJ8jQR3"
   }
 ]
