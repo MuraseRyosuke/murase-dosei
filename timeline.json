@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-26T18:13:35.503Z",
+    "content": "Number_i の「未確認領域」を聴きました",
+    "url": "https://open.spotify.com/track/7ibCDEx4MOX9zG8IS7gGDE"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-26T18:04:01.032Z",
     "content": "Tokyo Girls' Style の「Limited addiction」を聴きました",
     "url": "https://open.spotify.com/track/5GwjHfQaYq7H0dvo9bu0p7"
@@ -52,12 +58,6 @@
     "timestamp": "2026-06-26T13:07:14.611Z",
     "content": "Kyary Pamyu Pamyu の「なんだこれくしょん」を聴きました",
     "url": "https://open.spotify.com/track/52J5BmBqplzq0XojZn0IDQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-26T13:06:10.102Z",
-    "content": "Kyary Pamyu Pamyu の「Focus Focus」を聴きました",
-    "url": "https://open.spotify.com/track/6QPWUM2xaallfdqTcsQVqS"
   },
   {
     "platform": "YouTube",
