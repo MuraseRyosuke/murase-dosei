@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-26T14:34:39.996Z",
+    "content": "Kyary Pamyu Pamyu の「キミに100パーセント」を聴きました",
+    "url": "https://open.spotify.com/track/1chTElozugAFsW2x03IS6d"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-26T13:11:41.373Z",
     "content": "Kyary Pamyu Pamyu の「にんじゃりばんばん」を聴きました",
     "url": "https://open.spotify.com/track/3zrmJWuIWUmrhhSAZnlOYF"
@@ -58,11 +64,5 @@
     "timestamp": "2026-06-24T15:17:31.410Z",
     "content": "Hikaru Utada の「パッパパラダイス (Instrumental)」を聴きました",
     "url": "https://open.spotify.com/track/1x7yC1np8BlYWBfDz0w1XJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-24T15:13:43.925Z",
-    "content": "Hikaru Utada の「パッパパラダイス」を聴きました",
-    "url": "https://open.spotify.com/track/12mQ3b4UU5A612boAFkJcu"
   }
 ]
