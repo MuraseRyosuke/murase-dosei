@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-06-30T04:45:57.869Z",
+    "content": "Yukihiro Fukutomi の「Time for Change」を聴きました",
+    "url": "https://open.spotify.com/track/4gCdruOtq26XjWmWbXcnyx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-06-30T04:39:08.375Z",
     "content": "Yukihiro Fukutomi の「Out of Nowhere」を聴きました",
     "url": "https://open.spotify.com/track/4lyD3Fns492Vuzo7N5oa51"
@@ -52,12 +58,6 @@
     "timestamp": "2026-06-29T15:43:57.820Z",
     "content": "MEG の「OK」を聴きました",
     "url": "https://open.spotify.com/track/68ysWYoJMmM0X7qDmb6fBz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-29T15:39:43.444Z",
-    "content": "MEG の「dreamin dreamin」を聴きました",
-    "url": "https://open.spotify.com/track/6YEWwy7SwR5KDeDvLEftmv"
   },
   {
     "platform": "YouTube",
