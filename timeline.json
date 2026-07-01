@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-01T06:17:19.368Z",
+    "content": "KOBUKURO の「蕾(つぼみ)」を聴きました",
+    "url": "https://open.spotify.com/track/4kWPNCY1JZEqJq9Vcjrfpz"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-01T01:28:18.464Z",
     "content": "Yoshinori Sunahara の「LOVEBEAT 2021 DUB Mix」を聴きました",
     "url": "https://open.spotify.com/track/5OLADjqEsgO4OZCbULys7i"
@@ -52,12 +58,6 @@
     "timestamp": "2026-06-30T21:27:36.098Z",
     "content": "FPM の「Reaching for the Stars」を聴きました",
     "url": "https://open.spotify.com/track/0H9oIb6VrOQ1zFnrqIhmXB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-06-30T04:45:57.869Z",
-    "content": "Yukihiro Fukutomi の「Time for Change」を聴きました",
-    "url": "https://open.spotify.com/track/4gCdruOtq26XjWmWbXcnyx"
   },
   {
     "platform": "YouTube",
