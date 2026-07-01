@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-01T15:31:21.581Z",
+    "content": "MEG の「TELEPHONE」を聴きました",
+    "url": "https://open.spotify.com/track/6XIC2Aodm4ftQbgsBb4RqP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-01T13:43:44.849Z",
     "content": "MEG の「PRECIOUS」を聴きました",
     "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
@@ -58,12 +64,6 @@
     "timestamp": "2026-07-01T12:36:59.338Z",
     "content": "初星学園 の「Feel Jewel Dream」を聴きました",
     "url": "https://open.spotify.com/track/354cRxdFNcY7tmjV1ddxUO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-01T12:33:36.267Z",
-    "content": "Kyary Pamyu Pamyu の「Focus Focus」を聴きました",
-    "url": "https://open.spotify.com/track/6QPWUM2xaallfdqTcsQVqS"
   },
   {
     "platform": "YouTube",
