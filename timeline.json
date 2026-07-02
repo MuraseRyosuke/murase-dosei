@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-02T08:02:31.798Z",
+    "content": "Kizuna AI の「Here for you」を聴きました",
+    "url": "https://open.spotify.com/track/2MClYu3w7pRgBDHuDbyZrn"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-01T15:31:21.581Z",
     "content": "MEG の「TELEPHONE」を聴きました",
     "url": "https://open.spotify.com/track/6XIC2Aodm4ftQbgsBb4RqP"
@@ -58,12 +64,6 @@
     "timestamp": "2026-07-01T12:50:39.415Z",
     "content": "DE DE MOUSE の「like your magic」を聴きました",
     "url": "https://open.spotify.com/track/5NJTXND7tWFz1pBqvk22xa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-01T12:36:59.338Z",
-    "content": "初星学園 の「Feel Jewel Dream」を聴きました",
-    "url": "https://open.spotify.com/track/354cRxdFNcY7tmjV1ddxUO"
   },
   {
     "platform": "YouTube",
