@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-04T21:44:03.197Z",
+    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
+    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-02T16:21:15.837Z",
     "content": "sakanaction の「『バッハの旋律を夜に聴いたせいです。』」を聴きました",
     "url": "https://open.spotify.com/track/6Zmg9q5eSK3ROwDnP6Qm4j"
@@ -52,12 +58,6 @@
     "timestamp": "2026-07-01T13:43:44.849Z",
     "content": "MEG の「PRECIOUS」を聴きました",
     "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-01T13:39:12.437Z",
-    "content": "MEG の「DAYS」を聴きました",
-    "url": "https://open.spotify.com/track/0PJFbNNedrJwqc2YvYLMOX"
   },
   {
     "platform": "Bluesky",
