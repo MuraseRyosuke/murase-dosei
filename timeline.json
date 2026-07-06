@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-06T22:48:24.201Z",
+    "content": "DE DE MOUSE の「get you back」を聴きました",
+    "url": "https://open.spotify.com/track/366REQBFGirLR7NFzclkvn"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-06T17:38:35.615Z",
     "content": "Yoshinori Sunahara の「EARTH BEAT - 2021 Optimized Re-Master」を聴きました",
     "url": "https://open.spotify.com/track/6nl4ImYGlctjAp4BBsbhQx"
@@ -8,6 +14,12 @@
   {
     "platform": "Spotify",
     "timestamp": "2026-07-06T17:28:54.061Z",
+    "content": "DE DE MOUSE の「get you back」を聴きました",
+    "url": "https://open.spotify.com/track/366REQBFGirLR7NFzclkvn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-06T17:05:39.170Z",
     "content": "DE DE MOUSE の「get you back」を聴きました",
     "url": "https://open.spotify.com/track/366REQBFGirLR7NFzclkvn"
   },
@@ -46,18 +58,6 @@
     "timestamp": "2026-07-03T13:48:58.724Z",
     "content": "Squarepusher の「Dark Steering」を聴きました",
     "url": "https://open.spotify.com/track/2ymO9NyWYVwomZAqKGGaAb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-02T16:21:15.837Z",
-    "content": "sakanaction の「『バッハの旋律を夜に聴いたせいです。』」を聴きました",
-    "url": "https://open.spotify.com/track/6Zmg9q5eSK3ROwDnP6Qm4j"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-02T15:45:40.708Z",
-    "content": "Yo Hitoto の「もらい泣き」を聴きました",
-    "url": "https://open.spotify.com/track/4CJqWuSLXclenqRcmFvQsI"
   },
   {
     "platform": "Bluesky",
