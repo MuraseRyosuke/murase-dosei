@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-07T12:23:48.750Z",
+    "content": "DE DE MOUSE の「face to face」を聴きました",
+    "url": "https://open.spotify.com/track/1nSgPqgoDs5EF6fGfJVHFA"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-06T22:48:24.201Z",
     "content": "DE DE MOUSE の「get you back」を聴きました",
     "url": "https://open.spotify.com/track/366REQBFGirLR7NFzclkvn"
@@ -52,12 +58,6 @@
     "timestamp": "2026-07-04T21:44:03.197Z",
     "content": "PASSEPIED の「ヨアケマエ」を聴きました",
     "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-03T13:48:58.724Z",
-    "content": "Squarepusher の「Dark Steering」を聴きました",
-    "url": "https://open.spotify.com/track/2ymO9NyWYVwomZAqKGGaAb"
   },
   {
     "platform": "Bluesky",
