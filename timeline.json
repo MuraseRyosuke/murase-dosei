@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-10T02:12:39.910Z",
+    "content": "Swing Out Sister の「Breakout」を聴きました",
+    "url": "https://open.spotify.com/track/53WaJXBsrJUILukj3ITOtD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-10T02:09:11.278Z",
+    "content": "DE DE MOUSE の「Neon Lightの夜 (Extended Dance Mix) feat. 一十三十一」を聴きました",
+    "url": "https://open.spotify.com/track/5dqowSri7TtAasPTSVYG3K"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-09T22:35:34.161Z",
     "content": "DE DE MOUSE の「Neon Lightの夜 feat. 一十三十一」を聴きました",
     "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
@@ -46,18 +58,6 @@
     "timestamp": "2026-07-09T21:57:48.844Z",
     "content": "9nine の「ゆるとぴあ」を聴きました",
     "url": "https://open.spotify.com/track/6gawIt7VofyW2HqCvpmZdZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-09T21:53:51.391Z",
-    "content": "DE DE MOUSE の「Hand on Your Hand」を聴きました",
-    "url": "https://open.spotify.com/track/4TWXmMVQEPmY3bmyqxftNH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-09T21:51:52.268Z",
-    "content": "DE DE MOUSE の「Dream You Up」を聴きました",
-    "url": "https://open.spotify.com/track/4XLYLsKMT4IZthEXvoroLq"
   },
   {
     "platform": "Bluesky",
