@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-12T23:03:58.709Z",
+    "content": "Eminem の「Rap God」を聴きました",
+    "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-12T08:31:42.791Z",
+    "content": "Eminem の「Rap God」を聴きました",
+    "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-12T08:30:30.291Z",
     "content": "Eminem の「Rap God」を聴きました",
     "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
@@ -44,18 +56,6 @@
   {
     "platform": "Spotify",
     "timestamp": "2026-07-11T19:06:09.308Z",
-    "content": "秋川雅史 の「千の風になって」を聴きました",
-    "url": "https://open.spotify.com/track/0uGFf5fVmwKwsHXpLWLuiS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-11T19:05:59.983Z",
-    "content": "秋川雅史 の「千の風になって」を聴きました",
-    "url": "https://open.spotify.com/track/0uGFf5fVmwKwsHXpLWLuiS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-11T19:05:48.859Z",
     "content": "秋川雅史 の「千の風になって」を聴きました",
     "url": "https://open.spotify.com/track/0uGFf5fVmwKwsHXpLWLuiS"
   },
