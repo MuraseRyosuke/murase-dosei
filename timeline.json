@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-12T08:30:30.291Z",
+    "content": "Eminem の「Rap God」を聴きました",
+    "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-11T19:08:08.752Z",
+    "content": "Buddy Rich Big Band の「Willowcrest - Live At Chez Club, Hollywood/1966/Remix」を聴きました",
+    "url": "https://open.spotify.com/track/6zE8wTFhTIliBE0aKBJV0L"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-11T19:07:20.136Z",
     "content": "秋川雅史 の「千の風になって」を聴きました",
     "url": "https://open.spotify.com/track/0uGFf5fVmwKwsHXpLWLuiS"
@@ -46,18 +58,6 @@
     "timestamp": "2026-07-11T19:05:48.859Z",
     "content": "秋川雅史 の「千の風になって」を聴きました",
     "url": "https://open.spotify.com/track/0uGFf5fVmwKwsHXpLWLuiS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-11T19:05:37.837Z",
-    "content": "秋川雅史 の「千の風になって」を聴きました",
-    "url": "https://open.spotify.com/track/0uGFf5fVmwKwsHXpLWLuiS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-11T19:05:37.711Z",
-    "content": "Ruby My Dear の「Windowz8」を聴きました",
-    "url": "https://open.spotify.com/track/2gh2TJv0RpfMvQL9HiGmRq"
   },
   {
     "platform": "Bluesky",
