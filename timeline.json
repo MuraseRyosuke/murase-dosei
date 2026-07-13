@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-13T16:06:18.762Z",
+    "content": "DE DE MOUSE の「double moon song」を聴きました",
+    "url": "https://open.spotify.com/track/4EcpYch41WwQHTHrySdhPP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-13T16:00:27.121Z",
     "content": "DE DE MOUSE の「starry mice parade」を聴きました",
     "url": "https://open.spotify.com/track/3qRH7NQQKXq67BPLzdENJx"
@@ -52,12 +58,6 @@
     "timestamp": "2026-07-13T15:16:19.968Z",
     "content": "DE DE MOUSE の「last boy dance」を聴きました",
     "url": "https://open.spotify.com/track/1waNDHnJwmYAfRfH96lvA1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-13T15:10:16.123Z",
-    "content": "DE DE MOUSE の「skyline boy」を聴きました",
-    "url": "https://open.spotify.com/track/4n4UbiDq05tw2FqyBYZtWq"
   },
   {
     "platform": "Bluesky",
