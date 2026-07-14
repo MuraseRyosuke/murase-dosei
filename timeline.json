@@ -1,5 +1,65 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T16:06:18.762Z",
+    "content": "DE DE MOUSE の「double moon song」を聴きました",
+    "url": "https://open.spotify.com/track/4EcpYch41WwQHTHrySdhPP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T16:00:27.121Z",
+    "content": "DE DE MOUSE の「starry mice parade」を聴きました",
+    "url": "https://open.spotify.com/track/3qRH7NQQKXq67BPLzdENJx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:55:28.165Z",
+    "content": "DE DE MOUSE の「journey to freedom」を聴きました",
+    "url": "https://open.spotify.com/track/7cvT2z0hB9HSdmo3mLnK7W"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:49:52.911Z",
+    "content": "DE DE MOUSE の「sweet gravity」を聴きました",
+    "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:44:42.415Z",
+    "content": "DE DE MOUSE の「new town romancer」を聴きました",
+    "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:39:30.090Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:33:35.909Z",
+    "content": "DE DE MOUSE の「blue & green waves」を聴きました",
+    "url": "https://open.spotify.com/track/2nhBJNnZixZOh0DA8M0Kp6"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:28:11.497Z",
+    "content": "DE DE MOUSE の「day all stars」を聴きました",
+    "url": "https://open.spotify.com/track/4PvRJcemaQHr9Sbo9wdCIg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:21:50.629Z",
+    "content": "DE DE MOUSE の「light night dance」を聴きました",
+    "url": "https://open.spotify.com/track/2X2uPd5oRplCLd2fHfSwNj"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-07-13T15:16:19.968Z",
+    "content": "DE DE MOUSE の「last boy dance」を聴きました",
+    "url": "https://open.spotify.com/track/1waNDHnJwmYAfRfH96lvA1"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-07-10T09:59:20.525Z",
     "content": "今の耳周りの機材\n-ヘッドホン\n・JVC HA-MX100-Z + YAXI stPad（メイン）\n・V-MODA Crossfade 3 Wireless（DJ）\n・final UX3000（ワイヤレス）\n・AKG K242HD（セミオープン）\n-イヤホン\n・AVIOT TE-V1R（メイン）\n・SENNHEISER IE100Pro（ワイヤード）\n・final COTSUBU for ASMR 3D（寝ホン）\n・final VR500 for Gaming（Quest）\n・Apple EarPods（オープン）\n・final E3000（予備）",
