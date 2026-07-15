@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-15T23:10:07.005Z",
+    "content": "FPM の「Reaching for the Stars」を聴きました",
+    "url": "https://open.spotify.com/track/0H9oIb6VrOQ1zFnrqIhmXB"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-15T14:50:33.358Z",
     "content": "Genki Rockets の「Touch me」を聴きました",
     "url": "https://open.spotify.com/track/0qylf8OFOMUyVgao81ENFq"
@@ -52,12 +58,6 @@
     "timestamp": "2026-07-15T13:51:54.462Z",
     "content": "CAPSULE の「A.I. automatic infection」を聴きました",
     "url": "https://open.spotify.com/track/5t2aLKAG4b0WXg8Wuzzn0w"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-15T13:48:40.793Z",
-    "content": "CAPSULE の「space station No. 9」を聴きました",
-    "url": "https://open.spotify.com/track/74XtORc59qWhH23LPsaetI"
   },
   {
     "platform": "Bluesky",
