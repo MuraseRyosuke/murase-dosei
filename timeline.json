@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-17T17:14:13.152Z",
+    "content": "Denki Groove の「SHAME」を聴きました",
+    "url": "https://open.spotify.com/track/1NcUQ1Op3XbxiTWSEz7CrC"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-17T13:38:03.553Z",
     "content": "METAFIVE の「Snappy」を聴きました",
     "url": "https://open.spotify.com/track/2fMrn8ZZqSxQDM1xQrXiuA"
@@ -52,11 +58,5 @@
     "timestamp": "2026-07-17T00:00:39.333Z",
     "content": "DE DE MOUSE の「double moon song」を聴きました",
     "url": "https://open.spotify.com/track/4EcpYch41WwQHTHrySdhPP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-16T23:54:47.368Z",
-    "content": "DE DE MOUSE の「starry mice parade」を聴きました",
-    "url": "https://open.spotify.com/track/3qRH7NQQKXq67BPLzdENJx"
   }
 ]
