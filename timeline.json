@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-07-19T23:29:41.362Z",
+    "content": "Calum Bowen の「April Forest」を聴きました",
+    "url": "https://open.spotify.com/track/1knHmybgYiZQzuX21zVoFx"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-07-19T17:25:44.049Z",
     "content": "OFFICIAL HIGE DANDISM の「TATTOO」を聴きました",
     "url": "https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA"
@@ -52,11 +58,5 @@
     "timestamp": "2026-07-17T00:16:21.094Z",
     "content": "DE DE MOUSE の「goodbye parade」を聴きました",
     "url": "https://open.spotify.com/track/3xIuDgX6QDU4DfTtp9xDIO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-07-17T00:11:20.022Z",
-    "content": "DE DE MOUSE の「station to stars」を聴きました",
-    "url": "https://open.spotify.com/track/7v9st1x1Sav7mtNZUKvQ5U"
   }
 ]
