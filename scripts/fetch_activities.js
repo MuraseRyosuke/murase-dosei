@@ -25,7 +25,8 @@ const CONFIG = {
     YOUTUBE_CHANNEL_ID: 'UCYnXDiX1IXfr7IfmtKGZd7w',
     NOTE_USERNAME: 'muraseryosuke',
     VIMEO_USERNAME: 'RyosukeMurase',
-    SOUNDCLOUD_USER_ID: '16353954'
+    SOUNDCLOUD_USER_ID: '16353954',
+    PINTEREST_USERNAME: 'i9sa'
     // TUMBLR_USERNAME: 'vl-lvoo' // Tumblrは取得不安定のため一時無効化
 };
 
@@ -233,6 +234,11 @@ const fetchYouTubeActivities = createRssFetcher('YouTube',
     item => `動画「${item.title}」を公開しました`
 );
 
+const fetchPinterestActivities = createRssFetcher('Pinterest',
+    () => `https://jp.pinterest.com/${CONFIG.PINTEREST_USERNAME}/feed.rss`,
+    item => `「${item.title || '新しい画像'}」をピンしました`
+);
+
 // Tumblr取得処理は一時無効化
 /*
 const fetchTumblrActivities = createRssFetcher('Tumblr',
@@ -247,7 +253,7 @@ const fetchTumblrActivities = createRssFetcher('Tumblr',
 async function main() {
     console.log('活動の取得を開始します...');
 
-    // 並行してデータ取得 (Tumblrを除外)
+    // 並行してデータ取得 (Tumblrを除外、Pinterestを追加)
     const results = await Promise.all([
         fetchGitHubActivities(),
         fetchMastodonActivities(),
@@ -258,6 +264,7 @@ async function main() {
         fetchVimeoActivities(),
         fetchSoundCloudActivities(),
         fetchYouTubeActivities(),
+        fetchPinterestActivities(),
     ]);
 
     // 配列をフラット化
