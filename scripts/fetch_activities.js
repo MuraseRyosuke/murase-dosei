@@ -6,7 +6,6 @@ const Parser = require('rss-parser');
 // --- 環境変数 ---
 const {
     GH_API_TOKEN,
-    YOUTUBE_API_KEY,
     MASTODON_ACCESS_TOKEN,
     MASTODON_INSTANCE_URL,
     MASTODON_USER_ID,
@@ -26,7 +25,8 @@ const CONFIG = {
     YOUTUBE_CHANNEL_ID: 'UCYnXDiX1IXfr7IfmtKGZd7w',
     NOTE_USERNAME: 'muraseryosuke',
     VIMEO_USERNAME: 'RyosukeMurase',
-    SOUNDCLOUD_USER_ID: '16353954'
+    SOUNDCLOUD_USER_ID: '16353954',
+    TUMBLR_USERNAME: 'vl-lvoo'
 };
 
 // --- クライアント初期化 ---
@@ -45,7 +45,7 @@ async function fetchData(url, options = {}) {
     return response.json();
 }
 
-// --- 各サービス取得関数 ---
+// --- 各サービス取得関数 (API利用) ---
 
 async function fetchGitHubActivities() {
     try {
@@ -78,23 +78,6 @@ async function fetchGitHubActivities() {
             .filter(Boolean); // nullを除去
     } catch (error) {
         console.error("GitHub取得エラー:", error.message);
-        return [];
-    }
-}
-
-async function fetchYouTubeActivities() {
-    if (!YOUTUBE_API_KEY) return [];
-    try {
-        const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${CONFIG.YOUTUBE_CHANNEL_ID}&maxResults=5&order=date&type=video&key=${YOUTUBE_API_KEY}`;
-        const data = await fetchData(url);
-        return data.items.map(item => ({
-            platform: 'YouTube',
-            timestamp: item.snippet.publishedAt,
-            content: `動画「${item.snippet.title}」を公開しました`,
-            url: `https://www.youtube.com/watch?v=${item.id.videoId}`
-        }));
-    } catch (error) {
-        console.error("YouTube取得エラー:", error.message);
         return [];
     }
 }
@@ -202,6 +185,7 @@ async function fetchTwitchActivities() {
     }
 }
 
+// --- 各サービス取得関数 (RSS利用) ---
 // RSSベースの取得関数ジェネレータ
 function createRssFetcher(platformName, feedUrlFn, contentFn) {
     return async () => {
@@ -236,6 +220,16 @@ const fetchSoundCloudActivities = createRssFetcher('SoundCloud',
     item => `トラック「${item.title}」を公開しました`
 );
 
+const fetchYouTubeActivities = createRssFetcher('YouTube',
+    () => `https://www.youtube.com/feeds/videos.xml?channel_id=${CONFIG.YOUTUBE_CHANNEL_ID}`,
+    item => `動画「${item.title}」を公開しました`
+);
+
+const fetchTumblrActivities = createRssFetcher('Tumblr',
+    () => `https://${CONFIG.TUMBLR_USERNAME}.tumblr.com/rss`,
+    item => `Tumblrを更新しました（${item.title || '無題'}）`
+);
+
 /**
  * メイン処理
  */
@@ -245,7 +239,6 @@ async function main() {
     // 並行してデータ取得
     const results = await Promise.all([
         fetchGitHubActivities(),
-        fetchYouTubeActivities(),
         fetchMastodonActivities(),
         fetchBlueskyActivities(),
         fetchSpotifyActivities(),
@@ -253,6 +246,8 @@ async function main() {
         fetchNoteActivities(),
         fetchVimeoActivities(),
         fetchSoundCloudActivities(),
+        fetchYouTubeActivities(),
+        fetchTumblrActivities(),
     ]);
 
     // 配列をフラット化
