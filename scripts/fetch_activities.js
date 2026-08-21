@@ -32,7 +32,13 @@ const CONFIG = {
 // --- クライアント初期化 ---
 const octokit = new Octokit({ auth: GH_API_TOKEN });
 const bskyAgent = new BskyAgent({ service: 'https://bsky.social' });
-const parser = new Parser();
+
+// Tumblrなどのbot弾きを回避するため、一般的なブラウザのUser-Agentを設定
+const parser = new Parser({
+    headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+});
 
 /**
  * 汎用的なデータ取得ヘルパー (Node.js 20 native fetch)
@@ -63,7 +69,9 @@ async function fetchGitHubActivities() {
 
                 switch (event.type) {
                     case 'PushEvent':
-                        content = `${repoName} に ${event.payload.commits.length}件のコミットをPushしました`;
+                        // commitsプロパティが存在しない場合（空の配列として扱う）のエラー回避
+                        const commits = event.payload.commits || [];
+                        content = `${repoName} に ${commits.length}件のコミットをPushしました`;
                         break;
                     case 'CreateEvent':
                         if (event.payload.ref_type !== 'repository') return null;
