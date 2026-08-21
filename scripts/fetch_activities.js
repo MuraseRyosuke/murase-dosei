@@ -25,15 +25,15 @@ const CONFIG = {
     YOUTUBE_CHANNEL_ID: 'UCYnXDiX1IXfr7IfmtKGZd7w',
     NOTE_USERNAME: 'muraseryosuke',
     VIMEO_USERNAME: 'RyosukeMurase',
-    SOUNDCLOUD_USER_ID: '16353954',
-    TUMBLR_USERNAME: 'vl-lvoo'
+    SOUNDCLOUD_USER_ID: '16353954'
+    // TUMBLR_USERNAME: 'vl-lvoo' // Tumblrは取得不安定のため一時無効化
 };
 
 // --- クライアント初期化 ---
 const octokit = new Octokit({ auth: GH_API_TOKEN });
 const bskyAgent = new BskyAgent({ service: 'https://bsky.social' });
 
-// Tumblrなどのbot弾きを回避するため、一般的なブラウザのUser-Agentを設定
+// 一般的なブラウザのUser-Agentを設定
 const parser = new Parser({
     headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -233,10 +233,13 @@ const fetchYouTubeActivities = createRssFetcher('YouTube',
     item => `動画「${item.title}」を公開しました`
 );
 
+// Tumblr取得処理は一時無効化
+/*
 const fetchTumblrActivities = createRssFetcher('Tumblr',
     () => `https://${CONFIG.TUMBLR_USERNAME}.tumblr.com/rss`,
     item => `Tumblrを更新しました（${item.title || '無題'}）`
 );
+*/
 
 /**
  * メイン処理
@@ -244,7 +247,7 @@ const fetchTumblrActivities = createRssFetcher('Tumblr',
 async function main() {
     console.log('活動の取得を開始します...');
 
-    // 並行してデータ取得
+    // 並行してデータ取得 (Tumblrを除外)
     const results = await Promise.all([
         fetchGitHubActivities(),
         fetchMastodonActivities(),
@@ -255,7 +258,6 @@ async function main() {
         fetchVimeoActivities(),
         fetchSoundCloudActivities(),
         fetchYouTubeActivities(),
-        fetchTumblrActivities(),
     ]);
 
     // 配列をフラット化
