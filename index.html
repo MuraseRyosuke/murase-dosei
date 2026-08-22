@@ -84,6 +84,11 @@
             margin-bottom: 10px;
         }
         
+        /* タイトルの明朝体用クラス */
+        .font-serif {
+            font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Noto Serif JP", serif;
+        }
+        
         /* --- Scroll & Fade Styles --- */
         .social-links-wrapper {
             position: relative;
@@ -261,7 +266,8 @@
 
     <div class="container">
         <header>
-            <h1>村瀨動静</h1>
+            <!-- 村瀨を明朝体に、動静をゴシック体に -->
+            <h1><span class="font-serif">村瀨</span>動静</h1>
             <div class="social-links-wrapper">
                 <div class="social-links-container" id="social-links-container">
                     <div class="social-links" id="social-links-list">
