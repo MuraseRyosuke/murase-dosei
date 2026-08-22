@@ -16,7 +16,8 @@ const {
     SPOTIFY_REFRESH_TOKEN,
     TWITCH_CLIENT_ID,
     TWITCH_CLIENT_SECRET,
-    TWITCH_USER_ID
+    TWITCH_USER_ID,
+    STEAM_API_KEY // ★追加
 } = process.env;
 
 // --- ユーザー設定 ---
@@ -26,7 +27,8 @@ const CONFIG = {
     NOTE_USERNAME: 'muraseryosuke',
     VIMEO_USERNAME: 'RyosukeMurase',
     SOUNDCLOUD_USER_ID: '16353954',
-    PINTEREST_USERNAME: 'i9sa'
+    PINTEREST_USERNAME: 'i9sa',
+    STEAM_USER_ID: '76561198399565200' // ★追加
     // TUMBLR_USERNAME: 'vl-lvoo' // Tumblrは取得不安定のため一時無効化
 };
 
@@ -194,6 +196,36 @@ async function fetchTwitchActivities() {
     }
 }
 
+// ★追加: Steamの最近プレイしたゲームを取得
+async function fetchSteamActivities() {
+    if (!STEAM_API_KEY || !CONFIG.STEAM_USER_ID) return [];
+    try {
+        const url = `http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=${STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&format=json`;
+        const data = await fetchData(url);
+        
+        // 過去2週間（playtime_2weeks）にプレイした記録があるゲームのみ抽出
+        if (!data.response || !data.response.games) return [];
+
+        // Steam APIはタイムスタンプ（いつ遊んだか）を返さないため、
+        // 便宜上スクリプト実行時の時間をセットします
+        const now = new Date().toISOString();
+
+        return data.response.games
+            .filter(game => game.playtime_2weeks > 0)
+            .slice(0, 5) // 最大5件まで
+            .map(game => ({
+                platform: 'Steam',
+                timestamp: now,
+                content: `${game.name} をプレイしました`,
+                url: `https://store.steampowered.com/app/${game.appid}/`
+            }));
+    } catch (error) {
+        console.error("Steam取得エラー:", error.message);
+        return [];
+    }
+}
+
+
 // --- 各サービス取得関数 (RSS利用) ---
 // RSSベースの取得関数ジェネレータ
 function createRssFetcher(platformName, feedUrlFn, contentFn) {
@@ -253,7 +285,7 @@ const fetchTumblrActivities = createRssFetcher('Tumblr',
 async function main() {
     console.log('活動の取得を開始します...');
 
-    // 並行してデータ取得 (Tumblrを除外、Pinterestを追加)
+    // 並行してデータ取得
     const results = await Promise.all([
         fetchGitHubActivities(),
         fetchMastodonActivities(),
@@ -265,6 +297,7 @@ async function main() {
         fetchSoundCloudActivities(),
         fetchYouTubeActivities(),
         fetchPinterestActivities(),
+        fetchSteamActivities(), // ★追加
     ]);
 
     // 配列をフラット化
