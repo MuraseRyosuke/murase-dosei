@@ -392,16 +392,14 @@
             if (!container || !list) return;
 
             let isInteracting = false;
+            let isScrolling = false;
+            let scrollTimeout;
             let animationFrameId;
             
-            // 画像やDOMの描画完了を少し待ってから幅を計算する
             setTimeout(() => {
                 const singleSetWidth = list.scrollWidth / 3;
-                
-                // 初期位置を「2セット目の開始位置」にする（＝左端に空白ができない、すぐ左にスクロール可能）
                 container.scrollLeft = singleSetWidth;
 
-                // スクロール位置が範囲外になったらシームレスにループさせる関数
                 const handleLoop = () => {
                     if (container.scrollLeft >= singleSetWidth * 2) {
                         container.scrollLeft -= singleSetWidth;
@@ -410,25 +408,39 @@
                     }
                 };
 
-                // 手動スクロール中もループ判定を行う
-                container.addEventListener('scroll', handleLoop, { passive: true });
+                // スクロールイベントが発生している間は自動スクロールを止める
+                container.addEventListener('scroll', () => {
+                    handleLoop();
+                    
+                    isScrolling = true;
+                    // スクロールが停止して100ms経過したらフラグを戻す
+                    clearTimeout(scrollTimeout);
+                    scrollTimeout = setTimeout(() => {
+                        isScrolling = false;
+                    }, 100);
+                }, { passive: true });
 
-                // 自動スクロール処理
                 function autoScroll() {
-                    if (!isInteracting) {
-                        container.scrollLeft += 0.5; // スクロール速度
+                    // ユーザーの操作（ホバー/タッチ）中、または慣性スクロール中は自動で動かさない
+                    if (!isInteracting && !isScrolling) {
+                        container.scrollLeft += 0.5;
                     }
                     animationFrameId = requestAnimationFrame(autoScroll);
                 }
 
-                // ホバー/タッチ中は自動スクロールを一時停止
+                // PCマウス用
                 container.addEventListener('mouseenter', () => isInteracting = true);
                 container.addEventListener('mouseleave', () => isInteracting = false);
                 
-                container.addEventListener('touchstart', () => isInteracting = true, { passive: true });
+                // スマホタッチ用
+                container.addEventListener('touchstart', () => {
+                    isInteracting = true;
+                    clearTimeout(scrollTimeout); // タッチ開始時は既存のタイマーをリセット
+                }, { passive: true });
+                
                 container.addEventListener('touchend', () => {
-                    // 慣性スクロールが終わるまで少し待ってから再開
-                    setTimeout(() => isInteracting = false, 800); 
+                    isInteracting = false;
+                    // 指を離した直後の慣性スクロールは、上の 'scroll' イベントリスナーで検知・制御されます
                 }, { passive: true });
 
                 autoScroll();
