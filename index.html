@@ -3,539 +3,502 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- SEO & Metadata -->
-    <title>村瀨動静</title>
-    <meta name="description" content="村瀨亮介の様々なオンライン活動（SNS、ブログ、動画、音楽など）を時系列で集約・表示する公式タイムライン「村瀨動静」。">
-    <meta name="keywords" content="村瀨亮介, Ryosuke Murase, 村瀬, 動静, 活動履歴, タイムライン, ポートフォリオ, SNS集約, ライフログ">
-    <meta name="author" content="Murase Ryosuke">
-    <meta name="copyright" content="&copy; 2026 Murase Ryosuke">
-    <meta name="contact" content="murase.rmx@gmail.com">
-    <meta name="robots" content="index, follow">
-    
-    <!-- Canonical URL -->
-    <link rel="canonical" href="https://dosei.muraseryosuke.info/">
-
-    <!-- Performance Optimization -->
-    <link rel="preload" href="./timeline.json" as="fetch" crossorigin="anonymous">
-
-    <!-- Open Graph Protocol -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="村瀨動静">
-    <meta property="og:description" content="村瀨亮介の活動タイムライン。SNSや創作活動の更新情報を一元管理しています。">
-    <meta property="og:url" content="https://dosei.muraseryosuke.info/">
-    <meta property="og:site_name" content="村瀨動静">
-    <meta property="og:locale" content="ja_JP">
-    
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@vl_lvoO">
-    <meta name="twitter:creator" content="@vl_lvoO">
-
+    <title>Murase Dosei - Timeline</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #f8f9fa;
-            --text-color: #212529;
-            --card-bg: #ffffff;
-            --border-color: #dee2e6;
-            --link-color: #0056b3;
-            --subtle-text-color: #595c5f;
-            --icon-color: #343a40;
+            /* ライトモード用の変数 */
+            --bg-color: #f7f9fc;
+            --text-color: #333333;
+            --timeline-line-color: #cbd5e1;
+            --card-bg-color: #ffffff;
+            --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            --date-color: #64748b;
+            --icon-color: #333; /* SNSアイコンのデフォルト色 */
+            --icon-bg-color: #e2e8f0;
+            --icon-hover-bg: #cbd5e1;
+            --link-color: #2563eb;
+            --scrollbar-thumb: #cbd5e1;
         }
 
         @media (prefers-color-scheme: dark) {
             :root {
-                --bg-color: #121212;
-                --text-color: #e0e0e0;
-                --card-bg: #1e1e1e;
-                --border-color: #333333;
-                --link-color: #64b5f6;
-                --subtle-text-color: #adb5bd;
-                --icon-color: #e0e0e0;
+                /* ダークモード用の変数 */
+                --bg-color: #0f172a;
+                --text-color: #e2e8f0;
+                --timeline-line-color: #334155;
+                --card-bg-color: #1e293b;
+                --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+                --date-color: #94a3b8;
+                --icon-color: #e2e8f0; /* SNSアイコンのデフォルト色 */
+                --icon-bg-color: #334155;
+                --icon-hover-bg: #475569;
+                --link-color: #60a5fa;
+                --scrollbar-thumb: #475569;
             }
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+            font-family: 'Noto Sans JP', sans-serif;
             background-color: var(--bg-color);
             color: var(--text-color);
             margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            overflow-x: hidden;
+            transition: background-color 0.3s, color 0.3s;
         }
 
         header {
+            width: 100%;
+            padding: 20px 0;
             text-align: center;
-            margin-bottom: 40px;
+            background: linear-gradient(to bottom, var(--bg-color) 80%, transparent);
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
 
         h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-        }
-        
-        /* --- Scroll & Fade Styles --- */
-        .social-links-wrapper {
-            position: relative;
-            margin-top: 20px;
-            overflow: hidden;
-            padding-top: 10px;
-            padding-bottom: 10px;
-            /* 両端のフェードアウト効果 */
-            -webkit-mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
-            mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+            margin: 0 0 10px 0;
+            font-size: 1.5rem;
+            letter-spacing: 0.05em;
         }
 
-        /* 手動スクロールと非表示のスクロールバー設定 */
-        .social-links-container {
+        /* カスタムスクロールバー (Webkit) */
+        ::-webkit-scrollbar {
+            height: 6px;
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--scrollbar-thumb);
+            border-radius: 3px;
+        }
+
+        /* --- 横スクロールするアイコンバー (ハイブリッド実装) --- */
+        .icon-bar-container {
             width: 100%;
-            overflow-x: auto;
-            -ms-overflow-style: none;  /* IE and Edge */
-            scrollbar-width: none;  /* Firefox */
-            -webkit-overflow-scrolling: touch; /* iOS Momentum Scrolling */
-            /* ユーザーが誤ってテキスト選択するのを防ぐ */
-            user-select: none; 
-        }
-        .social-links-container::-webkit-scrollbar {
-            display: none; /* Chrome, Safari and Opera */
+            overflow: hidden; /* コンテナ全体ははみ出しを隠す */
+            position: relative;
+            padding: 10px 0;
         }
 
-        .social-links {
+        .icon-bar-scroll-area {
             display: flex;
-            width: max-content; /* 中身のサイズに合わせて拡張する */
-            flex-wrap: nowrap;
-            align-items: center;
-        }
-
-        .social-links a {
-            color: var(--icon-color);
-            transition: color 0.3s ease, transform 0.3s ease;
-            flex-shrink: 0;
-            margin: 0 12px;
-            display: inline-block;
-            line-height: 0;
-            /* ドラッグ時のデフォルト動作を無効化しスワイプしやすくする */
-            -webkit-user-drag: none; 
+            overflow-x: auto; /* 手動スクロールを許可 */
+            scroll-snap-type: x mandatory;
+            scrollbar-width: none; /* Firefox用 スクロールバー非表示 */
+            -ms-overflow-style: none;  /* IE/Edge用 スクロールバー非表示 */
+            /* iOSでのスムーズなスクロール */
+            -webkit-overflow-scrolling: touch; 
         }
         
-        .social-links a:hover {
-            transform: translateY(-3px);
+        .icon-bar-scroll-area::-webkit-scrollbar {
+            display: none; /* Chrome/Safari用 スクロールバー非表示 */
         }
 
-        /* --- Corporate Color Hovers --- */
-        /* Basic Dark/Black Icons -> White on Dark Mode */
-        .social-links .social-link-x:hover { color: #000000; }
-        .social-links .social-link-threads:hover { color: #000000; }
-        .social-links .social-link-tiktok:hover { color: #000000; }
-        .social-links .social-link-bereal:hover { color: #000000; }
-        .social-links .social-link-note:hover { color: #000000; }
-        .social-links .social-link-github:hover { color: #181717; }
-        .social-links .social-link-steam:hover { color: #000000; }
-        .social-links .social-link-vrchat:hover { color: #000000; }
-        .social-links .social-link-niconico:hover { color: #231815; }
-
-        @media (prefers-color-scheme: dark) {
-            .social-links .social-link-x:hover,
-            .social-links .social-link-threads:hover,
-            .social-links .social-link-tiktok:hover,
-            .social-links .social-link-bereal:hover,
-            .social-links .social-link-note:hover,
-            .social-links .social-link-github:hover,
-            .social-links .social-link-steam:hover,
-            .social-links .social-link-vrchat:hover,
-            .social-links .social-link-niconico:hover {
-                color: #ffffff;
-            }
+        .icon-track {
+            display: flex;
+            gap: 20px;
+            padding: 0 20px;
+            /* JavaScriptで自動スクロールするためのクラス */
+            transition: transform 0.1s linear; 
         }
 
-        /* Colored Icons */
-        .social-links .social-link-instagram:hover { color: #FF0069; }
-        .social-links .social-link-facebook:hover { color: #0866FF; }
-        .social-links .social-link-bluesky:hover { color: #0285FF; }
-        .social-links .social-link-mastodon:hover { color: #6364FF; }
-        .social-links .social-link-line:hover { color: #00C300; }
-        .social-links .social-link-youtube:hover { color: #FF0000; }
-        .social-links .social-link-vimeo:hover { color: #1AB7EA; }
-        .social-links .social-link-twitch:hover { color: #9146FF; }
-        .social-links .social-link-discord:hover { color: #5865F2; }
-        .social-links .social-link-spotify:hover { color: #1ED760; }
-        .social-links .social-link-bandcamp:hover { color: #408294; }
-        .social-links .social-link-soundcloud:hover { color: #FF5500; }
-        .social-links .social-link-mixcloud:hover { color: #5000FF; }
-        .social-links .social-link-pixiv:hover { color: #0096FA; }
-        .social-links .social-link-pinterest:hover { color: #BD081C; }
-        .social-links .social-link-behance:hover { color: #1769FF; }
-        .social-links .social-link-dribbble:hover { color: #EA4C89; }
-        .social-links .social-link-tumblr:hover { color: #36465D; }
-        .social-links .social-link-strava:hover { color: #FC4C02; }
+        .icon-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-decoration: none;
+            color: var(--text-color);
+            min-width: 60px;
+            scroll-snap-align: center;
+        }
 
-        .social-links svg {
+        .icon-circle {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background-color: var(--icon-bg-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 5px;
+            transition: background-color 0.2s, transform 0.2s;
+            color: var(--icon-color);
+        }
+
+        .icon-circle svg {
             width: 24px;
             height: 24px;
+            fill: currentColor;
         }
 
-        /* --- Timeline Styles --- */
-        #timeline {
-            border-left: 2px solid var(--border-color);
-            padding-left: 30px;
+        .icon-item:hover .icon-circle {
+            background-color: var(--icon-hover-bg);
+            transform: translateY(-2px);
         }
-        
-        .timeline-date {
-            margin: 40px 0 20px -30px;
-            padding-left: 10px;
-            font-size: 1.2rem;
+
+        .icon-name {
+            font-size: 0.7rem;
             font-weight: bold;
+            opacity: 0.8;
+        }
+
+        /* 各ブランド固有のホバー色 */
+        .icon-item[data-platform="GitHub"]:hover .icon-circle { background-color: #333; color: #fff; }
+        .icon-item[data-platform="YouTube"]:hover .icon-circle { background-color: #FF0000; color: #fff; }
+        .icon-item[data-platform="Note"]:hover .icon-circle { background-color: #41C9B4; color: #fff; }
+        .icon-item[data-platform="X"]:hover .icon-circle { background-color: #000; color: #fff; }
+        .icon-item[data-platform="Instagram"]:hover .icon-circle { background-color: #E1306C; color: #fff; }
+        .icon-item[data-platform="Bluesky"]:hover .icon-circle { background-color: #0085ff; color: #fff; }
+        .icon-item[data-platform="Spotify"]:hover .icon-circle { background-color: #1DB954; color: #fff; }
+        .icon-item[data-platform="Tumblr"]:hover .icon-circle { background-color: #36465D; color: #fff; }
+        .icon-item[data-platform="Twitch"]:hover .icon-circle { background-color: #9146FF; color: #fff; }
+        .icon-item[data-platform="LINE"]:hover .icon-circle { background-color: #06C755; color: #fff; }
+        .icon-item[data-platform="Facebook"]:hover .icon-circle { background-color: #1877F2; color: #fff; }
+        .icon-item[data-platform="Threads"]:hover .icon-circle { background-color: #000; color: #fff; }
+        .icon-item[data-platform="TikTok"]:hover .icon-circle { background-color: #000; color: #fff; }
+        .icon-item[data-platform="Vimeo"]:hover .icon-circle { background-color: #1AB7EA; color: #fff; }
+        .icon-item[data-platform="Pinterest"]:hover .icon-circle { background-color: #E60023; color: #fff; }
+        .icon-item[data-platform="SoundCloud"]:hover .icon-circle { background-color: #FF3300; color: #fff; }
+        .icon-item[data-platform="Mixcloud"]:hover .icon-circle { background-color: #5000ff; color: #fff; }
+        .icon-item[data-platform="Bandcamp"]:hover .icon-circle { background-color: #629aa9; color: #fff; }
+        .icon-item[data-platform="Steam"]:hover .icon-circle { background-color: #00adee; color: #fff; }
+        .icon-item[data-platform="BeReal"]:hover .icon-circle { background-color: #000; color: #fff; }
+        .icon-item[data-platform="VRChat"]:hover .icon-circle { background-color: #490089; color: #fff; }
+        .icon-item[data-platform="Pixiv"]:hover .icon-circle { background-color: #0096fa; color: #fff; }
+        .icon-item[data-platform="Niconico"]:hover .icon-circle { background-color: #252525; color: #fff; }
+
+        @media (prefers-color-scheme: dark) {
+            .icon-item[data-platform="GitHub"]:hover .icon-circle { background-color: #ffffff; color: #000; }
+            .icon-item[data-platform="X"]:hover .icon-circle { background-color: #ffffff; color: #000; }
+            .icon-item[data-platform="Threads"]:hover .icon-circle { background-color: #ffffff; color: #000; }
+            .icon-item[data-platform="TikTok"]:hover .icon-circle { background-color: #ffffff; color: #000; }
+            .icon-item[data-platform="BeReal"]:hover .icon-circle { background-color: #ffffff; color: #000; }
+            .icon-item[data-platform="Niconico"]:hover .icon-circle { background-color: #ffffff; color: #000; }
+        }
+
+        /* --- 縦のタイムライン --- */
+        main {
+            width: 100%;
+            max-width: 600px;
+            padding: 20px;
+            box-sizing: border-box;
+            flex-grow: 1;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 30px;
+            list-style: none;
+            margin: 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 9px;
+            width: 2px;
+            background-color: var(--timeline-line-color);
         }
 
         .timeline-item {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 20px;
-            margin-bottom: 20px;
             position: relative;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 30px;
         }
-        
-        .timeline-item::before {
-            content: '';
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .timeline-dot {
             position: absolute;
-            left: -38px;
-            top: 22px;
-            width: 12px;
-            height: 12px;
+            left: -30px;
+            top: 6px;
+            width: 14px;
+            height: 14px;
             border-radius: 50%;
-            background-color: var(--card-bg);
-            border: 2px solid var(--border-color);
+            background-color: var(--link-color);
+            border: 3px solid var(--bg-color);
+            z-index: 10;
         }
 
-        .item-header {
+        .timeline-content {
+            background-color: var(--card-bg-color);
+            padding: 15px 20px;
+            border-radius: 12px;
+            box-shadow: var(--card-shadow);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .timeline-content:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        }
+        @media (prefers-color-scheme: dark) {
+             .timeline-content:hover {
+                box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+            }
+        }
+
+        .timeline-header {
             display: flex;
+            justify-content: space-between;
             align-items: center;
-            margin-bottom: 10px;
-        }
-
-        .item-header svg {
-            width: 20px;
-            height: 20px;
-            margin-right: 10px;
-            color: var(--subtle-text-color);
+            margin-bottom: 8px;
+            font-size: 0.85rem;
         }
 
         .platform-name {
             font-weight: bold;
-            font-size: 1.1em;
-        }
-
-        .item-content a {
-            color: var(--link-color);
-            text-decoration: none;
-            word-break: break-all;
-        }
-
-        .item-content a:hover {
-            text-decoration: underline;
+            display: flex;
+            align-items: center;
+            gap: 6px;
         }
         
-        .item-timestamp {
-            font-size: 0.85em;
-            color: var(--subtle-text-color);
-            margin-top: 15px;
-            text-align: right;
+        .platform-icon {
+            width: 16px;
+            height: 16px;
+            fill: currentColor;
         }
 
-        #loading, #error {
+        .date {
+            color: var(--date-color);
+        }
+
+        .activity-text {
+            font-size: 1rem;
+            line-height: 1.5;
+            margin: 0;
+            word-break: break-word;
+        }
+
+        .activity-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .loading, .error-message {
             text-align: center;
             padding: 40px;
-            color: var(--subtle-text-color);
+            color: var(--date-color);
+        }
+
+        footer {
+            padding: 30px 0;
+            text-align: center;
+            font-size: 0.8rem;
+            color: var(--date-color);
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <header>
-            <h1>村瀨動静</h1>
-            <div class="social-links-wrapper">
-                <div class="social-links-container" id="social-links-container">
-                    <div class="social-links" id="social-links-list">
-                        <!-- Icons will be inserted via JS -->
-                    </div>
+    <header>
+        <h1>Murase Dosei</h1>
+        <div class="icon-bar-container">
+            <div class="icon-bar-scroll-area" id="scrollArea">
+                <div class="icon-track" id="iconTrack">
+                    <!-- JavaScriptでアイコンが生成されます -->
                 </div>
             </div>
-        </header>
-        
-        <main>
-            <div id="loading">読み込み中...</div>
-            <div id="error" style="display: none;"></div>
-            <div id="timeline"></div>
-        </main>
-    </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="status" class="loading">活動履歴を読み込み中...</div>
+        <ul class="timeline" id="timeline">
+            <!-- JavaScriptでタイムラインが生成されます -->
+        </ul>
+    </main>
+
+    <footer>
+        &copy; 2026 Ryosuke Murase
+    </footer>
 
     <script>
-        // --- Constants (ICON DEFINITIONS) ---
+        // --- アイコン設定 ---
         const ICONS = {
-            X: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>`,
-            Threads: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Threads</title><path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.75-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.964-.065-1.19.408-2.285 1.33-3.082.88-.76 2.119-1.207 3.583-1.291a13.853 13.853 0 0 1 3.02.142c-.126-.742-.375-1.332-.75-1.757-.513-.586-1.308-.883-2.359-.89h-.029c-.844 0-1.992.232-2.721 1.32L7.734 7.847c.98-1.454 2.568-2.256 4.478-2.256h.044c3.194.02 5.097 1.975 5.287 5.388.108.046.216.094.321.142 1.49.7 2.58 1.761 3.154 3.07.797 1.82.871 4.79-1.548 7.158-1.85 1.81-4.094 2.628-7.277 2.65Zm1.003-11.69c-.242 0-.487.007-.739.021-1.836.103-2.98.946-2.916 2.143.067 1.256 1.452 1.839 2.784 1.767 1.224-.065 2.818-.543 3.086-3.71a10.5 10.5 0 0 0-2.215-.221z"/></svg>`,
-            Instagram: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title><path d="M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0839m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.0077"/></svg>`,
-            Facebook: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg>`,
-            Bluesky: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Bluesky</title><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>`,
-            Mastodon: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Mastodon</title><path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12z"/></svg>`,
-            TikTok: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>TikTok</title><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg>`,
-            BeReal: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>BeReal</title><path d="M6.501 10.727c.593 0 1.029.196 1.307.587.279.393.418.857.418 1.391v.312H5.674a.97.97 0 0 0 .343.596c.182.148.422.223.718.223.172 0 .327-.023.464-.066.163-.055.324-.119.48-.192l.297.733a1.73 1.73 0 0 1-.644.296c-.252.063-.46.093-.62.093-.656 0-1.172-.18-1.55-.537-.377-.36-.566-.84-.566-1.441 0-.603.17-1.086.51-1.45.342-.364.806-.545 1.394-.545Zm8.835 0c.593 0 1.028.196 1.307.587.278.393.417.857.417 1.391v.312h-2.552c.038.235.16.447.344.596.182.148.421.223.718.223.171 0 .326-.023.464-.066a4.53 4.53 0 0 0 .48-.192l.297.733a1.728 1.728 0 0 1-.644.296 2.67 2.67 0 0 1-.62.093c-.656 0-1.173-.18-1.55-.537-.377-.36-.566-.84-.566-1.441 0-.603.17-1.086.512-1.45.34-.364.805-.545 1.393-.545Zm3.875.041c.974 0 1.603.502 1.603 1.26v2.579h-1.027v-.561h-.02c-.215.385-.616.62-1.111.62-.756 0-1.265-.473-1.265-1.136v-.008c0-.683.53-1.083 1.465-1.144l.931-.055v-.231c0-.335-.217-.541-.618-.541-.383 0-.615.18-.664.421l-.007.03h-.939l.004-.04c.056-.696.653-1.194 1.648-1.194Zm4.789 2.8v1.039h-1.04v-1.039H24ZM1.982 9.308c.515 0 .934.114 1.257.34.322.225.484.607.484 1.14 0 .198-.046.376-.137.534-.09.16-.21.296-.355.41.24.125.436.294.59.506.153.213.23.483.23.81 0 .489-.171.871-.512 1.146-.34.275-.795.413-1.362.413H0V9.308h1.982Zm8.702 0c.578 0 1.072.133 1.483.398.411.265.617.675.617 1.231 0 .327-.085.609-.254.846a1.714 1.714 0 0 1-.652.549l1.304 2.275h-1.077l-1.124-2.025a3.626 3.626 0 0 1-.367.015h-.585v2.01H9.022V9.308h1.662ZM22.448 9.3v5.307h-1.076V9.3h1.076Zm-2.66 3.661-.777.049c-.397.025-.605.192-.605.46v.007c0 .277.229.442.584.442.46 0 .797-.294.797-.688l.001-.27ZM2.17 12.285H1.007v1.489h1.092c.27 0 .488-.063.652-.188a.622.622 0 0 0 .246-.53c0-.25-.076-.44-.226-.572-.151-.132-.352-.199-.601-.199Zm4.308-.694a.75.75 0 0 0-.523.19c-.14.128-.232.315-.273.558h1.584c-.052-.253-.146-.442-.281-.564a.73.73 0 0 0-.507-.184Zm8.834 0a.75.75 0 0 0-.523.19c-.14.128-.231.315-.273.558h1.585c-.053-.253-.146-.442-.281-.564a.73.73 0 0 0-.508-.184Zm-4.659-1.441h-.624v1.62h.64c.301 0 .551-.06.749-.182.198-.122.296-.324.296-.604 0-.297-.093-.51-.28-.639-.188-.13-.448-.195-.781-.195Zm-8.819 0h-.827v1.316h.749c.281 0 .5-.053.66-.16.158-.105.238-.273.238-.501 0-.25-.073-.422-.219-.515-.146-.093-.346-.14-.601-.14Z"/></svg>`,
-            LINE: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LINE</title><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg>`,
-            YouTube: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>YouTube</title><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>`,
-            Vimeo: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vimeo</title><path d="M23.9765 6.4168c-.105 2.338-1.739 5.5429-4.894 9.6088-3.2679 4.247-6.0258 6.3699-8.2898 6.3699-1.409 0-2.578-1.294-3.553-3.881l-1.9179-7.1138c-.719-2.584-1.488-3.878-2.312-3.878-.179 0-.806.378-1.8809 1.132l-1.129-1.457a315.06 315.06 0 003.501-3.1279c1.579-1.368 2.765-2.085 3.5539-2.159 1.867-.18 3.016 1.1 3.447 3.838.465 2.953.789 4.789.971 5.5069.5389 2.45 1.1309 3.674 1.7759 3.674.502 0 1.256-.796 2.265-2.385 1.004-1.589 1.54-2.797 1.612-3.628.144-1.371-.395-2.061-1.614-2.061-.574 0-1.167.121-1.777.391 1.186-3.8679 3.434-5.7568 6.7619-5.6368 2.4729.06 3.6279 1.664 3.4929 4.7969z"/></svg>`,
-            Twitch: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitch</title><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/></svg>`,
-            Discord: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Discord</title><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.419-2.1568 2.419zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.419-2.1568 2.419z"/></svg>`,
-            Spotify: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Spotify</title><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>`,
-            SoundCloud: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>SoundCloud</title><path d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg>`,
-            Bandcamp: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Bandcamp</title><path d="M0 18.75l7.437-13.5H24l-7.438 13.5H0z"/></svg>`,
-            Mixcloud: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Mixcloud</title><path d="M2.462 8.596l1.372 6.49h.319l1.372-6.49h2.462v6.808H6.742v-5.68l.232-.81h-.402l-1.43 6.49H2.854l-1.44-6.49h-.391l.222.81v5.68H0V8.596zM24 8.63v1.429L21.257 12 24 13.941v1.43l-3.235-2.329h-.348l-3.226 2.329v-1.43l2.734-1.94-2.733-1.942V8.63l3.225 2.338h.348zm-7.869 2.75v1.24H9.304v-1.24z"/></svg>`,
-            Niconico: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>niconico</title><path d="M.4787 7.534v12.1279A2.0213 2.0213 0 0 0 2.5 21.6832h2.3888l1.323 2.0948a.4778.4778 0 0 0 .4043.2205.4778.4778 0 0 0 .441-.2205l1.323-2.0948h6.9828l1.323 2.0948a.4778.4778 0 0 0 .441.2205c.1838 0 .3308-.0735.4043-.2205l1.323-2.0948h2.6462a2.0213 2.0213 0 0 0 2.0213-2.0213V7.5339a2.0213 2.0213 0 0 0-2.0213-1.9845h-7.681l4.4468-4.4469L17.1637 0l-5.1452 5.1452L6.8 0 5.6973 1.1025l4.4102 4.4102H2.5367a2.0213 2.0213 0 0 0-2.058 2.058z"/></svg>`,
-            Pixiv: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>pixiv</title><path d="M4.94 0A4.953 4.953 0 0 0 0 4.94v14.12A4.953 4.953 0 0 0 4.94 24h14.12A4.953 4.953 0 0 0 24 19.06c-.014 1.355 0-14.12 0-14.12A4.953 4.953 0 0 0 19.06 0Zm1.783 5.465h.904a.37.37 0 0 1 .31.17l.752 1.17a6.172 6.172 0 0 1 10.01 4.834 6.172 6.172 0 0 1-9.394 5.265v2.016a.37.37 0 0 1-.37.367H6.724a.37.37 0 0 1-.37-.367V5.834a.37.37 0 0 1 .37-.37m5.804 2.951a3.222 3.222 0 1 0-.002 6.443 3.222 3.222 0 0 0 .002-6.443"/></svg>`,
-            Pinterest: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Pinterest</title><path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.985.026L12.017 0z"/></svg>`,
-            Behance: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Behance</title><path d="M16.969 16.927a2.561 2.561 0 0 0 1.901.677 2.501 2.501 0 0 0 1.531-.475c.362-.235.636-.584.779-.99h2.585a5.091 5.091 0 0 1-1.9 2.896 5.292 5.292 0 0 1-3.091.88 5.839 5.839 0 0 1-2.284-.433 4.871 4.871 0 0 1-1.723-1.211 5.657 5.657 0 0 1-1.08-1.874 7.057 7.057 0 0 1-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313 5.313 0 0 1 5.088-3.604 4.87 4.87 0 0 1 2.376.563c.661.362 1.231.87 1.668 1.485a6.2 6.2 0 0 1 .943 2.133c.194.821.263 1.666.205 2.508h-7.699c-.063.79.184 1.574.688 2.187ZM6.947 4.084a8.065 8.065 0 0 1 1.928.198 4.29 4.29 0 0 1 1.49.638c.418.303.748.711.958 1.182.241.579.357 1.203.341 1.83a3.506 3.506 0 0 1-.506 1.961 3.726 3.726 0 0 1-1.503 1.287 3.588 3.588 0 0 1 2.027 1.437c.464.747.697 1.615.67 2.494a4.593 4.593 0 0 1-.423 2.032 3.945 3.945 0 0 1-1.163 1.413 5.114 5.114 0 0 1-1.683.807 7.135 7.135 0 0 1-1.928.259H0V4.084h6.947Zm-.235 12.9c.308.004.616-.029.916-.099a2.18 2.18 0 0 0 .766-.332c.228-.158.411-.371.534-.619.142-.317.208-.663.191-1.009a2.08 2.08 0 0 0-.642-1.715 2.618 2.618 0 0 0-1.696-.505h-3.54v4.279h3.471Zm13.635-5.967a2.13 2.13 0 0 0-1.654-.619 2.336 2.336 0 0 0-1.163.259 2.474 2.474 0 0 0-.738.62 2.359 2.359 0 0 0-.396.792c-.074.239-.12.485-.137.734h4.769a3.239 3.239 0 0 0-.679-1.785l-.002-.001Zm-13.813-.648a2.254 2.254 0 0 0 1.423-.433c.399-.355.607-.88.56-1.413a1.916 1.916 0 0 0-.178-.891 1.298 1.298 0 0 0-.495-.533 1.851 1.851 0 0 0-.711-.274 3.966 3.966 0 0 0-.835-.073H3.241v3.631h3.293v-.014ZM21.62 5.122h-5.976v1.527h5.976V5.122Z"/></svg>`,
-            Dribbble: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dribbble</title><path d="M12 24C5.385 24 0 18.615 0 12S5.385 0 12 0s12 5.385 12 12-5.385 12-12 12zm10.12-10.358c-.35-.11-3.17-.953-6.384-.438 1.34 3.684 1.887 6.684 1.992 7.308 2.3-1.555 3.936-4.02 4.395-6.87zm-6.115 7.808c-.153-.9-.75-4.032-2.19-7.77l-.066.02c-5.79 2.015-7.86 6.025-8.04 6.4 1.73 1.358 3.92 2.166 6.29 2.166 1.42 0 2.77-.29 4-.814zm-11.62-2.58c.232-.4 3.045-5.055 8.332-6.765.135-.045.27-.084.405-.12-.26-.585-.54-1.167-.832-1.74C7.17 11.775 2.206 11.71 1.756 11.7l-.004.312c0 2.633.998 5.037 2.634 6.855zm-2.42-8.955c.46.008 4.683.026 9.477-1.248-1.698-3.018-3.53-5.558-3.8-5.928-2.868 1.35-5.01 3.99-5.676 7.17zM9.6 2.052c.282.38 2.145 2.914 3.822 6 3.645-1.365 5.19-3.44 5.373-3.702-1.81-1.61-4.19-2.586-6.795-2.586-.825 0-1.63.1-2.4.285zm10.335 3.483c-.218.29-1.935 2.493-5.724 4.04.24.49.47.985.68 1.486.08.18.15.36.22.53 3.41-.43 6.8.26 7.14.33-.02-2.42-.88-4.64-2.31-6.38z"/></svg>`,
-            note: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Note</title><path d="M0 .279c4.623 0 10.953-.235 15.498-.117 6.099.156 8.39 2.813 8.468 9.374.077 3.71 0 14.335 0 14.335h-6.598c0-9.296.04-10.83 0-13.759-.078-2.578-.814-3.807-2.795-4.041-2.097-.235-7.975-.04-7.975-.04v17.84H0Z"/></svg>`,
-            Tumblr: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tumblr</title><path d="M14.563 24c-5.093 0-7.031-3.756-7.031-6.411V9.747H5.116V6.648c3.63-1.313 4.512-4.596 4.71-6.469C9.84.051 9.941 0 9.999 0h3.517v6.114h4.801v3.633h-4.82v7.47c.016 1.001.375 2.371 2.207 2.371h.09c.631-.02 1.486-.205 1.936-.419l1.156 3.425c-.436.636-2.4 1.374-4.156 1.404h-.178l.011.002z"/></svg>`,
-            GitHub: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>`,
-            Steam: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Steam</title><path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.028-4.524 4.524-4.524 2.494 0 4.524 2.031 4.524 4.527s-2.03 4.525-4.524 4.525h-.105l-4.076 2.911c0 .052.004.105.004.159 0 1.875-1.515 3.396-3.39 3.396-1.635 0-3.016-1.173-3.331-2.727L.436 15.27C1.862 20.307 6.486 24 11.979 24c6.627 0 11.999-5.373 11.999-12S18.605 0 11.979 0zM7.54 18.21l-1.473-.61c.262.543.714.999 1.314 1.25 1.297.539 2.793-.076 3.332-1.375.263-.63.264-1.319.005-1.949s-.75-1.121-1.377-1.383c-.624-.26-1.29-.249-1.878-.03l1.523.63c.956.4 1.409 1.5 1.009 2.455-.397.957-1.497 1.41-2.454 1.012H7.54zm11.415-9.303c0-1.662-1.353-3.015-3.015-3.015-1.665 0-3.015 1.353-3.015 3.015 0 1.665 1.35 3.015 3.015 3.015 1.663 0 3.015-1.35 3.015-3.015zm-5.273-.005c0-1.252 1.013-2.266 2.265-2.266 1.249 0 2.266 1.014 2.266 2.266 0 1.251-1.017 2.265-2.266 2.265-1.253 0-2.265-1.014-2.265-2.265z"/></svg>`,
-            VRChat: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>VRChat</title><path d="M22.732 6.767H1.268A1.27 1.27 0 0 0 0 8.035v5.296c0 .7.57 1.268 1.268 1.268h18.594l1.725 2.22c.215.275.443.415.68.415.153 0 .296-.06.403-.167.128-.129.193-.308.193-.536l-.002-1.939A1.27 1.27 0 0 0 24 13.331V8.035c0-.7-.569-1.269-1.268-1.269Zm.8 6.564a.8.8 0 0 1-.8.801h-.34v.031l.004 2.371c0 .155-.05.233-.129.233s-.19-.079-.31-.235l-1.866-2.4H1.268a.8.8 0 0 1-.8-.8V8.064a.8.8 0 0 1 .8-.8h21.464a.8.8 0 0 1 .8.8v5.266ZM4.444 8.573c-.127 0-.225.041-.254.15l-.877 3.129-.883-3.128c-.03-.11-.127-.15-.254-.15-.202 0-.473.126-.473.311 0 .012.005.035.011.058l1.114 3.63c.058.173.265.254.485.254s.433-.08.484-.254l1.109-3.63c.005-.023.011-.04.011-.058 0-.179-.27-.312-.473-.312Zm2.925 2.36c.433-.132.757-.49.757-1.153 0-.918-.612-1.207-1.368-1.207H5.614a.234.234 0 0 0-.242.231v3.752c0 .156.184.237.374.237s.376-.081.376-.237V11.05h.484l.82 1.593c.058.115.156.179.26.179.219 0 .467-.203.467-.393a.155.155 0 0 0-.028-.092l-.756-1.403Zm-.61-.473h-.636V9.231h.635c.375 0 .618.162.618.618s-.242.612-.618.612Zm10.056.826h1.004l-.502-1.772-.502 1.772Zm4.684-3.095H9.366a.8.8 0 0 0-.8.8v3.383a.8.8 0 0 0 .8.8h12.132a.8.8 0 0 0 .8-.8V8.992a.8.8 0 0 0-.8-.801Zm-10.946 3.977c.525 0 .571-.374.589-.617.011-.179.173-.236.369-.236.26 0 .38.075.38.369 0 .698-.57 1.142-1.379 1.142-.727 0-1.327-.357-1.327-1.322v-1.61c0-.963.606-1.322 1.333-1.322.802 0 1.374.427 1.374 1.097 0 .3-.121.37-.375.37-.214 0-.37-.064-.375-.238-.012-.178-.052-.57-.6-.57-.387 0-.606.213-.606.663v1.61c0 .45.219.664.617.664Zm4.703.388c0 .156-.19.237-.375.237s-.375-.081-.375-.237V10.9h-1.299v1.656c0 .156-.19.237-.375.237s-.375-.081-.375-.237V8.804c0-.161.185-.23.375-.23s.375.069.375.23v1.507h1.299V8.804c0-.161.185-.23.375-.23s.375.069.375.23v3.752Zm3.198.236c-.127 0-.225-.04-.254-.15l-.22-.768h-1.322l-.219.768c-.029.11-.127.15-.254.15-.202 0-.473-.127-.473-.311 0-.012.006-.035.012-.058l1.114-3.63c.051-.173.265-.254.478-.254s.433.08.485.254l1.114 3.63c.006.023.012.04.012.058 0 .179-.272.311-.473.311Zm2.989-3.543h-.843v3.306c0 .156-.19.237-.375.237s-.375-.081-.375-.237V9.25h-.848c-.15 0-.237-.157-.237-.34 0-.162.075-.336.237-.336h2.44c.162 0 .238.173.238.335 0 .18-.087.34-.237.34Z"/></svg>`,
-            Strava: `<svg role="img" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Strava</title><path d="M15.387 17.944l-2.089-4.116h-3.065L15.387 24l5.15-10.172h-3.066m-7.008-5.599l2.836 5.598h4.172L10.463 0l-7 13.828h4.169"/></svg>`
+            GitHub: '<svg viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>',
+            YouTube: '<svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>',
+            Note: '<svg viewBox="0 0 24 24"><path d="M12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12s5.373 12 12 12zm2.083-16.143l2.801 2.802-5.748 5.748-2.801-2.802 5.748-5.748zm-6.666 9.467l2.802 2.802-3.722.92.92-3.722z"/></svg>',
+            X: '<svg viewBox="0 0 24 24"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>',
+            Instagram: '<svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>',
+            Bluesky: '<svg viewBox="0 0 24 24"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.375 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.938.826-1.875 1.636-2.583 2.149-1.577 1.144-2.89 2.096-2.775 3.308.115 1.205 1.87 2.152 4.295 2.152 4.707 0 5.642-3.766 5.642-3.766s.935 3.766 5.642 3.766c2.425 0 4.18-.947 4.295-2.152.115-1.212-1.198-2.164-2.775-3.308-.708-.513-1.645-1.323-2.583-2.149.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.249-.83.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>',
+            Spotify: '<svg viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.84.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.6.18-1.2.72-1.38 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.54-1.02.72-1.56.3z"/></svg>',
+            Tumblr: '<svg viewBox="0 0 24 24"><path d="M14.563 24c-5.093 0-7.031-3.756-7.031-6.411V9.747H5.116V6.648c3.63-1.313 4.512-4.596 4.71-6.469C9.84.051 9.941 0 9.999 0h3.517v6.114h4.801v3.633h-4.82v7.47c.016 1.001.375 2.371 2.207 2.371h.09c.631-.02 1.486-.205 1.936-.419l1.156 3.425c-.436.636-2.4 1.374-4.322 1.406h-.001z"/></svg>',
+            Twitch: '<svg viewBox="0 0 24 24"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/></svg>',
+            LINE: '<svg viewBox="0 0 24 24"><path d="M24 10.304c0-5.369-5.383-9.738-12-9.738-6.616 0-12 4.369-12 9.738 0 4.814 3.714 8.941 8.86 9.652.392.086.922.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.079 9.436-6.967C23.193 14.156 24 12.324 24 10.304zm-15.006 3.194H5.217a.64.64 0 01-.64-.64V6.435a.64.64 0 01.64-.64h3.777a.64.64 0 01.64.64v1.077a.64.64 0 01-.64.64H6.732v1.54h2.261a.64.64 0 01.64.64v1.077a.64.64 0 01-.64.64H6.732v1.542h2.261a.64.64 0 01.64.64v1.077a.64.64 0 01-.64.638zm4.015 0h-1.39a.64.64 0 01-.64-.64V6.435a.64.64 0 01.64-.64h1.39a.64.64 0 01.64.64v6.423a.64.64 0 01-.64.64zm6.052 0h-1.353a.643.643 0 01-.58-.372l-2.616-5.46v5.192a.64.64 0 01-.64.64h-1.39a.64.64 0 01-.64-.64V6.435a.64.64 0 01.64-.64h1.353a.644.644 0 01.58.37l2.616 5.462V6.435a.64.64 0 01.64-.64h1.39a.64.64 0 01.64.64v6.423a.64.64 0 01-.64.64z"/></svg>',
+            Facebook: '<svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.469h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.469h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>',
+            Threads: '<svg viewBox="0 0 24 24"><path d="M12.007 0C5.379 0 0 5.379 0 12.007c0 6.628 5.379 12.007 12.007 12.007 6.628 0 12.007-5.379 12.007-12.007C24.014 5.379 18.635 0 12.007 0zm-.503 19.349c-3.791 0-6.84-2.883-6.84-6.84s3.049-6.84 6.84-6.84c3.212 0 5.253 1.875 6.009 4.148l-1.996.793c-.495-1.503-1.802-2.812-4.013-2.812-2.585 0-4.613 2.067-4.613 4.711 0 2.645 2.028 4.712 4.613 4.712 1.953 0 3.328-1.077 3.861-2.569h-3.953v-2.128h6.216c.071.464.113.945.113 1.442 0 3.254-2.222 5.383-6.237 5.383z"/></svg>',
+            TikTok: '<svg viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.04.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93v7.2c0 1.96-.5 3.94-1.75 5.42-1.46 1.74-3.8 2.82-6.16 2.61-2.52-.22-4.75-1.76-5.87-4.03-1.15-2.31-1.05-5.11.23-7.29 1.25-2.11 3.55-3.5 5.96-3.84.44-.06.89-.09 1.34-.1v4.11c-.34.02-.68.08-1.02.16-1.3.31-2.45 1.15-3.04 2.32-.61 1.21-.57 2.71.1 3.86.68 1.17 2.1 1.94 3.48 1.71 1.44-.24 2.61-1.42 2.89-2.86.1-.5.12-1.02.12-1.53V.02z"/></svg>',
+            Vimeo: '<svg viewBox="0 0 24 24"><path d="M23.977 5.811c-.048 2.723-2.039 6.452-5.972 11.185-4.101 4.935-7.464 7.404-10.089 7.404-1.758 0-3.219-1.61-4.382-4.831-.772-2.771-1.545-5.541-2.318-8.311C.46 8.528 0 6.643 0 5.614c0-1.632.748-2.448 2.242-2.448 1.343 0 3.011 1.052 5.006 3.155.845 2.748 1.625 5.688 2.339 8.818 1.139 4.316 2.32 6.475 3.541 6.475.98 0 2.355-1.597 4.124-4.792 1.77-3.195 2.655-5.32 2.655-6.375 0-1.89-1.051-2.836-3.155-2.836-1.054 0-2.14.373-3.262 1.121 2.158-6.938 6.552-10.407 13.181-10.407 3.328 0 4.992 1.658 4.992 4.974-.012 1.488-.112 2.316-.301 2.484z"/></svg>',
+            Pinterest: '<svg viewBox="0 0 24 24"><path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.951-7.252 4.181 0 7.424 2.977 7.424 6.945 0 4.156-2.617 7.492-6.25 7.492-1.22 0-2.368-.634-2.763-1.385l-.752 2.868c-.27 1.034-.997 2.329-1.491 3.124 1.12.329 2.308.508 3.535.508 6.621 0 11.988-5.368 11.988-11.987C24.005 5.367 18.638 0 12.017 0z"/></svg>',
+            SoundCloud: '<svg viewBox="0 0 24 24"><path d="M11.83 17.5h10.45c1.47 0 2.22-1.37 2.22-2.5s-1.22-2.5-2.72-2.5c-.24 0-.48.04-.7.12-.41-2.95-2.93-5.22-5.98-5.22-1.74 0-3.32.74-4.44 1.92v8.18zm-2.07-.15V9.45c-.32 0-.61.1-.87.27v7.63c.26.17.55.27.87.27zm-2.08-.43V10.1c-.26-.11-.53-.17-.8-.17s-.54.06-.8.17v6.82c.26.11.53.17.8.17s.54-.06.8-.17zm-3.23-.74V10.8c-.24-.13-.48-.22-.75-.26v5.1c.27-.04.51-.13.75-.26zm-2.8-1.04v-2.96c-.22-.13-.46-.22-.72-.25v3.46c.26-.03.5-.12.72-.25zm-2.55-1.2v-.55c-.2-.07-.4-.12-.62-.13v.8c.22-.01.42-.06.62-.12z"/></svg>',
+            Mixcloud: '<svg viewBox="0 0 24 24"><path d="M17.471 6.84c-3.154 0-5.918 1.944-7.078 4.795-1.127-.58-2.404-.911-3.766-.911-4.437 0-8.033 3.596-8.033 8.033h22.659c1.517 0 2.747-1.23 2.747-2.747 0-2.42-1.802-4.417-4.148-4.707-.468-2.553-2.693-4.463-5.381-4.463zM2.846 17.009C3.606 14.153 6.182 12 9.274 12c1.782 0 3.411.664 4.653 1.76l2.355-3.308c-1.849-1.396-4.154-2.227-6.655-2.227-3.737 0-7.042 1.854-9.043 4.689h2.262z"/></svg>',
+            Bandcamp: '<svg viewBox="0 0 24 24"><path d="M0 18.75l7.437-13.5H24l-7.438 13.5H0z"/></svg>',
+            Steam: '<svg viewBox="0 0 24 24"><path fill="currentColor" d="M12.001 0C5.373 0 .002 5.372.002 12.001c0 3.197 1.251 6.103 3.292 8.243l3.655-5.275a4.015 4.015 0 0 1-.362-1.684c0-2.203 1.786-3.989 3.989-3.989 2.204 0 3.99 1.786 3.99 3.989a3.99 3.99 0 0 1-5.111 3.826l-3.351 4.837c1.761.804 3.731 1.255 5.795 1.255 6.628 0 12-5.372 12-12.002C24 5.372 18.629 0 12.001 0zm-1.42 12.032a2.802 2.802 0 1 0-.001-5.602 2.802 2.802 0 0 0 0 5.602zm-3.155 3.916a1.996 1.996 0 1 1 0-3.991 1.996 1.996 0 0 1 0 3.991zm1.189-1.995a.807.807 0 1 0-1.614 0 .807.807 0 0 0 1.614 0z"/></svg>',
+            BeReal: '<svg viewBox="0 0 24 24"><path d="M12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12s5.373 12 12 12zm-3.6-7.2h3.9c1.65 0 3-1.35 3-3s-1.35-3-3-3h-2.1V6h-1.8v10.8zm1.8-7.8h1.8c.825 0 1.5.675 1.5 1.5s-.675 1.5-1.5 1.5h-1.8V9z"/></svg>',
+            VRChat: '<svg viewBox="0 0 24 24"><path fill="currentColor" d="M11.966.19a.671.671 0 00-.505.215L6.036 6.353a1.442 1.442 0 00-.28 1.401 1.267 1.267 0 001.077.876l2.127.351a.885.885 0 01.765.86v5.823l-3.328-1.595a1.218 1.218 0 00-1.52.483l-3.666 6.554a.798.798 0 001.12 1.096l4.24-2.617a.64.64 0 01.67-.008L12 22.399l4.76-2.822a.64.64 0 01.67.008l4.24 2.617a.798.798 0 001.12-1.096l-3.666-6.554a1.218 1.218 0 00-1.52-.483l-3.328 1.595v-5.823a.885.885 0 01.765-.86l2.127-.351a1.267 1.267 0 001.077-.876 1.442 1.442 0 00-.28-1.401l-5.425-5.948a.671.671 0 00-.564-.215zm.034 5.922a2.155 2.155 0 110 4.31 2.155 2.155 0 010-4.31z"/></svg>',
+            Pixiv: '<svg viewBox="0 0 24 24"><path fill="currentColor" d="M8.618 15.004c.94 0 2.225-.262 3.197-1.124.962-.852 1.348-1.921 1.348-2.903V5.592c0-1.269-1.206-2.198-2.671-2.198h-2.12v8.94c0 .878-.45 1.13-1.007 1.13-.568 0-1.018-.252-1.018-1.13v-8.94H4.073c-1.465 0-2.682.929-2.682 2.198v9.429c0 1.269 1.217 2.198 2.682 2.198h2.098v3.29c0 .641.494 1.151 1.095 1.151h.257c.601 0 1.095-.51 1.095-1.15v-3.3zm11.309-11.61c-1.465 0-2.67.929-2.67 2.198v9.429c0 1.269 1.205 2.198 2.67 2.198h2.682c1.465 0 2.682-.929 2.682-2.198V5.592c0-1.269-1.217-2.198-2.682-2.198h-2.682z"/></svg>',
+            Niconico: '<svg viewBox="0 0 24 24"><path fill="currentColor" d="M2.52 4h18.96C22.87 4 24 5.13 24 6.52v10.96c0 1.39-1.13 2.52-2.52 2.52H2.52C1.13 20 0 18.87 0 17.48V6.52C0 5.13 1.13 4 2.52 4zm1.88 4.62c0-1.19-.8-1.63-1.63-1.63-1.05 0-1.62.8-1.62 1.63v6.76c0 1.19.8 1.63 1.62 1.63 1.05 0 1.63-.8 1.63-1.63V8.62zm5.2 6.76V8.62c0-1.19-.8-1.63-1.63-1.63-1.05 0-1.63.8-1.63 1.63v6.76c0 1.19.8 1.63 1.63 1.63 1.05 0 1.63-.8 1.63-1.63zm3.7-6.76v6.76c0 1.19.8 1.63 1.63 1.63 1.05 0 1.62-.8 1.62-1.63V8.62c0-1.19-.8-1.63-1.62-1.63-1.05 0-1.63.8-1.63 1.63zm5.2 6.76V8.62c0-1.19-.8-1.63-1.63-1.63-1.05 0-1.63.8-1.63 1.63v6.76c0 1.19.8 1.63 1.63 1.63 1.05 0 1.63-.8 1.63-1.63z"/></svg>'
         };
-        
+
         const socialLinks = [
-            // Priority Order (Categorized)
-            // 1. Main SNS
-            { name: 'X', url: 'https://x.com/vl_lvoO' },
-            { name: 'Instagram', url: 'https://www.instagram.com/muraseryosuke/' },
-            { name: 'Threads', url: 'https://www.threads.com/@muraseryosuke' },
-            { name: 'Facebook', url: 'https://www.facebook.com/murase.rmx/' },
-            { name: 'Bluesky', url: 'https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs' },
-            { name: 'Mastodon', url: 'https://pawoo.net/@vl_lvoO' },
-            
-            // 2. Communication
-            { name: 'LINE', url: 'line://ti/p/@e1ectr0-musixxx', title: 'LINE (ID: e1ectr0-musixxx)' },
-            { name: 'Discord', url: 'https://discord.com/users/302704686740275201', title: 'Discord' },
-            
-            // 3. Video / Stream
-            { name: 'YouTube', url: 'https://www.youtube.com/channel/UCYnXDiX1IXfr7IfmtKGZd7w' },
-            { name: 'Twitch', url: 'https://www.twitch.tv/vl_lvoo' },
-            { name: 'Niconico', url: 'https://www.nicovideo.jp/user/57519300', title: 'Niconico' },
-            { name: 'TikTok', url: 'https://www.tiktok.com/@muraseryosuke' },
-            { name: 'Vimeo', url: 'https://vimeo.com/RyosukeMurase' },
-            
-            // 4. Music
-            { name: 'Spotify', url: 'https://open.spotify.com/user/op45mj9o0kclbe5s0i4gqmqdh' },
-            { name: 'Bandcamp', url: 'https://bandcamp.com/muraseryosuke', title: 'Bandcamp' },
-            { name: 'SoundCloud', url: 'https://soundcloud.com/muraseryosuke' },
-            { name: 'Mixcloud', url: 'https://www.mixcloud.com/MuraseRyosuke/', title: 'Mixcloud' },
-            
-            // 5. Creative / Portfolio
-            { name: 'Pixiv', url: 'https://www.pixiv.net/users/24184187', title: 'Pixiv' },
-            { name: 'Pinterest', url: 'https://pin.it/7yVgg7BzS', title: 'Pinterest' },
-            { name: 'Behance', url: 'https://www.behance.net/ryosukemurase' },
-            { name: 'Dribbble', url: 'https://dribbble.com/RyosukeMurase' },
-            
-            // 6. Blog / Dev
-            { name: 'note', url: 'https://note.com/muraseryosuke' },
-            { name: 'Tumblr', url: 'https://vl-lvoo.tumblr.com/' },
+            { name: 'X', url: 'https://x.com/RyosukeMurase' },
+            { name: 'Instagram', url: 'https://instagram.com/RyosukeMurase' },
+            { name: 'Bluesky', url: 'https://bsky.app/profile/murase-ryosuke.bsky.social' },
+            { name: 'Threads', url: 'https://www.threads.net/@RyosukeMurase' },
+            { name: 'TikTok', url: 'https://www.tiktok.com/@RyosukeMurase' },
+            { name: 'BeReal', url: 'https://bere.al/ryosukemurase' },
+            { name: 'VRChat', url: 'https://vrchat.com/home/user/usr_210d7a96-a07c-48c9-9430-c3d3122c1db4' },
             { name: 'GitHub', url: 'https://github.com/MuraseRyosuke' },
-            
-            // 7. Life / VR / Game
-            { name: 'Steam', url: 'https://steamcommunity.com/id/i9sa', title: 'Steam' },
-            { name: 'VRChat', url: 'https://vrchat.com/home/user/usr_23301956-8b2e-4c4e-b7cd-4dd0b7c653bd', title: 'VRChat' },
-            { name: 'BeReal', url: 'https://bere.al/muraseryosuke', title: 'BeReal.' },
-            { name: 'Strava', url: 'https://www.strava.com/athletes/muraseryosuke' }
+            { name: 'Note', url: 'https://note.com/muraseryosuke' },
+            { name: 'YouTube', url: 'https://www.youtube.com/@MuraseRyosuke' },
+            { name: 'Vimeo', url: 'https://vimeo.com/RyosukeMurase' },
+            { name: 'Twitch', url: 'https://www.twitch.tv/muraseryosuke' },
+            { name: 'Niconico', url: 'https://www.nicovideo.jp/user/29881643/video' },
+            { name: 'Spotify', url: 'https://open.spotify.com/user/1h8c7vnvp2d1s1z2x3a5d89h7?si=f5492d2167d44c7b' },
+            { name: 'SoundCloud', url: 'https://soundcloud.com/muraseryosuke' },
+            { name: 'Mixcloud', url: 'https://www.mixcloud.com/RyosukeMurase/' },
+            { name: 'Bandcamp', url: 'https://ryosukemurase.bandcamp.com' },
+            { name: 'Pixiv', url: 'https://www.pixiv.net/users/35928178' },
+            { name: 'Pinterest', url: 'https://jp.pinterest.com/i9sa/' },
+            { name: 'Tumblr', url: 'https://vl-lvoo.tumblr.com' },
+            { name: 'Steam', url: 'https://steamcommunity.com/id/i9sa/' }
         ];
 
-        document.addEventListener('DOMContentLoaded', () => {
-            renderSocialLinks();
-            initHybridScroll();
-            fetchAndRenderTimeline();
+        // --- アイコンバーの生成 ---
+        const iconTrack = document.getElementById('iconTrack');
+        const scrollArea = document.getElementById('scrollArea');
+
+        // 手動スクロールと無限スクロールを両立させるため、要素を複製
+        function renderIcons() {
+            let html = '';
+            socialLinks.forEach(link => {
+                const iconSvg = ICONS[link.name] || '';
+                html += `
+                    <a href="${link.url}" target="_blank" rel="noopener noreferrer" class="icon-item" data-platform="${link.name}">
+                        <div class="icon-circle">${iconSvg}</div>
+                        <span class="icon-name">${link.name}</span>
+                    </a>
+                `;
+            });
+            // 無限スクロールっぽく見せるために3セット繋げる
+            iconTrack.innerHTML = html + html + html;
+        }
+
+        renderIcons();
+
+        // アイコンバーのアニメーション制御 (JavaScriptによる手動/自動のハイブリッド)
+        let scrollPos = 0;
+        let isHovering = false;
+        let isDragging = false; // スマホでのタッチやスワイプ中
+        let animationFrameId;
+
+        function updateScroll() {
+            if (!isHovering && !isDragging) {
+                // 自動スクロール
+                scrollArea.scrollLeft += 0.5; // スピード
+                
+                // 真ん中のセットを超えたら、最初のセットの同じ位置に瞬時に戻す（ループ）
+                const singleSetWidth = iconTrack.scrollWidth / 3;
+                if (scrollArea.scrollLeft >= singleSetWidth * 2) {
+                    scrollArea.scrollLeft -= singleSetWidth;
+                }
+            }
+            animationFrameId = requestAnimationFrame(updateScroll);
+        }
+
+        // 初期位置を真ん中のセットの先頭（空白回避）に設定し、アニメーション開始
+        window.addEventListener('load', () => {
+            scrollArea.scrollLeft = iconTrack.scrollWidth / 3;
+            animationFrameId = requestAnimationFrame(updateScroll);
         });
-        
-        function renderSocialLinks() {
-            const container = document.getElementById('social-links-list');
-            if (!container) return;
-            
-            const createSet = () => {
-                const fragment = document.createDocumentFragment();
-                socialLinks.forEach(link => {
-                    const a = document.createElement('a');
-                    a.href = link.url;
-                    a.target = '_blank';
-                    a.rel = 'noopener noreferrer';
-                    a.title = link.title || link.name;
-                    a.className = `social-link-${link.name.toLowerCase()}`;
-                    a.innerHTML = ICONS[link.name] || '';
-                    fragment.appendChild(a);
-                });
-                return fragment;
-            };
-            
-            // 3セット複製して、両端のスクロール余白を確保する
-            container.appendChild(createSet());
-            container.appendChild(createSet());
-            container.appendChild(createSet());
-        }
 
-        function initHybridScroll() {
-            const container = document.getElementById('social-links-container');
-            const list = document.getElementById('social-links-list');
-            if (!container || !list) return;
+        // マウスホバーとタッチで自動スクロールを一時停止
+        scrollArea.addEventListener('mouseenter', () => isHovering = true);
+        scrollArea.addEventListener('mouseleave', () => isHovering = false);
+        scrollArea.addEventListener('touchstart', () => isDragging = true, {passive: true});
+        scrollArea.addEventListener('touchend', () => isDragging = false);
 
-            let isInteracting = false;
-            let animationFrameId;
-            
-            // 画像やDOMの描画完了を少し待ってから幅を計算する
-            setTimeout(() => {
-                const singleSetWidth = list.scrollWidth / 3;
-                
-                // 初期位置を「2セット目の開始位置」にする（＝左端に空白ができない、すぐ左にスクロール可能）
-                container.scrollLeft = singleSetWidth;
+        // --- タイムラインの生成 ---
+        const timelineEl = document.getElementById('timeline');
+        const statusEl = document.getElementById('status');
 
-                // スクロール位置が範囲外になったらシームレスにループさせる関数
-                const handleLoop = () => {
-                    if (container.scrollLeft >= singleSetWidth * 2) {
-                        container.scrollLeft -= singleSetWidth;
-                    } else if (container.scrollLeft <= 0) {
-                        container.scrollLeft += singleSetWidth;
-                    }
-                };
-
-                // 手動スクロール中もループ判定を行う
-                container.addEventListener('scroll', handleLoop, { passive: true });
-
-                // 自動スクロール処理
-                function autoScroll() {
-                    if (!isInteracting) {
-                        container.scrollLeft += 0.5; // スクロール速度
-                    }
-                    animationFrameId = requestAnimationFrame(autoScroll);
-                }
-
-                // ホバー/タッチ中は自動スクロールを一時停止
-                container.addEventListener('mouseenter', () => isInteracting = true);
-                container.addEventListener('mouseleave', () => isInteracting = false);
-                
-                container.addEventListener('touchstart', () => isInteracting = true, { passive: true });
-                container.addEventListener('touchend', () => {
-                    // 慣性スクロールが終わるまで少し待ってから再開
-                    setTimeout(() => isInteracting = false, 800); 
-                }, { passive: true });
-
-                autoScroll();
-            }, 300);
-        }
-
-        async function fetchAndRenderTimeline() {
-            const timelineContainer = document.getElementById('timeline');
-            const loadingIndicator = document.getElementById('loading');
-            const errorContainer = document.getElementById('error');
-            
-            if (location.protocol === 'blob:') {
-                loadingIndicator.style.display = 'none';
-                errorContainer.innerHTML = 'プレビュー環境ではタイムラインデータを読み込めません。<br>GitHub Pagesにデプロイすると正しく表示されます。';
-                errorContainer.style.display = 'block';
-                return;
-            }
-
-            try {
-                const response = await fetch('./timeline.json'); 
-                if (!response.ok) {
-                    throw new Error(`timeline.jsonの読み込みに失敗しました (HTTP ${response.status})`);
-                }
-                const activities = await response.json();
-                
-                loadingIndicator.style.display = 'none';
-                
-                if (activities.length === 0) {
-                    timelineContainer.innerHTML = '<div style="text-align: center; padding: 20px;">最近の活動はありません。</div>';
-                    return;
-                }
-                
-                const groupedActivities = groupByDate(activities);
-                
-                timelineContainer.innerHTML = ''; 
-
-                const sortedDates = Object.keys(groupedActivities).sort((a, b) => new Date(b) - new Date(a));
-
-                for (const date of sortedDates) {
-                    const dateHeader = document.createElement('div');
-                    dateHeader.className = 'timeline-date';
-                    dateHeader.textContent = formatDate(date);
-                    timelineContainer.appendChild(dateHeader);
-
-                    for (const activity of groupedActivities[date]) {
-                        timelineContainer.appendChild(createTimelineItem(activity));
-                    }
-                }
-
-            } catch (error) {
-                console.error('タイムラインの読み込みに失敗しました:', error);
-                loadingIndicator.style.display = 'none';
-                errorContainer.textContent = `タイムラインの読み込みに失敗しました: ${error.message}`;
-                errorContainer.style.display = 'block';
-            }
-        }
-        
-        function groupByDate(activities) {
-            return activities.reduce((acc, activity) => {
-                const date = new Date(activity.timestamp).toLocaleDateString('ja-JP', { timeZone: 'Asia/Tokyo' });
-                if (!acc[date]) {
-                    acc[date] = [];
-                }
-                acc[date].push(activity);
-                return acc;
-            }, {});
-        }
-        
-        function formatDate(dateString) {
-            const date = new Date(dateString);
-            const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'short' };
-            return date.toLocaleDateString('ja-JP', options);
-        }
-
-        function createTimelineItem(activity) {
-            const item = document.createElement('div');
-            item.className = 'timeline-item';
-
-            item.innerHTML = `
-                <div class="item-header">
-                    ${ICONS[activity.platform] || ''}
-                    <span class="platform-name">${activity.platform}</span>
-                </div>
-                <div class="item-content">
-                    <a href="${activity.url}" target="_blank" rel="noopener noreferrer">${escapeHTML(activity.content)}</a>
-                </div>
-                <div class="item-timestamp">
-                    ${new Date(activity.timestamp).toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' })}
-                </div>
-            `;
-            return item;
-        }
-
-        function escapeHTML(str) {
-            if (typeof str !== 'string') return '';
-            return str.replace(/[&<>"']/g, function(match) {
-                return {
-                    '&': '&amp;',
-                    '<': '&lt;',
-                    '>': '&gt;',
-                    '"': '&quot;',
-                    "'": '&#39;'
-                }[match];
+        function formatDate(isoString) {
+            const date = new Date(isoString);
+            return date.toLocaleString('ja-JP', { 
+                month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' 
             });
         }
 
+        function createTimelineItem(activity) {
+            const li = document.createElement('li');
+            li.className = 'timeline-item';
+            
+            const iconSvg = ICONS[activity.platform] || '';
+            
+            li.innerHTML = `
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-header">
+                        <span class="platform-name">
+                            <span class="platform-icon">${iconSvg}</span>
+                            ${activity.platform}
+                        </span>
+                        <span class="date">${formatDate(activity.timestamp)}</span>
+                    </div>
+                    <a href="${activity.url}" target="_blank" rel="noopener noreferrer" class="activity-link">
+                        <p class="activity-text">${activity.content}</p>
+                    </a>
+                </div>
+            `;
+            return li;
+        }
+
+        async function fetchTimeline() {
+            try {
+                // GitHub Pagesのルートディレクトリにある timeline.json を取得
+                const response = await fetch('timeline.json');
+                if (!response.ok) {
+                    throw new Error('データの読み込みに失敗しました');
+                }
+                const activities = await response.json();
+                
+                statusEl.style.display = 'none';
+                
+                if (activities.length === 0) {
+                    timelineEl.innerHTML = '<li class="loading">最近の活動はありません</li>';
+                    return;
+                }
+
+                activities.forEach(activity => {
+                    timelineEl.appendChild(createTimelineItem(activity));
+                });
+                
+            } catch (error) {
+                console.error(error);
+                statusEl.className = 'error-message';
+                statusEl.textContent = '活動履歴の読み込みに失敗しました。';
+            }
+        }
+
+        // ページ読み込み時にタイムラインを取得
+        fetchTimeline();
     </script>
 </body>
 </html>
