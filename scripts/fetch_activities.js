@@ -6,9 +6,6 @@ const Parser = require('rss-parser');
 // --- 環境変数 ---
 const {
     GH_API_TOKEN,
-    MASTODON_ACCESS_TOKEN,
-    MASTODON_INSTANCE_URL,
-    MASTODON_USER_ID,
     BLUESKY_IDENTIFIER,
     BLUESKY_APP_PASSWORD,
     SPOTIFY_CLIENT_ID,
@@ -17,7 +14,7 @@ const {
     TWITCH_CLIENT_ID,
     TWITCH_CLIENT_SECRET,
     TWITCH_USER_ID,
-    STEAM_API_KEY // ★追加
+    STEAM_API_KEY
 } = process.env;
 
 // --- ユーザー設定 ---
@@ -28,8 +25,7 @@ const CONFIG = {
     VIMEO_USERNAME: 'RyosukeMurase',
     SOUNDCLOUD_USER_ID: '16353954',
     PINTEREST_USERNAME: 'i9sa',
-    STEAM_USER_ID: '76561198399565200' // ★追加
-    // TUMBLR_USERNAME: 'vl-lvoo' // Tumblrは取得不安定のため一時無効化
+    STEAM_USER_ID: '76561198399565200'
 };
 
 // --- クライアント初期化 ---
@@ -72,7 +68,6 @@ async function fetchGitHubActivities() {
 
                 switch (event.type) {
                     case 'PushEvent':
-                        // commitsプロパティが存在しない場合（空の配列として扱う）のエラー回避
                         const commits = event.payload.commits || [];
                         content = `${repoName} に ${commits.length}件のコミットをPushしました`;
                         break;
@@ -86,31 +81,9 @@ async function fetchGitHubActivities() {
                 }
                 return { platform: 'GitHub', timestamp: event.created_at, content, url };
             })
-            .filter(Boolean); // nullを除去
+            .filter(Boolean);
     } catch (error) {
         console.error("GitHub取得エラー:", error.message);
-        return [];
-    }
-}
-
-async function fetchMastodonActivities() {
-    if (!MASTODON_INSTANCE_URL || !MASTODON_ACCESS_TOKEN || !MASTODON_USER_ID) return [];
-    try {
-        const url = `${MASTODON_INSTANCE_URL}/api/v1/accounts/${MASTODON_USER_ID}/statuses?limit=10`;
-        const data = await fetchData(url, {
-            headers: { 'Authorization': `Bearer ${MASTODON_ACCESS_TOKEN}` }
-        });
-
-        return data
-            .filter(status => !status.reblog && !status.in_reply_to_id)
-            .map(status => ({
-                platform: 'Mastodon',
-                timestamp: status.created_at,
-                content: status.content.replace(/<[^>]*>/g, ''), // 簡易HTMLタグ除去
-                url: status.url
-            }));
-    } catch (error) {
-        console.error("Mastodon取得エラー:", error.message);
         return [];
     }
 }
@@ -138,7 +111,6 @@ async function fetchBlueskyActivities() {
 async function fetchSpotifyActivities() {
     if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) return [];
     try {
-        // トークン取得
         const tokenRes = await fetch('https://accounts.spotify.com/api/token', {
             method: 'POST',
             headers: {
@@ -151,7 +123,6 @@ async function fetchSpotifyActivities() {
         if (!tokenRes.ok) throw new Error(`Spotify Token Error: ${tokenRes.status}`);
         const { access_token } = await tokenRes.json();
 
-        // 再生履歴取得
         const recentData = await fetchData('https://api.spotify.com/v1/me/player/recently-played?limit=10', {
             headers: { 'Authorization': `Bearer ${access_token}` }
         });
@@ -171,11 +142,9 @@ async function fetchSpotifyActivities() {
 async function fetchTwitchActivities() {
     if (!TWITCH_CLIENT_ID || !TWITCH_CLIENT_SECRET || !TWITCH_USER_ID) return [];
     try {
-        // トークン取得
         const tokenUrl = `https://id.twitch.tv/oauth2/token?client_id=${TWITCH_CLIENT_ID}&client_secret=${TWITCH_CLIENT_SECRET}&grant_type=client_credentials`;
         const { access_token } = await fetchData(tokenUrl, { method: 'POST' });
 
-        // 動画データ取得
         const apiUrl = `https://api.twitch.tv/helix/videos?user_id=${TWITCH_USER_ID}&first=5`;
         const videoData = await fetchData(apiUrl, {
             headers: {
@@ -196,23 +165,19 @@ async function fetchTwitchActivities() {
     }
 }
 
-// ★追加: Steamの最近プレイしたゲームを取得
 async function fetchSteamActivities() {
     if (!STEAM_API_KEY || !CONFIG.STEAM_USER_ID) return [];
     try {
         const url = `http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=${STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&format=json`;
         const data = await fetchData(url);
         
-        // 過去2週間（playtime_2weeks）にプレイした記録があるゲームのみ抽出
         if (!data.response || !data.response.games) return [];
 
-        // Steam APIはタイムスタンプ（いつ遊んだか）を返さないため、
-        // 便宜上スクリプト実行時の時間をセットします
         const now = new Date().toISOString();
 
         return data.response.games
             .filter(game => game.playtime_2weeks > 0)
-            .slice(0, 5) // 最大5件まで
+            .slice(0, 5)
             .map(game => ({
                 platform: 'Steam',
                 timestamp: now,
@@ -225,9 +190,7 @@ async function fetchSteamActivities() {
     }
 }
 
-
 // --- 各サービス取得関数 (RSS利用) ---
-// RSSベースの取得関数ジェネレータ
 function createRssFetcher(platformName, feedUrlFn, contentFn) {
     return async () => {
         try {
@@ -271,14 +234,6 @@ const fetchPinterestActivities = createRssFetcher('Pinterest',
     item => `「${item.title || '新しい画像'}」をピンしました`
 );
 
-// Tumblr取得処理は一時無効化
-/*
-const fetchTumblrActivities = createRssFetcher('Tumblr',
-    () => `https://${CONFIG.TUMBLR_USERNAME}.tumblr.com/rss`,
-    item => `Tumblrを更新しました（${item.title || '無題'}）`
-);
-*/
-
 /**
  * メイン処理
  */
@@ -288,7 +243,6 @@ async function main() {
     // 並行してデータ取得
     const results = await Promise.all([
         fetchGitHubActivities(),
-        fetchMastodonActivities(),
         fetchBlueskyActivities(),
         fetchSpotifyActivities(),
         fetchTwitchActivities(),
@@ -297,7 +251,7 @@ async function main() {
         fetchSoundCloudActivities(),
         fetchYouTubeActivities(),
         fetchPinterestActivities(),
-        fetchSteamActivities(), // ★追加
+        fetchSteamActivities(),
     ]);
 
     // 配列をフラット化
