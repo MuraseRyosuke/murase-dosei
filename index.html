@@ -80,47 +80,36 @@
             margin-bottom: 10px;
         }
         
-        /* --- Smooth Infinite Scroll CSS --- */
+        /* --- Scroll & Fade Styles --- */
         .social-links-wrapper {
             position: relative;
             margin-top: 20px;
             overflow: hidden;
             padding-top: 10px;
             padding-bottom: 10px;
-            /* 両端のフェードアウト効果 */
             -webkit-mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
             mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
         }
 
         .social-links-container {
             width: 100%;
-            overflow: hidden; /* コンテナ自体はスクロールさせない */
+            overflow-x: auto;
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+            /* iOS向けの慣性スクロール（スワイプが滑らかになる） */
+            -webkit-overflow-scrolling: touch; 
+            /* JS制御のため少しでもなめらかに動くようにする */
+            scroll-behavior: auto;
         }
-
-        .social-links-track {
-            display: flex;
-            width: max-content;
-            /* CSSアニメーションで永続的に左へ移動 */
-            animation: scroll-left 40s linear infinite;
-        }
-
-        /* マウスホバー時や、スマホで触れている時はアニメーションを一時停止 */
-        .social-links-track:hover,
-        .social-links-track:active {
-            animation-play-state: paused;
-        }
-
-        @keyframes scroll-left {
-            0% { transform: translateX(0); }
-            /* ちょうど半分（1セット分）移動したところでリセット */
-            100% { transform: translateX(-50%); } 
+        .social-links-container::-webkit-scrollbar {
+            display: none;
         }
 
         .social-links {
             display: flex;
+            width: max-content;
+            flex-wrap: nowrap;
             align-items: center;
-            /* 1セットの幅が崩れないようにする */
-            flex-shrink: 0; 
         }
 
         .social-links a {
@@ -130,7 +119,6 @@
             margin: 0 12px;
             display: inline-block;
             line-height: 0;
-            /* ドラッグによる画像選択等を防ぐ */
             -webkit-user-drag: none; 
         }
         
@@ -272,8 +260,8 @@
         <header>
             <h1>村瀨動静</h1>
             <div class="social-links-wrapper">
-                <div class="social-links-container">
-                    <div class="social-links-track" id="social-links-track">
+                <div class="social-links-container" id="social-links-container">
+                    <div class="social-links" id="social-links-list">
                         <!-- Icons will be inserted via JS -->
                     </div>
                 </div>
@@ -327,7 +315,6 @@
             { name: 'Threads', url: 'https://www.threads.com/@muraseryosuke' },
             { name: 'Facebook', url: 'https://www.facebook.com/murase.rmx/' },
             { name: 'Bluesky', url: 'https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs' },
-            // Mastodonは削除されました
             
             // 2. Communication
             { name: 'LINE', url: 'line://ti/p/@e1ectr0-musixxx', title: 'LINE (ID: e1ectr0-musixxx)' },
@@ -366,18 +353,16 @@
 
         document.addEventListener('DOMContentLoaded', () => {
             renderSocialLinks();
+            initHybridScroll();
             fetchAndRenderTimeline();
         });
         
         function renderSocialLinks() {
-            const track = document.getElementById('social-links-track');
-            if (!track) return;
+            const container = document.getElementById('social-links-list');
+            if (!container) return;
             
             const createSet = () => {
                 const fragment = document.createDocumentFragment();
-                const wrapper = document.createElement('div');
-                wrapper.className = 'social-links';
-                
                 socialLinks.forEach(link => {
                     const a = document.createElement('a');
                     a.href = link.url;
@@ -386,16 +371,65 @@
                     a.title = link.title || link.name;
                     a.className = `social-link-${link.name.toLowerCase()}`;
                     a.innerHTML = ICONS[link.name] || '';
-                    wrapper.appendChild(a);
+                    fragment.appendChild(a);
                 });
-                
-                fragment.appendChild(wrapper);
                 return fragment;
             };
             
-            // CSSアニメーションでループさせるために2セット作成して並べる
-            track.appendChild(createSet());
-            track.appendChild(createSet());
+            // ループ用に3セット作成
+            container.appendChild(createSet());
+            container.appendChild(createSet());
+            container.appendChild(createSet());
+        }
+
+        function initHybridScroll() {
+            const container = document.getElementById('social-links-container');
+            const list = document.getElementById('social-links-list');
+            if (!container || !list) return;
+
+            let isUserInteracting = false;
+            let autoScrollInterval;
+            
+            setTimeout(() => {
+                const singleSetWidth = list.scrollWidth / 3;
+                // 初期位置を中央セットに
+                container.scrollLeft = singleSetWidth;
+
+                // スクロール位置が範囲外になったらシームレスにループ
+                const handleLoop = () => {
+                    if (container.scrollLeft >= singleSetWidth * 2) {
+                        container.scrollLeft -= singleSetWidth;
+                    } else if (container.scrollLeft <= 0) {
+                        container.scrollLeft += singleSetWidth;
+                    }
+                };
+
+                // 手動・自動問わず、スクロールされたらループ判定
+                container.addEventListener('scroll', handleLoop, { passive: true });
+
+                // 自動スクロール処理 (scrollBy を使用)
+                const startAutoScroll = () => {
+                    if (autoScrollInterval) clearInterval(autoScrollInterval);
+                    autoScrollInterval = setInterval(() => {
+                        if (!isUserInteracting) {
+                            container.scrollBy({ left: 1, behavior: 'auto' });
+                        }
+                    }, 20); // 20msごとに1px移動（非常になめらか）
+                };
+
+                // PCホバー操作
+                container.addEventListener('mouseenter', () => isUserInteracting = true);
+                container.addEventListener('mouseleave', () => isUserInteracting = false);
+                
+                // スマホタッチ操作
+                container.addEventListener('touchstart', () => isUserInteracting = true, { passive: true });
+                container.addEventListener('touchend', () => {
+                    // 慣性スクロールを考慮して、指を離してから1秒後に自動スクロール再開許可
+                    setTimeout(() => isUserInteracting = false, 1000);
+                }, { passive: true });
+
+                startAutoScroll();
+            }, 500); // 描画完了を確実に待つ
         }
 
         async function fetchAndRenderTimeline() {
@@ -425,7 +459,6 @@
                 }
                 
                 const groupedActivities = groupByDate(activities);
-                
                 timelineContainer.innerHTML = ''; 
 
                 const sortedDates = Object.keys(groupedActivities).sort((a, b) => new Date(b) - new Date(a));
