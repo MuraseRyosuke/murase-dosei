@@ -139,15 +139,17 @@ async function fetchTwitch() {
 async function fetchSteam() {
     if (!ENV.STEAM_API_KEY || !CONFIG.STEAM_USER_ID) return [];
     try {
-        const { response } = await fetchJson(`http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=${ENV.STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&format=json`);
+        const url = `http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=${ENV.STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&include_appinfo=1&include_played_free_games=1&format=json`;
+        const { response } = await fetchJson(url);
         if (!response?.games) return [];
-        const now = new Date().toISOString();
+
         return response.games
-            .filter(g => g.playtime_2weeks > 0)
+            .filter(g => g.rtime_last_played && g.rtime_last_played > 0)
+            .sort((a, b) => b.rtime_last_played - a.rtime_last_played)
             .slice(0, 5)
             .map(g => ({
                 platform: 'Steam',
-                timestamp: now,
+                timestamp: new Date(g.rtime_last_played * 1000).toISOString(),
                 content: `${g.name} をプレイしました`,
                 url: `https://store.steampowered.com/app/${g.appid}/`
             }));
