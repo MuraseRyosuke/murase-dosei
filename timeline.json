@@ -1,9 +1,15 @@
 [
   {
     "platform": "Steam",
-    "timestamp": "2026-08-23T11:21:08.300Z",
+    "timestamp": "2026-08-23T11:46:12.466Z",
     "content": "Deviation Game をプレイしました",
     "url": "https://store.steampowered.com/app/3104020/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-23T11:34:32.657Z",
+    "content": "group_inou の「JUDGE」を聴きました",
+    "url": "https://open.spotify.com/track/7lrxDKr8QXLOzh5IKQ04eS"
   },
   {
     "platform": "Spotify",
@@ -154,12 +160,6 @@
     "timestamp": "2026-08-22T16:14:02.522Z",
     "content": "サザンオールスターズ の「はっぴいえんど [2018 Remaster]」を聴きました",
     "url": "https://open.spotify.com/track/16cAS9TQrCb7V7WnnZ6rUQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:09:19.751Z",
-    "content": "サザンオールスターズ の「I AM YOUR SINGER [2018 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/38inOMzf3VMYR6EfaSP14b"
   },
   {
     "platform": "GitHub",
