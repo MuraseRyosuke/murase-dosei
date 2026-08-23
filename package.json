@@ -1,4 +1,11 @@
 {
+  "name": "murase-dosei",
+  "version": "0.4.0",
+  "description": "Aggregates social media activities and outputs to timeline.json",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch_activities.js"
+  },
   "dependencies": {
     "@atproto/api": "^0.13.21",
     "@octokit/core": "^6.1.2",
