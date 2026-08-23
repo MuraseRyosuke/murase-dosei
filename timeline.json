@@ -1,9 +1,15 @@
 [
   {
     "platform": "Steam",
-    "timestamp": "2026-08-23T09:00:14.352Z",
+    "timestamp": "2026-08-23T09:28:15.233Z",
     "content": "Deviation Game をプレイしました",
     "url": "https://store.steampowered.com/app/3104020/"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T09:02:58Z",
+    "content": "MuraseRyosuke/Murase-Ryosuke-3D-Model に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/Murase-Ryosuke-3D-Model"
   },
   {
     "platform": "GitHub",
@@ -224,12 +230,6 @@
   {
     "platform": "GitHub",
     "timestamp": "2026-08-21T17:03:49Z",
-    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
-    "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2026-08-21T16:50:46Z",
     "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
     "url": "https://github.com/MuraseRyosuke/murase-dosei"
   },
