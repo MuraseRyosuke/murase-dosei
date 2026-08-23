@@ -1,5 +1,53 @@
 [
   {
+    "platform": "Steam",
+    "timestamp": "2026-08-23T08:34:09.311Z",
+    "content": "Deviation Game をプレイしました",
+    "url": "https://store.steampowered.com/app/3104020/"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:33:11Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:28:20Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:27:04Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:20:46Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:19:25Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:17:46Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-08-23T08:14:08Z",
+    "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
+    "url": "https://github.com/MuraseRyosuke/murase-dosei"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2026-08-22T17:44:51Z",
     "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
@@ -216,21 +264,9 @@
     "url": "https://jp.pinterest.com/pin/449726712813479313/"
   },
   {
-    "platform": "GitHub",
-    "timestamp": "2026-08-19T13:32:07Z",
-    "content": "tailwindlabs/tailwindcss をStarしました",
-    "url": "https://github.com/tailwindlabs/tailwindcss"
-  },
-  {
     "platform": "Pinterest",
     "timestamp": "2026-08-19T12:36:59.000Z",
     "content": "「 」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813478786/"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2026-08-16T17:39:34Z",
-    "content": "unchihugo/FluentFlyout をStarしました",
-    "url": "https://github.com/unchihugo/FluentFlyout"
   }
 ]
