@@ -1,23 +1,15 @@
+/**
+ * fetch_activities.js
+ * Aggregates social media activities and outputs to timeline.json
+ */
+
 const fs = require('fs');
 const { Octokit } = require("@octokit/core");
 const { BskyAgent } = require('@atproto/api');
 const Parser = require('rss-parser');
 
-// --- 環境変数 ---
-const {
-    GH_API_TOKEN,
-    BLUESKY_IDENTIFIER,
-    BLUESKY_APP_PASSWORD,
-    SPOTIFY_CLIENT_ID,
-    SPOTIFY_CLIENT_SECRET,
-    SPOTIFY_REFRESH_TOKEN,
-    TWITCH_CLIENT_ID,
-    TWITCH_CLIENT_SECRET,
-    TWITCH_USER_ID,
-    STEAM_API_KEY
-} = process.env;
-
-// --- ユーザー設定 ---
+// --- Configuration & Credentials ---
+const ENV = process.env;
 const CONFIG = {
     GITHUB_USERNAME: 'MuraseRyosuke',
     YOUTUBE_CHANNEL_ID: 'UCYnXDiX1IXfr7IfmtKGZd7w',
@@ -28,256 +20,167 @@ const CONFIG = {
     STEAM_USER_ID: '76561198399565200'
 };
 
-// --- クライアント初期化 ---
-const octokit = new Octokit({ auth: GH_API_TOKEN });
+// --- Clients ---
+const octokit = new Octokit({ auth: ENV.GH_API_TOKEN });
 const bskyAgent = new BskyAgent({ service: 'https://bsky.social' });
-
-// 一般的なブラウザのUser-Agentを設定
-const parser = new Parser({
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
+const rssParser = new Parser({
+    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0' }
 });
 
-/**
- * 汎用的なデータ取得ヘルパー (Node.js 20 native fetch)
- */
-async function fetchData(url, options = {}) {
-    const response = await fetch(url, options);
-    if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}, url: ${url}`);
-    }
-    return response.json();
-}
+// --- Helper Functions ---
+const fetchJson = async (url, options = {}) => {
+    const res = await fetch(url, options);
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${url}`);
+    return res.json();
+};
 
-// --- 各サービス取得関数 (API利用) ---
-
-async function fetchGitHubActivities() {
+const createRssFetcher = (platform, getUrl, getContent) => async () => {
     try {
-        const response = await octokit.request('GET /users/{username}/events', {
-            username: CONFIG.GITHUB_USERNAME,
-            per_page: 30
-        });
+        const feed = await rssParser.parseURL(getUrl());
+        return feed.items.slice(0, 5).map(item => ({
+            platform,
+            timestamp: item.isoDate || item.pubDate,
+            content: getContent(item),
+            url: item.link
+        }));
+    } catch (e) {
+        console.error(`[${platform}] Error:`, e.message);
+        return [];
+    }
+};
 
-        return response.data
-            .filter(event => ['PushEvent', 'CreateEvent', 'WatchEvent'].includes(event.type))
-            .map(event => {
-                const repoName = event.repo.name;
-                const url = `https://github.com/${repoName}`;
+// --- API Fetchers ---
+async function fetchGitHub() {
+    try {
+        const { data } = await octokit.request('GET /users/{username}/events', { username: CONFIG.GITHUB_USERNAME, per_page: 30 });
+        return data
+            .filter(e => ['PushEvent', 'CreateEvent', 'WatchEvent'].includes(e.type))
+            .map(e => {
+                const repo = e.repo.name;
                 let content = '';
-
-                switch (event.type) {
-                    case 'PushEvent':
-                        const commits = event.payload.commits || [];
-                        content = `${repoName} に ${commits.length}件のコミットをPushしました`;
-                        break;
-                    case 'CreateEvent':
-                        if (event.payload.ref_type !== 'repository') return null;
-                        content = `新しいリポジトリ ${repoName} を作成しました`;
-                        break;
-                    case 'WatchEvent':
-                        content = `${repoName} をStarしました`;
-                        break;
-                }
-                return { platform: 'GitHub', timestamp: event.created_at, content, url };
+                if (e.type === 'PushEvent') content = `${repo} に ${e.payload.commits?.length || 0}件のコミットをPushしました`;
+                else if (e.type === 'CreateEvent' && e.payload.ref_type === 'repository') content = `新しいリポジトリ ${repo} を作成しました`;
+                else if (e.type === 'WatchEvent') content = `${repo} をStarしました`;
+                
+                return content ? { platform: 'GitHub', timestamp: e.created_at, content, url: `https://github.com/${repo}` } : null;
             })
             .filter(Boolean);
-    } catch (error) {
-        console.error("GitHub取得エラー:", error.message);
+    } catch (e) {
+        console.error("[GitHub] Error:", e.message);
         return [];
     }
 }
 
-async function fetchBlueskyActivities() {
-    if (!BLUESKY_IDENTIFIER || !BLUESKY_APP_PASSWORD) return [];
+async function fetchBluesky() {
+    if (!ENV.BLUESKY_IDENTIFIER || !ENV.BLUESKY_APP_PASSWORD) return [];
     try {
-        await bskyAgent.login({ identifier: BLUESKY_IDENTIFIER, password: BLUESKY_APP_PASSWORD });
-        const { data } = await bskyAgent.getAuthorFeed({ actor: BLUESKY_IDENTIFIER, limit: 10 });
-
+        await bskyAgent.login({ identifier: ENV.BLUESKY_IDENTIFIER, password: ENV.BLUESKY_APP_PASSWORD });
+        const { data } = await bskyAgent.getAuthorFeed({ actor: ENV.BLUESKY_IDENTIFIER, limit: 10 });
         return data.feed
             .filter(item => !item.reply && !item.reason)
-            .map(item => ({
+            .map(({ post }) => ({
                 platform: 'Bluesky',
-                timestamp: item.post.indexedAt,
-                content: item.post.record.text,
-                url: `https://bsky.app/profile/${item.post.author.did}/post/${item.post.uri.split('/').pop()}`
+                timestamp: post.indexedAt,
+                content: post.record.text,
+                url: `https://bsky.app/profile/${post.author.did}/post/${post.uri.split('/').pop()}`
             }));
-    } catch (error) {
-        console.error("BlueSky取得エラー:", error.message);
+    } catch (e) {
+        console.error("[Bluesky] Error:", e.message);
         return [];
     }
 }
 
-async function fetchSpotifyActivities() {
-    if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) return [];
+async function fetchSpotify() {
+    if (!ENV.SPOTIFY_CLIENT_ID || !ENV.SPOTIFY_CLIENT_SECRET || !ENV.SPOTIFY_REFRESH_TOKEN) return [];
     try {
-        const tokenRes = await fetch('https://accounts.spotify.com/api/token', {
+        const tokenRes = await fetchJson('https://accounts.spotify.com/api/token', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',
-                'Authorization': 'Basic ' + Buffer.from(`${SPOTIFY_CLIENT_ID}:${SPOTIFY_CLIENT_SECRET}`).toString('base64')
+                'Authorization': 'Basic ' + Buffer.from(`${ENV.SPOTIFY_CLIENT_ID}:${ENV.SPOTIFY_CLIENT_SECRET}`).toString('base64')
             },
-            body: `grant_type=refresh_token&refresh_token=${SPOTIFY_REFRESH_TOKEN}`
-        });
-        
-        if (!tokenRes.ok) throw new Error(`Spotify Token Error: ${tokenRes.status}`);
-        const { access_token } = await tokenRes.json();
-
-        const recentData = await fetchData('https://api.spotify.com/v1/me/player/recently-played?limit=10', {
-            headers: { 'Authorization': `Bearer ${access_token}` }
+            body: `grant_type=refresh_token&refresh_token=${ENV.SPOTIFY_REFRESH_TOKEN}`
         });
 
-        return recentData.items.map(item => ({
+        const recent = await fetchJson('https://api.spotify.com/v1/me/player/recently-played?limit=10', {
+            headers: { 'Authorization': `Bearer ${tokenRes.access_token}` }
+        });
+        return recent.items.map(({ track, played_at }) => ({
             platform: 'Spotify',
-            timestamp: item.played_at,
-            content: `${item.track.artists[0].name} の「${item.track.name}」を聴きました`,
-            url: item.track.external_urls.spotify
+            timestamp: played_at,
+            content: `${track.artists[0].name} の「${track.name}」を聴きました`,
+            url: track.external_urls.spotify
         }));
-    } catch (error) {
-        console.error("Spotify取得エラー:", error.message);
+    } catch (e) {
+        console.error("[Spotify] Error:", e.message);
         return [];
     }
 }
 
-async function fetchTwitchActivities() {
-    if (!TWITCH_CLIENT_ID || !TWITCH_CLIENT_SECRET || !TWITCH_USER_ID) return [];
+async function fetchTwitch() {
+    if (!ENV.TWITCH_CLIENT_ID || !ENV.TWITCH_CLIENT_SECRET || !ENV.TWITCH_USER_ID) return [];
     try {
-        const tokenUrl = `https://id.twitch.tv/oauth2/token?client_id=${TWITCH_CLIENT_ID}&client_secret=${TWITCH_CLIENT_SECRET}&grant_type=client_credentials`;
-        const { access_token } = await fetchData(tokenUrl, { method: 'POST' });
-
-        const apiUrl = `https://api.twitch.tv/helix/videos?user_id=${TWITCH_USER_ID}&first=5`;
-        const videoData = await fetchData(apiUrl, {
-            headers: {
-                'Client-ID': TWITCH_CLIENT_ID,
-                'Authorization': `Bearer ${access_token}`
-            }
+        const { access_token } = await fetchJson(`https://id.twitch.tv/oauth2/token?client_id=${ENV.TWITCH_CLIENT_ID}&client_secret=${ENV.TWITCH_CLIENT_SECRET}&grant_type=client_credentials`, { method: 'POST' });
+        const { data } = await fetchJson(`https://api.twitch.tv/helix/videos?user_id=${ENV.TWITCH_USER_ID}&first=5`, {
+            headers: { 'Client-ID': ENV.TWITCH_CLIENT_ID, 'Authorization': `Bearer ${access_token}` }
         });
-
-        return videoData.data.map(video => ({
+        return data.map(v => ({
             platform: 'Twitch',
-            timestamp: video.created_at,
-            content: `「${video.title}」を配信しました`,
-            url: video.url
+            timestamp: v.created_at,
+            content: `「${v.title}」を配信しました`,
+            url: v.url
         }));
-    } catch (error) {
-        console.error("Twitch取得エラー:", error.message);
+    } catch (e) {
+        console.error("[Twitch] Error:", e.message);
         return [];
     }
 }
 
-async function fetchSteamActivities() {
-    if (!STEAM_API_KEY || !CONFIG.STEAM_USER_ID) return [];
+async function fetchSteam() {
+    if (!ENV.STEAM_API_KEY || !CONFIG.STEAM_USER_ID) return [];
     try {
-        const url = `http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=${STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&format=json`;
-        const data = await fetchData(url);
-        
-        if (!data.response || !data.response.games) return [];
-
+        const { response } = await fetchJson(`http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=${ENV.STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&format=json`);
+        if (!response?.games) return [];
         const now = new Date().toISOString();
-
-        return data.response.games
-            .filter(game => game.playtime_2weeks > 0)
+        return response.games
+            .filter(g => g.playtime_2weeks > 0)
             .slice(0, 5)
-            .map(game => ({
+            .map(g => ({
                 platform: 'Steam',
                 timestamp: now,
-                content: `${game.name} をプレイしました`,
-                url: `https://store.steampowered.com/app/${game.appid}/`
+                content: `${g.name} をプレイしました`,
+                url: `https://store.steampowered.com/app/${g.appid}/`
             }));
-    } catch (error) {
-        console.error("Steam取得エラー:", error.message);
+    } catch (e) {
+        console.error("[Steam] Error:", e.message);
         return [];
     }
 }
 
-// --- 各サービス取得関数 (RSS利用) ---
-function createRssFetcher(platformName, feedUrlFn, contentFn) {
-    return async () => {
-        try {
-            const feedUrl = feedUrlFn();
-            const feed = await parser.parseURL(feedUrl);
-            return feed.items.slice(0, 5).map(item => ({
-                platform: platformName,
-                timestamp: item.isoDate || item.pubDate,
-                content: contentFn(item),
-                url: item.link
-            }));
-        } catch (error) {
-            console.error(`${platformName}取得エラー:`, error.message);
-            return [];
-        }
-    };
-}
-
-const fetchNoteActivities = createRssFetcher('note', 
-    () => `https://note.com/${CONFIG.NOTE_USERNAME}/rss`,
-    item => `記事「${item.title}」を投稿しました`
-);
-
-const fetchVimeoActivities = createRssFetcher('Vimeo',
-    () => `https://vimeo.com/${CONFIG.VIMEO_USERNAME}/videos/rss`,
-    item => `動画「${item.title}」を公開しました`
-);
-
-const fetchSoundCloudActivities = createRssFetcher('SoundCloud',
-    () => `https://feeds.soundcloud.com/users/soundcloud:users:${CONFIG.SOUNDCLOUD_USER_ID}/sounds.rss`,
-    item => `トラック「${item.title}」を公開しました`
-);
-
-const fetchYouTubeActivities = createRssFetcher('YouTube',
-    () => `https://www.youtube.com/feeds/videos.xml?channel_id=${CONFIG.YOUTUBE_CHANNEL_ID}`,
-    item => `動画「${item.title}」を公開しました`
-);
-
-const fetchPinterestActivities = createRssFetcher('Pinterest',
-    () => `https://jp.pinterest.com/${CONFIG.PINTEREST_USERNAME}/feed.rss`,
-    item => `「${item.title || '新しい画像'}」をピンしました`
-);
-
-/**
- * メイン処理
- */
-async function main() {
-    console.log('活動の取得を開始します...');
-
-    // 並行してデータ取得
-    const results = await Promise.all([
-        fetchGitHubActivities(),
-        fetchBlueskyActivities(),
-        fetchSpotifyActivities(),
-        fetchTwitchActivities(),
-        fetchNoteActivities(),
-        fetchVimeoActivities(),
-        fetchSoundCloudActivities(),
-        fetchYouTubeActivities(),
-        fetchPinterestActivities(),
-        fetchSteamActivities(),
-    ]);
-
-    // 配列をフラット化
-    const allActivities = results.flat();
-
-    // 過去7日分のみフィルタリング & ソート
-    const sevenDaysAgo = new Date();
-    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-
-    const finalActivities = allActivities
-        .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
-        .filter(activity => new Date(activity.timestamp) >= sevenDaysAgo);
-
-    console.log(`合計 ${finalActivities.length} 件の活動を取得しました。`);
-
-    // ファイル書き込み
+// --- Main Execution ---
+(async () => {
+    console.log('Starting activity fetch...');
     try {
-        fs.writeFileSync('timeline.json', JSON.stringify(finalActivities, null, 2));
-        console.log('timeline.jsonの書き込みに成功しました。');
-    } catch (error) {
-        console.error('timeline.jsonの書き込みに失敗しました:', error.message);
+        const fetchers = [
+            fetchGitHub, fetchBluesky, fetchSpotify, fetchTwitch, fetchSteam,
+            createRssFetcher('note', () => `https://note.com/${CONFIG.NOTE_USERNAME}/rss`, i => `記事「${i.title}」を投稿しました`),
+            createRssFetcher('Vimeo', () => `https://vimeo.com/${CONFIG.VIMEO_USERNAME}/videos/rss`, i => `動画「${i.title}」を公開しました`),
+            createRssFetcher('SoundCloud', () => `https://feeds.soundcloud.com/users/soundcloud:users:${CONFIG.SOUNDCLOUD_USER_ID}/sounds.rss`, i => `トラック「${i.title}」を公開しました`),
+            createRssFetcher('YouTube', () => `https://www.youtube.com/feeds/videos.xml?channel_id=${CONFIG.YOUTUBE_CHANNEL_ID}`, i => `動画「${i.title}」を公開しました`),
+            createRssFetcher('Pinterest', () => `https://jp.pinterest.com/${CONFIG.PINTEREST_USERNAME}/feed.rss`, i => `「${i.title || '新しい画像'}」をピンしました`)
+        ];
+
+        const results = await Promise.all(fetchers.map(fn => fn()));
+        const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+
+        const timeline = results.flat()
+            .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
+            .filter(a => new Date(a.timestamp) >= sevenDaysAgo);
+
+        fs.writeFileSync('timeline.json', JSON.stringify(timeline, null, 2));
+        console.log(`Successfully saved ${timeline.length} activities to timeline.json.`);
+    } catch (e) {
+        console.error("Fatal error:", e);
         process.exit(1);
     }
-}
-
-main().catch(error => {
-    console.error("スクリプト実行中の致命的エラー:", error);
-    process.exit(1);
-});
+})();
