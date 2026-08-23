@@ -1,9 +1,21 @@
 [
   {
     "platform": "Steam",
-    "timestamp": "2026-08-23T09:28:15.233Z",
+    "timestamp": "2026-08-23T09:53:38.662Z",
     "content": "Deviation Game をプレイしました",
     "url": "https://store.steampowered.com/app/3104020/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-23T09:37:29.452Z",
+    "content": "サザンオールスターズ の「ミス・ブランニュー・デイ（MISS BRAND-NEW DAY）」を聴きました",
+    "url": "https://open.spotify.com/track/66r3KQQBzPYYov2pMLzeYD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-23T09:32:30.980Z",
+    "content": "サザンオールスターズ の「Bye Bye My Love（U are the one）」を聴きました",
+    "url": "https://open.spotify.com/track/1H0w3mu1G0KAk5OM2LfK26"
   },
   {
     "platform": "GitHub",
@@ -148,18 +160,6 @@
     "timestamp": "2026-08-22T16:09:19.751Z",
     "content": "サザンオールスターズ の「I AM YOUR SINGER [2018 Remaster]」を聴きました",
     "url": "https://open.spotify.com/track/38inOMzf3VMYR6EfaSP14b"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:00:45.942Z",
-    "content": "サザンオールスターズ の「愛と欲望の日々 [2018 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/1YB8IaObyKGjCEhVyK2kvb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T15:56:18.056Z",
-    "content": "サザンオールスターズ の「東京VICTORY [2018 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/7zlWYM5rtYBJBFsInq85fg"
   },
   {
     "platform": "GitHub",
