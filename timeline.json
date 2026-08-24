@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-08-24T23:22:26.733Z",
+    "content": "KIRINJI の「ムラサキ☆サンセット - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/3quy9zQGrnCDNWh4ilIckB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T23:16:30.623Z",
+    "content": "KIRINJI の「太陽とヴィーナス」を聴きました",
+    "url": "https://open.spotify.com/track/1px14ApxVmoQAFCHWSDC55"
+  },
+  {
+    "platform": "Pinterest",
+    "timestamp": "2026-08-24T23:16:21.000Z",
+    "content": "「 」をピンしました",
+    "url": "https://jp.pinterest.com/pin/449726712813519123/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T23:10:01.497Z",
+    "content": "サザンオールスターズ の「涙のキッス」を聴きました",
+    "url": "https://open.spotify.com/track/3QKdXmCEzBCoFcNND6ooC7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T23:02:23.667Z",
+    "content": "サザンオールスターズ の「涙のキッス」を聴きました",
+    "url": "https://open.spotify.com/track/3QKdXmCEzBCoFcNND6ooC7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T22:57:37.661Z",
+    "content": "サザンオールスターズ の「シュラバ★ラ★バンバ SHULABA-LA-BAMBA」を聴きました",
+    "url": "https://open.spotify.com/track/4vtVRLCBn14hTndcLOyWLA"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-08-24T22:52:35.130Z",
     "content": "サザンオールスターズ の「YOU」を聴きました",
     "url": "https://open.spotify.com/track/0I7mRlHlZWBF0TS4I76HhD"
@@ -30,30 +66,6 @@
     "url": "https://open.spotify.com/track/0JFlKjPm6lt1cQmVh6AC6j"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-08-24T22:30:50.285Z",
-    "content": "m-flo の「ARIGATTO」を聴きました",
-    "url": "https://open.spotify.com/track/3wLGnBmspaijt5ikDiiQKL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-24T22:26:47.630Z",
-    "content": "m-flo の「GateWay」を聴きました",
-    "url": "https://open.spotify.com/track/0ZbrPNzu1wzzrK5Kbm0epz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-24T22:22:28.815Z",
-    "content": "m-flo の「ARIGATTO」を聴きました",
-    "url": "https://open.spotify.com/track/3wLGnBmspaijt5ikDiiQKL"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-24T22:18:01.093Z",
-    "content": "PiKi の「Twilight Twilight」を聴きました",
-    "url": "https://open.spotify.com/track/2zDsbKzHDrxMeeDCasEHg6"
-  },
-  {
     "platform": "Pinterest",
     "timestamp": "2026-08-24T22:16:17.000Z",
     "content": "「斎藤宏介 ギター - Google 検索」をピンしました",
@@ -64,12 +76,6 @@
     "timestamp": "2026-08-24T22:15:40.000Z",
     "content": "「山内総一郎 ギター - Google 検索」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813518705/"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-24T22:14:38.258Z",
-    "content": "Kyary Pamyu Pamyu の「dreamin dreamin」を聴きました",
-    "url": "https://open.spotify.com/track/1o51arfcq5g3T31yx3WGMk"
   },
   {
     "platform": "Pinterest",
@@ -124,11 +130,5 @@
     "timestamp": "2026-08-19T14:08:04.000Z",
     "content": "「履歴 / X」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813479313/"
-  },
-  {
-    "platform": "Pinterest",
-    "timestamp": "2026-08-19T12:36:59.000Z",
-    "content": "「 」をピンしました",
-    "url": "https://jp.pinterest.com/pin/449726712813478786/"
   }
 ]
