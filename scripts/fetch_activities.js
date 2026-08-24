@@ -58,9 +58,22 @@ async function fetchGitHub() {
             .map(e => {
                 const repo = e.repo.name;
                 let content = '';
-                if (e.type === 'PushEvent') content = `${repo} に ${e.payload.commits?.length || 0}件のコミットをPushしました`;
-                else if (e.type === 'CreateEvent' && e.payload.ref_type === 'repository') content = `新しいリポジトリ ${repo} を作成しました`;
-                else if (e.type === 'WatchEvent') content = `${repo} をStarしました`;
+                
+                if (e.type === 'PushEvent') {
+                    // APIから正確なコミット数を取得（なければ0）
+                    const commitCount = e.payload.size || e.payload.commits?.length || 0;
+                    
+                    // ★コミットが0件のプッシュはタイムラインに表示しない（除外する）
+                    if (commitCount === 0) return null; 
+                    
+                    content = `${repo} に ${commitCount}件のコミットをPushしました`;
+                }
+                else if (e.type === 'CreateEvent' && e.payload.ref_type === 'repository') {
+                    content = `新しいリポジトリ ${repo} を作成しました`;
+                }
+                else if (e.type === 'WatchEvent') {
+                    content = `${repo} をStarしました`;
+                }
                 
                 return content ? { platform: 'GitHub', timestamp: e.created_at, content, url: `https://github.com/${repo}` } : null;
             })
@@ -139,6 +152,7 @@ async function fetchTwitch() {
 async function fetchSteam() {
     if (!ENV.STEAM_API_KEY || !CONFIG.STEAM_USER_ID) return [];
     try {
+        // ★実際に遊んだ正確な終了時刻(rtime_last_played)を取得するように変更済
         const url = `http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=${ENV.STEAM_API_KEY}&steamid=${CONFIG.STEAM_USER_ID}&include_appinfo=1&include_played_free_games=1&format=json`;
         const { response } = await fetchJson(url);
         if (!response?.games) return [];
