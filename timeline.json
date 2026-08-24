@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-08-24T09:39:40.571Z",
+    "content": "Perfume の「TOKIMEKI LIGHTS - Cosmic Explorer-mix」を聴きました",
+    "url": "https://open.spotify.com/track/4eRjW5H0wOg6JMMQFiAqop"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T09:31:53.642Z",
+    "content": "Kyary Pamyu Pamyu の「すんごいオーラ - album mix」を聴きました",
+    "url": "https://open.spotify.com/track/1RPzJwqLhUjoM8oLfQGh6C"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T09:28:12.110Z",
+    "content": "Kyary Pamyu Pamyu の「ファミリーパーティー - album mix」を聴きました",
+    "url": "https://open.spotify.com/track/2NwoKuhP8SzTAvEiiEwODP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-08-24T09:12:10.014Z",
     "content": "CAPSULE の「Step on The Floor - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/1l4hikD2EfbZEdxA7ZgEeD"
@@ -126,28 +144,10 @@
     "url": "https://open.spotify.com/track/3EqgZ0QhMJlhUIuDhyCxDp"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:34:11.048Z",
-    "content": "サザンオールスターズ の「いとしのエリー」を聴きました",
-    "url": "https://open.spotify.com/track/2Y4775lk8OQzIAcSzVL6vm"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-08-22T16:34:08Z",
     "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
     "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:29:46.554Z",
-    "content": "サザンオールスターズ の「勝手にシンドバッド」を聴きました",
-    "url": "https://open.spotify.com/track/1NWPZ32S3OXrPCxQR50I6o"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:25:15.100Z",
-    "content": "サザンオールスターズ の「アロエ [2018 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/5HQJ0qiFLRAQ5Kek80MY13"
   },
   {
     "platform": "GitHub",
