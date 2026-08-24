@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T09:12:10.014Z",
+    "content": "CAPSULE の「Step on The Floor - 2021 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1l4hikD2EfbZEdxA7ZgEeD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-24T09:06:03.050Z",
+    "content": "DE DE MOUSE の「firework girl (remix)」を聴きました",
+    "url": "https://open.spotify.com/track/4ICjkvmhrvLzlaDYeCdSFm"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2026-08-23T23:28:04Z",
     "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
@@ -138,12 +150,6 @@
     "url": "https://open.spotify.com/track/5HQJ0qiFLRAQ5Kek80MY13"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:20:18.195Z",
-    "content": "サザンオールスターズ の「ピースとハイライト [2018 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/6lJ3lm5QDWuPKvvnh82ANP"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-08-22T16:16:40Z",
     "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
@@ -154,12 +160,6 @@
     "timestamp": "2026-08-22T16:15:11Z",
     "content": "MuraseRyosuke/murase-dosei に 0件のコミットをPushしました",
     "url": "https://github.com/MuraseRyosuke/murase-dosei"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-22T16:14:02.522Z",
-    "content": "サザンオールスターズ の「はっぴいえんど [2018 Remaster]」を聴きました",
-    "url": "https://open.spotify.com/track/16cAS9TQrCb7V7WnnZ6rUQ"
   },
   {
     "platform": "GitHub",
