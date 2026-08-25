@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-08-25T15:44:45.471Z",
+    "content": "Jamiroquai の「You Give Me Something」を聴きました",
+    "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-08-25T14:07:44.261Z",
     "content": "Jamiroquai の「Little L」を聴きました",
     "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
@@ -82,12 +88,6 @@
     "timestamp": "2026-08-25T13:14:37.309Z",
     "content": "Jamiroquai の「Spend a Lifetime - Remastered 2013」を聴きました",
     "url": "https://open.spotify.com/track/6zOf9uOKdUQOOBXyw4aB6E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-25T13:10:22.845Z",
-    "content": "Jamiroquai の「You Are My Love - Remastered 2013」を聴きました",
-    "url": "https://open.spotify.com/track/6mRZJ8vfQ8v9UXD2wteohT"
   },
   {
     "platform": "Bluesky",
