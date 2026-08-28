@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-08-28T00:08:07.596Z",
+    "content": "KUCHIRORO の「GOLDEN KING」を聴きました",
+    "url": "https://open.spotify.com/track/3DY8K1H66tk9xb5MCXAyVh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-28T00:08:07.596Z",
+    "content": "KUCHIRORO の「Long No See You」を聴きました",
+    "url": "https://open.spotify.com/track/1a5ReKeCkObhfTLiZ9UK54"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-08-27T18:23:42.398Z",
     "content": "Quruli の「かごの中のジョニー」を聴きました",
     "url": "https://open.spotify.com/track/1oSAHbyTpygGLia0keK1V2"
@@ -60,12 +72,6 @@
     "url": "https://jp.pinterest.com/pin/449726712813523582/"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-08-25T13:54:39.382Z",
-    "content": "Jamiroquai の「Where Do We Go from Here?」を聴きました",
-    "url": "https://open.spotify.com/track/1eQrL6BxCNYLX3Y61EOJnD"
-  },
-  {
     "platform": "Pinterest",
     "timestamp": "2026-08-25T13:54:16.000Z",
     "content": "「DW-5600RL-1JF | CASIO」をピンしました",
@@ -76,12 +82,6 @@
     "timestamp": "2026-08-25T13:49:41.000Z",
     "content": "「Max Factory figma No.038 : Drössel (Fireball) Action Figure JAPAN Drossel | eBay」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813523550/"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-25T13:49:25.512Z",
-    "content": "Jamiroquai の「Butterfly」を聴きました",
-    "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
   },
   {
     "platform": "Pinterest",
@@ -124,11 +124,5 @@
     "timestamp": "2026-08-21T08:07:12.864Z",
     "content": "Flare使ってテスト. Twitterのクライアント選ぶ感覚なの久々 https://flareapp.moe/ ",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mtlcjvarae2q"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-08-20T21:55:47.467Z",
-    "content": "本名の最初の三文字をユニークネームとするサービスとか、F1のスクリーンネームとかに準じて私の名前を表示するとMURになるわけだが、それはそれでネットミームに直結するので頭にきますよ！",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mtkaekof2c2m"
   }
 ]
