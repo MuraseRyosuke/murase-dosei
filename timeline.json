@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-08-30T14:29:21.838Z",
+    "content": "Perfume の「ソーラ・ウィンド」を聴きました",
+    "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-30T14:25:06.545Z",
+    "content": "Perfume の「ネビュラロマンス」を聴きました",
+    "url": "https://open.spotify.com/track/5gOPOyHtNe13doLJGtEmzC"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-30T14:21:06.377Z",
+    "content": "Perfume の「再起動世界」を聴きました",
+    "url": "https://open.spotify.com/track/18gV9yNPSXw4G34yyn8Vxz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-30T14:16:32.527Z",
+    "content": "Perfume の「すみっコディスコ」を聴きました",
+    "url": "https://open.spotify.com/track/3Nk6XgwhTcgYjfj2LSRAat"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-30T14:13:04.555Z",
+    "content": "Perfume の「IMA IMA IMA」を聴きました",
+    "url": "https://open.spotify.com/track/53hS9eKKsLAtSsydsc9NUn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-30T14:08:43.595Z",
+    "content": "Perfume の「ラヴ・クラウド」を聴きました",
+    "url": "https://open.spotify.com/track/3A4UGmRGYXaSGUyqxg66Qt"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-30T14:05:04.136Z",
+    "content": "Perfume の「The Light」を聴きました",
+    "url": "https://open.spotify.com/track/6MHDj0d8q8903U28Yes9uz"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-08-29T04:08:14.628Z",
     "content": "PASSEPIED の「ヨアケマエ」を聴きました",
     "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
@@ -16,48 +58,6 @@
     "timestamp": "2026-08-29T03:55:36.881Z",
     "content": "PASSEPIED の「メーデー」を聴きました",
     "url": "https://open.spotify.com/track/4HdV8FxgCM3QNYwpz2g4vY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-29T03:51:12.668Z",
-    "content": "PASSEPIED の「ああ、無情」を聴きました",
-    "url": "https://open.spotify.com/track/4lvUr0l57wRIqPU4z3j7xb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-29T03:17:14.296Z",
-    "content": "DE DE MOUSE の「sweet gravity」を聴きました",
-    "url": "https://open.spotify.com/track/6LOR3rIhneGqlNHlB5iTuq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-28T19:47:26.444Z",
-    "content": "Quruli の「鹿児島おはら節」を聴きました",
-    "url": "https://open.spotify.com/track/15GK9OpzqVVYfirfeipDwc"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-28T19:43:37.421Z",
-    "content": "Quruli の「言葉はさんかく　こころは四角　　TRIANGLE」を聴きました",
-    "url": "https://open.spotify.com/track/1skSciYhsfXWFr0jCFl6d8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-28T19:39:59.528Z",
-    "content": "Quruli の「ジュビリー　Jubilee gemischt von Dietz」を聴きました",
-    "url": "https://open.spotify.com/track/3AIiVSr47S0dYwakyEyYtA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-28T19:35:08.838Z",
-    "content": "Quruli の「魔法のじゅうたん」を聴きました",
-    "url": "https://open.spotify.com/track/4C14RaNodcldNufGBggppM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-28T19:29:55.742Z",
-    "content": "Quruli の「最終列車」を聴きました",
-    "url": "https://open.spotify.com/track/4EI5vHpeRH3UJMqIKx9Clp"
   },
   {
     "platform": "Bluesky",
