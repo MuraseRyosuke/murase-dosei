@@ -1,5 +1,41 @@
 [
   {
+    "platform": "Bluesky",
+    "timestamp": "2026-08-31T20:55:17.208Z",
+    "content": "あの時左足で小石を蹴ったとばっかりに思ったのは左耳のイヤホンだったのか… トホホヨ…",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mufs4jcu622v"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2026-08-31T20:54:26.702Z",
+    "content": "えーショックなんだけどー！",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mufs2ypufk2v"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2026-08-31T20:54:05.805Z",
+    "content": "えー、可愛い無線イヤホンには旅をさせよ、とはまぁよく言ったものですが",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mufs2crujs2v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-31T19:22:45.155Z",
+    "content": "PASSEPIED の「永すぎた春」を聴きました",
+    "url": "https://open.spotify.com/track/3DSqCdEKbtr9j80K6KAWfe"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-31T18:36:21.925Z",
+    "content": "King Gnu の「白日」を聴きました",
+    "url": "https://open.spotify.com/track/5iF0Yf9gju6ERpAch08JsC"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-08-31T18:32:17.368Z",
+    "content": "Perfume の「Virtual Fantasy」を聴きました",
+    "url": "https://open.spotify.com/track/1g41KVkSZjaAreZRguXDyE"
+  },
+  {
     "platform": "Spotify",
     "timestamp": "2026-08-30T14:29:21.838Z",
     "content": "Perfume の「ソーラ・ウィンド」を聴きました",
@@ -42,24 +78,6 @@
     "url": "https://open.spotify.com/track/6MHDj0d8q8903U28Yes9uz"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-08-29T04:08:14.628Z",
-    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
-    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-29T04:00:04.978Z",
-    "content": "PASSEPIED の「マイ・フィクション」を聴きました",
-    "url": "https://open.spotify.com/track/6kR5fz8sPIvHdtcMhOObaD"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-08-29T03:55:36.881Z",
-    "content": "PASSEPIED の「メーデー」を聴きました",
-    "url": "https://open.spotify.com/track/4HdV8FxgCM3QNYwpz2g4vY"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-08-26T22:38:13.725Z",
     "content": "今年の3月に\n・私の声を学習した音声モデル\n・私のXの投稿を学習した言語モデル\n・それを私のバーチャルツインとして対話までできるツール\nまで作っていたんだけれども…\n声はほぼ完璧、でも頭脳はポンコツ、なのに話しかけてから応答まで40秒かかって会話にはならない\nのが理由で公開せず途中で開発もやめてたんですが… 私の経験値も上がって今ならもう少し良さげなの作れそうかも、と思ってもう一回着手してる…\n（動画は3月時点でのモデル）",
@@ -94,17 +112,5 @@
     "timestamp": "2026-08-25T13:48:29.000Z",
     "content": "「Hajime Sorayama, Sony Corporation, Tokyo. Aibo entertainment robot (ERS-110). 1999 | MoMA」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813523542/"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-08-24T21:06:06.125Z",
-    "content": "なんか取り合えず自分で思いつく限りのアイデアを出しまくって、全部できるか試しまくってとりあえずどうにかまとめて、を繰り返して独りよがりになった挙句、人に見せてアイデアの出涸らしみたいなのをこうむりまくると、自分の外にあるアイデアってなんて素敵なんだ…！って感動しながら実装作業に向かえるのでこのやり方かなり私に合っている（と思っている）  もっとも、アイデアを出しまくる自家中毒の最大化のために情報収集はメチャクチャする！っていうのがツラくないのもそういう性分で良かったと思わせられる。。",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mtu7he4e7222"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-08-24T20:58:05.727Z",
-    "content": "dosei.muraseryosuke.info\nもともとは各所に点在するアカウントを一つのタイムラインにまとめたくて、「フェディバースの未来ってこーいうことじゃなくね？」と思い、「首相動静」になぞらえて作り始めたけれども、次第に備忘録的に持ってるアカウントを追加しまくって連携した結果、アカウントまとめ系サービスのリットリンクやリンクツリーとかが異形で使いにくいことに「これがデファクトスタンダードになる世界ってキビシー？」と落胆して、「やりたいことは全部やる、余計なことはしない」の精神でかなりいい感じにまとめれてきたと思う（使いやすいとは言っていない）",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mtu6yznhh222"
   }
 ]
