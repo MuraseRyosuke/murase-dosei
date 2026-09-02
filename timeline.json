@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-02T07:56:14.160Z",
+    "content": "tofubeats の「YOU MAKE ME ACID」を聴きました",
+    "url": "https://open.spotify.com/track/3YMvcRZhRnDeVQ4ehYAjzk"
+  },
+  {
+    "platform": "Steam",
+    "timestamp": "2026-09-02T07:55:43.000Z",
+    "content": "gogh: Focus with Your Avatar をプレイしました",
+    "url": "https://store.steampowered.com/app/3213850/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-02T07:52:30.722Z",
+    "content": "tofubeats の「I Believe In You」を聴きました",
+    "url": "https://open.spotify.com/track/4QP5iJknFTMlNwIG4AjpGg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-02T07:41:06.732Z",
+    "content": "I Am Robot And Proud の「Ginkgo」を聴きました",
+    "url": "https://open.spotify.com/track/5Db7kJyIw5ptpEQS7hwGsV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-02T07:37:27.205Z",
+    "content": "I Am Robot And Proud の「A Small House」を聴きました",
+    "url": "https://open.spotify.com/track/1HgLoECtZnibpjvEYej5XL"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-02T02:57:20.046Z",
     "content": "Aoi Teshima の「明日への手紙(ドラマバージョン)」を聴きました",
     "url": "https://open.spotify.com/track/4yoAgJUhCJzY4MGtlLRwwm"
@@ -34,36 +64,6 @@
     "timestamp": "2026-09-01T18:57:09.719Z",
     "content": "I Am Robot And Proud の「Magic Numbers」を聴きました",
     "url": "https://open.spotify.com/track/4twUE5YEzo1Zpg0epuLOZh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-01T18:52:37.653Z",
-    "content": "I Am Robot And Proud の「Mountain」を聴きました",
-    "url": "https://open.spotify.com/track/37q42GtSgu79agMnOMNkav"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-01T15:33:28.056Z",
-    "content": "I Am Robot And Proud の「Mountain」を聴きました",
-    "url": "https://open.spotify.com/track/37q42GtSgu79agMnOMNkav"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-01T13:48:03.023Z",
-    "content": "I Am Robot And Proud の「Hujan」を聴きました",
-    "url": "https://open.spotify.com/track/3ZNukN8r4xwSQRluEuJRM9"
-  },
-  {
-    "platform": "Steam",
-    "timestamp": "2026-09-01T13:44:19.000Z",
-    "content": "gogh: Focus with Your Avatar をプレイしました",
-    "url": "https://store.steampowered.com/app/3213850/"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-01T13:43:37.649Z",
-    "content": "I Am Robot And Proud の「Pecah Tracks」を聴きました",
-    "url": "https://open.spotify.com/track/2r3G6pwhrTT5mya96Us68u"
   },
   {
     "platform": "Bluesky",
