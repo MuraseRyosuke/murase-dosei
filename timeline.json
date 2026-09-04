@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-04T21:51:03.662Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
+  },
+  {
+    "platform": "Steam",
+    "timestamp": "2026-09-04T21:49:19.000Z",
+    "content": "gogh: Focus with Your Avatar をプレイしました",
+    "url": "https://store.steampowered.com/app/3213850/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-04T18:45:22.806Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-04T13:10:32.656Z",
     "content": "Billy Joel の「Uptown Girl」を聴きました",
     "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
@@ -36,12 +54,6 @@
     "url": "https://jp.pinterest.com/pin/449726712813582746/"
   },
   {
-    "platform": "Steam",
-    "timestamp": "2026-09-02T13:06:25.000Z",
-    "content": "gogh: Focus with Your Avatar をプレイしました",
-    "url": "https://store.steampowered.com/app/3213850/"
-  },
-  {
     "platform": "Spotify",
     "timestamp": "2026-09-02T12:14:29.927Z",
     "content": "DE DE MOUSE の「farther shore」を聴きました",
@@ -64,18 +76,6 @@
     "timestamp": "2026-09-02T11:50:05.108Z",
     "content": "DE DE MOUSE の「old friend's song」を聴きました",
     "url": "https://open.spotify.com/track/5WSHoj06glSxNDFtT1lElo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-02T11:44:53.112Z",
-    "content": "nite pianos の「winter humming」を聴きました",
-    "url": "https://open.spotify.com/track/5PaYUsmo9CGNboFF5HxBve"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-02T11:42:07.920Z",
-    "content": "nite pianos の「Doze Jam」を聴きました",
-    "url": "https://open.spotify.com/track/6Qz0tRAbekKtPfrLGZlq7C"
   },
   {
     "platform": "Bluesky",
