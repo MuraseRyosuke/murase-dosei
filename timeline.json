@@ -1,5 +1,23 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-09-04T13:10:32.656Z",
+    "content": "Billy Joel の「Uptown Girl」を聴きました",
+    "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-04T11:56:47.351Z",
+    "content": "Maaya Sakamoto の「Be mine!」を聴きました",
+    "url": "https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-04T11:52:26.363Z",
+    "content": "Ayana Taketatsu の「プラチナ - from CrosSing」を聴きました",
+    "url": "https://open.spotify.com/track/6ggujqNs8pmIIpcWNqKIVz"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2026-09-04T11:00:54Z",
     "content": "obsoletesony/PSPMAN-Issues をStarしました",
@@ -58,24 +76,6 @@
     "timestamp": "2026-09-02T11:42:07.920Z",
     "content": "nite pianos の「Doze Jam」を聴きました",
     "url": "https://open.spotify.com/track/6Qz0tRAbekKtPfrLGZlq7C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-02T11:39:21.263Z",
-    "content": "nite pianos の「walk on snow」を聴きました",
-    "url": "https://open.spotify.com/track/47NgDk7oNQCNnpCG24fzct"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-02T11:36:21.981Z",
-    "content": "nite pianos の「Citrus Moon」を聴きました",
-    "url": "https://open.spotify.com/track/0ZoodAshhV5C0UzdaRVwY9"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-02T11:33:48.493Z",
-    "content": "nite pianos の「Really Love?」を聴きました",
-    "url": "https://open.spotify.com/track/0N9bz3h12w1u0LprqZ7cQB"
   },
   {
     "platform": "Bluesky",
