@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-06T03:08:59.461Z",
+    "content": "Sayonara Ponytail の「センチメンタル」を聴きました",
+    "url": "https://open.spotify.com/track/3PFrLZixpIFF3mkGqQ2eCc"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-06T03:00:06.625Z",
+    "content": "DE DE MOUSE の「flicks tonight」を聴きました",
+    "url": "https://open.spotify.com/track/067c8VTZUITWxzVgdm8lLw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-05T13:55:28.033Z",
     "content": "DE DE MOUSE の「flicks tonight」を聴きました",
     "url": "https://open.spotify.com/track/067c8VTZUITWxzVgdm8lLw"
@@ -49,6 +61,12 @@
   },
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-05T06:39:47.591Z",
+    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
+    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-04T21:51:03.662Z",
     "content": "DE DE MOUSE の「my favorite swing」を聴きました",
     "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
@@ -58,24 +76,6 @@
     "timestamp": "2026-09-04T18:45:22.806Z",
     "content": "DE DE MOUSE の「my favorite swing」を聴きました",
     "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-04T13:10:32.656Z",
-    "content": "Billy Joel の「Uptown Girl」を聴きました",
-    "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-04T11:56:47.351Z",
-    "content": "Maaya Sakamoto の「Be mine!」を聴きました",
-    "url": "https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-04T11:52:26.363Z",
-    "content": "Ayana Taketatsu の「プラチナ - from CrosSing」を聴きました",
-    "url": "https://open.spotify.com/track/6ggujqNs8pmIIpcWNqKIVz"
   },
   {
     "platform": "GitHub",
