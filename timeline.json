@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-12T19:42:34.648Z",
+    "content": "MEG の「PRECIOUS」を聴きました",
+    "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-12T19:39:45.237Z",
+    "content": "MEG の「PRECIOUS」を聴きました",
+    "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-12T17:23:54.039Z",
     "content": "NONA REEVES の「ニュー･ソウル」を聴きました",
     "url": "https://open.spotify.com/track/4pAOl5BaaLs6Kp4OtMWBqV"
@@ -46,18 +58,6 @@
     "timestamp": "2026-09-12T16:48:12.626Z",
     "content": "SAKEROCK の「インストバンドの唄」を聴きました",
     "url": "https://open.spotify.com/track/2aMdiMLU3HZjLjXFtZ7dYw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-12T16:45:55.907Z",
-    "content": "Ryuichi Sakamoto の「opus」を聴きました",
-    "url": "https://open.spotify.com/track/4AAvfkdjARMN46NgXk8kGi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-12T16:41:29.452Z",
-    "content": "METAFIVE の「Full Metallisch」を聴きました",
-    "url": "https://open.spotify.com/track/1O9sbyuy4n2BsqNGC9mixT"
   },
   {
     "platform": "Bluesky",
