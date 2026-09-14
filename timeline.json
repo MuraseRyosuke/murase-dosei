@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-14T03:33:54.573Z",
+    "content": "Perfume の「スパイス」を聴きました",
+    "url": "https://open.spotify.com/track/5u0A75i6Es4rGK3E0rFOIk"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-14T03:10:01.881Z",
+    "content": "Perfume の「心のスポーツ」を聴きました",
+    "url": "https://open.spotify.com/track/1HZAp5zg0KKqoGsx910aE8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-14T01:23:09.346Z",
+    "content": "FPM の「Reaching for the Stars」を聴きました",
+    "url": "https://open.spotify.com/track/0H9oIb6VrOQ1zFnrqIhmXB"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-13T15:55:26.440Z",
     "content": "COLTEMONIKHA の「嘘つきジングルベル」を聴きました",
     "url": "https://open.spotify.com/track/6umelAvWVCHCETcLCyVAZJ"
@@ -40,24 +58,6 @@
     "timestamp": "2026-09-13T09:39:04.037Z",
     "content": "CHEMISTRY の「My Gift to You」を聴きました",
     "url": "https://open.spotify.com/track/1rFXSMK09oNtrkdM92pk3F"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-13T09:29:42.788Z",
-    "content": "CHEMISTRY の「MOVE ON」を聴きました",
-    "url": "https://open.spotify.com/track/16NORwnt9QYrHrin4TAJeJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-13T09:24:57.916Z",
-    "content": "CHEMISTRY の「SOLID DREAM」を聴きました",
-    "url": "https://open.spotify.com/track/3Vnczk9C4QPumQFTgM2SDG"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-12T19:42:34.648Z",
-    "content": "MEG の「PRECIOUS」を聴きました",
-    "url": "https://open.spotify.com/track/2iM9CFs57XZIQPLGiFSG3v"
   },
   {
     "platform": "Bluesky",
