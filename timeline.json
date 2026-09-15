@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-15T12:08:15.141Z",
+    "content": "Fujii Kaze の「Casket Girl」を聴きました",
+    "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-14T19:43:11.298Z",
     "content": "Ken Hirai の「fake star」を聴きました",
     "url": "https://open.spotify.com/track/1RKvKhGZ9UcMS1uP3zeQmi"
@@ -52,12 +58,6 @@
     "timestamp": "2026-09-14T19:02:44.754Z",
     "content": "Ken Hirai の「LIFE is... 〜another story〜」を聴きました",
     "url": "https://open.spotify.com/track/1aQOEvN0uxSkB1eSeXgWjg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-14T18:58:26.556Z",
-    "content": "Ken Hirai の「Ring」を聴きました",
-    "url": "https://open.spotify.com/track/11QAIhX2kowBg340UGHK9W"
   },
   {
     "platform": "Bluesky",
