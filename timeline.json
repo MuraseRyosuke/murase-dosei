@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-18T20:24:28.448Z",
+    "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
+    "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-18T20:16:18.184Z",
+    "content": "Ken Hirai の「Ring」を聴きました",
+    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-18T03:36:53.875Z",
     "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
     "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
@@ -46,17 +58,5 @@
     "timestamp": "2026-09-17T14:44:49.827Z",
     "content": "Fujii Kaze の「Prema」を聴きました",
     "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T14:40:26.963Z",
-    "content": "Fujii Kaze の「Love Like This」を聴きました",
-    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T14:36:06.194Z",
-    "content": "Fujii Kaze の「Hachikō」を聴きました",
-    "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
   }
 ]
