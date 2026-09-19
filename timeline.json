@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-19T04:32:47.636Z",
+    "content": "KIRINJI の「Drifter - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2ZWZSHeia0Hjc7jWyk2Yar"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-19T03:43:37.964Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-19T03:38:13.779Z",
+    "content": "Fujii Kaze の「Love Like This」を聴きました",
+    "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-18T20:24:28.448Z",
     "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
     "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
@@ -40,23 +58,5 @@
     "timestamp": "2026-09-17T14:58:21.970Z",
     "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
     "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T14:54:31.077Z",
-    "content": "Fujii Kaze の「You」を聴きました",
-    "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T14:49:49.294Z",
-    "content": "Fujii Kaze の「It Ain't Over」を聴きました",
-    "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T14:44:49.827Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
   }
 ]
