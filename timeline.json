@@ -1,9 +1,39 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-19T15:03:19.992Z",
+    "content": "PASSEPIED の「裏の裏」を聴きました",
+    "url": "https://open.spotify.com/track/51OleFgB6zt2PPsQDzDMgy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-19T14:57:58.005Z",
+    "content": "Elmiene の「Comets + Gold」を聴きました",
+    "url": "https://open.spotify.com/track/0B7Sg2XSwetHAQGtfPBkwI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-19T14:57:58.005Z",
+    "content": "Elmiene の「Comets + Gold」を聴きました",
+    "url": "https://open.spotify.com/track/0B7Sg2XSwetHAQGtfPBkwI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-19T14:54:25.661Z",
+    "content": "Kana Nishino の「Summer Girl」を聴きました",
+    "url": "https://open.spotify.com/track/05iMFeqPgD72UyLJYEdf9b"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-19T04:32:47.636Z",
     "content": "KIRINJI の「Drifter - 2018 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/2ZWZSHeia0Hjc7jWyk2Yar"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-19T03:45:12.269Z",
+    "content": "Kenshi Yonezu の「IRIS OUT」を聴きました",
+    "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
   },
   {
     "platform": "Spotify",
@@ -28,35 +58,5 @@
     "timestamp": "2026-09-18T20:16:18.184Z",
     "content": "Ken Hirai の「Ring」を聴きました",
     "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-18T03:36:53.875Z",
-    "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
-    "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T15:15:16.082Z",
-    "content": "DE DE MOUSE の「new town romancer」を聴きました",
-    "url": "https://open.spotify.com/track/7ae5VPwHosJeO5tZjJDpvt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T15:10:03.497Z",
-    "content": "DE DE MOUSE の「my favorite swing」を聴きました",
-    "url": "https://open.spotify.com/track/0RQNobEInSRsTwpjrgcGcH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T15:04:15.644Z",
-    "content": "Fujii Kaze の「Forever Young」を聴きました",
-    "url": "https://open.spotify.com/track/3K0Xr4N0ccBKqBBHDARIFy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-17T14:58:21.970Z",
-    "content": "Fujii Kaze の「Okay, Goodbye」を聴きました",
-    "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
   }
 ]
