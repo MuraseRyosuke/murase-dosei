@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-20T06:42:59.452Z",
+    "content": "RIDGE RACER Series の「EAT'EM UP!」を聴きました",
+    "url": "https://open.spotify.com/track/3SZrrGaUcaV21RXrgSCBhZ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-20T00:25:04.275Z",
     "content": "DE DE MOUSE の「blue & green waves」を聴きました",
     "url": "https://open.spotify.com/track/2nhBJNnZixZOh0DA8M0Kp6"
@@ -52,11 +58,5 @@
     "timestamp": "2026-09-19T03:38:13.779Z",
     "content": "Fujii Kaze の「Love Like This」を聴きました",
     "url": "https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-18T20:24:28.448Z",
-    "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
-    "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
   }
 ]
