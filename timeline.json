@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-20T00:25:04.275Z",
+    "content": "DE DE MOUSE の「blue & green waves」を聴きました",
+    "url": "https://open.spotify.com/track/2nhBJNnZixZOh0DA8M0Kp6"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-19T15:03:19.992Z",
     "content": "PASSEPIED の「裏の裏」を聴きました",
     "url": "https://open.spotify.com/track/51OleFgB6zt2PPsQDzDMgy"
@@ -52,11 +58,5 @@
     "timestamp": "2026-09-18T20:24:28.448Z",
     "content": "Ken Hirai の「思いがかさなるその前に･･･」を聴きました",
     "url": "https://open.spotify.com/track/6yBcCp7vedOKwdBFsqDCBS"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-18T20:16:18.184Z",
-    "content": "Ken Hirai の「Ring」を聴きました",
-    "url": "https://open.spotify.com/track/1K1NOzaBzujhtuPHccGj8E"
   }
 ]
