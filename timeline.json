@@ -1,9 +1,21 @@
 [
   {
     "platform": "Steam",
-    "timestamp": "2026-09-21T18:19:05.000Z",
+    "timestamp": "2026-09-21T22:19:11.000Z",
     "content": "gogh: Focus with Your Avatar をプレイしました",
     "url": "https://store.steampowered.com/app/3213850/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-21T19:52:24.970Z",
+    "content": "DREAMS COME TRUE の「うれしい！たのしい！大好き！」を聴きました",
+    "url": "https://open.spotify.com/track/7tqltihMt6Z2DAFAi6eNzH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-21T19:48:17.258Z",
+    "content": "CHAGE and ASKA の「YAH YAH YAH」を聴きました",
+    "url": "https://open.spotify.com/track/1xPJyWU404xqHVnvNhvVZ6"
   },
   {
     "platform": "Spotify",
@@ -52,17 +64,5 @@
     "timestamp": "2026-09-21T08:32:59.854Z",
     "content": "Mrs. GREEN APPLE の「Brand New」を聴きました",
     "url": "https://open.spotify.com/track/3Z8NMM7IRu4YKDHBo6vmX3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-21T08:25:52.308Z",
-    "content": "Fujii Kaze の「Prema」を聴きました",
-    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-21T08:19:14.151Z",
-    "content": "Daichi Miura の「オリジナルフェイク」を聴きました",
-    "url": "https://open.spotify.com/track/3cror3VwhO8pcFE5D5rEbw"
   }
 ]
