@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-09-22T12:01:53.110Z",
+    "content": "Hearts2Hearts の「Moonride」を聴きました",
+    "url": "https://open.spotify.com/track/6gH4qu0Ph5w9XHKIQdrYd7"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-22T12:01:16.558Z",
+    "content": "ChumToto の「チャムタイム・newサマー!!」を聴きました",
+    "url": "https://open.spotify.com/track/5TbDv4Jrels9RzErxnF0b9"
+  },
+  {
     "platform": "Steam",
     "timestamp": "2026-09-22T06:00:44.000Z",
     "content": "gogh: Focus with Your Avatar をプレイしました",
@@ -52,17 +64,5 @@
     "timestamp": "2026-09-21T08:45:17.868Z",
     "content": "Squarepusher の「My Red Hot Car」を聴きました",
     "url": "https://open.spotify.com/track/14gKf3BQqT78Bec1E6h2lB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-21T08:39:42.161Z",
-    "content": "DE DE MOUSE の「double moon song」を聴きました",
-    "url": "https://open.spotify.com/track/4EcpYch41WwQHTHrySdhPP"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-21T08:32:59.854Z",
-    "content": "Mrs. GREEN APPLE の「Brand New」を聴きました",
-    "url": "https://open.spotify.com/track/3Z8NMM7IRu4YKDHBo6vmX3"
   }
 ]
