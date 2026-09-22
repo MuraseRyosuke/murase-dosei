@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Steam",
+    "timestamp": "2026-09-22T16:57:41.000Z",
+    "content": "gogh: Focus with Your Avatar をプレイしました",
+    "url": "https://store.steampowered.com/app/3213850/"
+  },
+  {
     "platform": "Spotify",
     "timestamp": "2026-09-22T12:01:53.110Z",
     "content": "Hearts2Hearts の「Moonride」を聴きました",
@@ -10,12 +16,6 @@
     "timestamp": "2026-09-22T12:01:16.558Z",
     "content": "ChumToto の「チャムタイム・newサマー!!」を聴きました",
     "url": "https://open.spotify.com/track/5TbDv4Jrels9RzErxnF0b9"
-  },
-  {
-    "platform": "Steam",
-    "timestamp": "2026-09-22T06:00:44.000Z",
-    "content": "gogh: Focus with Your Avatar をプレイしました",
-    "url": "https://store.steampowered.com/app/3213850/"
   },
   {
     "platform": "Spotify",
