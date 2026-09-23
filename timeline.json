@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Pinterest",
+    "timestamp": "2026-09-23T18:38:40.000Z",
+    "content": "「LOUIS GARNEAU / ルイガノ製品紹介 / LGS-CHASSE」をピンしました",
+    "url": "https://jp.pinterest.com/pin/449726712813732945/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T17:50:52.082Z",
+    "content": "Mrs. GREEN APPLE の「ケセラセラ」を聴きました",
+    "url": "https://open.spotify.com/track/0vva7HiiEBw9X4V8MKL77R"
+  },
+  {
     "platform": "Spotify",
     "timestamp": "2026-09-23T17:46:19.027Z",
     "content": "Mrs. GREEN APPLE の「ダンスホール」を聴きました",
@@ -52,12 +64,6 @@
     "timestamp": "2026-09-23T15:08:03.976Z",
     "content": "Hikaru Utada の「BADモード」を聴きました",
     "url": "https://open.spotify.com/track/5Y8sDqcJuWmtKPeEBcLYhy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-23T15:02:59.231Z",
-    "content": "Hikaru Utada の「Automatic - 2024 Mix」を聴きました",
-    "url": "https://open.spotify.com/track/2yRLKdb8wx5IrF1ky1d9Ef"
   },
   {
     "platform": "Bluesky",
