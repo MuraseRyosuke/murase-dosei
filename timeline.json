@@ -1,12 +1,60 @@
 [
   {
     "platform": "Steam",
-    "timestamp": "2026-09-23T01:22:13.000Z",
+    "timestamp": "2026-09-23T07:22:19.000Z",
     "content": "gogh: Focus with Your Avatar をプレイしました",
     "url": "https://store.steampowered.com/app/3213850/"
   },
   {
     "platform": "Spotify",
+    "timestamp": "2026-09-23T02:33:21.471Z",
+    "content": "sakanaction の「夜の東側」を聴きました",
+    "url": "https://open.spotify.com/track/1qdynBefZqeHBn23TIB0FB"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:29:12.206Z",
+    "content": "sakanaction の「白波トップウォーター」を聴きました",
+    "url": "https://open.spotify.com/track/3DolnEGTujymXDg7WaiNZi"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:23:43.254Z",
+    "content": "sakanaction の「開花」を聴きました",
+    "url": "https://open.spotify.com/track/3UPELibYjydTgTbOWG0VV2"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:20:14.331Z",
+    "content": "sakanaction の「フクロウ」を聴きました",
+    "url": "https://open.spotify.com/track/5bXiTAa0JR62n7V3jgHZXh"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:14:44.021Z",
+    "content": "sakanaction の「GO TO THE FUTURE」を聴きました",
+    "url": "https://open.spotify.com/track/665aeOD6Lzdy0mNhMSHB8v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:10:08.130Z",
+    "content": "sakanaction の「あめふら」を聴きました",
+    "url": "https://open.spotify.com/track/3Ckzbl1yZmNpj7a5y9Exgf"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:06:51.087Z",
+    "content": "sakanaction の「インナーワールド」を聴きました",
+    "url": "https://open.spotify.com/track/1yhkzX8E9chs4YBnEfmGYy"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-23T02:02:25.310Z",
+    "content": "sakanaction の「三日月サンセット」を聴きました",
+    "url": "https://open.spotify.com/track/0XRu9GGSPbgSrZL6yFp2NS"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-23T01:06:20.841Z",
     "content": "Mika Nakashima の「見えない星」を聴きました",
     "url": "https://open.spotify.com/track/6kdjuUahNCOF300PxuDgtC"
@@ -16,53 +64,5 @@
     "timestamp": "2026-09-23T01:06:20.841Z",
     "content": "FRUITS ZIPPER の「わたしの一番かわいいところ」を聴きました",
     "url": "https://open.spotify.com/track/2FbYwomACopWlGadzkNUGa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-23T01:06:20.841Z",
-    "content": "Mika Nakashima の「見えない星」を聴きました",
-    "url": "https://open.spotify.com/track/6kdjuUahNCOF300PxuDgtC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-23T01:06:20.841Z",
-    "content": "FRUITS ZIPPER の「わたしの一番かわいいところ」を聴きました",
-    "url": "https://open.spotify.com/track/2FbYwomACopWlGadzkNUGa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-23T00:54:49.258Z",
-    "content": "Misato Watanabe の「My Revolution」を聴きました",
-    "url": "https://open.spotify.com/track/0OWgeWt4Vy4niKdHbMKS3x"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-22T23:11:42.288Z",
-    "content": "Kome Kome Club の「浪漫飛行」を聴きました",
-    "url": "https://open.spotify.com/track/4lPEdvGVptFXUMk8DKMLnF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-22T23:07:34.992Z",
-    "content": "S. Kiyotaka & Omega Tribe の「ふたりの夏物語-NEVER ENDING SUMMER-」を聴きました",
-    "url": "https://open.spotify.com/track/0Wh8hyqkvxEwB8TWVKBVnE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-22T23:03:33.100Z",
-    "content": "Aoi Teshima の「明日への手紙」を聴きました",
-    "url": "https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-22T22:58:40.699Z",
-    "content": "Takashi Fujii の「Chocolate」を聴きました",
-    "url": "https://open.spotify.com/track/7KxcW83yagfWva1E8yy9Se"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-22T22:53:21.404Z",
-    "content": "YUKI の「漂流教室」を聴きました",
-    "url": "https://open.spotify.com/track/4VwygoMlT2RH4dZfdsntXZ"
   }
 ]
