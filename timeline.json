@@ -1,6 +1,30 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-01T09:02:05.787Z",
+    "content": "ZABADAK の「二月の丘 - 2012 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1JUgxMj65pzrLRXWv9o8Xu"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-10-01T08:58:36Z",
+    "content": "google/mozc-devices をStarしました",
+    "url": "https://github.com/google/mozc-devices"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-01T08:57:10.984Z",
+    "content": "ZABADAK の「遠い音楽 - 2012 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/4t7L6y5KYWMva4pij0tyCA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-01T08:48:05.674Z",
+    "content": "ILLIT の「It's Me」を聴きました",
+    "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-01T02:15:31.368Z",
     "content": "Supercar の「Strobolights」を聴きました",
     "url": "https://open.spotify.com/track/3Bnxgul7LY51NY3GmntmyX"
@@ -48,24 +72,6 @@
     "url": "https://open.spotify.com/track/2efYemx7YXSW12ibDRFuY5"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T14:47:35.644Z",
-    "content": "LAUSBUB の「static crosswalk」を聴きました",
-    "url": "https://open.spotify.com/track/0xDkEiqu5jHYUweVuti2Op"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T14:43:35.060Z",
-    "content": "LAUSBUB の「sign」を聴きました",
-    "url": "https://open.spotify.com/track/44VDgB80alh82sMndFvF4x"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T14:39:16.251Z",
-    "content": "LAUSBUB の「higher」を聴きました",
-    "url": "https://open.spotify.com/track/3uFHLanYunXetW8wtrLb6q"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-09-30T12:14:10.884Z",
     "content": "ここをサテライトオフィスとする",
@@ -100,17 +106,5 @@
     "timestamp": "2026-09-27T13:33:37.276Z",
     "content": "Xのいいねしたポストにコミュニティノートがついた時の通知、確かに誤解を解消しにいく一手として悪くないと思う\n昨日これきて普通に言われるまで気づかなくて笑ってしまった",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwivzhcfys27"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-09-24T13:30:10.977Z",
-    "content": "そして本当に推している人はフォロワーが規定に満たずにここのデータベースにいなかったりする、それを把握できているのも大変危険の予兆！",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwbegoysks22"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-09-24T13:28:50.576Z",
-    "content": "「『この人はいいな』とフォロワーを見たらだいたいはトマドさんか村瀨さんがいる」というサラダ記念日みたいな感想を何度も言われてきている",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwbeect7n222"
   }
 ]
