@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-01T02:15:31.368Z",
+    "content": "Supercar の「Strobolights」を聴きました",
+    "url": "https://open.spotify.com/track/3Bnxgul7LY51NY3GmntmyX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-09-30T18:55:49.863Z",
+    "content": "Supercar の「YUMEGIWA LAST BOY」を聴きました",
+    "url": "https://open.spotify.com/track/5NnqtgN9MzZ7TI9Rrxi4tw"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-09-30T18:52:38.314Z",
     "content": "Supercar の「Strobolights」を聴きました",
     "url": "https://open.spotify.com/track/5olqeGSfGO5eFFfXmbbKgt"
@@ -52,18 +64,6 @@
     "timestamp": "2026-09-30T14:39:16.251Z",
     "content": "LAUSBUB の「higher」を聴きました",
     "url": "https://open.spotify.com/track/3uFHLanYunXetW8wtrLb6q"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T14:05:14.129Z",
-    "content": "Kaco の「mawata」を聴きました",
-    "url": "https://open.spotify.com/track/3FE664xHbwvUwZkDIG7t4H"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T12:56:50.650Z",
-    "content": "Mrs. GREEN APPLE の「ケセラセラ」を聴きました",
-    "url": "https://open.spotify.com/track/0vva7HiiEBw9X4V8MKL77R"
   },
   {
     "platform": "Bluesky",
