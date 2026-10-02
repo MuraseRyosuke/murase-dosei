@@ -1,15 +1,69 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T16:22:11.642Z",
+    "content": "Mrs. GREEN APPLE の「Brand New」を聴きました",
+    "url": "https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:49:31.682Z",
+    "content": "Perfume の「Time Warp - v1.1」を聴きました",
+    "url": "https://open.spotify.com/track/0I5iV8BHy19iNuGBE96x9w"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:46:38.472Z",
+    "content": "Perfume の「Plasma」を聴きました",
+    "url": "https://open.spotify.com/track/0yIE2un7AXpV5W09XpvX9r"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:43:51.388Z",
+    "content": "Perfume の「TOKIMEKI LIGHTS - Cosmic Explorer-mix」を聴きました",
+    "url": "https://open.spotify.com/track/4eRjW5H0wOg6JMMQFiAqop"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:38:45.837Z",
+    "content": "Perfume の「Sweet Refrain - Cosmic Explorer-mix」を聴きました",
+    "url": "https://open.spotify.com/track/5ituhxbMlxdhTPfQtsh48y"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:29:36.019Z",
+    "content": "Perfume の「Navigate」を聴きました",
+    "url": "https://open.spotify.com/track/5Lghu1F9BPJmwRq2cWochY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:25:02.469Z",
+    "content": "Perfume の「Spending all my time - Radio Mix」を聴きました",
+    "url": "https://open.spotify.com/track/0ogzq2O5VdFgZvEnDAL7mH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:22:00.302Z",
+    "content": "Perfume の「Dream Land」を聴きました",
+    "url": "https://open.spotify.com/track/7jAiYsV0CdQ0SZS4EBqkcT"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:16:42.661Z",
+    "content": "Perfume の「Spending all my time - Level3-mix」を聴きました",
+    "url": "https://open.spotify.com/track/1uO2IobhL7tA1R0qIAtZdR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-02T14:08:06.536Z",
+    "content": "Perfume の「Handy Man」を聴きました",
+    "url": "https://open.spotify.com/track/6pu2UKUSdCAib1u2zlfIA5"
+  },
+  {
     "platform": "Pinterest",
     "timestamp": "2026-10-01T17:20:05.000Z",
     "content": "「JR東日本コラボ 北陸新幹線 E7系 ポケットコイルシート 高座椅子 普通席デザイン 座椅子 リクライニング 肘付き 調節可能 チェア 高座いす:エムール公式通販サイト JRE MALL店通販｜JRE MALLショッピング｜JRE POINTもおトクに貯まる・使える」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813786565/"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-01T09:02:05.787Z",
-    "content": "ZABADAK の「二月の丘 - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1JUgxMj65pzrLRXWv9o8Xu"
   },
   {
     "platform": "GitHub",
@@ -18,64 +72,10 @@
     "url": "https://github.com/google/mozc-devices"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-01T08:57:10.984Z",
-    "content": "ZABADAK の「遠い音楽 - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4t7L6y5KYWMva4pij0tyCA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-01T08:48:05.674Z",
-    "content": "ILLIT の「It's Me」を聴きました",
-    "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-01T02:15:31.368Z",
-    "content": "Supercar の「Strobolights」を聴きました",
-    "url": "https://open.spotify.com/track/3Bnxgul7LY51NY3GmntmyX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T18:55:49.863Z",
-    "content": "Supercar の「YUMEGIWA LAST BOY」を聴きました",
-    "url": "https://open.spotify.com/track/5NnqtgN9MzZ7TI9Rrxi4tw"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T18:52:38.314Z",
-    "content": "Supercar の「Strobolights」を聴きました",
-    "url": "https://open.spotify.com/track/5olqeGSfGO5eFFfXmbbKgt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T16:42:09.657Z",
-    "content": "ZABADAK の「遠い音楽 - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/4t7L6y5KYWMva4pij0tyCA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T16:37:26.779Z",
-    "content": "ZABADAK の「夢を見る方法 - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/7quweq33cG3V8hudNepZQZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T16:32:58.284Z",
-    "content": "ZABADAK の「満ち潮の夜 - 2012 Remaster」を聴きました",
-    "url": "https://open.spotify.com/track/1anHcL2cDZVH0OFJoSrdzK"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-09-30T15:37:34.582Z",
     "content": "フレーム補間って本当に時と場合を選ぶと最近思う、映画館行って本当あるべき形を感じた、トム・クルーズごめんね",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwqodyts6s2v"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-09-30T14:55:20.184Z",
-    "content": "LAUSBUB の「golden lighter」を聴きました",
-    "url": "https://open.spotify.com/track/2efYemx7YXSW12ibDRFuY5"
   },
   {
     "platform": "Bluesky",
