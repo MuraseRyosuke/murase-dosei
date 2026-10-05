@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-05T19:22:10.492Z",
+    "content": "Mrs. GREEN APPLE の「Brand New」を聴きました",
+    "url": "https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-04T03:08:55.063Z",
     "content": "CAPSULE の「twinkle twinkle poppp! - 2021 Remaster」を聴きました",
     "url": "https://open.spotify.com/track/1z7T9NpjBsMHsi94N62n8h"
@@ -60,12 +66,6 @@
     "url": "https://open.spotify.com/track/4eRjW5H0wOg6JMMQFiAqop"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-02T14:38:45.837Z",
-    "content": "Perfume の「Sweet Refrain - Cosmic Explorer-mix」を聴きました",
-    "url": "https://open.spotify.com/track/5ituhxbMlxdhTPfQtsh48y"
-  },
-  {
     "platform": "Pinterest",
     "timestamp": "2026-10-01T17:20:05.000Z",
     "content": "「JR東日本コラボ 北陸新幹線 E7系 ポケットコイルシート 高座椅子 普通席デザイン 座椅子 リクライニング 肘付き 調節可能 チェア 高座いす:エムール公式通販サイト JRE MALL店通販｜JRE MALLショッピング｜JRE POINTもおトクに貯まる・使える」をピンしました",
@@ -100,11 +100,5 @@
     "timestamp": "2026-09-29T18:22:42.482Z",
     "content": "最近特定の友人との会話、全世界の企業がゼンショーホールディングスに買収された世界線で喋っていて（ロッテリアがゼッテリアになったように、名前の全てを『ゼ』で始めている）、話が広がるにつれ、「GAFAMのようなビッグテックはいずれZZZZZになり、約500年後の『日本人全員佐藤さんになる問題』と同じことが起こる」、「辞書の索引もいずれ『ゼ』『Z』から始まる単語しか存在しない『まーごめ』のような世界線になる」ところまで飛躍しきったところで、今日、「ドン・キホーテがトイザらスを買収」のニュースが送られてきて、「ドイザらスになるんだ」という会話になり全てを見失っている",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwoh4ecdnc2h"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-09-28T20:10:13.691Z",
-    "content": "なんか田舎人（いなかんちゅ）の私が抱く東京の形骸化したイメージってこういうものなんだよな、、逆にこういうものがあれば地元も都会に錯覚するのにな、、って思う（もはやこれも世代前なんだが）\nyoutu.be/5SuYc-gGP7M?...",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwm4nnl74c2d"
   }
 ]
