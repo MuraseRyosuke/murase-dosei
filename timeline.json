@@ -1,63 +1,69 @@
 [
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:44:32.572Z",
-    "content": "CUTIE STREET の「キュートなキューたい」を聴きました",
-    "url": "https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF"
+    "timestamp": "2026-10-07T19:31:37.922Z",
+    "content": "DIALOGUE+ の「ユートピア学概論 - TV Size Ver.」を聴きました",
+    "url": "https://open.spotify.com/track/3JkUHC3vzSGf8t9jFLFvlT"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:38:49.404Z",
-    "content": "CUTIE STREET の「キュートなキューたい」を聴きました",
-    "url": "https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF"
+    "timestamp": "2026-10-07T19:30:04.934Z",
+    "content": "DIALOGUE+ の「ユートピア学概論」を聴きました",
+    "url": "https://open.spotify.com/track/6bo2Lr6KPodGwroJnYqwGg"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:33:03.461Z",
-    "content": "RIP SLYME の「どON」を聴きました",
-    "url": "https://open.spotify.com/track/5L50tz0Ioix7MDaOZJkfJO"
+    "timestamp": "2026-10-07T19:24:31.917Z",
+    "content": "Hearts2Hearts の「Blue Moon」を聴きました",
+    "url": "https://open.spotify.com/track/1xsr1QsBX1FRygYrcCMYXT"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:27:41.955Z",
-    "content": "King Gnu の「一途」を聴きました",
-    "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    "timestamp": "2026-10-07T19:21:33.931Z",
+    "content": "Hearts2Hearts の「Flutter」を聴きました",
+    "url": "https://open.spotify.com/track/1lP4paUU6RuyAmK06jLT4K"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:26:51.686Z",
-    "content": "King Gnu の「白日」を聴きました",
-    "url": "https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r"
+    "timestamp": "2026-10-07T19:18:28.176Z",
+    "content": "Hearts2Hearts の「Pretty Please」を聴きました",
+    "url": "https://open.spotify.com/track/6a5ldLz6vKhUKHvQp1HxiN"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:16:48.262Z",
-    "content": "Perfume の「さよならプラスティックワールド」を聴きました",
-    "url": "https://open.spotify.com/track/2OjtbGJKdCapBD6oc9vWKL"
+    "timestamp": "2026-10-07T19:15:03.334Z",
+    "content": "Hearts2Hearts の「Apple Pie」を聴きました",
+    "url": "https://open.spotify.com/track/0jnelJPBaLQcN5IearNmdi"
+  },
+  {
+    "platform": "Steam",
+    "timestamp": "2026-10-07T19:13:53.000Z",
+    "content": "gogh: Focus with Your Avatar をプレイしました",
+    "url": "https://store.steampowered.com/app/3213850/"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:12:51.344Z",
-    "content": "Perfume の「不自然なガール」を聴きました",
-    "url": "https://open.spotify.com/track/6IQauxT9txAnK87lVZB3M9"
+    "timestamp": "2026-10-07T19:11:56.546Z",
+    "content": "Hearts2Hearts の「FOCUS」を聴きました",
+    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T12:08:51.492Z",
-    "content": "Perfume の「ワンルーム･ディスコ」を聴きました",
-    "url": "https://open.spotify.com/track/13dvtP5TlA7lSgrPv7XPBy"
+    "timestamp": "2026-10-07T19:08:44.032Z",
+    "content": "Hearts2Hearts の「RUDE!」を聴きました",
+    "url": "https://open.spotify.com/track/6VP8s3U84F7k62z8mdeFOA"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T11:49:54.371Z",
-    "content": "初星学園 の「Feel Jewel Dream」を聴きました",
-    "url": "https://open.spotify.com/track/354cRxdFNcY7tmjV1ddxUO"
+    "timestamp": "2026-10-07T19:05:23.510Z",
+    "content": "Hearts2Hearts の「Secret Recipe」を聴きました",
+    "url": "https://open.spotify.com/track/45Vg8GaO6Ti9NgOiEMavc8"
   },
   {
     "platform": "Spotify",
-    "timestamp": "2026-10-07T11:43:14.860Z",
-    "content": "Perfume の「不自然なガール」を聴きました",
-    "url": "https://open.spotify.com/track/6IQauxT9txAnK87lVZB3M9"
+    "timestamp": "2026-10-07T19:02:31.992Z",
+    "content": "Hearts2Hearts の「heart emoji (♡)」を聴きました",
+    "url": "https://open.spotify.com/track/3otCmBQliI9ao8l5JeBzPD"
   },
   {
     "platform": "GitHub",
@@ -82,11 +88,5 @@
     "timestamp": "2026-10-01T08:58:36Z",
     "content": "google/mozc-devices をStarしました",
     "url": "https://github.com/google/mozc-devices"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-09-30T15:37:34.582Z",
-    "content": "フレーム補間って本当に時と場合を選ぶと最近思う、映画館行って本当あるべき形を感じた、トム・クルーズごめんね",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mwqodyts6s2v"
   }
 ]
