@@ -25,6 +25,12 @@
   },
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-08T00:37:45.245Z",
+    "content": "Hearts2Hearts の「RUDE! - Japanese Ver.」を聴きました",
+    "url": "https://open.spotify.com/track/37wKuAl8JYzPaqVM1zmpz2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-08T00:27:25.577Z",
     "content": "Hearts2Hearts の「Lemon Tang - Japanese Ver.」を聴きました",
     "url": "https://open.spotify.com/track/7Duc0A2ye1eKwfCICOXYGT"
@@ -54,12 +60,6 @@
     "url": "https://open.spotify.com/track/01HEAJUeIwV0Pz17jghElM"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T22:56:15.136Z",
-    "content": "Remioromen の「スタンドバイミー」を聴きました",
-    "url": "https://open.spotify.com/track/3CALjriGbql40HiGdfLoWm"
-  },
-  {
     "platform": "Steam",
     "timestamp": "2026-10-07T19:13:53.000Z",
     "content": "gogh: Focus with Your Avatar をプレイしました",
@@ -82,11 +82,5 @@
     "timestamp": "2026-10-01T17:20:05.000Z",
     "content": "「JR東日本コラボ 北陸新幹線 E7系 ポケットコイルシート 高座椅子 普通席デザイン 座椅子 リクライニング 肘付き 調節可能 チェア 高座いす:エムール公式通販サイト JRE MALL店通販｜JRE MALLショッピング｜JRE POINTもおトクに貯まる・使える」をピンしました",
     "url": "https://jp.pinterest.com/pin/449726712813786565/"
-  },
-  {
-    "platform": "GitHub",
-    "timestamp": "2026-10-01T08:58:36Z",
-    "content": "google/mozc-devices をStarしました",
-    "url": "https://github.com/google/mozc-devices"
   }
 ]
