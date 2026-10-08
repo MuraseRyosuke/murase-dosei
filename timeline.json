@@ -1,6 +1,48 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-07T23:10:20.314Z",
+    "content": "Remioromen の「Sakura」を聴きました",
+    "url": "https://open.spotify.com/track/4dWTG1SZ8QYNPMU6rS63Pz"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-07T23:04:56.517Z",
+    "content": "Remioromen の「太陽の下」を聴きました",
+    "url": "https://open.spotify.com/track/01HEAJUeIwV0Pz17jghElM"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-07T22:56:15.136Z",
+    "content": "Remioromen の「スタンドバイミー」を聴きました",
+    "url": "https://open.spotify.com/track/3CALjriGbql40HiGdfLoWm"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-07T20:30:54.024Z",
+    "content": "ASIAN KUNG-FU GENERATION の「マーチングバンド」を聴きました",
+    "url": "https://open.spotify.com/track/3EIV6mDxT1XFYa5H1tCld9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-07T20:30:54.024Z",
+    "content": "Leo Imai の「Tokyo Lights2 (東京電燈其二)」を聴きました",
+    "url": "https://open.spotify.com/track/5DVxgfiVvzM2icMxMW8EbQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-07T20:27:57.510Z",
+    "content": "CAPSULE の「twinkle twinkle poppp! - 2021 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1z7T9NpjBsMHsi94N62n8h"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-07T20:23:01.261Z",
+    "content": "CAPSULE の「Player」を聴きました",
+    "url": "https://open.spotify.com/track/4d2oQppedfGWeokTrmPofi"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-07T19:31:37.922Z",
     "content": "DIALOGUE+ の「ユートピア学概論 - TV Size Ver.」を聴きました",
     "url": "https://open.spotify.com/track/3JkUHC3vzSGf8t9jFLFvlT"
@@ -18,52 +60,10 @@
     "url": "https://open.spotify.com/track/1xsr1QsBX1FRygYrcCMYXT"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:21:33.931Z",
-    "content": "Hearts2Hearts の「Flutter」を聴きました",
-    "url": "https://open.spotify.com/track/1lP4paUU6RuyAmK06jLT4K"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:18:28.176Z",
-    "content": "Hearts2Hearts の「Pretty Please」を聴きました",
-    "url": "https://open.spotify.com/track/6a5ldLz6vKhUKHvQp1HxiN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:15:03.334Z",
-    "content": "Hearts2Hearts の「Apple Pie」を聴きました",
-    "url": "https://open.spotify.com/track/0jnelJPBaLQcN5IearNmdi"
-  },
-  {
     "platform": "Steam",
     "timestamp": "2026-10-07T19:13:53.000Z",
     "content": "gogh: Focus with Your Avatar をプレイしました",
     "url": "https://store.steampowered.com/app/3213850/"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:11:56.546Z",
-    "content": "Hearts2Hearts の「FOCUS」を聴きました",
-    "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:08:44.032Z",
-    "content": "Hearts2Hearts の「RUDE!」を聴きました",
-    "url": "https://open.spotify.com/track/6VP8s3U84F7k62z8mdeFOA"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:05:23.510Z",
-    "content": "Hearts2Hearts の「Secret Recipe」を聴きました",
-    "url": "https://open.spotify.com/track/45Vg8GaO6Ti9NgOiEMavc8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-07T19:02:31.992Z",
-    "content": "Hearts2Hearts の「heart emoji (♡)」を聴きました",
-    "url": "https://open.spotify.com/track/3otCmBQliI9ao8l5JeBzPD"
   },
   {
     "platform": "GitHub",
