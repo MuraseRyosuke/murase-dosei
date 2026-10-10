@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Pinterest",
+    "timestamp": "2026-10-10T02:38:39.000Z",
+    "content": "「GRAVITY SNOW / WHITE | ZIIIRO(ジーロ) 公式 オンラインストア」をピンしました",
+    "url": "https://jp.pinterest.com/pin/449726712813843263/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-09T23:59:13.417Z",
+    "content": "T-SQUARE の「ALL ABOUT YOU」を聴きました",
+    "url": "https://open.spotify.com/track/3hRu3zCApazg2Rw2hMQJ1k"
+  },
+  {
     "platform": "Spotify",
     "timestamp": "2026-10-09T22:27:56.807Z",
     "content": "RIDGE RACER Series の「THRU」を聴きました",
@@ -52,12 +64,6 @@
     "timestamp": "2026-10-09T04:08:07.003Z",
     "content": "RIDGE RACER Series の「ON YOUR WAY」を聴きました",
     "url": "https://open.spotify.com/track/2vPacXPotv3hQMnLzqulWn"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-09T04:06:10.176Z",
-    "content": "RIDGE RACER Series の「TURN THE PAGE」を聴きました",
-    "url": "https://open.spotify.com/track/6sssE3B3yDJYW9aqAWzW7e"
   },
   {
     "platform": "Bluesky",
