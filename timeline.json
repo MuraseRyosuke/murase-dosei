@@ -1,5 +1,29 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-10-12T08:33:23.275Z",
+    "content": "Mrs. GREEN APPLE の「Brand New」を聴きました",
+    "url": "https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-12T07:34:33.315Z",
+    "content": "Mrs. GREEN APPLE の「Brand New」を聴きました",
+    "url": "https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-12T06:15:50.860Z",
+    "content": "Fujii Kaze の「Prema」を聴きました",
+    "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-10T13:40:12.228Z",
+    "content": "Maison book girl の「river」を聴きました",
+    "url": "https://open.spotify.com/track/0f1F6RIkIadRXMciZMTsI9"
+  },
+  {
     "platform": "Pinterest",
     "timestamp": "2026-10-10T02:38:39.000Z",
     "content": "「GRAVITY SNOW / WHITE | ZIIIRO(ジーロ) 公式 オンラインストア」をピンしました",
@@ -40,30 +64,6 @@
     "timestamp": "2026-10-09T04:22:30.785Z",
     "content": "RIDGE RACER Series の「YOUR VIBE」を聴きました",
     "url": "https://open.spotify.com/track/718oKMfGZcAJ7DjaGYwxGJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-09T04:18:46.227Z",
-    "content": "RIDGE RACER Series の「NAKED GLOW」を聴きました",
-    "url": "https://open.spotify.com/track/2s0GLpibEgJob6Yu4tmWoy"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-09T04:15:10.604Z",
-    "content": "RIDGE RACER Series の「PEARL BLUE SOUL」を聴きました",
-    "url": "https://open.spotify.com/track/3kAJCnTZ2U5Qim8ce7pd0Y"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-09T04:11:40.415Z",
-    "content": "RIDGE RACER Series の「SPIRAL AHEAD」を聴きました",
-    "url": "https://open.spotify.com/track/5ZtrvH958jFqAwxfFyZn5z"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-09T04:10:03.695Z",
-    "content": "RIDGE RACER Series の「GARAGE TALK」を聴きました",
-    "url": "https://open.spotify.com/track/5P2aJTyoKlgj60ufIkVjzo"
   },
   {
     "platform": "Bluesky",
