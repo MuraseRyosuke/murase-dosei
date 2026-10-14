@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T03:41:57.900Z",
+    "content": "ChumToto の「チャムタイム・newサマー!!」を聴きました",
+    "url": "https://open.spotify.com/track/5TbDv4Jrels9RzErxnF0b9"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-10-13T18:28:53.380Z",
     "content": "Google Gemini 4 Argon きたわね",
@@ -64,12 +70,6 @@
     "timestamp": "2026-10-13T14:17:25.703Z",
     "content": "Quruli の「Regulus」を聴きました",
     "url": "https://open.spotify.com/track/1VRWngk4ez0ANKQVQqYtCj"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:14:02.537Z",
-    "content": "Quruli の「たまにおもうこと」を聴きました",
-    "url": "https://open.spotify.com/track/2RPrcJefq0Cn9rsHN3E1Gb"
   },
   {
     "platform": "Bluesky",
