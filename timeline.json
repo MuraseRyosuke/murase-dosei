@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-14T19:34:54.181Z",
+    "content": "Hearts2Hearts の「RUDE!」を聴きました",
+    "url": "https://open.spotify.com/track/6VP8s3U84F7k62z8mdeFOA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:31:33.662Z",
+    "content": "Hearts2Hearts の「Secret Recipe」を聴きました",
+    "url": "https://open.spotify.com/track/45Vg8GaO6Ti9NgOiEMavc8"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:28:42.140Z",
+    "content": "Hearts2Hearts の「heart emoji (♡)」を聴きました",
+    "url": "https://open.spotify.com/track/3otCmBQliI9ao8l5JeBzPD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:25:42.617Z",
+    "content": "Hearts2Hearts の「Baby Steps」を聴きました",
+    "url": "https://open.spotify.com/track/1TUN7nPLx9U81EMQlb23Rn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:22:23.745Z",
+    "content": "Hearts2Hearts の「Baby Steps」を聴きました",
+    "url": "https://open.spotify.com/track/1TUN7nPLx9U81EMQlb23Rn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:21:08.951Z",
+    "content": "Hearts2Hearts の「15-LOVE」を聴きました",
+    "url": "https://open.spotify.com/track/0Gkrpj2IptgQoLFCZ8aoVR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:18:33.424Z",
+    "content": "Hearts2Hearts の「Lemon Tang」を聴きました",
+    "url": "https://open.spotify.com/track/4vaC50FUEn6H8pPalM6jVA"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-14T19:14:47.460Z",
+    "content": "Hearts2Hearts の「ICONIC HEART」を聴きました",
+    "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-14T15:24:00.977Z",
     "content": "絶対少女 の「#恋愛#恋愛#恋愛#死ぬ#死ぬ#死ぬ」を聴きました",
     "url": "https://open.spotify.com/track/1xuZfZwO0B9keIpKd0KZQw"
@@ -48,54 +96,6 @@
     "url": "https://github.com/ARahim3/DigUp"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:51:43.528Z",
-    "content": "Quruli の「ワンダリング」を聴きました",
-    "url": "https://open.spotify.com/track/2f4RxV0uHkgien2fWtIMF8"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:48:08.523Z",
-    "content": "Quruli の「3323」を聴きました",
-    "url": "https://open.spotify.com/track/6K4eGp7KxWiAbdqcohakxB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:44:19.445Z",
-    "content": "Quruli の「セコイア」を聴きました",
-    "url": "https://open.spotify.com/track/5NRirpnENlOhJZcZObAEzo"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:40:35.791Z",
-    "content": "Quruli の「押し花と夢」を聴きました",
-    "url": "https://open.spotify.com/track/7LFXZ7y1MNc4r1MUJUwOCi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:37:10.026Z",
-    "content": "Quruli の「はたらくだれかのように」を聴きました",
-    "url": "https://open.spotify.com/track/147r0XFu8gpdfKJcNq5EO7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:27:50.656Z",
-    "content": "Quruli の「La Palummella」を聴きました",
-    "url": "https://open.spotify.com/track/2Uf4QJDSsCJ62vZOIy9KzU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:24:15.482Z",
-    "content": "Quruli の「瀬戸の内」を聴きました",
-    "url": "https://open.spotify.com/track/3EMyqDVNED70BpGrPHBO2U"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-13T14:20:55.822Z",
-    "content": "Quruli の「金星」を聴きました",
-    "url": "https://open.spotify.com/track/3HZgw9l37YCy9y7hi1ISY4"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-10-13T10:25:34.479Z",
     "content": "これ受かってて超ハッピー 合格率16%をくぐり抜けたぞ！ 証書まだかな",
@@ -118,11 +118,5 @@
     "timestamp": "2026-10-08T21:22:24.779Z",
     "content": "趣味って突っ走ることはできるけど、それを（理解はしてくれるかは別として）共有できる友人関係が大事で難しかったりするな",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mxffdx2dyk2q"
-  },
-  {
-    "platform": "Steam",
-    "timestamp": "2026-10-07T19:13:53.000Z",
-    "content": "gogh: Focus with Your Avatar をプレイしました",
-    "url": "https://store.steampowered.com/app/3213850/"
   }
 ]
