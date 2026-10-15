@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-15T03:01:09.328Z",
+    "content": "Miho Fukuhara の「La La La FIGHTERS」を聴きました",
+    "url": "https://open.spotify.com/track/6zEQOeeLfKISjY8uIxNmWO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-14T19:34:54.181Z",
     "content": "Hearts2Hearts の「RUDE!」を聴きました",
     "url": "https://open.spotify.com/track/6VP8s3U84F7k62z8mdeFOA"
@@ -76,12 +82,6 @@
     "timestamp": "2026-10-14T08:54:54Z",
     "content": "ibisjp/ibis-office をStarしました",
     "url": "https://github.com/ibisjp/ibis-office"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-14T03:41:57.900Z",
-    "content": "ChumToto の「チャムタイム・newサマー!!」を聴きました",
-    "url": "https://open.spotify.com/track/5TbDv4Jrels9RzErxnF0b9"
   },
   {
     "platform": "Bluesky",
