@@ -1,6 +1,42 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-20T22:43:00.131Z",
+    "content": "Hearts2Hearts の「heart emoji (♡)」を聴きました",
+    "url": "https://open.spotify.com/track/3otCmBQliI9ao8l5JeBzPD"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-20T22:40:01.164Z",
+    "content": "Hearts2Hearts の「Baby Steps」を聴きました",
+    "url": "https://open.spotify.com/track/1TUN7nPLx9U81EMQlb23Rn"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-20T21:32:38.921Z",
+    "content": "KREVA の「TradeMark」を聴きました",
+    "url": "https://open.spotify.com/track/6IeMgsoD4j0sjvHtLyXook"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-20T20:48:36.305Z",
+    "content": "ZONE の「secret base ～君がくれたもの～」を聴きました",
+    "url": "https://open.spotify.com/track/7ah8In0z478pctQnoFvW1L"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-20T20:29:01.158Z",
+    "content": "Kyary Pamyu Pamyu の「音ノ国」を聴きました",
+    "url": "https://open.spotify.com/track/2rlT1dSvcZc14pXFD6PT3K"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-20T15:40:15.031Z",
+    "content": "Hearts2Hearts の「Baby Steps」を聴きました",
+    "url": "https://open.spotify.com/track/1TUN7nPLx9U81EMQlb23Rn"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-20T13:51:39.084Z",
     "content": "RIDGE RACER Series の「EAT'EM UP!」を聴きました",
     "url": "https://open.spotify.com/track/3SZrrGaUcaV21RXrgSCBhZ"
@@ -22,42 +58,6 @@
     "timestamp": "2026-10-20T13:47:38.271Z",
     "content": "Kimara Lovelace の「RIDGE RACER -one more win-」を聴きました",
     "url": "https://open.spotify.com/track/66uSGhmVfjpFI8Gf672f7N"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-20T13:44:09.911Z",
-    "content": "RIDGE RACER Series の「EPILOGUE」を聴きました",
-    "url": "https://open.spotify.com/track/14rLCqY3VBdlobhF4UyjFC"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-20T13:43:02.750Z",
-    "content": "RIDGE RACER Series の「THE PARADE」を聴きました",
-    "url": "https://open.spotify.com/track/2RKV5BrwNQGetR9pOaJ7dp"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-20T13:41:24.311Z",
-    "content": "RIDGE RACER Series の「MOVIN' IN CIRCLES」を聴きました",
-    "url": "https://open.spotify.com/track/07VqrcRONUGpPm2sAvmEu1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-20T13:37:04.161Z",
-    "content": "RIDGE RACER Series の「THE RIDE」を聴きました",
-    "url": "https://open.spotify.com/track/3MWTBX5USW4kfTsUZYxkW6"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-20T13:33:41.838Z",
-    "content": "RIDGE RACER Series の「MOVE ME」を聴きました",
-    "url": "https://open.spotify.com/track/27hEuiGyz92ITok9uc0Wpb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-20T13:29:07.545Z",
-    "content": "RIDGE RACER Series の「THE OBJECTIVE」を聴きました",
-    "url": "https://open.spotify.com/track/5I7HZOIanX1As2zTZZeHei"
   },
   {
     "platform": "GitHub",
