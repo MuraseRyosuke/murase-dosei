@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Steam",
+    "timestamp": "2026-10-22T05:11:31.000Z",
+    "content": "gogh: Focus with Your Avatar をプレイしました",
+    "url": "https://store.steampowered.com/app/3213850/"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-10-21T19:46:06.275Z",
     "content": "私が外部公開しているメールアドレスについて、送信元の偽装防止および本人確認のため、正規の送信メールにはすべて OpenPGP による電子署名・暗号化を行っています。\n署名のないメールは偽物の可能性がありますのでご注意ください！\n\n検証用の公開鍵の確認：\nwill.muraseryosuke.info",
@@ -16,12 +22,6 @@
     "timestamp": "2026-10-21T18:02:29.191Z",
     "content": "DE DE MOUSE の「hill girl steps」を聴きました",
     "url": "https://open.spotify.com/track/1Rb3Rusz4d2FWLSfTbUekQ"
-  },
-  {
-    "platform": "Steam",
-    "timestamp": "2026-10-21T17:58:48.000Z",
-    "content": "gogh: Focus with Your Avatar をプレイしました",
-    "url": "https://store.steampowered.com/app/3213850/"
   },
   {
     "platform": "Spotify",
