@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-23T19:15:14.481Z",
+    "content": "DE DE MOUSE の「last boy dance」を聴きました",
+    "url": "https://open.spotify.com/track/1waNDHnJwmYAfRfH96lvA1"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-10-23T18:05:20Z",
+    "content": "Akihito-IRIE/KingdomCreator をStarしました",
+    "url": "https://github.com/Akihito-IRIE/KingdomCreator"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-23T17:16:37.241Z",
     "content": "DE DE MOUSE の「skyline boy」を聴きました",
     "url": "https://open.spotify.com/track/4n4UbiDq05tw2FqyBYZtWq"
@@ -70,12 +82,6 @@
     "timestamp": "2026-10-21T18:08:20.796Z",
     "content": "DE DE MOUSE の「sundown river」を聴きました",
     "url": "https://open.spotify.com/track/4ZnGV8j6ynKmqdP0pk0DQ1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-21T18:02:29.191Z",
-    "content": "DE DE MOUSE の「hill girl steps」を聴きました",
-    "url": "https://open.spotify.com/track/1Rb3Rusz4d2FWLSfTbUekQ"
   },
   {
     "platform": "GitHub",
