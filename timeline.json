@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-10-23T09:28:15.251Z",
+    "content": "CAPSULE の「super speeder Judy Jedy」を聴きました",
+    "url": "https://open.spotify.com/track/0EW8LYHSQqTX3k7tvNZ2us"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-23T09:22:36.271Z",
+    "content": "DE DE MOUSE の「swallowtail bridge」を聴きました",
+    "url": "https://open.spotify.com/track/5PMkTzIFvSN5H2w7Ave07d"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2026-10-22T22:33:45Z",
     "content": "hugelton/Felucca をStarしました",
@@ -66,18 +78,6 @@
     "url": "https://open.spotify.com/track/2pVrFDg78X3wHiZo2CH14Y"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-21T17:18:37.588Z",
-    "content": "DE DE MOUSE の「dancing horse on my notes」を聴きました",
-    "url": "https://open.spotify.com/track/0VWiDcbrPW10X8k02yJSn1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-21T17:12:48.340Z",
-    "content": "DE DE MOUSE の「the galactic nervous boy」を聴きました",
-    "url": "https://open.spotify.com/track/2WEuV4fPuXL3HqZn8DkkHl"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-10-18T23:05:44Z",
     "content": "Genymobile/scrcpy をStarしました",
@@ -88,11 +88,5 @@
     "timestamp": "2026-10-18T21:22:54Z",
     "content": "microsoft/fast をStarしました",
     "url": "https://github.com/microsoft/fast"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-10-16T11:44:05.284Z",
-    "content": "「最近のトレンド知らないの流石にオッサンすぎて萎える」と「逆に今のAKBのメンバーとか知ってるの年甲斐なく必死に着いてきてる感じしてキツいかも」は全然同居するので、それに煽りのニュアンスがあるのならば、分断が終わることは今後もない！平和は訪れない！！ですね！！！\n\n重要で厄介なのは、そのどちらの主張も「真である」ことでよくわかって（私はこれを「正」でも「義」でもなく、真、本当、だと思っている）、そこから先は自分が今いる立場を正当化してしまう、守りのポジショントークになっちゃうので、それはそれとして、気づきは大事だが、よそ見をしないのも大事だナ〜と思っておる",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mxyir7fduc2p"
   }
 ]
