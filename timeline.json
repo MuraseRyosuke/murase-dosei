@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-25T05:24:35.169Z",
+    "content": "sakanaction の「アルクアラウンド」を聴きました",
+    "url": "https://open.spotify.com/track/3ov6DXhs8UfsHqoMLz4zO9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-25T05:15:24.787Z",
+    "content": "NVDES の「Purusha」を聴きました",
+    "url": "https://open.spotify.com/track/6cwyKZq7US8LrDjOYfNXuo"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-25T00:42:54.074Z",
     "content": "Coldplay の「Viva La Vida」を聴きました",
     "url": "https://open.spotify.com/track/1SLxVWqXo9zNrrDKRa3m1G"
@@ -52,18 +64,6 @@
     "timestamp": "2026-10-23T14:47:59.795Z",
     "content": "RHYMESTER の「10 Balls+2 -Single Edit-」を聴きました",
     "url": "https://open.spotify.com/track/4YRZHg1IowH1KmKAl0A3Sa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-23T14:43:44.750Z",
-    "content": "CAPSULE の「ひかりのディスコ」を聴きました",
-    "url": "https://open.spotify.com/track/1sJDyfxFVC6Yddlao19bpt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-23T09:28:15.251Z",
-    "content": "CAPSULE の「super speeder Judy Jedy」を聴きました",
-    "url": "https://open.spotify.com/track/0EW8LYHSQqTX3k7tvNZ2us"
   },
   {
     "platform": "GitHub",
