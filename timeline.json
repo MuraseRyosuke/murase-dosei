@@ -1,6 +1,18 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-27T12:05:24.363Z",
+    "content": "sakanaction の「アルクアラウンド」を聴きました",
+    "url": "https://open.spotify.com/track/3ov6DXhs8UfsHqoMLz4zO9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-27T12:01:01.136Z",
+    "content": "sakanaction の「アルクアラウンド」を聴きました",
+    "url": "https://open.spotify.com/track/1vf1MWdwfZ8HMxMobM3w48"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-26T20:43:27.123Z",
     "content": "sakanaction の「アルクアラウンド」を聴きました",
     "url": "https://open.spotify.com/track/1vf1MWdwfZ8HMxMobM3w48"
@@ -46,18 +58,6 @@
     "timestamp": "2026-10-26T18:40:43.877Z",
     "content": "Fujifabric の「TOKYO MIDNIGHT」を聴きました",
     "url": "https://open.spotify.com/track/1n8G6pQ64Y0BeYmkZIkfo5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-26T18:35:58.021Z",
-    "content": "Fujifabric の「打上げ花火」を聴きました",
-    "url": "https://open.spotify.com/track/1IPftsCusysusbklwx6nkO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-26T18:30:45.035Z",
-    "content": "Fujifabric の「追ってけ 追ってけ」を聴きました",
-    "url": "https://open.spotify.com/track/3hmDp4YqHvSDzAtzmCUGfz"
   },
   {
     "platform": "GitHub",
