@@ -1,6 +1,36 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-28T17:30:04.738Z",
+    "content": "DEPAPEPE の「バタフライ」を聴きました",
+    "url": "https://open.spotify.com/track/7bA40okvQSQYdk4Jm2aSFv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T17:26:44.962Z",
+    "content": "DEPAPEPE の「MTMM」を聴きました",
+    "url": "https://open.spotify.com/track/0hqYqnr2CgBXUwXrl0j6pv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T17:24:46.729Z",
+    "content": "DEPAPEPE の「Wake Up!」を聴きました",
+    "url": "https://open.spotify.com/track/6aSDDKm8cGPqV9NCq9mLSW"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T17:21:23.976Z",
+    "content": "DEPAPEPE の「START」を聴きました",
+    "url": "https://open.spotify.com/track/1iQK0DUKHWSHOZ8UiCJx4v"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T17:16:23.047Z",
+    "content": "DEPAPEPE の「Hi-D!!!」を聴きました",
+    "url": "https://open.spotify.com/track/37C42ZChd82cutgDs6IYRQ"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-28T17:13:42.541Z",
     "content": "DEPAPEPE の「FLOW」を聴きました",
     "url": "https://open.spotify.com/track/7Iu3EbSbPRHrWlAh4JDrXn"
@@ -48,36 +78,6 @@
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3myvagfdgkc2c"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T18:10:04.445Z",
-    "content": "Fujifabric の「茜色の夕日」を聴きました",
-    "url": "https://open.spotify.com/track/2p8ji4NXTvYvAIRnK2d1kH"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T18:04:24.996Z",
-    "content": "Fujifabric の「Birthday」を聴きました",
-    "url": "https://open.spotify.com/track/1qKynqgWWU32nRuJEcyS5b"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:59:52.167Z",
-    "content": "Fujifabric の「虹」を聴きました",
-    "url": "https://open.spotify.com/track/1sjRNTEKVCDy9nFN8KTSIa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:57:04.573Z",
-    "content": "Fujifabric の「虹」を聴きました",
-    "url": "https://open.spotify.com/track/1sjRNTEKVCDy9nFN8KTSIa"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:55:06.196Z",
-    "content": "Fujifabric の「水飴と綿飴」を聴きました",
-    "url": "https://open.spotify.com/track/6N1AXQNjt7CZ4nMgzXS6Qb"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-10-23T18:05:20Z",
     "content": "Akihito-IRIE/KingdomCreator をStarしました",
@@ -94,11 +94,5 @@
     "timestamp": "2026-10-22T16:59:02.000Z",
     "content": "gogh: Focus with Your Avatar をプレイしました",
     "url": "https://store.steampowered.com/app/3213850/"
-  },
-  {
-    "platform": "Bluesky",
-    "timestamp": "2026-10-21T19:46:06.275Z",
-    "content": "私が外部公開しているメールアドレスについて、送信元の偽装防止および本人確認のため、正規の送信メールにはすべて OpenPGP による電子署名・暗号化を行っています。\n署名のないメールは偽物の可能性がありますのでご注意ください！\n\n検証用の公開鍵の確認：\nwill.muraseryosuke.info",
-    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3myfvzrdfzk2s"
   }
 ]
