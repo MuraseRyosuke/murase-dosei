@@ -1,5 +1,47 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T17:13:42.541Z",
+    "content": "DEPAPEPE の「FLOW」を聴きました",
+    "url": "https://open.spotify.com/track/7Iu3EbSbPRHrWlAh4JDrXn"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-10-28T17:12:39Z",
+    "content": "tsukumijima/KonomiTV をStarしました",
+    "url": "https://github.com/tsukumijima/KonomiTV"
+  },
+  {
+    "platform": "GitHub",
+    "timestamp": "2026-10-28T17:11:46Z",
+    "content": "Till0196/coax をStarしました",
+    "url": "https://github.com/Till0196/coax"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T12:34:28.547Z",
+    "content": "HoneyWorks の「私は、わたしの事が好き。」を聴きました",
+    "url": "https://open.spotify.com/track/2YGirLAYuoajAbTkuvsEvv"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T12:30:17.201Z",
+    "content": "Aqu3ra の「星降る海」を聴きました",
+    "url": "https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T12:26:03.733Z",
+    "content": "yuigot の「Remember」を聴きました",
+    "url": "https://open.spotify.com/track/0HtGLasQ0qkzSETrnICqYR"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-28T12:21:46.041Z",
+    "content": "Saori Hayami の「Jewelry」を聴きました",
+    "url": "https://open.spotify.com/track/3FMLF9i4zy7bWuON2Y4X1T"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-10-27T22:02:05.266Z",
     "content": "あら？雪降ってるじゃない！寒いと思ったわぁ＾〜♨️",
@@ -34,36 +76,6 @@
     "timestamp": "2026-10-27T17:55:06.196Z",
     "content": "Fujifabric の「水飴と綿飴」を聴きました",
     "url": "https://open.spotify.com/track/6N1AXQNjt7CZ4nMgzXS6Qb"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:51:50.480Z",
-    "content": "Fujifabric の「雨のマーチ」を聴きました",
-    "url": "https://open.spotify.com/track/4f5cJqtFEcemGoaaUdojlN"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:47:26.485Z",
-    "content": "Fujifabric の「ベースボールは終わらない」を聴きました",
-    "url": "https://open.spotify.com/track/4YvYPpvpCD3NBo3Lr2OqTr"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:42:46.075Z",
-    "content": "Fujifabric の「マリアとアマゾネス」を聴きました",
-    "url": "https://open.spotify.com/track/34IJuEvJXsMd70yPye8Mds"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:37:48.772Z",
-    "content": "Fujifabric の「地平線を越えて」を聴きました",
-    "url": "https://open.spotify.com/track/1Aw47Q1wryfYChbDWwGwIx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-27T17:32:42.465Z",
-    "content": "Fujifabric の「唇のソレ」を聴きました",
-    "url": "https://open.spotify.com/track/0Pc0Uha4SUALkXqMbF4OgP"
   },
   {
     "platform": "GitHub",
