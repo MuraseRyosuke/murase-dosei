@@ -1,6 +1,24 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-10-31T19:26:40.435Z",
+    "content": "DE DE MOUSE の「flicks tonight」を聴きました",
+    "url": "https://open.spotify.com/track/067c8VTZUITWxzVgdm8lLw"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-31T19:21:32.617Z",
+    "content": "DE DE MOUSE の「bubble marble girl」を聴きました",
+    "url": "https://open.spotify.com/track/2xKxrxtHFzIqFMFLS2jj9b"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-10-31T19:13:31.638Z",
+    "content": "DE DE MOUSE の「floats & falls」を聴きました",
+    "url": "https://open.spotify.com/track/0Cdekyt6vfIdceJEH4NEO4"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-30T21:46:46.983Z",
     "content": "DE DE MOUSE の「fading tonight」を聴きました",
     "url": "https://open.spotify.com/track/11EXxh0p67OuFC9nJUtLCH"
@@ -46,24 +64,6 @@
     "timestamp": "2026-10-30T09:11:36.267Z",
     "content": "RIDGE RACER Series の「EXH*NOTES」を聴きました",
     "url": "https://open.spotify.com/track/74s9MIfDvNRWCEpKyAh5b3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-30T09:06:44.608Z",
-    "content": "RIDGE RACER Series の「Rotterdam Nation - Remix」を聴きました",
-    "url": "https://open.spotify.com/track/6aDLpjCaJ4ieqtkVfSnTeh"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-30T09:01:30.978Z",
-    "content": "RIDGE RACER Series の「EAT'EM UP!」を聴きました",
-    "url": "https://open.spotify.com/track/3SZrrGaUcaV21RXrgSCBhZ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-30T08:58:05.467Z",
-    "content": "RIDGE RACER Series の「PARTY'S OVER」を聴きました",
-    "url": "https://open.spotify.com/track/3BGYPlmKuSZ1VW2PwyjX2C"
   },
   {
     "platform": "GitHub",
