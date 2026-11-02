@@ -1,5 +1,11 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-11-02T20:19:04.392Z",
+    "content": "VINII の「SICKBUG」を聴きました",
+    "url": "https://open.spotify.com/track/6gCGS9l0RAq2amOmFiEkx6"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-11-02T13:01:25.364Z",
     "content": "諸々の管理をムームーでやってるんだけど…どうしよ……",
@@ -70,12 +76,6 @@
     "timestamp": "2026-10-31T20:33:50.598Z",
     "content": "DE DE MOUSE の「thursday waltz」を聴きました",
     "url": "https://open.spotify.com/track/6utHGB4WtBZOUKbTeyi9xz"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-31T20:30:15.186Z",
-    "content": "DE DE MOUSE の「a thousand better things」を聴きました",
-    "url": "https://open.spotify.com/track/2XDDUAWwELCKR8WKKQcnLB"
   },
   {
     "platform": "GitHub",
