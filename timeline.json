@@ -31,6 +31,12 @@
   },
   {
     "platform": "Spotify",
+    "timestamp": "2026-11-01T01:57:17.045Z",
+    "content": "Yusuke の「ミツバチ」を聴きました",
+    "url": "https://open.spotify.com/track/3DhO9k4W1EYc2PZYCmRhcO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-10-31T20:46:38.355Z",
     "content": "DE DE MOUSE の「play tag」を聴きました",
     "url": "https://open.spotify.com/track/7vhlCliwQ0Et1CcUsp4fpR"
@@ -58,12 +64,6 @@
     "timestamp": "2026-10-31T20:30:15.186Z",
     "content": "DE DE MOUSE の「a thousand better things」を聴きました",
     "url": "https://open.spotify.com/track/2XDDUAWwELCKR8WKKQcnLB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-31T20:25:10.637Z",
-    "content": "DE DE MOUSE の「farewell holiday!」を聴きました",
-    "url": "https://open.spotify.com/track/2RRxlIabqIw421iIXA2013"
   },
   {
     "platform": "GitHub",
