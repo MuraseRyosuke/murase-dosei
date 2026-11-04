@@ -1,5 +1,35 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-11-04T00:05:57.745Z",
+    "content": "Carpenters の「Reason To Believe - 1987 Remix」を聴きました",
+    "url": "https://open.spotify.com/track/5m3oj7kshbQG08VhJJEEfY"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-04T00:02:53.342Z",
+    "content": "Carpenters の「Let Me Be The One」を聴きました",
+    "url": "https://open.spotify.com/track/36eHNSl2B5gobqGnumgxtd"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-04T00:00:10.799Z",
+    "content": "Carpenters の「Top Of The World - 1973 Remix」を聴きました",
+    "url": "https://open.spotify.com/track/7ysTMuYYp26B0Sv4YbyQCL"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-03T23:57:08.434Z",
+    "content": "Carpenters の「Rainy Days And Mondays - 1991 Remix」を聴きました",
+    "url": "https://open.spotify.com/track/2YuP8eUDimFgh2qiMR8eGV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-03T23:36:56.223Z",
+    "content": "Carpenters の「Superstar - 1991 Remix」を聴きました",
+    "url": "https://open.spotify.com/track/6XuMDtL8yNW9gmTWvjZCrs"
+  },
+  {
     "platform": "Pinterest",
     "timestamp": "2026-11-03T11:10:49.000Z",
     "content": "「エンジェル リース 1 / ANGEL REESE 1 （アトミックアクア） -Reebok 公式オンラインショップ」をピンしました",
@@ -48,40 +78,10 @@
     "url": "https://open.spotify.com/track/75BDIPdNJ1l69Rbun3ErzE"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-11-01T15:55:52.270Z",
-    "content": "DE DE MOUSE の「finally evening」を聴きました",
-    "url": "https://open.spotify.com/track/01n5IhJ6rVXU1X89dyS7OJ"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-11-01T15:51:30Z",
     "content": "set0gut1/ultra-white-button をStarしました",
     "url": "https://github.com/set0gut1/ultra-white-button"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-01T01:57:17.045Z",
-    "content": "Yusuke の「ミツバチ」を聴きました",
-    "url": "https://open.spotify.com/track/3DhO9k4W1EYc2PZYCmRhcO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-31T20:46:38.355Z",
-    "content": "DE DE MOUSE の「play tag」を聴きました",
-    "url": "https://open.spotify.com/track/7vhlCliwQ0Et1CcUsp4fpR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-31T20:44:37.041Z",
-    "content": "DE DE MOUSE の「a dozen raindrops」を聴きました",
-    "url": "https://open.spotify.com/track/1Gq1cHfpXNsQ1ve48gybZB"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-10-31T20:39:18.970Z",
-    "content": "DE DE MOUSE の「bedtime flight」を聴きました",
-    "url": "https://open.spotify.com/track/1JrZY0AsZ6Px2nbsJdcbXa"
   },
   {
     "platform": "GitHub",
