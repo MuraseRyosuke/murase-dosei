@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-11-08T07:20:01.792Z",
+    "content": "Nikolai Kapustin の「Eight Concert Etudes Op. 40 Toccatina」を聴きました",
+    "url": "https://open.spotify.com/track/4nWGkqjQ7M2P4f8xSYJgpV"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-08T07:17:45.695Z",
+    "content": "Nikolai Kapustin の「Eight Concert Etudes Op. 40 Prelude」を聴きました",
+    "url": "https://open.spotify.com/track/734DkotOFpOFnVwQCx9FAX"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-08T07:13:20.093Z",
+    "content": "DE DE MOUSE の「summer twilight」を聴きました",
+    "url": "https://open.spotify.com/track/3ZZ9tXOFzUOaXToiMSXgs5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-08T07:09:02.676Z",
+    "content": "DE DE MOUSE の「remember night」を聴きました",
+    "url": "https://open.spotify.com/track/3NbdPpSTvVmdE5znFad6KU"
+  },
+  {
+    "platform": "Bluesky",
+    "timestamp": "2026-11-08T06:59:05.766Z",
+    "content": "PawooをFedibirdに移行しました\nfedibird.com/web/accounts/117558597231279365/about#\n\nでもなんにもするつもりはないです、ただ元のサービスが不安定だったのと、ThreadsでFediverseと認識してくれる国内の主要なMastodonサーバーがここぐらいしかなかったから、とりあえず居住区を整備しただけ。。\n\nこれを機に扇状に広げるのをそろそろやめようと思う次第。。",
+    "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mzrtkpunuk2j"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-08T06:56:39.834Z",
+    "content": "DE DE MOUSE の「the galactic nervous boy」を聴きました",
+    "url": "https://open.spotify.com/track/2WEuV4fPuXL3HqZn8DkkHl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-08T06:50:16.574Z",
+    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
+    "url": "https://open.spotify.com/track/6XM8jnSqbjaDF9q5h9LN0p"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-07T02:20:51.133Z",
+    "content": "Soushi Sakiyama の「燈」を聴きました",
+    "url": "https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-11-07T02:20:51.133Z",
     "content": "Soushi Sakiyama の「燈」を聴きました",
     "url": "https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO"
@@ -16,48 +64,6 @@
     "timestamp": "2026-11-06T22:43:16.191Z",
     "content": "METAFIVE の「Egochin」を聴きました",
     "url": "https://open.spotify.com/track/2NWQKq38GduR8WkJgigJlE"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:39:21.491Z",
-    "content": "METAFIVE の「Chemical」を聴きました",
-    "url": "https://open.spotify.com/track/4CkDqV2LJaBQrxjo03YyTq"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:35:33.492Z",
-    "content": "METAFIVE の「Musical Chairs」を聴きました",
-    "url": "https://open.spotify.com/track/6FN5CD2GeJllQpn3IhkPol"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:30:57.166Z",
-    "content": "METAFIVE の「Threads」を聴きました",
-    "url": "https://open.spotify.com/track/1D4VGZzTrOecUWy2sSM4W0"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:25:38.388Z",
-    "content": "METAFIVE の「Whiteout」を聴きました",
-    "url": "https://open.spotify.com/track/4O9LSxKLMIhFOml6q2UrRg"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:20:44.888Z",
-    "content": "METAFIVE の「Split Spirit - META Version」を聴きました",
-    "url": "https://open.spotify.com/track/0EACt1BrfOE7mNMoqdbQnI"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:16:10.016Z",
-    "content": "METAFIVE の「W.G.S.F.」を聴きました",
-    "url": "https://open.spotify.com/track/01wV1c5AiiqNUp9sv7b1RF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-06T22:12:24.088Z",
-    "content": "METAFIVE の「Radio - META Version」を聴きました",
-    "url": "https://open.spotify.com/track/7aNd1jGC378uEqDEyq17un"
   },
   {
     "platform": "Pinterest",
