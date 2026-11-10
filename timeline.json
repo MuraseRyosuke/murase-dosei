@@ -1,5 +1,65 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T08:53:55.929Z",
+    "content": "Frank Sinatra の「Sleep Warm」を聴きました",
+    "url": "https://open.spotify.com/track/76CB64PuqrPOvDMKsKllSJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T08:46:18.630Z",
+    "content": "Base Ball Bear の「The Cut」を聴きました",
+    "url": "https://open.spotify.com/track/1POAuZ4ci40tfxTfUjU0H1"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T08:41:08.129Z",
+    "content": "The Gospellers の「永遠に -Album Version-」を聴きました",
+    "url": "https://open.spotify.com/track/4tOr75aGZiaAWraI3GJMBa"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T08:35:22.447Z",
+    "content": "The Gospellers の「ひとり」を聴きました",
+    "url": "https://open.spotify.com/track/6kz7MRH2qkKh60cl92tXWt"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T08:31:46.031Z",
+    "content": "The Gospellers の「ミモザ」を聴きました",
+    "url": "https://open.spotify.com/track/4c10sYQ2JYrKVXg9eCPUzr"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T08:26:52.727Z",
+    "content": "KennyDoes の「トラボルタカスタム (feat. 鋼田テフロン)」を聴きました",
+    "url": "https://open.spotify.com/track/781PNV7xbX7mcZQG03ycAt"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T07:53:37.626Z",
+    "content": "KIRINJI の「雨を見くびるな - 2014 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/1lIXGtokSSxRtaP4zgzqDl"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T07:48:52.428Z",
+    "content": "Tokyo Incidents の「新しい文明開化」を聴きました",
+    "url": "https://open.spotify.com/track/5RJrQNSpmscLGHXhPK0GEg"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T07:44:20.829Z",
+    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
+    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-10T07:27:25.725Z",
+    "content": "PASSEPIED の「ヨアケマエ」を聴きました",
+    "url": "https://open.spotify.com/track/4dmi1lvmEBPT5lWB3NSN2s"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-11-09T22:33:56.769Z",
     "content": "Muse、全然トークン消費しないからできるだけ安全圏で仕事させまくっているけれども、それでも週の61%しか使い切れなかった。。すごいな",
@@ -12,75 +72,9 @@
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mzun3t7bcs27"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-11-08T07:20:01.792Z",
-    "content": "Nikolai Kapustin の「Eight Concert Etudes Op. 40 Toccatina」を聴きました",
-    "url": "https://open.spotify.com/track/4nWGkqjQ7M2P4f8xSYJgpV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-08T07:17:45.695Z",
-    "content": "Nikolai Kapustin の「Eight Concert Etudes Op. 40 Prelude」を聴きました",
-    "url": "https://open.spotify.com/track/734DkotOFpOFnVwQCx9FAX"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-08T07:13:20.093Z",
-    "content": "DE DE MOUSE の「summer twilight」を聴きました",
-    "url": "https://open.spotify.com/track/3ZZ9tXOFzUOaXToiMSXgs5"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-08T07:09:02.676Z",
-    "content": "DE DE MOUSE の「remember night」を聴きました",
-    "url": "https://open.spotify.com/track/3NbdPpSTvVmdE5znFad6KU"
-  },
-  {
     "platform": "Bluesky",
     "timestamp": "2026-11-08T06:59:05.766Z",
     "content": "PawooをFedibirdに移行しました\nfedibird.com/web/accounts/117558597231279365/about#\n\nでもなんにもするつもりはないです、ただ元のサービスが不安定だったのと、ThreadsでFediverseと認識してくれる国内の主要なMastodonサーバーがここぐらいしかなかったから、とりあえず居住区を整備しただけ。。\n\nこれを機に扇状に広げるのをそろそろやめようと思う次第。。",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3mzrtkpunuk2j"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-08T06:56:39.834Z",
-    "content": "DE DE MOUSE の「the galactic nervous boy」を聴きました",
-    "url": "https://open.spotify.com/track/2WEuV4fPuXL3HqZn8DkkHl"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-08T06:50:16.574Z",
-    "content": "DE DE MOUSE の「baby's star jam」を聴きました",
-    "url": "https://open.spotify.com/track/6XM8jnSqbjaDF9q5h9LN0p"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-07T04:44:25.248Z",
-    "content": "LITTLE TEMPO の「Sun Shower」を聴きました",
-    "url": "https://open.spotify.com/track/5YzfyTxppNFxPwQmCgnmNV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-07T02:20:51.133Z",
-    "content": "Soushi Sakiyama の「燈」を聴きました",
-    "url": "https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-07T02:20:51.133Z",
-    "content": "Soushi Sakiyama の「燈」を聴きました",
-    "url": "https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-07T02:15:23.570Z",
-    "content": "METAFIVE の「Peach Pie」を聴きました",
-    "url": "https://open.spotify.com/track/3eMFPxLYKT8Bp58UEoh0v8"
-  },
-  {
-    "platform": "Pinterest",
-    "timestamp": "2026-11-03T11:10:49.000Z",
-    "content": "「エンジェル リース 1 / ANGEL REESE 1 （アトミックアクア） -Reebok 公式オンラインショップ」をピンしました",
-    "url": "https://jp.pinterest.com/pin/449726712814019749/"
   }
 ]
