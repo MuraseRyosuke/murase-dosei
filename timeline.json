@@ -1,5 +1,17 @@
 [
   {
+    "platform": "Steam",
+    "timestamp": "2026-11-13T14:02:45.000Z",
+    "content": "Deviation Game をプレイしました",
+    "url": "https://store.steampowered.com/app/3104020/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-13T07:44:28.467Z",
+    "content": "sakanaction の「ネイティブダンサー」を聴きました",
+    "url": "https://open.spotify.com/track/3iB91ISmSGHImu3SN5V5SI"
+  },
+  {
     "platform": "GitHub",
     "timestamp": "2026-11-13T07:36:33Z",
     "content": "meta/astryx をStarしました",
@@ -58,12 +70,6 @@
     "timestamp": "2026-11-12T02:59:49.285Z",
     "content": "sakanaction の「陽炎 -movie version-」を聴きました",
     "url": "https://open.spotify.com/track/3tUj3jamJg0B1e56m3ATnx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-12T02:56:17.585Z",
-    "content": "sakanaction の「ナイトフィッシングイズグッド」を聴きました",
-    "url": "https://open.spotify.com/track/6G2uGquELCQe0unv3PvJWg"
   },
   {
     "platform": "Bluesky",
