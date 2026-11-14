@@ -1,6 +1,54 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-11-14T09:36:43.927Z",
+    "content": "Cymbals の「Cycling Song」を聴きました",
+    "url": "https://open.spotify.com/track/4gLWkaraSCYeDFY5pNvPgH"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T09:35:03.924Z",
+    "content": "Cymbals の「My Patrick」を聴きました",
+    "url": "https://open.spotify.com/track/6rUJvKLoaESj6Ien88Tdup"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T09:32:11.425Z",
+    "content": "Cymbals の「Monday Morning Blues」を聴きました",
+    "url": "https://open.spotify.com/track/7n7bNa6s6qo1b6yNWRzFV3"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T09:29:01.425Z",
+    "content": "Cymbals の「Happy Knight, Shiny Child」を聴きました",
+    "url": "https://open.spotify.com/track/14JM7SDiwG2OPhpZ4hikFP"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T09:26:02.760Z",
+    "content": "Cymbals の「Cucumber!」を聴きました",
+    "url": "https://open.spotify.com/track/6kCoYKNGOFslQvX7roDSMQ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T09:20:40.025Z",
+    "content": "Fujii Kaze の「青春病」を聴きました",
+    "url": "https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T09:05:36.828Z",
+    "content": "Shin Rizumu の「放人主義」を聴きました",
+    "url": "https://open.spotify.com/track/1YkRdu9Xat1P1gzWE0YJ7Z"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-14T08:58:16.729Z",
+    "content": "黒魔 (Chroma) の「愛を喜ぶ街 - (kamome sano Remix)」を聴きました",
+    "url": "https://open.spotify.com/track/2KzM0dvdRkKCsFK0oIgKCK"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-11-14T08:39:13.024Z",
     "content": "黒魔 (Chroma) の「幻妖列車の旅」を聴きました",
     "url": "https://open.spotify.com/track/09tKuRnYSETU3MUW135Xxe"
@@ -12,64 +60,16 @@
     "url": "https://open.spotify.com/track/584fDhvko0LjCBClZ202yF"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-11-14T08:31:22.975Z",
-    "content": "黒魔 (Chroma) の「リサイクル・ダンサー」を聴きました",
-    "url": "https://open.spotify.com/track/0BhOb3vDJx9MpiKvnN7K3r"
-  },
-  {
     "platform": "Steam",
     "timestamp": "2026-11-13T14:02:45.000Z",
     "content": "Deviation Game をプレイしました",
     "url": "https://store.steampowered.com/app/3104020/"
   },
   {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T07:44:28.467Z",
-    "content": "sakanaction の「ネイティブダンサー」を聴きました",
-    "url": "https://open.spotify.com/track/3iB91ISmSGHImu3SN5V5SI"
-  },
-  {
     "platform": "GitHub",
     "timestamp": "2026-11-13T07:36:33Z",
     "content": "meta/astryx をStarしました",
     "url": "https://github.com/meta/astryx"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T01:24:19.649Z",
-    "content": "Shin Rizumu の「夢見るふたり」を聴きました",
-    "url": "https://open.spotify.com/track/2ZV5ZRT7tAQ46NpdqSh8os"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T01:19:54.331Z",
-    "content": "Shin Rizumu の「きっとなるだろう」を聴きました",
-    "url": "https://open.spotify.com/track/19xX2BSMxodj3WtS5FzXQi"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T01:15:00.124Z",
-    "content": "Shin Rizumu の「処方箋」を聴きました",
-    "url": "https://open.spotify.com/track/7syW86USiUDey4KqQtLCpR"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T01:08:11.165Z",
-    "content": "Shin Rizumu の「カクテルの歌」を聴きました",
-    "url": "https://open.spotify.com/track/6FIIwMxBobtfipcqXx2YQ7"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T01:04:09.451Z",
-    "content": "Shin Rizumu の「喫茶aori」を聴きました",
-    "url": "https://open.spotify.com/track/5WFAN72xXEgjQwSHTY1AgF"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-13T00:58:01.313Z",
-    "content": "Shin Rizumu の「手のなる方へ」を聴きました",
-    "url": "https://open.spotify.com/track/5AdciCuzavZAFIUc1IxZS6"
   },
   {
     "platform": "Bluesky",
