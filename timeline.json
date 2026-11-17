@@ -1,5 +1,65 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T18:25:30.537Z",
+    "content": "Cornelius の「あなたがいるなら」を聴きました",
+    "url": "https://open.spotify.com/track/0xnLfnw14niTCmMMVVciQ9"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T18:25:29.015Z",
+    "content": "KIRINJI の「耳をうずめて - 2018 Remaster」を聴きました",
+    "url": "https://open.spotify.com/track/2z7cha3Sg22NrUjRCQek8e"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T17:24:26.679Z",
+    "content": "Fujifabric の「Bye Bye」を聴きました",
+    "url": "https://open.spotify.com/track/3A7m38ccCBFlCAXGkOQCpI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T17:24:26.674Z",
+    "content": "KIRINJI の「千年紀末に降る雪は」を聴きました",
+    "url": "https://open.spotify.com/track/0idCR8BqzbOAIrJliiH8Ha"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T17:12:18.386Z",
+    "content": "Perfume の「575」を聴きました",
+    "url": "https://open.spotify.com/track/1vM17fFrFcmJ922AAvzvY5"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T17:04:57.162Z",
+    "content": "Fujifabric の「Bye Bye」を聴きました",
+    "url": "https://open.spotify.com/track/3A7m38ccCBFlCAXGkOQCpI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T16:53:22.299Z",
+    "content": "KIRINJI の「千年紀末に降る雪は」を聴きました",
+    "url": "https://open.spotify.com/track/0idCR8BqzbOAIrJliiH8Ha"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T16:46:09.370Z",
+    "content": "Frank Sinatra の「Sleep Warm」を聴きました",
+    "url": "https://open.spotify.com/track/76CB64PuqrPOvDMKsKllSJ"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T16:42:57.637Z",
+    "content": "KIRINJI の「千年紀末に降る雪は」を聴きました",
+    "url": "https://open.spotify.com/track/0idCR8BqzbOAIrJliiH8Ha"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-17T16:40:53.437Z",
+    "content": "Mike & Rich の「Upright Kangaroo」を聴きました",
+    "url": "https://open.spotify.com/track/73In1YO2CihWOOsT1widqT"
+  },
+  {
     "platform": "Bluesky",
     "timestamp": "2026-11-15T17:37:57.459Z",
     "content": "送り主は… 今や変拍子が特徴のアイドルの夫…",
@@ -10,66 +70,6 @@
     "timestamp": "2026-11-15T17:36:36.855Z",
     "content": "最後に使ったのが16年前のGoogleアカウントが自動削除されるというメールが来ていたので、久々にログインしたらクソ懐かしいメールが掘り起こされてノスタルジック.",
     "url": "https://bsky.app/profile/did:plc:k4g5hz4ftdqedpb4fh6jo6fs/post/3n2ekh6yx3k25"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:34:46.103Z",
-    "content": "黒魔 (Chroma) の「Endroll」を聴きました",
-    "url": "https://open.spotify.com/track/3WuNJC48lL7CuKPQ6NYjxM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:33:30.001Z",
-    "content": "黒魔 (Chroma) の「Afterglow」を聴きました",
-    "url": "https://open.spotify.com/track/1ec1aS5bkh6SOohSdrhw6g"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:28:54.298Z",
-    "content": "黒魔 (Chroma) の「Coming for You」を聴きました",
-    "url": "https://open.spotify.com/track/7ktf324xirdwr0nAhfJJHM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:25:55.700Z",
-    "content": "黒魔 (Chroma) の「Last Reflection」を聴きました",
-    "url": "https://open.spotify.com/track/0segXka0Z9cefPjXWsS70L"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:23:04.309Z",
-    "content": "黒魔 (Chroma) の「Perseverance」を聴きました",
-    "url": "https://open.spotify.com/track/6CVbZVfQvdvoK97IODdOY1"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:20:07.618Z",
-    "content": "黒魔 (Chroma) の「Honest Masquerade」を聴きました",
-    "url": "https://open.spotify.com/track/2kvOViqsEBnu6OsrPxqUS3"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:17:15.518Z",
-    "content": "黒魔 (Chroma) の「Clockwork Scholar」を聴きました",
-    "url": "https://open.spotify.com/track/4FX0311A3xmC8BdwQjejjQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:14:20.601Z",
-    "content": "黒魔 (Chroma) の「Roots of Resonance」を聴きました",
-    "url": "https://open.spotify.com/track/09AZHaBxEXSgP8tFgZh3LU"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:11:20.317Z",
-    "content": "黒魔 (Chroma) の「Shifting Temple」を聴きました",
-    "url": "https://open.spotify.com/track/5ySJqPNAd1zCcFkFWHj275"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-15T09:08:35.719Z",
-    "content": "黒魔 (Chroma) の「Winds of Trial」を聴きました",
-    "url": "https://open.spotify.com/track/48aoBWcdhY19kwMwqinSjq"
   },
   {
     "platform": "Steam",
