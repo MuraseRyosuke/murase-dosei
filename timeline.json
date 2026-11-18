@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-11-17T18:40:44.928Z",
+    "content": "Filix王 の「冰紅茶 (freestyle)」を聴きました",
+    "url": "https://open.spotify.com/track/2ArLpCOvzfHNYDbQoe23M2"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-11-17T18:25:30.537Z",
     "content": "Cornelius の「あなたがいるなら」を聴きました",
     "url": "https://open.spotify.com/track/0xnLfnw14niTCmMMVVciQ9"
@@ -52,12 +58,6 @@
     "timestamp": "2026-11-17T16:42:57.637Z",
     "content": "KIRINJI の「千年紀末に降る雪は」を聴きました",
     "url": "https://open.spotify.com/track/0idCR8BqzbOAIrJliiH8Ha"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-17T16:40:53.437Z",
-    "content": "Mike & Rich の「Upright Kangaroo」を聴きました",
-    "url": "https://open.spotify.com/track/73In1YO2CihWOOsT1widqT"
   },
   {
     "platform": "Bluesky",
