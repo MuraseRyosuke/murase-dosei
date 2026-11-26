@@ -1,9 +1,45 @@
 [
   {
+    "platform": "Spotify",
+    "timestamp": "2026-11-26T08:40:59.552Z",
+    "content": "Fujifabric の「Merry-Go-Round」を聴きました",
+    "url": "https://open.spotify.com/track/67r0hWWEJnZxOzCI9b9wDu"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-26T08:28:25.616Z",
+    "content": "Fujifabric の「Sugar!!」を聴きました",
+    "url": "https://open.spotify.com/track/3wVmMNRlr6WF2gqbrR9d3o"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-26T08:24:14.516Z",
+    "content": "Fujifabric の「バウムクーヘン」を聴きました",
+    "url": "https://open.spotify.com/track/3BfgO75Nir1czGl87CP2tI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-26T08:19:18.936Z",
+    "content": "Fujifabric の「バウムクーヘン」を聴きました",
+    "url": "https://open.spotify.com/track/3BfgO75Nir1czGl87CP2tI"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-26T08:16:55.618Z",
+    "content": "Noriyuki Makihara の「モンタージュ」を聴きました",
+    "url": "https://open.spotify.com/track/5AA6O4zU22tSPThqTxTz5G"
+  },
+  {
     "platform": "Steam",
     "timestamp": "2026-11-25T17:13:09.000Z",
     "content": "Deviation Game をプレイしました",
     "url": "https://store.steampowered.com/app/3104020/"
+  },
+  {
+    "platform": "Spotify",
+    "timestamp": "2026-11-25T04:19:03.537Z",
+    "content": "Noriyuki Makihara の「モンタージュ」を聴きました",
+    "url": "https://open.spotify.com/track/5AA6O4zU22tSPThqTxTz5G"
   },
   {
     "platform": "Spotify",
@@ -28,42 +64,6 @@
     "timestamp": "2026-11-24T09:13:04.828Z",
     "content": "風のクロノアシリーズ サウンドチーム の「Out Of Time」を聴きました",
     "url": "https://open.spotify.com/track/4DbyYy2MFCiI2AtSbib2AV"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T09:10:04.983Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Dark Into Dark」を聴きました",
-    "url": "https://open.spotify.com/track/6UDenUa36D8e7haas8qGYt"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T09:08:35.178Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Dawn Over Dawn」を聴きました",
-    "url": "https://open.spotify.com/track/2JucaBX2RoahRN2sCfmUHQ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T09:07:09.783Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Nevertheless」を聴きました",
-    "url": "https://open.spotify.com/track/5lFmtaUwTXRbASgT61IBDJ"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T09:05:12.967Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Red Heat Coronia」を聴きました",
-    "url": "https://open.spotify.com/track/3YbhCDI9bRLCbM1MUo5lB4"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T09:00:19.054Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Fly Over The Wind」を聴きました",
-    "url": "https://open.spotify.com/track/1J9lxNwB9emLkIhKu2fvef"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T08:59:52.277Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「For The Time We've Spent」を聴きました",
-    "url": "https://open.spotify.com/track/113ktrbNRs5kqQu0V69aFQ"
   },
   {
     "platform": "Pinterest",
