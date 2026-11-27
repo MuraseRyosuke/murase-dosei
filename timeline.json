@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-11-26T21:38:23.189Z",
+    "content": "Fujifabric の「バウムクーヘン」を聴きました",
+    "url": "https://open.spotify.com/track/3BfgO75Nir1czGl87CP2tI"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-11-26T08:40:59.552Z",
     "content": "Fujifabric の「Merry-Go-Round」を聴きました",
     "url": "https://open.spotify.com/track/67r0hWWEJnZxOzCI9b9wDu"
@@ -58,12 +64,6 @@
     "timestamp": "2026-11-24T09:34:43.152Z",
     "content": "風のクロノアシリーズ サウンドチーム の「No Jokes Around」を聴きました",
     "url": "https://open.spotify.com/track/6LjAnN22QHAKPBfKSMmcuM"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-24T09:13:04.828Z",
-    "content": "風のクロノアシリーズ サウンドチーム の「Out Of Time」を聴きました",
-    "url": "https://open.spotify.com/track/4DbyYy2MFCiI2AtSbib2AV"
   },
   {
     "platform": "Pinterest",
