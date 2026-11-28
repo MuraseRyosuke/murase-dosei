@@ -1,6 +1,12 @@
 [
   {
     "platform": "Spotify",
+    "timestamp": "2026-11-27T21:47:33.094Z",
+    "content": "QUBIT の「Beautiful Days」を聴きました",
+    "url": "https://open.spotify.com/track/7iSGf8qaB5WI5RFBAi9LNP"
+  },
+  {
+    "platform": "Spotify",
     "timestamp": "2026-11-27T21:43:54.837Z",
     "content": "QUBIT の「Fast Life - Album mix」を聴きました",
     "url": "https://open.spotify.com/track/3xYPHVpYLnImf6JvAafd8S"
@@ -52,12 +58,6 @@
     "timestamp": "2026-11-27T20:40:11.463Z",
     "content": "Cornelius の「Audio Architecture」を聴きました",
     "url": "https://open.spotify.com/track/7Hz2Js07EWRc0Gv4a0rPRe"
-  },
-  {
-    "platform": "Spotify",
-    "timestamp": "2026-11-27T20:35:16.427Z",
-    "content": "Cornelius の「Audio Check Music」を聴きました",
-    "url": "https://open.spotify.com/track/23O0AIJgFI1f471IpQ6BQW"
   },
   {
     "platform": "Steam",
